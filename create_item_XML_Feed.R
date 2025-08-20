@@ -3,7 +3,7 @@ picture_path <- paste0(INPUT_PATH_PICTURES,picture_name)
 picture_encoded <- base64enc::base64encode(picture_path)
 file_tag <- paste0('<news_image><img src="data:image/jpg;base64,', picture_encoded, '"/></news_image>')
 
-###CREATE ITEM FOR RSS FEED
+###CREATE ITEM FOR XML FEED
 item <- paste0("<item>\n",
                "<guid>",ID,"</guid>\n",
                "<pubDate>",datetime,"</pubDate>\n",

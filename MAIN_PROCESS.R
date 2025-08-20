@@ -18,7 +18,7 @@ INPUT_PATH_XML <- "C:/Users/simon/OneDrive/AWP_Automatisierung/investora_feed/Te
 #INPUT_PATH_XML <- "C:/Dataserver/redsys/topnews/"
 INPUT_PATH_PICTURES <- "C:/_Picture_Input/"
 OUTPUT_PATH_XML <- "./_processed/"
-OUTPUT_PATH_ITEMS <- "./Items_RSS_Feed/"
+OUTPUT_PATH_ITEMS <- "./Items_XML_Feed/"
 OUTPUT_PATH_FEED <- "./_output/"
 
 #Get Company Data
@@ -55,15 +55,15 @@ repeat{
     ###Select suited picture###
     source("select_picture.R")
     
-    ###Create new item for RSS Feed with picture data##
-    source("create_item_RSS_Feed.R")
+    ###Create new item for XML Feed with picture data##
+    source("create_item_XML_Feed.R")
     
     ###File löschen###
     file.copy(paste0(INPUT_PATH_XML,files[1]),paste0(OUTPUT_PATH_XML,files[1])) 
     file.remove(paste0(INPUT_PATH_XML,files[1]))  
     
-    ###Update RSS-Feed###
-    source("create_RSS_Feed.R")
+    ###Update XML-Feed###
+    source("create_XML_Feed.R")
     
   } else {
     print("No new news found")  
