@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1735</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240918</DateId>
+			<NewsItemId>1735</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240918:1735:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240918T171706+0200</FirstCreated>
+		<ThisRevisionCreated>20240918T171706+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: Aryzta definiert im kommenden Frühling neue Ziele</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04013002"/><Subject FormalName="04016048"/><Subject FormalName="04016033"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2104331006">
+<Property FormalName="FullName" Value="Aryzta AG" />
+
+<Property FormalName="ShortName" Value="Aryzta" />
+
+<Property FormalName="Telekurs" Value="436098" />
+
+<Property FormalName="CHNr" Value="CH-020.3.032.251-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1425684714" />
+
+<Property FormalName="Ticker" Value="ARYN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0043238366" />
+
+<Property FormalName="Ticker" Value="ARYN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PLO"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Tiefkühlbackwarenherstellers Aryzta wird sich im Mai nächsten Jahres neue Ziele geben. Dies sagte Verwaltungsratspräsident und CEO Urs Jordi an der Anlegerkonferenz Investora, nachdem er darauf hingewiesen hatte, dass bei den Halbjahreszahlen lediglich eines der derzeit gültigen Ziele noch nicht erreicht worden sei.</p>
+<p/><p>Noch nicht am Ziel ist Aryzta in Bezug auf die EBITDA-Marge. Aber auch diese lag in der ersten Jahreshälfte mit 14,2 Prozent nur noch 0,3 Prozentpunkte unter dem angestrebten Wert.</p>
+<p/><p>Nächsten Frühling wird zudem wie bereits bekannt Jordi seine Rolle als Unternehmenschef abgegeben haben. Anfang 2025 wird neu Michael Schai, der von Lindt&amp;Sprüngli kommt, Konzernchef von Aryzta.</p>
+<p/><p>Der weitere Weg von Aryzta in naher Zukunft ist bereits vorgespurt: "Wir investieren ganz gezielt in künftige Umsätze", sagte Jordi am Mittwoch. Konkret wird viel Kapital in neue Produktionslinien gesteckt.</p>
+<p/><p>So ist dieses Jahr in Malaysia eine neue Produktionslinie für Kleingebäck in Betrieb genommen worden. Nächstes Jahr folgt eine ähnliche Eröffnung in der Schweiz. Zudem soll 2025 in Deutschland die Produktion auf einer neuen Linie für Sauerteigprodukte beginnen und in Australien jene in einer Fabrik für Hamburger-Brötchen.</p>
+<p/><p>Jede der neuen Produktionslinien koste ohne Gebäude zwischen 20 und 25 Millionen Euro und biete ein Potential für jährlich 25 bis 30 Millionen Mehrumsatz, so Jordi.</p>
+<p/><p>Aryzta stellt Tiefkühlbackwaren für den Detailhandel, Bäckereien und die Gastronomie her. Der 2008 aus der Fusion von Hiestand und der irischen IAWS hervorgegangene Konzern ist hauptsächlich in Europa, Asien, Australien und Neuseeland tätig und zählt weltweit rund 7800 Mitarbeitende. 2023 erzielte Aryzta einen Umsatz von knapp 2,2 Milliarden Euro.</p>
+<p/><p>jr/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

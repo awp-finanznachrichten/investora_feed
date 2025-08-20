@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1826</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240918</DateId>
+			<NewsItemId>1826</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240918:1826:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240918T175339+0200</FirstCreated>
+		<ThisRevisionCreated>20240918T175339+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: StarragTornos sieht sich trotz Gegenwind gut aufgestellt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04016048"/><Subject FormalName="04016005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9404" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191550">
+<Property FormalName="FullName" Value="StarragTornos Group AG" />
+
+<Property FormalName="ShortName" Value="StarragTornos" />
+
+<Property FormalName="Telekurs" Value="82304" />
+
+<Property FormalName="CHNr" Value="CH-320.3.002.221-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002361068" />
+
+<Property FormalName="Ticker" Value="STGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Werkzeugmaschinenbauer StarragTornos navigiert derzeit in einem schwierigen Marktumfeld. Trotz schwindenden Umsätzen sieht sich der Konzern aber gut positioniert, wie CEO Martin Buyle am Mittwoch anlässlich der Anlegerkonferenz Investora in Zürich sagte.</p>
+<p/><p>Die seit Dezember 2023 fusionierte StarragTornos Gruppe hat im ersten Semester 2024 einen Reingewinn von 6,6 Millionen Franken erzielt, gut zwei Drittel weniger als im Vorhalbjahr. Vor allem die Bereiche Luxusgüter und Transport entwickelten sich schwach.</p>
+<p/><p>Als Herausforderung benennt der StarragTornos-Chef vor allem die Konkurrenz aus Asien, speziell aus Japan. Dort sei man in der Lage viel höhere Volumen zu verkaufen und dies in "robuster" Qualität. Zudem werde der Preiskampf immer noch "aggressiv" geführt.</p>
+<p/><p>Trotzdem will der CEO die Flinte längst nicht ins Korn werfen, im Gegenteil: "Neben den Synergieeffekten durch den Zusammenschluss sind wir überzeugt, dass vor allem unsere Spezialisierung auf spezifische Märkte mit hohen Margen und die hohe Anpassungsfähigkeit unserer Maschinen Vorteile bringen."</p>
+<p/><p>Das Unternehmen StarragTornos ist Ende 2023 durch die Fusion von Starrag und Tornos entstanden. Das Unternehmen ist in der Werkzeugmaschinenindustrie tätig und entwickelt, produziert und vertreibt Präzisionswerkzeugmaschinen zum Fräsen, Drehen, Bohren, Schleifen und zur Komplettbearbeitung von Werkstücken aus Metall, Verbundwerkstoffen und Keramik.</p>
+<p/><p>sta/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>993</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240919</DateId>
+			<NewsItemId>993</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240919:993:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240919T103829+0200</FirstCreated>
+		<ThisRevisionCreated>20240919T103829+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: Plazza plant weitere Wachstumsschritte in Crissier und Regensdorf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004003"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8055" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2053805389">
+<Property FormalName="FullName" Value="Plazza AG" />
+
+<Property FormalName="ShortName" Value="Plazza" />
+
+<Property FormalName="Telekurs" Value="690873" />
+
+<Property FormalName="CHNr" Value="CH-020.3.041.787-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284142913" />
+
+<Property FormalName="Ticker" Value="PLAN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284143929" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Immobilienunternehmen Plazza hat im ersten Halbjahr erste Einnahmen aus dem neuen Wohnbauprojekt in Crissier erwirtschaftet. Künftiges Wachstum soll weiter aus diesem Projekt, aber auch aus dem Projekt in Regensdorf kommen.</p>
+<p/><p>"2024 ist für uns ein besonderes Jahr", sagte CEO und CFO Thomas Casata am Donnerstag an der Anlegerkonferenz Investora. Er spricht damit den Neubau in Crissier bei Lausanne mit über 400 Wohnungen an, der in einer ersten Etappe den Betrieb aufgenommen hat. Nun läuft die zweite Etappe an.</p>
+<p/><p>Die Wohnliegenschaft hat denn auch einen ersten Beitrag zu den Erträgen und Gewinnen im ersten Halbjahr geleistet. Insgesamt steigerte die Immobilienfirma den EBIT vor Abschreibungen und Neubewertungen um 8 Prozent auf 11,3 Millionen Franken. Der Reingewinn lag dank wieder gestiegener Neubewertungen mit 20,5 Millionen mehr als doppelt so hoch.</p>
+<p/><p>An der bisherigen Dividendenpolitik des Unternehmens soll laut der Plazza-Chef festgehalten werden. Demnach werden mindestens 70 Prozent und bis zu 90 Prozent des Jahresergebnisses an die Aktionäre ausgeschüttet.</p>
+<p/><p>Das Portfolio von Plazza besteht überwiegend aus Wohnliegenschaften im Wirtschaftsraum Zürich sowie aus Geschäftsliegenschaften. Knapp 80 Prozent der Mieterträge stammen aus dem Wirtschaftsraum Zürich. Neben der Bewirtschaftung der eigenen Immobilien erbringt die Gesellschaft auch Dienstleistungen für Dritte.</p>
+<p/><p>jl/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

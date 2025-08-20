@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>782</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240918</DateId>
+			<NewsItemId>782</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240918:782:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240918T094647+0200</FirstCreated>
+		<ThisRevisionCreated>20240918T094647+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: Cembra Money Bank will Investoren mit guter Dividende erfreuen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8048 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2062655806">
+<Property FormalName="FullName" Value="Cembra Money Bank AG" />
+
+<Property FormalName="ShortName" Value="Cembra" />
+
+<Property FormalName="Telekurs" Value="22283" />
+
+<Property FormalName="CHNr" Value="CH-020.3.034.603-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0225173167" />
+
+<Property FormalName="Ticker" Value="CMBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990056" />
+
+<Property FormalName="Ticker" Value="CMB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041352" />
+
+<Property FormalName="Ticker" Value="CMB193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041659" />
+
+<Property FormalName="Ticker" Value="CMB194" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042475" />
+
+<Property FormalName="Ticker" Value="CMB18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0486598227" />
+
+<Property FormalName="Ticker" Value="CMB19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1141700414" />
+
+<Property FormalName="Ticker" Value="CMB21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189217735" />
+
+<Property FormalName="Ticker" Value="CMB22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367554" />
+
+<Property FormalName="Ticker" Value="CMB221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1243651903" />
+
+<Property FormalName="Ticker" Value="CMB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1266847131" />
+
+<Property FormalName="Ticker" Value="CMB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222400" />
+
+<Property FormalName="Ticker" Value="CMB231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1314941472" />
+
+<Property FormalName="Ticker" Value="CMB241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="R"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="NEW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Konsumkreditbank Cembra Money Bank will ihre Aktionärinnen und Aktionäre auch künftig mit einer guten Dividende bei Laune halten. Für das laufende Jahr 2024 stellt CEO Holger Laubenthal am Mittwoch an der Schweizer Aktienkonferenz Investora eine Ausschüttung von mindestens 4 Franken und damit mindestens gleich viel wie im Vorjahr in Aussicht.</p>
+<p/><p>Seit dem IPO im Jahr 2013 hat das Institut im Durchschnitt 69 Prozent des Gewinns an die Eigentümerinnen und Eigentümer ausbezahlt, was sich über die Jahre auf insgesamt 1,2 Milliarden Franken summiert.</p>
+<p/><p>Und auch der Ausblick auf das Gesamtjahr wurde vom CEO erneut bestätigt. So rechnet er für 2024 weiterhin mit einem Plus beim Nettoertrag, das über dem Wachstum des Schweizer BIP liegt. Für das Kosten/Ertrags-Verhältnis peilt er einen Wert unter 49 Prozent an. Als Folge davon stellt das Management einen steigenden Reingewinn und eine Eigenkapitalrendite von 13 bis 14 Prozent im Gesamtjahr in Aussicht. Die Verlustquote wird 2024 bei rund 1 Prozent erwartet.</p>
+<p/><p>Weiter ansteigen soll im zweiten Halbjahr die Nettozinsmarge. Diese für Cembra zentrale Grösse lag in den ersten sechs Monaten bei 5,3 Prozent. In der mittleren Frist will Cembra hier wieder auf das Niveau von 2022 kommen, als man 5,5 Prozent erreicht hatte. Ob das bereits 2025 der Fall sein wird, liess Laubenthal noch offen.</p>
+<p/><p>Der Cembra-CEO will grundsätzlich in allen Geschäftsfeldern wachsen. Dabei gelte es aber die Margen, Preise und Risiken im Blick zu halten. "Wir wollen keine Marktanteile kaufen", machte Laubenthal klar.</p>
+<p/><p>Als eines der wesentlichen Risiken für sein Geschäftsmodell ortet der Cembra-Chef eine steigende Arbeitslosigkeit in der Schweiz.</p>
+<p/><p>Die Cembra Money Bank bietet ihren über 2 Millionen Kundinnen und Kunden in der Schweiz Finanzierungs- und Zahlungslösungen. Das Institut mit Hauptsitz in Zürich ist in der gesamten Schweiz tätig und beschäftigt mehr als 900 Mitarbeitende.</p>
+<p/><p>gab/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

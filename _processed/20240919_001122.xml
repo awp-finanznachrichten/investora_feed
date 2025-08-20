@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1122</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240919</DateId>
+			<NewsItemId>1122</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240919:1122:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240919T114933+0200</FirstCreated>
+		<ThisRevisionCreated>20240919T114933+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: Aevis Victoria will in Zukunft investieren</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006005"/><Subject FormalName="04016005"/><Subject FormalName="04016030"/><Subject FormalName="04016047"/><Subject FormalName="04016019"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191956">
+<Property FormalName="FullName" Value="Aevis Victoria SA" />
+
+<Property FormalName="ShortName" Value="Aevis" />
+
+<Property FormalName="Telekurs" Value="38231" />
+
+<Property FormalName="CHNr" Value="CH-550.0.166.624-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012488190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0478634105" />
+
+<Property FormalName="Ticker" Value="AEVS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="PAN"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Klinik- und Hotelbetreiber Aevis Victoria ist im ersten Halbjahr in die schwarzen Zahlen zurückgekehrt. Die künftige Strategie sieht eine weitere Verbesserung der Ergebnisse vor. Vor allem will das Unternehmen auch in die Zukunft investieren.</p>
+<p/><p>"Besonders wichtig für uns war die Beschleunigung beim organischen Wachstum", kommentiert Finanzchef Michel Keusch am Donnerstag an der Anlegerkonferenz Investora die Halbjahreszahlen. Zudem sei es gelungen, im Gesundheitsbereich dank im letzten Jahr eingeleiteter Kostenmassnahmen die Margen zu verbessern. In der zweiten Jahreshälfte und im kommenden Jahr sollen sich die Massnahmen dem CFO zufolge noch stärker positiv auswirken.</p>
+<p/><p>Das Hotelgeschäft habe derweil zwar unter schlechten Wetterbedingungen gelitten, so der CFO weiter. Dank höherer Durchschnittspreise ist es dennoch gelungen, zu wachsen und die Profitabilität zu steigern.</p>
+<p/><p>Gerade im Spitalbereich will das Unternehmen aber auch weiter investieren, wie CEO Fabrice Zumbrunnen anfügt. So will Aevis Victoria im Bereich "Integrierte Versorgung" weiter Fortschritte machen.</p>
+<p/><p>Dabei gehe es darum, Ärzte, Behörden, Apotheken, Altersheime und Spitäler zu vernetzen, so der CEO. "Dadurch können wir die Patientenversorgung verbessern."</p>
+<p/><p>Als weiteren wichtigen Investitionsbereich nennt der Gruppen-Chef "Anti-Aging". So soll gerade in Hotels und Spas im Rahmen einer "holistischen Herangehensweise" die medizinische Versorgung erweitert werden. Nicht zuletzt gehe es hier auch darum, Synergien innerhalb der Gruppe zu nutzen.</p>
+<p/><p>Auch den Kauf neuer Hotels will das Management nicht ausschliessen. Allerdings werde man keine "fixfertigen" Projekte kaufen, sagte Antoine Hubert, Delegierter des Verwaltungsrats. Die Spezialität des Unternehmens sei es, Projekte zu erwerben und diese aufzuwerten, und da halte man die Augen immer offen.</p>
+<p/><p>Aevis Victoria ist eine Beteiligungsgesellschaft, die in Spitäler und Luxushotels investiert ist. Zum Unternehmen gehören die Privatklinikgruppe Swiss Medical Network sowie die Hotelkette MRH Switzerland. Eine Minderheitsbeteiligung hat Aevis Victoria zudem an der auf Spital- und Gesundheitsinfrastruktur ausgerichteten Infracore SA.</p>
+<p/><p>jl/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

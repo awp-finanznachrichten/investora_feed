@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1594</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240919</DateId>
+			<NewsItemId>1594</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240919:1594:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240919T144444+0200</FirstCreated>
+		<ThisRevisionCreated>20240919T144444+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: Orell Füssli will Sprung zu digitalen Anwendungen schaffen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04010000"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8036" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191838">
+<Property FormalName="FullName" Value="Orell Füssli AG" />
+
+<Property FormalName="ShortName" Value="Orell Füssli" />
+
+<Property FormalName="Telekurs" Value="37351" />
+
+<Property FormalName="CHNr" Value="CH-020.3.919.326-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0003420806" />
+
+<Property FormalName="Ticker" Value="OFN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Industrie- und Handelsgruppe Orell Füssli sieht sich in einer Phase der Transformation. "Wir befinden uns im Übergang von einer rein analogen Welt zu Digitalisierung und hybriden Anwendungen", sagte CEO Daniel Link am Donnerstag an der Anlegerkonferenz Investora.</p>
+<p/><p>Das Unternehmen, das mit seiner über 500-jährigen Geschichte zu den ältesten der Schweiz gehört, setzt in allen Geschäftsbereichen auf digitale Anwendungen. "Wer an die Digitalisierung glaubt, für den könnte Orell Füssli sowohl als Investor als auch als Kunde eine Idee sein", betonte Link.</p>
+<p/><p>Einerseits würden weiterhin Banknoten gedruckt und der weltweite Banknotenumlauf steige. Gleichzeitig will Orell Füssli aber auch die digitalen "Wallets" ausbauen.</p>
+<p/><p>Ähnlich sieht es im zweiten Bereich, der Sicherheit, aus: So sollen Pässe und Ausweise sowohl analog als auch digital ausgestellt werden. "In Europa und in der Schweiz entsteht ein ganzes Ökosystem rund um E-IDs", sagte Link.</p>
+<p/><p>Der Trend zur Digitalisierung zeige sich auch in der Bildung: "Heute wird hybrid gelernt", so der CEO. Die Gruppe bietet deshalb Lehrmittel in allen möglichen Formen an. Dazu gehören klassische Bücher ebenso wie neue didaktische Formate, zum Beispiel Lernvideos.</p>
+<p/><p>Schliesslich sei man auch im konsolidierten Buchmarkt gut aufgestellt, um weitere Marktanteile zu gewinnen. "Wir wollen neue Marken und Marktzugänge gewinnen", sagte Link. Die finanzielle Stärke dafür habe die Gruppe, gab er sich überzeugt. Und andere machten Platz, so sei schliesslich erst kürzlich ein Mitbewerber in die Insolvenz gegangen, sagte er wohl in Anspielung auf das Aus von Weltbild.</p>
+<p/><p>Orell Füssli ist eine Industrie- und Handelsgruppe und beschäftigt aktuell rund 850 Mitarbeitende. Die Kerngeschäfte umfassen Banknoten- &amp; Sicherheitsdruck, Industriesysteme zur Individualisierung von Wertdokumenten und Markenprodukten sowie den Buchhandel.</p>
+<p/><p>ls/tv</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

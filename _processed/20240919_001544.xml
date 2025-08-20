@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1544</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240919</DateId>
+			<NewsItemId>1544</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240919:1544:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240919T143050+0200</FirstCreated>
+		<ThisRevisionCreated>20240919T143050+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: Georg Fischer will Verschuldung nach Uponor-Kauf zügig abbauen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8201" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197424">
+<Property FormalName="FullName" Value="Georg Fischer AG" />
+
+<Property FormalName="ShortName" Value="Georg Fischer" />
+
+<Property FormalName="Telekurs" Value="106709" />
+
+<Property FormalName="CHNr" Value="CH-290.3.002.296-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1169151003" />
+
+<Property FormalName="Ticker" Value="GF" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0373476636" />
+
+<Property FormalName="Ticker" Value="FI18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536893230" />
+
+<Property FormalName="Ticker" Value="FI20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319415961" />
+
+<Property FormalName="Ticker" Value="FI16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1396329802" />
+
+<Property FormalName="Ticker" Value="GFI24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1396329810" />
+
+<Property FormalName="Ticker" Value="GFI25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1377955609" />
+
+<Property FormalName="Ticker" Value="GFI251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1377955617" />
+
+<Property FormalName="Ticker" Value="GFI252" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Mit der Übernahme der schwedischen Uponor sind die Schulden von Georg Fischer deutlich gestiegen. Die Netto-Verschuldung soll die nächsten Jahre schnell reduziert werden.</p>
+<p/><p>Per Ende Jahr 2023 lag das Verhältnis von Nettoschulden zum EBITDA bei Georg Fischer bei einem Wert von knapp 3, nachdem die Jahre zuvor die Nettocashposition noch positiv war. Die nächsten Jahre will das Unternehmen die Verschuldung wieder deutlich reduzieren, sagte Nadine Gruber, Head Investor Relations, am Donnerstag an der Anlegerkonferenz Investora.</p>
+<p/><p>Zur Reduktion der Schulden soll vor allem der operative Free Cashflow (FCF) verwendet werden. In diesem Jahr soll der FCF auf 200 bis 250 Millionen Franken gesteigert werden, nach 134 im Vorjahr.</p>
+<p/><p>Konkret soll das das Verhältnis von Nettoschulden zum EBITDA 2024 deutlich unter 3 zu liegen kommen. In 2026 wird ein Wert unter 2,5 angestrebt und langfristig wolle man bis 2030 wieder in Richtung 1 gehen, sagte Gruber weiter.</p>
+<p/><p>Der Industriekonzern Georg Fischer (GF) umfasst vier Kerngeschäfte. Die Sparte GF Piping Systems stellt Rohrleitungssysteme aus Kunststoff und Metall her. GF Building Flow Solution, das grösstenteils aus der ehemaligen Uponor besteht, bietet Lösungen für den Transport von Wasser in Städten, Gebäuden und Wohnungen an. GF Casting Solutions fokussiert auf die Herstellung von Leichtmetall-Komponenten. GF Machining Solutions bietet Maschinen und Systemlösungen an, mit denen Formen, Werkzeuge und Teile hergestellt werden.</p>
+<p/><p>cg/tv</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

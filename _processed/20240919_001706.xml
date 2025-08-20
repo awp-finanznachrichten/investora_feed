@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1706</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240919</DateId>
+			<NewsItemId>1706</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240919:1706:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240919T153230+0200</FirstCreated>
+		<ThisRevisionCreated>20240919T153230+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: R&amp;S Group will Marktposition weiter stärken</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04005000"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8808" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2014459831">
+<Property FormalName="FullName" Value="R&amp;S Group Holding AG" />
+
+<Property FormalName="ShortName" Value="R&amp;S" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-130.3.029.284-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1107979838" />
+
+<Property FormalName="Ticker" Value="RSGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Transformatorenhersteller R&amp;S Group setzt in erster Linie auf weiteres organisches Wachstum. Sollten sich attraktive Gelegenheiten ergeben, seien aber auch Akquisitionen möglich.</p>
+<p/><p>Ein Beispiel für einen passenden Deal sei der Kauf des irischen Herstellers von Verteilertransformatorlösungen Kyte Powertech im August gewesen. "Kyte befindet sich in einem Sweet Spot", sagte R&amp;S-Firmenchef Markus Laesser am Donnerstag anlässlich der Anlegerkonferenz Investora.</p>
+<p/><p>So habe R&amp;S durch die Übernahme nicht nur neue Märkte erschlossen, sondern auch seine Technologiebasis verbreitert. Die Überschneidungen in den Märkten seien sehr gering, so Laesser weiter. In Irland und Großbritannien sei Kyte Marktführer. Zudem ermögliche Kyte den Eintritt in die Märkte Niederlande, Belgien und Frankreich, in denen R&amp;S bisher kaum vertreten war.</p>
+<p/><p>Längerfristig öffne sich mit dem Kauf von Kyte auch der US-Markt. "Sollten wir uns entscheiden, in die USA zu gehen, wären wir mit der Technologie und dem Produkt bereit", so Laesser weiter. Derzeit sei eine Expansion in die USA aber kein Thema.</p>
+<p/><h3>Baltische Staaten als Schlüsselmarkt</h3>
+<p/><p>"Der kommende Montag wird ein ganz wichtiger Tag für uns", betonte Laesser weiter. Dann findet der finale Werkstest für die Erweiterung des neuen Werks in Polen statt, bevor dort die Produktion aufgenommen wird.</p>
+<p/><p>Mit dem erweiterten Transformatorenwerk dort will das Unternehmen vor allem die baltischen Staaten sowie Norwegen, Schweden und Deutschland bedienen. Insbesondere der baltische Markt sei sehr attraktiv und werde einer der Schlüsselmärkte der Zukunft sein. So seien dort gerade zwei neue Kernkraftwerke in Betrieb gegangen. Zudem entstünden in der Region derzeit zahlreiche Rechenzentren, die einen grossen Bedarf an Transformatoren hätten.</p>
+<p/><p>Die Baselbieter R&amp;S Gruppe ist eine Anbieterin von elektrischen Infrastrukturkomponenten in der Schweiz und auf internationalen Märkten. Sie verfügt über sechs Produktionsstätten in der Schweiz, in Italien, Polen und im Nahen Osten und beliefert sowohl den heimischen als auch verschiedene europäische Exportmärkte mit kleinen und mittleren Leistungs- und Verteilungstransformatoren und anderen Komponenten für die Bereiche Energieversorgung, Infrastruktur und Industrie. Das Unternehmen kam im Dezember 2023 über den Zusammenschluss mit der Spac-Gesellschaft VT5 an die Schweizer Börse.</p>
+<p/><p>cg/kw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

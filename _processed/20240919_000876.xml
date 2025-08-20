@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>876</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240919</DateId>
+			<NewsItemId>876</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240919:876:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240919T094732+0200</FirstCreated>
+		<ThisRevisionCreated>20240919T094732+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: Arbonia hält an bestehenden Produktionskapazitäten fest</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004000"/><Subject FormalName="04016005"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9320" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197264">
+<Property FormalName="FullName" Value="Arbonia AG" />
+
+<Property FormalName="ShortName" Value="Arbonia" />
+
+<Property FormalName="Telekurs" Value="143211" />
+
+<Property FormalName="CHNr" Value="CH-440.3.001.717-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0110240600" />
+
+<Property FormalName="Ticker" Value="ARBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der künftig ausschliesslich auf Türen fokussierte Bauzulieferer Arbonia hält an seinen derzeit vier grossen Türenfabriken fest. Ziel ist es, die Reservekapazitäten in zusätzlichen Umsatz umzuwandeln.</p>
+<p/><p>Wie Claudius Moor, der CEO des Arbonia-Türengeschäfts, am Donnerstag an der Investora ausführte, beträgt die Produktionskapazität für Standardtüren aktuell rund 4 Millionen Stück pro Jahr. Diese verteilt sich auf zwei Fabriken in Deutschland, eine in Polen und eine in Spanien.</p>
+<p/><p>Im Vergleich zum aktuellen Absatz bedeute dies eine Reservekapazität von 1,3 Millionen Türen. "Wir wollen diese Kapazitäten ausfüllen", erklärte Moor vor den anwesenden Investorinnen und Investoren. "Standortschliessungen haben wir keine geplant."</p>
+<p/><p>Arbonia, welches in der ersten Jahreshälfte dieses Jahres knapp 280 Millionen Franken Umsatz erzielte, will bis im Jahr 2030 auf einen Jahresumsatz von 1 Milliarde Franken kommen. Ein Teil des Wachstums wird dabei gemäss Moor auch durch Akquisitionen erzielt werden müssen.</p>
+<p/><p>Erst im Mai hat Arbonia angekündigt, den spanischen Innentürenhersteller Dimoldura sowie den tschechischen Spezialtürenhersteller Lignis zu kaufen. Diese Übernahmen eingeschlossen hätte der Halbjahresumsatz rund 315 Millionen Franken betragen.</p>
+<p/><p>Mit der Expansion will Arbonia namentlich die Abhängigkeit vom deutschen Markt reduzieren, wie Moor erläuterte. Aktuell stammt knapp die Hälfte des Umsatzes aus Deutschland, was für Arbonia insbesondere dann ein Problem ist, wenn dort die Baukonjunktur schwach ist.</p>
+<p/><p>Aktuell ist dies der Fall, weshalb Arbonia fürs laufende Jahr von einem stagnierenden Umsatz ausgeht, obwohl sich der Absatz in Osteuropa und auf der iberischen Halbinsel positiv entwickelt.</p>
+<p/><p>Arbonia bestand einst aus verschiedenen Divisionen bestehender Bauzulieferkonzerne. Nach dem Verkauf des Geschäfts mit Heizungen, Wärmepumpen und Lüftungen, der im Herbst dieses Jahr abgeschlossen sein dürfte, fokussiert das 2016 aus dem Zusammenschluss von AFG und Looser entstandene Unternehmen ausschliesslich auf die Produktion und den Verkauf von Innentüren.</p>
+<p/><p>jr/tv</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

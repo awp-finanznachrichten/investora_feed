@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250814T000000+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1559</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20240918</DateId>
+			<NewsItemId>1559</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20240918:1559:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20240918T153722+0200</FirstCreated>
+		<ThisRevisionCreated>20240918T153722+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 24: Phoenix-Mecano-CEO sieht Ziele nur auf den ersten Blick erreicht</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8260" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196816">
+<Property FormalName="FullName" Value="Phoenix Mecano AG" />
+
+<Property FormalName="ShortName" Value="Phoenix Mecano" />
+
+<Property FormalName="Telekurs" Value="218766" />
+
+<Property FormalName="CHNr" Value="CH-290.3.003.640-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1261338102" />
+
+<Property FormalName="Ticker" Value="PMN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Phoenix-Mecano-Chef Rochus Kobler sieht sein Unternehmen bei der strategischen Ausrichtung auf Kurs. Dies zumindest war seine Hauptbotschaft, die er am Mittwoch an der Anlegerkonferenz Investora mitgab.</p>
+<p/><p>Kobler verwendete einen grossen Teil seiner Präsentation darauf, die Schlüsselfaktoren des Geschäftsmodells von Phoenix Mecano zu erklären. Dieses basiert hauptsächlich darauf, bei den standardisierten Komponenten die Grössenvorteile konsequent zu nutzen und im Gegenzug bei massgeschneiderten Produkten einerseits gute Margen zu erzielen und anderseits nahe beim Kunden zu sein, um Innovationen zu entwickeln.</p>
+<p/><p>Bezüglich der 2022 gesetzten Mittelfristziele sei man auf Konzernebene auf den ersten Blick zwar gut unterwegs, sagte Kobler. Bei einem genaueren Blick auf einzelne Bereiche sehe man aber, dass die Gesellschaft noch nicht alle Ziele erreicht habt. So seien die Wachstumsraten im Bereich "Smart Furniture" momentan nicht so hoch wie angestrebt. Und auch bei gewissen Teilen der Industrieaktivitäten erreiche Phoenix Mecano margenmässig die gesetzten Ziele noch nicht.</p>
+<p/><p>Für das laufende Jahr bekräftigte Kobler an der Investora den Ausblick, der bereits bei der Präsentation der Halbjahreszahlen Mitte August kommuniziert wurde. Das heisst: 2024 dürfte der Betriebsgewinn EBIT im besten Fall auf Höhe des Vorjahres ausfallen und im schlechtesten Fall 20 Prozent tiefer. Man sehe zwar eine konjunkturelle Aufhellung, diese setze aber zu spät ein, um die negative Entwicklung der ersten Jahreshälfte vollständig zu kompensieren.</p>
+<p/><p>Phoenix Mecano ist ein Spezialist für Gehäusetechnik und industrielle Komponenten. Wichtige Einsatzgebiete der Produkte sind der Maschinen- und Anlagenbau, die Mess- und Regeltechnik und die Medizintechnik. Besonders stark ist das Unternehmen zudem im Bereich "Smart Furniture", sprich automatisch verstellbare Stühle und Betten.</p>
+<p/><p>jr/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
