@@ -18,8 +18,8 @@ INPUT_PATH_XML <- "C:/Users/simon/OneDrive/AWP_Automatisierung/investora_feed/Te
 #INPUT_PATH_XML <- "C:/Dataserver/redsys/topnews/"
 INPUT_PATH_PICTURES <- "C:/_Picture_Input/"
 OUTPUT_PATH_XML <- "./_processed/"
-OUTPUT_PATH_ITEMS <- "./Items_XML_Feed/"
-OUTPUT_PATH_FEED <- "./_output/"
+OUTPUT_PATH_NEWS <- "./XML_News/"
+OUTPUT_PATH_FEED <- "./XML_Feed/"
 
 #Get Company Data
 mydb <- retry(connectDB(db_name="masterdata"),sleep=5)
@@ -56,14 +56,14 @@ repeat{
     source("select_picture.R")
     
     ###Create new item for XML Feed with picture data##
-    source("create_item_XML_Feed.R")
+    source("create_XML_news.R")
     
     ###File löschen###
     file.copy(paste0(INPUT_PATH_XML,files[1]),paste0(OUTPUT_PATH_XML,files[1])) 
     file.remove(paste0(INPUT_PATH_XML,files[1]))  
     
     ###Update XML-Feed###
-    source("create_XML_Feed.R")
+    source("create_XML_feed.R")
     
   } else {
     print("No new news found")  
