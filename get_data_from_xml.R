@@ -24,6 +24,8 @@ if (length(company_id) == 0) {
 titel <- xpathSApply(xml_file,"//NewsComponent//HeadLine",xmlValue, encoding="UTF-8")
 titel <- str_replace_all(titel,"'","\\\\'")
 titel <- trimws(str_replace_all(titel,"[***]",""))
+titel <- str_replace_all(titel,"Investora 25: ","")
+titel <- str_replace_all(titel,"Investora: ","")
 
 titel <- str_replace_all(titel,"&", "&amp;")
 titel <- str_replace_all(titel,"<", "&lt;")

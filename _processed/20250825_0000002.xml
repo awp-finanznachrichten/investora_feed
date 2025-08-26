@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250825T204712+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250825</DateId>
+			<NewsItemId>2505</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250825:2505:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250825T204711+0200</FirstCreated>
+		<ThisRevisionCreated>20250825T204711+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Roche legt Grundstein für neue Anlage in North Carolina</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016033"/><Subject FormalName="04016030"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196451">
+<Property FormalName="FullName" Value="Roche Holding AG" />
+
+<Property FormalName="ShortName" Value="Roche" />
+
+<Property FormalName="Telekurs" Value="416111" />
+
+<Property FormalName="CHNr" Value="CH-270.3.005.159-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012032113" />
+
+<Property FormalName="Ticker" Value="RO" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012032048" />
+
+<Property FormalName="Ticker" Value="ROG" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2592088236" />
+
+<Property FormalName="Ticker" Value="EU4124" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2592088400" />
+
+<Property FormalName="Ticker" Value="EU4123" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2726331932" />
+
+<Property FormalName="Ticker" Value="EU4125" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2726335099" />
+
+<Property FormalName="Ticker" Value="EU4126" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2813211294" />
+
+<Property FormalName="Ticker" Value="EU0524" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2813211617" />
+
+<Property FormalName="Ticker" Value="EU0424" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USU75000BJ45" />
+
+<Property FormalName="Ticker" Value="US1836" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0359915409" />
+
+<Property FormalName="Ticker" Value="ROK125" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0433761308" />
+
+<Property FormalName="Ticker" Value="ROK126" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0433761316" />
+
+<Property FormalName="Ticker" Value="ROK127" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1166151899" />
+
+<Property FormalName="Ticker" Value="ROK221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1166151907" />
+
+<Property FormalName="Ticker" Value="ROK222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1166151915" />
+
+<Property FormalName="Ticker" Value="ROK223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1211713222" />
+
+<Property FormalName="Ticker" Value="ROK224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1211713230" />
+
+<Property FormalName="Ticker" Value="ROK225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916764" />
+
+<Property FormalName="Ticker" Value="ROK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916772" />
+
+<Property FormalName="Ticker" Value="ROK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916780" />
+
+<Property FormalName="Ticker" Value="ROK232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1371736807" />
+
+<Property FormalName="Ticker" Value="ROK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1371736815" />
+
+<Property FormalName="Ticker" Value="ROK241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1371736823" />
+
+<Property FormalName="Ticker" Value="ROK242" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="PLO"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Der Pharmakonzern Roche macht Ernst mit dem früher angekündigten Bau neuer Produktionsstätten in den USA. In Holly Springs, North Carolina, hat die US-Tochter Genentech eine neue Anlage in Angriff genommen - das erste Produktionswerk des Unternehmens an der US-Ostküste.</p>
+<p/><p>In Holly Springs sollen künftig auf rund 650'000 Quadratmetern Medikamente im Bereich Stoffwechsel zur Behandlung von Fettleibigkeit hergestellt werden, wie Roche am Montag mitteilte. Die Fertigstellung und Inbetriebnahme der Anlage sei für 2029 geplant.</p>
+<p/><p>Die anfängliche Investition von Genentech wird in dem Communiqué auf mehr als 700?Millionen?US-Dollar beziffert. Das Werk solle mehr als 1900 Arbeitsplätze schaffen.</p>
+<p/><p>Besagte Investition in North Carolina sei Teil einer 50-Milliarden-Dollar-Initiative von Roche für US-Produktionsinfrastruktur und Forschung &amp; Entwicklung. Diese war im April angekündigt worden.</p>
+<p/><p>ra/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
