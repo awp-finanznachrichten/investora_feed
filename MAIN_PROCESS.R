@@ -1,3 +1,4 @@
+library(git2r)
 library(DBI) 
 library(RMySQL)
 library(stringr)
@@ -10,19 +11,17 @@ library(base64enc)
 library(httr)
 library(xlsx)
 
-#setwd("C:/investora_feed")
+setwd("C:/Automatisierungen/investora_feed")
 source("./Tools/Funktionen/Utils.R")
 source("./functions/function_request_chatGPT.R")
 source("./functions/functions_github.R")
 
 #Path Github Token (do NOT include in Repository)
-WD_GITHUB_TOKEN <- "C:/Users/simon/OneDrive/Github_Token/token.txt"
-#WD_GITHUB_TOKEN <- "C:/Github_Token/token.txt"
+WD_GITHUB_TOKEN <- "C:/Github_Token/token.txt"
 
 #Constants
-INPUT_PATH_XML <- "C:/Users/simon/OneDrive/AWP_Automatisierung/investora_feed/Testfiles/"
-#INPUT_PATH_XML <- "C:/Dataserver/redsys/topnews/"
-INPUT_PATH_PICTURES <- "C:/_Picture_Input/"
+INPUT_PATH_XML <- "C:/Dataserver/investora/"
+INPUT_PATH_PICTURES <- "C:/_Picture_Input_AWP/"
 OUTPUT_PATH_XML <- "./_processed/"
 OUTPUT_PATH_NEWS <- "./XML_News/"
 OUTPUT_PATH_FEED <- "./XML_Feed/"
@@ -60,7 +59,7 @@ repeat{
   files <- list.files(path=INPUT_PATH_XML)
   
   if (length(files)>0) {
-    #Sys.sleep(2)  
+    Sys.sleep(2)  
     
     ###Get Data from XML###
     source("get_data_from_xml.R")
