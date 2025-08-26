@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250826T082111+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250826</DateId>
+			<NewsItemId>1055</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250826:1055:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250826T082110+0200</FirstCreated>
+		<ThisRevisionCreated>20250826T082110+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Flughafen Zürich verschiebt Eröffnung des Flughafens Noida auf Ende 2025</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016039"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Flughafen Zürich will den Flughafen Noida in Indien noch in diesem Jahr eröffnen. Mit der anstehenden Inbetriebnahme tritt das grösste internationale Projekt des Unternehmens mit Verzögerungen in eine entscheidende Phase ein.</p>
+<p/><p>Im ersten Halbjahr 2025 seien wesentliche Bauabschnitte abgeschlossen worden, teilte der Flughafen Zürich am Dienstag mit den Halbjahreszahlen mit. So seien die Arbeiten auf der Luftseite beendet und die verkehrstechnische Erschliessung auf der Landseite hergestellt. Auch der Tower sei bereits für den Betrieb bereit.</p>
+<p/><p>Gemäss dem ursprünglichen Zeitplan war die Eröffnung des Flughafens in Noida bereits per Ende 2024 vorgesehen. Das erwartete Eröffnungsdatum wurde dann auf Mitte 2025 verschoben, was sich nun ebenfalls als zu ambitioniert erwies. Bei einer Konzessionsdauer von 40 Jahren fielen diese Verzögerungen allerdings nicht ins Gewicht, kommentierte CEO Lukas Brosi damals die Verschiebung.</p>
+<p/><p>In den kommenden Monaten liegt der Schwerpunkt auf den Vorbereitungen zur Inbetriebnahme. So werde die Betriebsgenehmigung in den nächsten Wochen erwartet, heisst es. Die offizielle Eröffnung und der Beginn des kommerziellen Betriebs seien nun für das vierte Quartal 2025 vorgesehen.</p>
+<p/><p>Im laufenden Jahr hat der Flughafen Zürich bereits 111 Millionen Franken in das insgesamt auf 750 Millionen Franken veranschlagte Projekt investiert. Mit der Aufnahme des Betriebs würden denn auch im Jahr 2025 erstmals Abschreibungen und Zinsaufwendungen erstmals in der Konzern-Gewinn- und Verlustrechnung sichtbar, so die heutige Meldung.</p>
+<p/><p>an/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
