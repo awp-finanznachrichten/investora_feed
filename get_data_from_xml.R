@@ -1,6 +1,5 @@
 xml_file <- xmlParse(paste0(INPUT_PATH_XML,files[1]))
 
-
 #ID
 ID <- str_replace_all(files[1],"[.]xml","")
 

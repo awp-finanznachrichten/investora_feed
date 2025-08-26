@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250825T155313+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250825</DateId>
+			<NewsItemId>2058</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250825:2058:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250825T155313+0200</FirstCreated>
+		<ThisRevisionCreated>20250825T155313+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Romande Energie verspricht stabile Strompreise für 2026</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008000"/><Subject FormalName="11000000"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1110" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197446">
+<Property FormalName="FullName" Value="Romande Energie Holding SA" />
+
+<Property FormalName="ShortName" Value="Romande Energie" />
+
+<Property FormalName="Telekurs" Value="103278" />
+
+<Property FormalName="CHNr" Value="CH-550.0.069.472-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1263676327" />
+
+<Property FormalName="Ticker" Value="REHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1196217017" />
+
+<Property FormalName="Ticker" Value="ROM22" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="ECO"/><Property FormalName="Subject" Value="POL"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Morges VD (awp/sda) - Der Westschweizer Stromversorger Romande Energie rechnet für 2026 mit stabilen Strompreisen für seine Kundinnen und Kunden. Denn im kommenden Jahr würden die Energiepreise einerseits steigen, die Netzkosten andererseits aber niedriger ausfallen, teilte Romande Energie mit.</p>
+<p/><p>Das durch das Parlament verabschiedete Stromgesetz zur Förderung erneuerbarer Energien und Sicherstellung der Versorgungssicherheit habe zu einer Umwälzung in der Branche und bei der Preisgestaltung geführt, hiess es weiter.</p>
+<p/><p>Der immer grössere Anteil der Solarenergie am Energiemix verursache hohe Ausgleichskosten, die im folgenden Jahr in die Kundentarife einfliessen müssten. Auch die Rendite auf investiertes Kapital werde niedriger ausfallen.</p>
+<p/><p>Der Bund führt zudem eine Abgabe zur Subventionierung des nationalen Stromnetzes und der Schwerindustrie ein. Im kommenden Jahr werde vom Übertragungsnetzbetreiber zusätzlich zu den bestehenden Abgaben daher eine neue Abgabe in der Höhe von 0,05 Rappen pro Kilowattstunde erhoben.</p>
+<p/><p>Der Kanton Waadt zum Beispiel werde die Stromabgabe 2026 von 0,020 Rappen pro Kilowattstunde auf 0,024 erhöhen, um die kantonalen Finanzen zu entlasten. Die 2024 eingeführte Abgabe zur Finanzierung der Wintervorratsreserve zum Schutz vor Engpässen wiederum werde im kommenden Jahr ebenfalls angehoben - von 0,23 auf 0,41 Rappen pro Kilowattstunde, hiess es weiter.</p>
+<p/><p>Insgesamt werde ein Haushalt - am Beispiel von Morges VD, der mit einem Pauschaltarif jährlich 2000 Kilowattstunden Strom verbraucht, eine Senkung seiner jährlichen Stromrechnung von 759 auf 747 Franken inklusive Mehrwertsteuer erleben. Die Stromrechnung des Haushaltes wird 2026 also um 1,6 Prozent niedriger ausfallen, rechnete Romande Energie vor.</p>
+<p/><p>Romand Energie ist der grösste Stromversorger der Westschweiz mit Kundinnen und Kunden in den Kantonen Waadt, Genf, Freiburg und Wallis. Das Unternehmen beliefert rund 300'000 Endkunden.</p>
+<p/><p>mk/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

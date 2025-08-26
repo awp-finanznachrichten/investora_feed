@@ -20,7 +20,7 @@ source("./functions/functions_github.R")
 WD_GITHUB_TOKEN <- "C:/Github_Token/token.txt"
 
 #Constants
-INPUT_PATH_XML <- "C:/Dataserver/investora/"
+INPUT_PATH_XML <- "C:/Dataserver/redsys/investora/"
 INPUT_PATH_PICTURES <- "C:/_Picture_Input_AWP/"
 OUTPUT_PATH_XML <- "./_processed/"
 OUTPUT_PATH_NEWS <- "./XML_News/"
