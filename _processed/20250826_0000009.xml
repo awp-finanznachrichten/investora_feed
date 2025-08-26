@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250826T075209+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250826</DateId>
+			<NewsItemId>752</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250826:752:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250826T075209+0200</FirstCreated>
+		<ThisRevisionCreated>20250826T075209+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Intershop dank Aufwertung mit deutlich mehr Gewinn im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8005" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197397">
+<Property FormalName="FullName" Value="Intershop Holding AG" />
+
+<Property FormalName="ShortName" Value="Intershop" />
+
+<Property FormalName="Telekurs" Value="111461" />
+
+<Property FormalName="CHNr" Value="CH-020.3.913.692-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1338987303" />
+
+<Property FormalName="Ticker" Value="ISN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1111392994" />
+
+<Property FormalName="Ticker" Value="ISH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910377" />
+
+<Property FormalName="Ticker" Value="ISH24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1414003421" />
+
+<Property FormalName="Ticker" Value="ISH25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Intershop Holding hat im ersten Halbjahr wie in Aussicht gestellt von einer kräftigen Aufwertung ihres Portfolios profitiert. Aber auch operativ lief es bei der Immobiliengesellschaft gut. Nun gibt sie sich mit Blick auf das Gesamtjahr zuversichtlich.</p>
+<p/><p>Konkret belief sich der Reingewinn (inklusive Neubewertung) auf 175,9 Millionen Franken, wie Intershop am Dienstag mitteilte. Im Vorjahr waren es 52,7 Millionen Franken. Dies ist überwiegend Neubewertungen in der Höhe von 200,2 Millionen Franken geschuldet.</p>
+<p/><p>Damit stieg der Wert der Rendite- und Entwicklungsliegenschaften insgesamt auf 1,8 Milliarden Franken. Zum Jahresende 2024 hatte der Wert des Portfolios 1,59 Milliarden Franken betragen. Der Leerstand ging per Ende Juni auf 7,9 Prozent zurück. Ende 2024 waren es 8,1 Prozent.</p>
+<p/><p>Die Immobiliengesellschaft hatte bereits vor rund einem Monat mitgeteilt, dass das Portfolio anlässlich einer Neubewertung durch den Bewerter CBRE (Zürich) AG für das erste Halbjahr 2025 eine Aufwertung von rund 200 Millionen Franken erfahren hat. Über 80 Prozent der Nettoveränderung stamme von Liegenschaften in der Stadt Zürich. Intershop begründete dies unter anderem mit der Reduktion der Diskontsätze und einer Neubeurteilung des Entwicklungspotenzials.</p>
+<p/><h3>Jahresprognose bestätigt</h3>
+<p/><p>Aber auch operativ lief es der Immobiliengesellschaft erfreulich. Intershop erhöhte laut den Angaben den Nettoliegenschaftsertrag um 7,4 Prozent auf 39,5 Millionen und verbesserte den Betriebserfolg (EBIT vor Bewertungsveränderungen) um 14,6 Prozent 36,0 Millionen Franken. Allerdings ging der Gewinn ohne Neubewertungen auf 28,6 Millionen Franken von 36,0 Millionen im Vorjahreszeitraum zurück. Der Rückgang erkläre sich mit der (erwarteten) Normalisierung der Steuerquote, so Intershop.</p>
+<p/><p>Das Jahresziel, den Nettoliegenschaftsertrag - unter Ausschluss von Transaktionen - um mindestens 8 Prozent zu steigern, wurde indes bestätigt. Intershop erwarte für 2025 einen Rückgang des Leerstands der Renditeliegenschaften auf vergleichbarer Basis sowie einen Verkaufserfolg von mindestens 15 Millionen Franken. Allerdings gehe das Unternehmen auch von einer zunehmenden Verlangsamung von Mietvertragsabschlüssen aus infolge der wirtschaftlichen Lage.</p>
+<p/><p>Verkaufserlöse dürften künftig weniger stark über dem Buchwert liegen, weil operative Erfolge und Entwicklungsfortschritte durch den neuen Bewerter schneller in den Bewertungen abgebildet würden, heisst es weiter. Das Geschäftsmodell bleibe allerdings unverändert: Intershop veräussert Immobilien nach Abschluss der Entwicklung. Die Verkaufserlöse wiederum schaffen die Voraussetzungen für neue Projekte und bestätigen die in den Aufwertungen reflektierten Entwicklungserfolge.</p>
+<p/><p>pre/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
