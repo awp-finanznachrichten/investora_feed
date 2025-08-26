@@ -12,8 +12,8 @@ library(xlsx)
 
 #setwd("C:/investora_feed")
 source("./Tools/Funktionen/Utils.R")
-source("function_request_chatGPT.R")
-source("functions_github.R")
+source("./functions/function_request_chatGPT.R")
+source("./functions/functions_github.R")
 
 #Path Github Token (do NOT include in Repository)
 WD_GITHUB_TOKEN <- "C:/Users/simon/OneDrive/Github_Token/token.txt"
@@ -49,12 +49,11 @@ picture_database$name <- trimws(picture_database$name)
 picture_database$keywords <- gsub(", ?","|",picture_database$keywords)
 
 #Filter Pictures not available
-missing_pictures <- read.xlsx("missing_pictures.xlsx",sheetIndex = 1)
+missing_pictures <- read.xlsx("./data/missing_pictures.xlsx",sheetIndex = 1)
 missing_pictures <- paste(missing_pictures$picture_names,collapse = "|")
 
 picture_database <- picture_database %>%
   filter(grepl(missing_pictures,picture_name) == FALSE)
-
 
 repeat{
   
