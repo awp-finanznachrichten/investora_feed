@@ -7,7 +7,7 @@ picture_names <- picture_database %>%
 ###GENERAL SELECTION###
 if (nrow(picture_names) == 0) {
       picture_names <- picture_database %>%
-        filter(company_id == "-2147193868")
+        filter(company_id == "-2147193381")
 }  
 
 picture_selection_unique <- picture_names %>%
