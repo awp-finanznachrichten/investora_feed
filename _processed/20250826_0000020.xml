@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250826T162831+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250826</DateId>
+			<NewsItemId>2963</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250826:2963:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250826T162830+0200</FirstCreated>
+		<ThisRevisionCreated>20250826T162830+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Flughafen Zürich verzeichnet im ersten Halbjahr Rekordergebnis</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04015000"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Flughafen Zürich AG hat im ersten Halbjahr 2025 das beste Halbjahresergebnis ihrer Geschichte erzielt. Getrieben durch rekordhohe Passagierzahlen stiegen Umsatz und Gewinn im Vergleich zur Vorjahresperiode deutlich an. Nach Verzögerungen soll auch der Flughafen Noida in Indien bis Ende Jahr den Betrieb aufnehmen.</p>
+<p/><p>Der Umsatz nahm dank des gestiegenen Passagieraufkommens um 2 Prozent auf 641 Millionen Franken zu, wie das Unternehmen am Dienstag mitteilte. Der Flugbereich legte dabei um 4 Prozent auf 327 Millionen zu. Dabei profitierte der Flughafenbetreiber vom stärkeren Wachstum bei Lokalpassagieren, die höhere Gebühren zahlen als Transferpassagiere.</p>
+<p/><p>Dagegen gingen die Umsätze aus dem Nichtflug-Bereich, der Immobilien, Geschäfte, Parkplätze und die internationalen Beteiligungen umfasst, um 1 Prozent auf 313 Millionen zurück. Hauptgrund dafür seien Umbauarbeiten bei den Kommerzflächen, sagte CEO Lukas Brosi an der Telefonkonferenz. Diese sollen aber bis im Jahr 2027 abgeschlossen sein.</p>
+<p/><h3>Gewinn zieht kräftig an</h3>
+<p/><p>Dafür hätten sich nach dem starken Kostenanstieg im ersten Halbjahr 2024 die Betriebskosten wieder leicht um 1 Prozent auf 282 Millionen Franken reduziert, was hauptsächlich auf tiefere Energiekosten zurückzuführen sei, so der Flughafen-Chef. Dagegen nahmen die Personalkosten um 11 Prozent zu.</p>
+<p/><p>Der operative Gewinn EBITDA erhöhte sich überproportional zum Umsatz um 3 Prozent auf 359 Millionen Franken. Auch dank einer Verbesserung des Finanzergebnisses kletterte der Konzerngewinn gar um 6 Prozent auf 161 Millionen, was deutlich über den Analystenschätzungen lag.</p>
+<p/><h3>Prognosen erhöht</h3>
+<p/><p>Für das laufende Jahr zeigte sich der Flughafenbetreiber denn auch etwas zuversichtlicher als noch im Frühjahr. Das Management rechnet weiterhin damit, dass 2025 mit "rund" 32 Millionen Passagieren erstmals der Passagierrekord von 31,5 Millionen aus dem Jahr 2019 übertroffen wird. Im vergangenen Jahr waren es 31,2 Millionen. Im Monat Juli seien dabei sowohl auf Tages- wie auf Monatssicht neue Höchstwerte erzielt worden, ergänzte Brosi.</p>
+<p/><p>Mit den Halbjahreszahlen korrigierte das Management seine Gewinnprognosen nach oben: So wird der Betriebsgewinn (EBITDA) neu leicht über dem Vorjahr erwartet und der Reingewinn auf Vorjahreshöhe. Gemäss den bisherigen Prognosen wurde mit einem stabilen operativen und einem leicht rückläufigen Reingewinn gerechnet.</p>
+<p/><h3>Noida auf Zielgerade</h3>
+<p/><p>Derweil ist der Flughafen Zürich mit der Fertigstellung des Flughafens Noida in Indien auf der Zielgeraden. So soll das grösste internationale Projekt im vierten Quartal 2025 mit Verzögerung eröffnen. Ursprünglich war die Eröffnung bereits Ende 2024 vorgesehen. Die wesentliche Bauabschnitte seien bereits abgeschlossen und die Betriebsgenehmigung werde in den kommenden Wochen erwartet, hiess es.</p>
+<p/><p>Im kommenden Jahr wird am neuen Flughafen im Grossraum Delhi mit einem Passagieraufkommen von 8 Millionen gerechnet. In den darauf folgenden Jahre soll die Zahl dann kontinuierlich steigen. Trotz den Verzögerungen rechnet das Management weiterhin mit einem EBITDA-Beitrag von 120 bis 150 Millionen im Jahr 2031.</p>
+<p/><h3>Gebührenordnung im Fokus</h3>
+<p/><p>Im Fokus dürfte in den kommenden Monaten auch die anstehenden Verhandlungen zur Neufestsetzung der Flugbetriebsgebühren stehen. CEO Lukas Brosi rechnet mit einer moderaten Senkung, da die aktuelle Rendite im regulierten Geschäft über den Kapitalkosten liege. Eine Einführung der neuen Gebührenordnung sei bei erfolgreicher Einigung mit den Fluggesellschaften Mitte 2026 möglich, ansonsten frühestens 2027.</p>
+<p/><p>An der Börse werden die Neuigkeiten erfreut aufgenommen: Bis am frühen Nachmittag legen die Titel um 3 Prozent zu. Seit Anfang Jahr sind die Aktien damit um gut 11 Prozent gestiegen.</p>
+<p/><p>an/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
