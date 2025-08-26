@@ -12,6 +12,10 @@ library(httr)
 #setwd("C:/investora_feed")
 source("./Tools/Funktionen/Utils.R")
 source("function_request_chatGPT.R")
+source("functions_github.R")
+
+#Path Github Token (do NOT include in Repository)
+WD_GITHUB_TOKEN <- "C:/Users/simon/OneDrive/Github_Token/token.txt"
 
 #Constants
 INPUT_PATH_XML <- "C:/Users/simon/OneDrive/AWP_Automatisierung/investora_feed/Testfiles/"
@@ -64,6 +68,9 @@ repeat{
     
     ###Update XML-Feed###
     source("create_XML_feed.R")
+    
+    ###Github Update
+    source("commit.R")
     
   } else {
     print("No new news found")  
