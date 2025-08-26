@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250826T074110+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250826</DateId>
+			<NewsItemId>734</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250826:734:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250826T074109+0200</FirstCreated>
+		<ThisRevisionCreated>20250826T074109+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Arbonia verbessert sich operativ etwas im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9320" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197264">
+<Property FormalName="FullName" Value="Arbonia AG" />
+
+<Property FormalName="ShortName" Value="Arbonia" />
+
+<Property FormalName="Telekurs" Value="143211" />
+
+<Property FormalName="CHNr" Value="CH-440.3.001.717-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0110240600" />
+
+<Property FormalName="Ticker" Value="ARBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Arbon (awp) - Der Bauzulieferer Arbonia ist im ersten Halbjahr 2025 organisch leicht geschrumpft. Ohne Berücksichtigung von Sondereffekten stieg allerdings die Profitabilität. Am Ausblick hält das Ostschweizer Unternehmen fest.</p>
+<p/><p>Der Umsatz der neu auf Türen fokussierten Gruppe stieg um 14,7 Prozent auf 307,2 Millionen Franken. In Lokalwährungen und ohne Akquisitionen hätte allerdings ein leichtes Minus von 1,5 Prozent resultiert, wie Arbonia am Dienstag bekanntgab.</p>
+<p/><p>Im Gruppenumsatz enthalten sind die Erträge des per Mitte Mai 2024 übernommenen spanischen Innentürenherstellers Dimoldura sowie des per Juli 2024 integrierten tschechischen Spezialtürenherstellers Lignis.</p>
+<p/><p>Das Marktumfeld bleibe mit sehr schwacher Neubautätigkeit in Deutschland und einem gedämpften Investitionsklima anspruchsvoll, schreibt Arbonia zum aktuellen Geschäftsverlauf. Der Auftragseingang sei aber über alle Monate hinweg positiv gewesen.</p>
+<p/><h3>Profitabilität operativ verbessert</h3>
+<p/><p>Die operative Profitabilität stieg im Vergleich zum Vorjahr hingegen. Konkret kletterte der bereinigte Betriebsgewinn auf Stufe EBITDA um 23,3 Prozent auf 26,1 Millionen Franken. Die EBITDA-Marge lag damit bei 8,5 Prozent nach 7,9 Prozent im Vorjahr. Nicht berücksichtigt sind darin Sondereffekte aus dem Vorjahr wie den Verkauf einer Immobilie.</p>
+<p/><p>Unter dem Strich hat Arbonia im fortzuführenden Geschäft ein Minus von 2,4 Millionen Franken erzielt nach einem Plus von 23,0 Millionen im Vorjahr. Einmalige negative Effekte wie ein Stromausfall bei Dimoldura in Spanien, erhöhte Marketingkosten im Zusammenhang mit der eigenen Messe in Erfurt sowie strukturelle Anpassungen im Rahmen des Verkaufs der Klimasparte hätten das Gesamtergebnis belastet, schreibt die Gruppe.</p>
+<p/><p>Mit Berücksichtigung des Verkaufs der Klimadivision belief sich das Konzernergebnis allerdings auf 152,6 Millionen Franken (VJ: 41,0 Mio).</p>
+<p/><p>Die Erwartungen der von AWP befragten Analysten wurden mit den Kennzahlen beim organischen Wachstum verfehlt, bei der Profitabilität aber übertroffen.</p>
+<p/><h3>Ausblick bestätigt</h3>
+<p/><p>Mit Blick nach vorn bestätigt das Management die bisherige Umsatzprognose für das Gesamtjahr 2025. Demnach will Arbonia ein Wachstum von 3 bis 5 Prozent zum Pro-forma-Umsatz von 604 Millionen Franken erreichen. Zudem wird ein adjustiertes EBITDA von rund 60 Millionen Franken angestrebt.</p>
+<p/><p>Konkret würden einmalige Kosten im zweiten Halbjahr wegfallen und gewonnene Aufträge zu einem Umsatzwachstum führen, heisst es weiter. Ausserdem werde man in den nächsten Monaten die Preise erhöhen.</p>
+<p/><p>Mittelfristig peilt der Bauzulieferer organisch bis 2029 weiterhin einen Umsatz zwischen 820 und 850 Millionen Franken und eine EBITDA-Marge zwischen 14 und 15 Prozent an.</p>
+<p/><p>ls/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
