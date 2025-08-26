@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250825T225110+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250825</DateId>
+			<NewsItemId>2889</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250825:2889:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250825T225109+0200</FirstCreated>
+		<ThisRevisionCreated>20250825T225109+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Molecular Partners hat noch 114 Millionen auf der hohen Kante</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8952 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2076105829">
+<Property FormalName="FullName" Value="Molecular Partners AG" />
+
+<Property FormalName="ShortName" Value="Molecular Partners" />
+
+<Property FormalName="Telekurs" Value="667374" />
+
+<Property FormalName="CHNr" Value="CH-020.3.028.228-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0256379097" />
+
+<Property FormalName="Ticker" Value="MOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US60853G1067" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Schlieren (awp) - Das Zürcher Biotech-Unternehmen Molecular Partners sieht sich nach wie vor bis ins Geschäftsjahr 2028 hinein finanziert. Per Ende Juni verfügte das Unternehmen über liquide Mittel von 114,5 Millionen Franken.</p>
+<p/><p>"Unsere Finanzen bleiben solide, mit einer Finanzierung bis 2028", liess sich Firmenchef Patrick Amstutz am späten Montagabend in einer Medienmitteilung zum Halbjahresabschluss zitieren. Ende März hatte die Firma noch einen Bestand von 131 Millionen Franken gemeldet.</p>
+<p/><p>Im Juni hatte Molecular Partners angekündigt, bis zu 40 Arbeitsplätze abzubauen - also gut einen Viertel der Belegschaft. Die Umsetzung der Massnahmen solle bis Ende 2025 abgeschlossen werden, die vollen Kosteneffekte würden ab Anfang 2026 erwartet.</p>
+<p/><p>An Kosten für die Geschäftsaktivitäten wurden laut dem Geschäftsbericht 33,5 Millionen Franken verbucht - davon entfielen 2,6 Millionen auf Aufwendungen für die Restrukturierung. Der Verlust im ersten Halbjahr liegt bei 37,2 Millionen.</p>
+<p/><p>Aktuell geht Molecular Partners für das Gesamtjahr 2025 bei konstanten Wechselkursen von einem Geschäftsaufwand zwischen 55 bis 65 Millionen Franken aus. Davon fielen rund 7 Millionen für nicht zahlungswirksame Kosten für aktienbasierte Vergütungen, IFRS-Pensionsabrechnungen sowie Abschreibungen an.</p>
+<p/><p>Gleichzeitig verzeichne Molecular Partners Fortschritte bei wichtigen Entwicklungsmeilensteinen, insbesondere in den beiden klinischen Programmen. Erste klinische Daten aus dem Leitprogramm MP0712 würden im ersten Halbjahr 2026 erwartet und Daten aus dem Programm für MP0533 würden im vierten Quartal 2025.</p>
+<p/><p>ra/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
