@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250826T093310+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250826</DateId>
+			<NewsItemId>1397</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250826:1397:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250826T093309+0200</FirstCreated>
+		<ThisRevisionCreated>20250826T093309+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Flughafen Zürich-Aktien nach Halbjahreszahlen fester</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Flughafen Zürich-Aktien sind am Dienstagmorgen etwas tiefer in den Handel gestartet, haben dann aber im Handelsverlauf ins Plus gedreht. Die Analysten zeigen sich in ersten Kommentaren vor allem von der Entwicklung im Fluggeschäft und der Profitabilität positiv überrascht.</p>
+<p/><p>Die Flughafen Zürich-Aktien steigen bis 9.30 Uhr um 2,2 Prozent auf 244,80 Franken. Seit Anfang April haben die Titel damit mehr als 20 Prozent zugelegt. Der Gesamtmarkt liegt derweil am Dienstag leicht im Minus.</p>
+<p/><p>Der Analyst der Bank Vontobel spricht in einem Kommentar von einem anhaltend positiven Momentum beim Flughafen und einem Ergebnis über den Erwartungen. Dabei habe sich im Fluggeschäft der höhere Anteil der Lokalpassagiere bemerkbar gemacht. Zudem zeuge die Erhöhung der Gewinnguidance von einer effektiven Kostenkontrolle.</p>
+<p/><p>Auch für die ZKB ist vor allem die Gewinnentwicklung stärker als antizipiert ausgefallen. Die Kombination aus weiterhin gutem Passagierwachstum und einer starken Cashflow-Entwicklung dürfte mit Blick nach vorne ein attraktives Dividendenwachstum erlauben. Trotz der jüngst starken Kursentwicklung sehe er denn auch weiterhin Luft gegen oben, so der ZKB-Experte.</p>
+<p/><p>Als Wermutstropfen nennen die Experten die Verzögerungen bei der Eröffnung des Flughafens Noida in Indien. Diese seien allerdings wenig überraschend und dürften mit Blick nach vorne kaum ins Gewicht fallen, so der Vontobel-Analyst dazu.</p>
+<p/><p>an/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
