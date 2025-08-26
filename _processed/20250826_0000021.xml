@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250826T185821+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>21</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250826</DateId>
+			<NewsItemId>3198</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250826:3198:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250826T185820+0200</FirstCreated>
+		<ThisRevisionCreated>20250826T185820+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Groupe Minoteries erzielt trotz Umsatzrückgang stabilen Betriebsgewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1523" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196647">
+<Property FormalName="FullName" Value="Groupe Minoteries SA" />
+
+<Property FormalName="ShortName" Value="Minoteries" />
+
+<Property FormalName="Telekurs" Value="240515" />
+
+<Property FormalName="CHNr" Value="CH-660.0.002.885-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012949464" />
+
+<Property FormalName="Ticker" Value="GMI" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Grange-près-Marnand (awp) - Die Mühlenbetreiberin Groupe Minoteries (GMSA) hat im ersten Halbjahr 2025 einen Umsatzrückgang verzeichnet, den Betriebsgewinn aber leicht gesteigert. Für die zweite Jahreshälfte rechnet das Unternehmen trotz "komplexem Umfeld" mit einem stabilen Geschäft.</p>
+<p/><p>Der Nettoumsatz sank der am Dienstag veröffentlichten Mitteilung zufolge um 2,8 Prozent auf 71,1 Millionen Franken. Dies war demnach vor allem auf eine geringere Nachfrage nach traditionellen Mehlsorten zurückzuführen. Die Gesamtmenge ging um 7,7 Prozent auf rund 57'000 Tonnen zurück.</p>
+<p/><p>Der Betriebsgewinn (EBIT) stieg um 2,4 Prozent auf 2,9 Millionen Franken. Unter dem Strich verringerte sich das Nettoergebnis jedoch um 2,2 Prozent auf 2,6 Millionen Franken.</p>
+<p/><p>Das erste Halbjahr war laut GMSA stark von strategischen Projekten geprägt. Neben der Integration der übernommenen Schälmühle Zwicky zählte auch die Fertigstellung der neuen Moulin du Valais zu den Schwerpunkten.</p>
+<p/><p>Kurzfristig werde die Übernahme das Betriebsergebnis nur begrenzt beeinflussen, langfristig rechnet die Gruppe aber mit positiven Synergien. Angesichts des schwierigen Marktumfelds erwartet das Unternehmen, seine Position durch striktes Management und ein erweitertes Angebot stabil zu halten.</p>
+<p/><p>to/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
