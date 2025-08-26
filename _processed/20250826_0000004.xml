@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250826T071710+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250826</DateId>
+			<NewsItemId>666</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250826:666:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250826T071710+0200</FirstCreated>
+		<ThisRevisionCreated>20250826T071710+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Temenos hat Aktienrückkaufprogramm abgeschlossen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1205 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191419">
+<Property FormalName="FullName" Value="Temenos AG" />
+
+<Property FormalName="ShortName" Value="Temenos" />
+
+<Property FormalName="Telekurs" Value="117045" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.953-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012453913" />
+
+<Property FormalName="Ticker" Value="TEMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0508785745" />
+
+<Property FormalName="Ticker" Value="TEM19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222426" />
+
+<Property FormalName="Ticker" Value="TEM23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400000019" />
+
+<Property FormalName="Ticker" Value="TEM25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Der Bankensoftwareanbieter Temenos hat das Aktienrückkaufprogramm 2025 am gestrigen Montag abgeschlossen. Seit Ende April seien für 250 Millionen Franken über eine zweite Handelslinie insgesamt 3,95 Millionen eigene Aktien zurückgekauft worden, heisst es in einer Mitteilung vom Dienstag. Im Durchschnitt seien somit 63,2486 Franken pro Aktie bezahlt worden.</p>
+<p/><p>Die zurückgekauften Papiere entsprechen laut den Angaben 5,5 Prozent des Aktienkapitals. Sie sollen für eine Kapitalherabsetzung verwendet werden, über welche die Generalversammlung 2026 befinden soll.</p>
+<p/><p>Der Aktienrückkauf werde sich positiv auf den Gewinn pro Aktie im laufenden Jahr auswirken, 2026 dann noch stärker, so das Communiqué. Ausserdem erwartet das Management, dass der Verschuldungsgrad bis Jahresende im Zielkorridor liegen wird (Nettoverschuldung zu EBITDA: 1-1,5x).</p>
+<p/><p>rw/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
