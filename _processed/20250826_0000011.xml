@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250826T075808+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250826</DateId>
+			<NewsItemId>762</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250826:762:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250826T075808+0200</FirstCreated>
+		<ThisRevisionCreated>20250826T075808+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Kudelski schreibt im ersten Halbjahr rote Zahlen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1033" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193597">
+<Property FormalName="FullName" Value="Kudelski SA" />
+
+<Property FormalName="ShortName" Value="Kudelski" />
+
+<Property FormalName="Telekurs" Value="51116" />
+
+<Property FormalName="CHNr" Value="CH-550.1.001.447-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012268360" />
+
+<Property FormalName="Ticker" Value="KUD" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Cheseaux-sur-Lausanne (awp) - Der Verschlüsselungs- und Cybersicherheitsspezialist Kudelski hat im ersten Halbjahr 2025 wie im Vorjahreszeitraum erneut einen Verlust erlitten. Nach dem Verkauf des Zutrittskontrollgeschäfts Skidata vor knapp einem Jahr ist die Gruppe im Umbruch. Wachstum und Kosteneinsparungen sollen zurück zum Erfolg führen.</p>
+<p/><p>Von Januar bis Juni sank der Umsatz im weitergeführten Geschäft, also ohne Skidata, um 8,9 Prozent auf 174,5 Millionen US-Dollar, wie Kudelski am Dienstag mitteilte. Der Betriebsverlust vor Abschreibungen und Amortisationen (EBITDA) betrug 19,1 Millionen Dollar nach einem Minus im Vorjahr von 11,7 Millionen.</p>
+<p/><p>Auf Stufe EBIT belief sich der Verlust auf 24,8 Millionen Dollar nach zuvor 30,3 Millionen. Dabei habe die im Februar angekündigte Restrukturierung zu Kosten von 6,4 Millionen geführt, hiess es. Unter dem Strich verblieb ein Reinverlust von 32,9 Millionen Dollar nach einem Fehlbetrag von 36,9 Millionen im Vorjahr.</p>
+<p/><h3>Wachstum beschleunigen</h3>
+<p/><p>In der zweiten Jahreshälfte rechnet Kudelski mit einer stärkeren Umsatzentwicklung als noch im ersten Halbjahr. Zugleich dürften die Betriebskosten dank der Restrukturierungsbemühungen weiter gesenkt und die Profitabilität verbessert werden, hiess es. Im Rahmen des Umbaus hatte die Gruppe den Abbau von rund 160 Stellen angekündigt.</p>
+<p/><p>Im Gesamtjahr dürften die Bemühungen laut den Angaben im Bereich Core Digital Security, wo das Geschäft für Digitalfernsehen gebündelt wurde, zu einem positiven EBITDA im zweistelligen Millionenbereich führen. Im Cybersicherheitsteil und im Bereich Internet der Dinge (IoT) wird derweil investiert und noch mit negativen Ergebnissen gerechnet.</p>
+<p/><p>mk/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
