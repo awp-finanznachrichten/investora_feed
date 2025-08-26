@@ -7,7 +7,7 @@ file_tag <- paste0('<image><img src="data:image/jpg;base64,', picture_encoded, '
 item <- paste0("<news>\n",
                "<guid>",ID,"</guid>\n",
                "<pubDate>",datetime,"</pubDate>\n",
-               "<title>",titel,"</title>\n",
+               "<headline>",titel,"</headline>\n",
                "<text>",text,"</text>\n",
                "<company>",name,"</company>\n",
                file_tag,"\n",
