@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T063410+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>453</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:453:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T063410+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T063410+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Givaudan-CEO Gilles Andrier tritt ab - nach 20 Jahren an der Spitze</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Ausf&#252;hrliche Fassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1214" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191792">
+<Property FormalName="FullName" Value="Givaudan SA" />
+
+<Property FormalName="ShortName" Value="Givaudan" />
+
+<Property FormalName="Telekurs" Value="78786" />
+
+<Property FormalName="CHNr" Value="CH-660.0.028.929-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010645932" />
+
+<Property FormalName="Ticker" Value="GIVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0343366784" />
+
+<Property FormalName="Ticker" Value="GIV161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0572327036" />
+
+<Property FormalName="Ticker" Value="GIV20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308724" />
+
+<Property FormalName="Ticker" Value="GIV21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308732" />
+
+<Property FormalName="Ticker" Value="GIV211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714703" />
+
+<Property FormalName="Ticker" Value="GIV22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714711" />
+
+<Property FormalName="Ticker" Value="GIV220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916731" />
+
+<Property FormalName="Ticker" Value="GIV23" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Nach über 30 Jahren im Unternehmen und zwei Jahrzehnten an der Spitze wird Gilles Andrier im März 2026 als CEO von Givaudan zurücktreten. Der Verwaltungsrat hat am Mittwoch Christian Stammkoetter, derzeit bei Danone tätig, zu seinem Nachfolger ernannt. Andrier soll derweil Verwaltungsratspräsident werden.</p>
+<p/><p>Andrier übernahm die Führung von Givaudan Ende 2004. In den darauffolgenden 20 Jahren hat er den Aromen- und Duftstoffhersteller zu einem Weltmarktführer ausgebaut, wie der Genfer Konzern am Mittwoch schrieb.</p>
+<p/><p>Unter seiner Leitung hat sich die Zahl der Mitarbeitenden fast verdreifacht - von 5900 auf 16'900. Der Umsatz wuchs in dieser Zeit von 2,7 Milliarden auf 7,4 Milliarden Franken. Gleichzeitig stieg die Marktkapitalisierung von 5,8 Milliarden auf 36,6 Milliarden Franken.</p>
+<p/><h3>Internationale Expansion</h3>
+<p/><p>Massgeblich geprägt hat Andrier die internationale Expansion. Givaudan baute seine Präsenz über Regionen, Kundengruppen und Produkte hinweg aus und tätigte über 20 strategische Übernahmen. Damit legte er den Grundstein für das breite Portfolio, das heute von Luxusparfüms bis zu funktionalen Inhaltsstoffen für Lebensmittel und Getränke reicht.</p>
+<p/><p>Verwaltungsratspräsident Calvin Grieder würdigt Andrier als visionären und werteorientierten Leader, der die Kultur und DNA von Givaudan entscheidend geprägt habe. Andrier selbst spricht von einem "Privileg" und einer "Quelle grosser Freude", das Unternehmen über so lange Zeit geführt zu dürfen.</p>
+<p/><p>Im Zuge der Rochade zieht sich auch Grieder zurück. Er wird an der Generalversammlung im März 2026 nach zwölf Jahren aus dem Verwaltungsrat ausscheiden. Der Verwaltungsrat schlägt vor, dass Andrier zu seinem Nachfolger als Präsident gewählt wird.</p>
+<p/><p>jl/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
