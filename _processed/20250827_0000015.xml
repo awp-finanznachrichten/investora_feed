@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T080309+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>972</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:972:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T080309+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T080309+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Peach Property steigert im ersten Halbjahr Mieten</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016019"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8038" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2103849416">
+<Property FormalName="FullName" Value="Peach Property Group AG" />
+
+<Property FormalName="ShortName" Value="Peach Property" />
+
+<Property FormalName="Telekurs" Value="528360" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.910-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0118530366" />
+
+<Property FormalName="Ticker" Value="PEAN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1263282522" />
+
+<Property FormalName="Ticker" Value="PEA234" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Peach Property Group hat im ersten Halbjahr 2025 höhere Mieteinnahmen und eine tiefere Leerstandsquote erzielt. Zugleich hat der Immobilieninvestor die im vergangenen Jahr begonnene Bilanztransformation mit einer umfassenden Refinanzierung abgeschlossen.</p>
+<p/><p>Die Mieterträge stiegen auf vergleichbarer Basis um rund 3 Prozent, wie Peach Property am Mittwoch mitteilte. Die Quote der leerstehenden Wohnungen im strategischen Portfolio sank per Ende Juni auf 4,9 Prozent nach 5,2 Prozent Ende 2024. Der operative Mittelzufluss (Funds from Operations, FFO I) belief sich auf 6,7 Millionen Euro.</p>
+<p/><p>Zahlen zum absoluten Mietertrag sowie zum Vorsteuer- und Reinergebnis fehlen in der Medienmitteilung vom Morgen. In der Vorjahrsperiode lag der Mietertrag bei 63,2 Millionen Euro. Beim Vorsteuerergebnis stand im ersten Semester 2024 ein Verlust von 26,9 Millionen zu Buche und unter dem Strich ein Reinverlust von 22,8 Millionen. Im Gesamtjahr 2024 summierte sich der Reinverlust auf 200,5 Millionen Euro.</p>
+<p/><p>Der Marktwert des Immobilienportfolios erhöhte sich bis Ende Juni 2025 auf 1,94 Milliarden Euro nach 1,92 Milliarden Ende 2024. Investitionen von rund 20 Millionen flossen in den Bestand.</p>
+<p/><p>Wesentlich geprägt war das Halbjahr von einer Refinanzierung: Im Januar zahlte Peach Property rund 127 Millionen Euro auf eine im November fällige Anleihe über 300 Millionen Euro zurück. Zudem sicherte sich die Gruppe im Juni eine neue Kreditfazilität über 120 Millionen Euro und platzierte im August eine Grossfinanzierung von 410 Millionen Euro. Der Verschuldungsgrad (LTV) lag Ende Juni bei 52,2 Prozent und fiel nach der Kapitalerhöhung im Juli auf unter 50 Prozent.</p>
+<p/><p>Für das laufende Jahr strebt Peach Property auf vergleichbarer Basis einen weiteren Anstieg der Nettomieterträge von mehr als 4 Prozent an. Die Leerstandsquote soll unter 4 Prozent sinken. Mittelfristig peilt die Gruppe einen LTV von unter 45 Prozent an.</p>
+<p/><p>jl/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
