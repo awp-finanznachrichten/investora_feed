@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T160210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>25</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>3208</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:3208:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T160210+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T160210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Stadler Rail macht trotz Unwetterbremsspuren mehr Halbjahresgewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung mit aktualisierter B&#246;rsenkursentwicklung im vorletzten Abschnitt</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04009000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9565" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191533">
+<Property FormalName="FullName" Value="Stadler Rail AG" />
+
+<Property FormalName="ShortName" Value="Stadler Rail" />
+
+<Property FormalName="Telekurs" Value="067816" />
+
+<Property FormalName="CHNr" Value="CH-440.3.002.481-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002178181" />
+
+<Property FormalName="Ticker" Value="SRAIL" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238864" />
+
+<Property FormalName="Ticker" Value="SRA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852651" />
+
+<Property FormalName="Ticker" Value="SRA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852669" />
+
+<Property FormalName="Ticker" Value="SRA241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bussnang TG (awp) - Stadler Rail hat im ersten Halbjahr Umsatz und Gewinn gesteigert, obwohl das Ostschweizer Unternehmen immer noch von den Folgen der Unwetter im Jahr 2024 litt. Der Zughersteller denkt an einen Wechsel auf die Überholspur für Ultra-Hochgeschwindigkeitszüge der SBB.</p>
+<p/><p>Die SBB wollen bis zu 40 Hochgeschwindigkeitszüge beschaffen, mit denen sie auf Strecken im Ausland fahren können. Diese sollen eine Höchstgeschwindigkeit von über 300 Kilometer pro Stunde fahren.</p>
+<p/><p>"Die SBB sind ein sehr wichtiger Kunde von uns. Wir stehen in ständigem Kontakt und sind interessiert am Auftrag", sagte Stadler-Chef Markus Bernsteiner am Mittwoch in einer Telefonkonferenz.</p>
+<p/><h3>Kurswechsel oder nicht?</h3>
+<p/><p>Damit würde Stadler Rail eine Kehrtwende vollziehen. Patron Peter Spuhler hatte bislang immer ausgeschlossen, dass sein Konzern in das Geschäft mit den Ultra-Hochgeschwindigkeitszügen einsteige, die bis zu 350 km/h fahren.</p>
+<p/><p>Die Smile-Züge des Ostschweizer Eisenbahnbauers, die auch als Giruno bekannt sind, sind auf eine Höchstgeschwindigkeit von 250 km/h beschränkt. Allerdings hatte Stadler vor ein paar Monaten verlauten lassen, dass die Geschwindigkeit der Giruno-Züge mit technischen Anpassungen auf über 250 km/h gesteigert werden könnte.</p>
+<p/><p>Ein Stadler-Sprecher bestritt auf Anfrage, dass es sich um eine Kehrtwende handle: "Wir möchten betonen, dass die heutigen Äusserungen und Erklärungen dezidiert keinen Kurswechsel bezüglich Hochgeschwindigkeitszügen darstellen. Selbstverständlich besteht ein grundsätzliches Interesse an der Ausschreibung der SBB. Stadler prüft diese genau und entscheidet anhand der Anforderungen, ob sie ein Angebot abgibt oder nicht."</p>
+<p/><h3>Kein Leasing von Stadler</h3>
+<p/><p>Am Mittwochmorgen gaben die SBB dann bekannt, dass ein Kauf der Züge zwar nicht ausgeschlossen sei, der Fokus aber auf einem Leasing liege.</p>
+<p/><p>Stadler selber will die Züge nicht verleasen. "Wir sind keine Leasingfirma", sagte Finanzchef Raphael Widmer. Bei einem Leasingkonstrukt würde der Hersteller die Spezifikationen der Züge direkt mit der SBB aushandeln und die Bezahlung der Fahrzeuge würde dann über eine Leasinggesellschaft erfolgen.</p>
+<p/><h3>Stadler braucht mehr Aufträge</h3>
+<p/><p>Ein solcher Grossauftrag der Bundesbahn wäre bei Stadler sehr willkommen. "Wir sind aktuell zwar gut ausgelastet, brauchen aber für die nächsten Jahre zusätzliche Aufträge, um Arbeitsplätze langfristig abzusichern", sagte Stadler-Chef Bernsteiner.</p>
+<p/><p>Denn im ersten Halbjahr holte der Konzern neue Aufträge in Höhe von nur noch 1,71 Milliarden Franken herein. Das war ein Drittel weniger als im Vorjahr. Grund für den Rückgang war, dass in diesem Jahr die Milliardenaufträge ausblieben.</p>
+<p/><p>Dennoch kletterte der Auftragsbestand auf 29,4 Milliarden Franken. Das sei ein Rekord, hiess es.</p>
+<p/><p>Der Umsatz stieg im ersten Halbjahr um 8 Prozent auf 1,40 Milliarden Franken. Der Betriebsgewinn EBIT kletterte um 31 Prozent auf 36,9 Millionen Franken. Der Reingewinn stieg um 12 Prozent auf 30,9 Millionen.</p>
+<p/><h3>Unwetterfolgen bremsen</h3>
+<p/><p>Dabei litt Stadler weiterhin unter den Auswirkungen der Unwetter des vergangenen Jahres, welche die Produktion in den Werken von Stadler und von wichtigen Zulieferern im Wallis, in Spanien und Österreich gestört hatten.</p>
+<p/><p>Alleine in Valencia wurden 40 Zulieferer schwer getroffen, deren Produktion überflutet oder teils gar weggeschwemmt wurde. Dadurch fehlten notwendige Komponenten. Stadler habe ein Aufholprogramm gestartet, schrieb das Unternehmen. Die Verhandlungen mit den Versicherungen seien aber noch nicht abgeschlossen. </p>
+<p/><p>Mit den Zahlen hat Stadler Rail die Erwartungen der Finanzgemeinde beim Auftragseingang verfehlt, beim Umsatz knapp erfüllt. Dagegen fielen die Gewinnzahlen und die Marge besser als erwartet aus.</p>
+<p/><p>Die Anleger reagierten gnadenlos: Die Aktie sackte bis Mitte Nachmittag um über 7 Prozent ab. Damit sind die ganzen Gewinne der vergangenen Woche weg, als Aussagen von Spuhler den Kurs hochgetrieben hatten.</p>
+<p/><h3>Finanzziele bestätigt</h3>
+<p/><p>Beim Ausblick hielt der Konzern an den bisherigen Zielen fest: Stadler erwartet im laufenden Jahr einen Anstieg der Umsätze um deutlich über 10 Prozent gegenüber 2024 und eine Verbesserung der EBIT-Marge auf zwischen 4 und 5 Prozent nach 2,6 Prozent im ersten Semester.</p>
+<p/><p>jb/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

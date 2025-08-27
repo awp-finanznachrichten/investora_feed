@@ -49,7 +49,7 @@ picture_database$keywords <- gsub(", ?","|",picture_database$keywords)
 
 #Filter Pictures not available
 missing_pictures <- read.xlsx("./data/missing_pictures.xlsx",sheetIndex = 1)
-missing_pictures <- paste(missing_pictures$picture_names,collapse = "|")
+missing_pictures <- paste(missing_pictures$files,collapse = "|")
 
 picture_database <- picture_database %>%
   filter(grepl(missing_pictures,picture_name) == FALSE)
