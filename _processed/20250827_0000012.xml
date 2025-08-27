@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T075111+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>816</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:816:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T075111+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T075111+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Meier Tobler startet zweite Tranche des Aktienrückkaufs</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8603" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196804">
+<Property FormalName="FullName" Value="Meier Tobler Group AG" />
+
+<Property FormalName="ShortName" Value="Meier Tobler" />
+
+<Property FormalName="Telekurs" Value="208596" />
+
+<Property FormalName="CHNr" Value="CH-020.3.928.919-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0208062627" />
+
+<Property FormalName="Ticker" Value="MTG" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Klimatechnik-Spezialist Meier Tobler hat eine weitere Tranche seines Aktien-Rückkaufprogramms gestartet. Der Verwaltungsrat beschloss den Erwerb von bis zu 162'162 eigenen Namenaktien, was 1,47 Prozent des Aktienkapitals entspricht.</p>
+<p/><p>Der bereits früher in Aussicht gestellte Rückkauf erfolgt zum Festpreis von 37 Franken je Aktie und läuft vom 28. August bis zum 11. September, wie das Unternehmen am Mittwoch mitteilte. Das maximale Volumen beträgt rund 6 Millionen Franken. Die ZKB wurde mit der Durchführung beauftragt.</p>
+<p/><p>Bereits im letzten Jahr hatte das Unternehmen zwei Rückkaufangebote zum Festpreis durchgeführt. Im März dieses Jahres kam eine weitere Tranche dazu.</p>
+<p/><p>to/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
