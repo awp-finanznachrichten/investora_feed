@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T120112+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>21</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>2030</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:2030:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T120111+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T120111+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BG: Keine aufschiebende Wirkung für Millionenforderungen im Swatch-Fall</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="02000000"/><Subject FormalName="04007010"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="2000" />
+
+<Property FormalName="City" Value="1000" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196689">
+<Property FormalName="FullName" Value="The Swatch Group SA" />
+
+<Property FormalName="ShortName" Value="Swatch" />
+
+<Property FormalName="Telekurs" Value="5165" />
+
+<Property FormalName="CHNr" Value="CH-645.1.000.444-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255151" />
+
+<Property FormalName="Ticker" Value="UHR" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255144" />
+
+<Property FormalName="Ticker" Value="UHRN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2060604738">
+<Property FormalName="FullName" Value="Schweizerisches Bundesgericht" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="000000" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="LUX"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="LAW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lausanne (awp/sda) - Der zweitinstanzlich verurteilte ehemalige Tissot-Manager und der mitangeklagte französische Geschäftsmann haben vor Bundesgericht vergeblich um aufschiebende Wirkung hinsichtlich der von ihnen zu zahlenden Ersatzforderungen von je über 20 Millionen Franken ersucht.</p>
+<p/><p>Das Kantonsgericht Neuenburg hat die beiden Männer im März dieses Jahres wegen aktiver und passiver Bestechung zu bedingten Freiheitsstrafen von jeweils 15 Monaten verurteilt. Der frühere Manager der Swatch Group schickte dem französischen Geschäftsmann von 2006 bis 2015 jeweils Informationen, damit dieser seine Preise an die Konkurrenz anpassen konnte.</p>
+<p/><p>Neben den bedingten Freiheitsstrafen verhängte das Gericht auch Ersatzforderungen von 23,5 beziehungsweise 24 Millionen Franken gegen die Verurteilten. Diese Forderungen werden während des Beschwerdeverfahrens vor Bundesgericht nicht aufgeschoben, wie das höchste Schweizer Gericht in zwei am Mittwoch publizierten Verfügungen entschieden hat.</p>
+<p/><p>Die Gesuche sind laut Gericht nicht ausreichend begründet. Auch die Ehefrau und die beiden Kinder des Ex-Managers hatten als Dritte vergeblich um aufschiebende Wirkung für die Beschlagnahmung von Geldern ersucht, die auf Konten unter ihrem Namen geführt werden. (Verfügungen 6B_571, 580, 581/2025 vom 14.8.2025)</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
