@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T092911+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>19</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>1498</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:1498:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T092911+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T092911+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Givaudan-Aktie nach CEO-Abgang im Minus</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1214" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191792">
+<Property FormalName="FullName" Value="Givaudan SA" />
+
+<Property FormalName="ShortName" Value="Givaudan" />
+
+<Property FormalName="Telekurs" Value="78786" />
+
+<Property FormalName="CHNr" Value="CH-660.0.028.929-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010645932" />
+
+<Property FormalName="Ticker" Value="GIVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0343366784" />
+
+<Property FormalName="Ticker" Value="GIV161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0572327036" />
+
+<Property FormalName="Ticker" Value="GIV20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308724" />
+
+<Property FormalName="Ticker" Value="GIV21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308732" />
+
+<Property FormalName="Ticker" Value="GIV211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714703" />
+
+<Property FormalName="Ticker" Value="GIV22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714711" />
+
+<Property FormalName="Ticker" Value="GIV220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916731" />
+
+<Property FormalName="Ticker" Value="GIV23" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktie von Givaudan steht am Mittwoch im frühen Handel unter Druck. Der Aromen- und Duftstoffkonzern hat die Strategie bis 2030 präsentiert und den Rücktritt von Gilles Andrier nach 20 Jahren als Konzernchef angekündigt. Analysten zeigen sich überrascht, dass mit Christian Stammkoetter von Danone ein Externer den CEO-Posten übernimmt.</p>
+<p/><p>Um 9.20 Uhr verlieren Givaudan in einem leicht festeren Gesamtmarkt 1,6 Prozent auf 3350 Franken, das Tagestief war mit 3296 noch deutlich tiefer. Damit notiert die Aktie rund 16 Prozent tiefer als Ende 2024 und zählt so zu den schwächsten Werten im SMI.</p>
+<p/><p>Die neuen Mittelfristziele gelten am Markt als wenig überraschend. Givaudan strebt bis 2030 ein organisches Umsatzwachstum von 4 bis 6 Prozent an (bisher: 4-5%) sowie einen freien Cashflow von über 12 Prozent des Umsatzes (unverändert). Laut UBS und JPMorgan bedeuten die Vorgaben im Wesentlichen eine Fortschreibung der bisherigen Strategie, womit die Impulse für die Aktie begrenzt seien.</p>
+<p/><p>Für Gesprächsstoff sorgt vor allem die Ernennung eines externen Nachfolgers. Die ZKB wie auch UBS betonen, dass viele Investoren mit einer internen Lösung gerechnet hätten. Mit Christian Stammkoetter, bisher Präsident Asien, Mittlerer Osten &amp; Afrika bei Danone, komme nun ein Manager mit langjähriger Konsumgüter-Erfahrung von ausserhalb. Die ZKB spricht von einer "grossen Personalrochade" und bezeichnet die Entscheidung als überraschend.</p>
+<p/><p>JPMorgan bezeichnet die Ernennung ebenfalls als unerwartet, sieht aber in der gleichzeitigen Wahl Andriers zum künftigen Verwaltungsratspräsidenten eine geordnete Übergabe. Vontobel spricht von einer "neuen Ära", betont aber ebenso, dass die neuen Finanzziele im Wesentlichen Kontinuität darstellen.</p>
+<p/><p>jl/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
