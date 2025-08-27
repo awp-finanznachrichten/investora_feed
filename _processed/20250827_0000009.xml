@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T074911+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>810</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:810:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T074911+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T074911+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Idorsia schliesst Restrukturierung der Wandelanleihen ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2042569978">
+<Property FormalName="FullName" Value="Idorsia Ltd" />
+
+<Property FormalName="ShortName" Value="Idorsia" />
+
+<Property FormalName="Telekurs" Value="751373" />
+
+<Property FormalName="CHNr" Value="CH-280.3.020.963-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0363463438" />
+
+<Property FormalName="Ticker" Value="IDIA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1128004079" />
+
+<Property FormalName="Ticker" Value="IDIA21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Allschwil(awp) - Das Biopharmaunternehmen Idorsia die Restrukturierung seiner Wandelanleihen abgeschlossen. Im Februar hatte eine Mehrheit der Gläubiger einem entsprechenden Antrag zugestimmt.</p>
+<p/><p>Für die im Jahr 2025 fällige Wandelanleihe mit einem Nennwert von 204 Millionen Franken lag die Annahmequote bei 91,9 Prozent, wie das Unternehmen am Mittwoch das definitive Endergebnis bestätigte. Das Rückkaufangebot der 2028er-Wandelanleihe über 604 Millionen Franken wurde mit 94,5 Prozent angenommen.</p>
+<p/><p>Zur Begleichung lieferte Idorsia neue Schuldverschreibungen im Gesamtwert von 762 Millionen sowie rund 8 Millionen Aktien und 8 Millionen Warrants. Zusätzlich wird laut Mitteilung eine Equity-Line über bis zu 20 Millionen Aktien eingerichtet, die bis Februar 2026 läuft und die Liquidität bis ins Jahr 2027 sichern soll.</p>
+<p/><p>an/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
