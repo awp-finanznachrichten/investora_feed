@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T072408+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>738</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:738:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T072408+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T072408+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Accelleron steigert Gewinn markant</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="5400" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2013344186">
+<Property FormalName="FullName" Value="Accelleron Industries AG" />
+
+<Property FormalName="ShortName" Value="Accelleron" />
+
+<Property FormalName="CHNr" Value="CH-400-3449316-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1169360919" />
+
+<Property FormalName="Ticker" Value="ACLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910328" />
+
+<Property FormalName="Ticker" Value="ACL24" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Accelleron hat im ersten Halbjahr 2025 deutlich mehr verdient. Sowohl der operative als auch der Reingewinn zogen markant an. Geholfen hat dabei vor allem der starke Umsatzanstieg. Die Margenprognose für das Gesamtjahr wird wegen der Zollsituation leicht reduziert.</p>
+<p/><p>Der operative Gewinn (EBITA) erhöhte sich in den ersten sechs Monaten um 20,8 Prozent auf 154,9 Millionen US-Dollar und die entsprechende Marge um 0,1 Prozentpunkte auf 25,5 Prozent, wie der Hersteller von Turboladern am Mittwoch mitteilte. Der Reingewinn kletterte gar um knapp 30 Prozent auf 114,7 Millionen Dollar in die Höhe.</p>
+<p/><p>Der Umsatz wurde schon Mitte Juli bekanntgegeben. Er stieg um gut 20 Prozent auf 608,0 Millionen Dollar, organisch lag das Plus bei 18,5 Prozent. Begründet wird der Anstieg mit weiteren Marktanteilsgewinnen bei Turboladern und einer hohen Nachfrage nach Service-Dienstleistungen im maritimem Bereich. Accelleron nennt hier explizit Retrofits und Kraftwerkanwendungen für Not- und Grundstromversorgung sowie Regelleistung.</p>
+<p/><p>"Die Märkte haben sich im ersten Halbjahr trotz geopolitischer Turbulenzen nicht abgekühlt", wird in der Mitteilung CEO Daniel Bischofberger zitiert. "Wir haben alle Register gezogen, um der Nachfrage gerecht zu werden, und sind im Hinblick auf das Volumen im zweiten Halbjahr zuversichtlich."</p>
+<p/><h3>Schifffahrt und Energie laufen gut</h3>
+<p/><p>Beide Segmente von Accelleron sind im ersten Semester zweistellig gewachsen. Das grössere Segment Medium &amp; Low Speed steigerte den Umsatz organisch um 16,6 Prozent und erreichte damit einen Wert von 456,8 auf Millionen Dollar. Sehr gut lief dabei laut Mitteilung das Marinegeschäft, während im Kraftwerksmarkt die Neubautätigkeit wieder angezogen hat.</p>
+<p/><p>Das kleinere High Speed-Segment, gemeint sind damit kleinere Turbolader mit höherer Drehzahl, verzeichnete einen organischen Anstieg des Umsatzes um 24,9 Prozent auf 149,2 Millionen. Grund dafür war insbesondere eine gute Nachfrage nach Notstromlösungen für Rechenzentren, wobei hier zunehmend auch Primär-Energielösungen gefragt sind.</p>
+<p/><h3>Ausblick für Marge etwas vorsichtiger</h3>
+<p/><p>Accelleron beurteilt die Aussichten für den Marine- und Energiemarkt für das Gesamtjahr weiterhin positiv. Die US-Zölle von 39 Prozent auf Schweizer Waren stellten aber vor allem kurzfristig eine "Herausforderung mit vielen Unbekannten" dar. Das Unternehmen sei "entschlossen, das wachsende US-Geschäft zu sichern, indem die Preisstrategie überprüft, die Wertschöpfungsketten neu konfiguriert und die betriebliche Effizienz gesteigert wird, um den Wettbewerbsvorteil aufrechtzuerhalten."</p>
+<p/><p>Wegen der aktuellen Zollsituation nimmt Accelleron die Prognose für die EBITA-Marge im Gesamtjahr um 1 Prozentpunkt zurück. Sie soll demnach im Bereich von 24 bis 25 Prozent zu liegen kommen. Bestätigt wird hingegen die erst im Juli deutlich nach oben revidierte Umsatzprognose. So wird für 2025 mit einem Umsatzwachstum im Bereich von 16 bis 19 Prozent auf rund 1,2 Milliarden gerechnet.</p>
+<p/><p>cf/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
