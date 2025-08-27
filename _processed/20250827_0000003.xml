@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T064310+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>481</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:481:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T064310+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T064310+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Givaudan peilt in neuer Strategieperiode schnelleres Wachstum an</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Meldung ausgebaut</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1214" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191792">
+<Property FormalName="FullName" Value="Givaudan SA" />
+
+<Property FormalName="ShortName" Value="Givaudan" />
+
+<Property FormalName="Telekurs" Value="78786" />
+
+<Property FormalName="CHNr" Value="CH-660.0.028.929-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010645932" />
+
+<Property FormalName="Ticker" Value="GIVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0343366784" />
+
+<Property FormalName="Ticker" Value="GIV161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0572327036" />
+
+<Property FormalName="Ticker" Value="GIV20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308724" />
+
+<Property FormalName="Ticker" Value="GIV21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308732" />
+
+<Property FormalName="Ticker" Value="GIV211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714703" />
+
+<Property FormalName="Ticker" Value="GIV22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714711" />
+
+<Property FormalName="Ticker" Value="GIV220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916731" />
+
+<Property FormalName="Ticker" Value="GIV23" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="ESG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Givaudan hat am Mittwoch die neue Strategie bis 2030 vorgestellt. Der Aromen- und Duftstoffhersteller peilt ein organisches Wachstum über dem Markt, die Stärkung des Kerngeschäfts sowie die Expansion in angrenzende Geschäftsbereiche an.</p>
+<p/><p>Im neuen fünfjährigen Strategiezyklus strebt Givaudan ein durchschnittliches organisches Wachstum von 4 bis 6 Prozent an, nachdem bisher 4 bis 5 Prozent gegolten hatten, wie das Unternehmen am Mittwoch mitteilte. Der freie Cashflow soll derweil weiterhin über 12 Prozent des Umsatzes betragen. Zudem will das Unternehmen auch künftig aktiv nach Übernahmen suchen, die zu den strategischen Fokusbereichen passen.</p>
+<p/><p>Inhaltlich baut die Strategie auf drei Wachstumstreibern auf: Givaudan will die Nähe zu den Kunden erhöhen, die geografische Präsenz in wachstumsstarken Märkten vertiefen und das Portfolio ausweiten. So soll das Angebot bei biotechnologischen Schönheitswirkstoffen, Hautpflege- und Make-up-Lösungen ausgebaut werden, aufbauend auf der Übernahme von B.kolor im Jahr 2024.</p>
+<p/><p>Im Aromen-Geschäft will der Genfer Konzern seine Position bei Inhaltsstoffen für Tiernahrung sowie bei Produkten für mentales Wohlbefinden, Gewichtskontrolle und Frauengesundheit stärken.</p>
+<p/><h3>Hohe Innovations-Investitionen</h3>
+<p/><p>Als zentrale Wachstumsfaktoren nennt Givaudan Investitionen von rund 8 Prozent des Umsatzes in Innovationen, insbesondere in grüne Chemie, Biotechnologie sowie Daten- und KI-Kompetenzen. Hinzu kommen die Weiterentwicklung digitaler Lösungen, eine agilere Lieferkette und eine stärkere Fokussierung auf Exzellenz in den Betriebsabläufen.</p>
+<p/><p>Bestätigt wurden die bestehenden ESG-Ziele. Diese beinhalten unter anderem eine Geschlechterquote von 50 Prozent bei den Führungskräften bis 2030 - per Ende Juni 2025 lag der Frauenanteil bei 33 Prozent. Zudem strebt Givaudan die Halbierung der meldepflichtigen Sicherheitsvorfälle bis 2035 an sowie die Reduktion der Treibhausgasemissionen im Einklang mit dem Netto-Null-Standard der SBTi.</p>
+<p/><p>jl/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
