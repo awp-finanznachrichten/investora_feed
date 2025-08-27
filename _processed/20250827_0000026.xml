@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T171512+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>26</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>3428</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:3428:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T171511+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T171511+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swatch-Aktien springen hoch - Laut Analysten beruhigende Aussagen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Erg&#228;nzt mit Analysten-Einsch&#228;tzungen aus dem Call, Kursentwicklung aktualisiert</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04007010"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="2000" />
+
+<Property FormalName="City" Value="1201" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196689">
+<Property FormalName="FullName" Value="The Swatch Group SA" />
+
+<Property FormalName="ShortName" Value="Swatch" />
+
+<Property FormalName="Telekurs" Value="5165" />
+
+<Property FormalName="CHNr" Value="CH-645.1.000.444-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255151" />
+
+<Property FormalName="Ticker" Value="UHR" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255144" />
+
+<Property FormalName="Ticker" Value="UHRN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196500">
+<Property FormalName="FullName" Value="Compagnie Financière Richemont AG" />
+
+<Property FormalName="ShortName" Value="Richemont" />
+
+<Property FormalName="Telekurs" Value="303363" />
+
+<Property FormalName="CHNr" Value="CH-170.3.013.862-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0210483332" />
+
+<Property FormalName="Ticker" Value="CFR" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0219729875" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="LUX"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Swatch sind am Mittwoch im Nachmittagshandel kräftig angesprungen. Mehrere Händler verwiesen auf beruhigende Aussagen vom Unternehmen in einem Call zur Lage auf dem US-Markt und dem Umgang mit den Zöllen. Eine offizielle Medienmitteilung von Swatch oder Präsentationsmaterial gab es allerdings nicht.</p>
+<p/><p>Um 14 Uhr zogen die Papiere von Swatch plötzlich deutlich an. Kurz vor Handelsschluss stehen sie 5,9 Prozent höher auf 149,75 Franken. Auch Aktien des Konkurrenten Richemont ziehen mit 3,7 Prozent ebenfalls klar an. Der Schweizer Leitindex steht derweil nur 0,22 Prozent im Plus.</p>
+<p/><p>Swatch habe versichert, dass der US-Markt sich stark entwickle und die Zölle zu managen seien, so Händler. Die Umsätze seien stark. Insgesamt sähen die Aussagen überzeugend und beruhigend aus, kommentierte ein Börsianer.</p>
+<p/><p>Die Swatch-Aktie zählte bislang im Jahresverlauf zu jenen mit einer stark unterdurchschnittlichen Entwicklung.</p>
+<p/><h3>Hayek verbreitet Optimismus</h3>
+<p/><p>In einer Ersteinschätzung des ad-hoc einberufenen Analysten-Calls habe Swatch-Chef Nick Hayek Optimismus zu den Entwicklungen in den USA verbreitet, schreibt die UBS. So sei das Unternehmen in den USA im ersten Halbjahr um 15 Prozent gewachsen. Jedoch konnte das Wachstum dort und in anderen Regionen nicht die Rückgänge in China kompensieren.</p>
+<p/><p>Im Zuge der US-Zölle wolle Hayek zudem Preiserhöhungen von rund 5 bis 10 Prozent im US-Markt vornehmen, wobei das Ausmass für die einzelnen Marken von den unterschiedlichen Verrechnungspreisen und Margenstrukturen abhinge. Einen wesentlichen Einfluss der Preiserhöhungen auf die Konsumentennachfrage erwarte Hayek jedoch nicht, so die UBS.</p>
+<p/><p>Die Preiserhöhungen sollten gemäss den Aussage des Managements "ausreichen, um den zusätzlichen Druck durch den 39-prozentigen Zoll auszugleichen", ergänzte JP Morgan. Darüber hinaus wolle Swatch die zusätzlichen Belastungen durch die Zölle nicht selbst tragen. Daher seien auch keine wesentlichen Auswirkungen auf die Profitabilität zu erwarten, soweit die Auswirkungen auf die Volumen begrenzt blieben.</p>
+<p/><p>Eine Verlagerung der Produktion in die USA schloss Hayek entschieden aus. Alle Uhrwerke würden weiterhin in der Schweiz produziert. Aktuell decke der Lagerbestand in den USA einen Zeitraum von zehn Monaten ab. Diese Bestände seien Anfang August noch einmal deutlich aufgestockt worden.</p>
+<p/><p>Die Aussagen überzeugten die UBS-Analysten nur bedingt. Sie seien "mit Vorsicht zu geniessen", heisst es. So sahen die Analysten auch keine Veranlassung, ihr "Sell"-Rating oder das Preisziel von lediglich 71 Franken anzupassen. Auch JP Morgan nahm keine Anpassungen vor (Underweight, PT 110 Fr.).</p>
+<p/><p>dm/cg/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
