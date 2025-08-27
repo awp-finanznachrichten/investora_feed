@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T081010+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>1116</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:1116:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T081009+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T081009+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>U-blox: Advent legt Angebotsprospekt für Übernahme vor</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04003004"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2113003548">
+<Property FormalName="FullName" Value="U-blox Holding AG" />
+
+<Property FormalName="ShortName" Value="U-blox" />
+
+<Property FormalName="Telekurs" Value="403664" />
+
+<Property FormalName="CHNr" Value="CH-020.3.031.477-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0033361673" />
+
+<Property FormalName="Ticker" Value="UBXN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ELE"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Advent International hat am Mittwoch den Prospekt für das Angebot zum Kauf aller ausstehenden Aktien des Schweizer Halbleiterunternehmens U-Blox publiziert. Wie angekündigt dauert die Angebotsfrist vom 11. September bis 9. Oktober 2025. Nach Abschluss plant Advent ein Squeeze-out sowie die Dekotierung der U-blox-Aktien von der SIX Swiss Exchange.</p>
+<p/><p>Das am 18. August angekündigte Angebot beträgt 135,00 Franken pro Aktie in bar, was einer Bewertung von rund 1,05 Milliarden Franken entspricht. Der Verwaltungsrat von U-blox empfiehlt einstimmig die Annahme des Angebots, gestützt auf eine unabhängige Fairness Opinion. Der grösste Aktionär SEO Master Fund LP (9%) sowie Verwaltungsrat und Management haben bereits zugesagt, ihre Aktien anzudienen.</p>
+<p/><p>Die Aktie hat am Dienstag bei 136,40 Franken geschlossen. Das Angebot war in Marktkreisen zum Teil als zu niedrig bezeichnet worden, entsprechend gibt es anhalende Spekulationen auf ein besseres Angebot.</p>
+<p/><p>an/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
