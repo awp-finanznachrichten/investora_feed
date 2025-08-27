@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T101510+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>1634</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:1634:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T101510+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T101510+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Peach Property dämmt Verlust im ersten Halbjahr ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Aktualisierte Fassung nach Publikation des Halbjahresberichts</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016019"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8038" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2103849416">
+<Property FormalName="FullName" Value="Peach Property Group AG" />
+
+<Property FormalName="ShortName" Value="Peach Property" />
+
+<Property FormalName="Telekurs" Value="528360" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.910-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0118530366" />
+
+<Property FormalName="Ticker" Value="PEAN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1263282522" />
+
+<Property FormalName="Ticker" Value="PEA234" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Peach Property Group hat im ersten Halbjahr 2025 weniger Verlust geschrieben als im Vorjahreszeitraum. Zugleich hat der Immobilieninvestor die im vergangenen Jahr begonnene Bilanztransformation mit einer umfassenden Refinanzierung abgeschlossen.</p>
+<p/><p>Die Mieterträge fielen im ersten Semester auf 51,6 Millionen Euro von zuvor 61,5 Millionen zurück. Auf vergleichbarer Basis seien die Mieteinnahmen indes um 3,9 Prozent gestiegen, wie aus dem am Mittwoch veröffentlichten Halbjahresbericht hervorgeht.</p>
+<p/><p>Der Vorsteuerverlust belief sich auf 1,8 Millionen Euro nach einem solchen von 26,9 Millionen im ersten Semester 2024. Unter dem Strich resultierte ein Reinverlust nach Steuern von 9,4 Millionen Euro nach einem Minus von 22,8 Millionen. Im Gesamtjahr 2024 hatte sich der Reinverlust auf 200,5 Millionen Euro summiert.</p>
+<p/><p>Die Quote der leerstehenden Wohnungen im strategischen Portfolio sank per Ende Juni auf 4,9 Prozent nach 5,2 Prozent Ende 2024. Der operative Mittelzufluss (Funds from Operations, FFO I) belief sich auf 6,7 Millionen Euro. Im ersten Halbjahr 2024 standen hier noch 8,9 Millionen zu Buche.</p>
+<p/><p>Der Marktwert des Immobilienportfolios erhöhte sich bis Ende Juni 2025 auf 1,94 Milliarden Euro nach 1,92 Milliarden Ende 2024. Investitionen von rund 20 Millionen flossen in den Bestand.</p>
+<p/><h3>Mittelfristziele bestätigt</h3>
+<p/><p>Wesentlich geprägt war das Halbjahr von der Refinanzierung: Im Januar zahlte Peach Property rund 127 Millionen Euro auf eine im November fällige Anleihe über 300 Millionen Euro zurück. Zudem sicherte sich die Gruppe im Juni eine neue Kreditfazilität über 120 Millionen Euro und platzierte im August eine Grossfinanzierung von 410 Millionen Euro. Der Verschuldungsgrad (LTV) lag Ende Juni bei 52,2 Prozent und fiel nach der Kapitalerhöhung im Juli auf unter 50 Prozent.</p>
+<p/><p>Die beiden neuen Darlehen dürften indes den operative Mittelzufluss belasten. Durch die vorzeitig Refinanzierung passt das Management die FFO-I-Prognose um rund 2 Millionen Euro nach unten an auf nun 16 bis 18 Millionen.</p>
+<p/><p>Auf flächenbereinigter Basis bleiben die mittelfristigen Ziele aber unverändert: Für das laufende Jahr strebt Peach Property auf vergleichbarer Basis einen weiteren Anstieg der Nettomieterträge von mehr als 4 Prozent an. Die Leerstandsquote soll unter 4 Prozent sinken. Mittelfristig peilt die Gruppe einen LTV von unter 45 Prozent an.</p>
+<p/><p>jl/sta/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
