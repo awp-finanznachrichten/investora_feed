@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T064510+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>488</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:488:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T064510+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T064510+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SF-Urban-Reingewinn schnellt in die Höhe</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2109140581">
+<Property FormalName="FullName" Value="SF Urban Properties AG" />
+
+<Property FormalName="ShortName" Value="SF Urban" />
+
+<Property FormalName="Telekurs" Value="393374" />
+
+<Property FormalName="CHNr" Value="CH-020.3.025.156-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0032816131" />
+
+<Property FormalName="Ticker" Value="SFPN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Immobilienunternehmen SF Urban Properties hat im ersten Halbjahr 2025 den Gewinn mehr als verdreifacht. Der Grund dafür waren positive Bewertungseffekte.</p>
+<p/><p>Unter dem Strich verdiente das Unternehmen 21,6 Millionen Franken, wie es in einer Mitteilung vom Mittwoch heisst. Im Vorjahreszeitraum waren es lediglich 6,0 Millionen gewesen.</p>
+<p/><p>Die entscheidende Rolle dafür spielten positive Neubewertungseffekte. Diese beliefen sich auf 16,6 Millionen, im Vorjahr hatte noch ein leicht negativer Effekt (-0,8 Mio) resultiert. Der Portfoliowert wird nun mit 800,7 Millionen angegeben per Mitte Jahr.</p>
+<p/><p>"Die hohe Wertsteigerung zeigt, dass unser Fokus von Investitionen in die urbanen Lagen von Zürich und Basel Sinn ergibt und zu einer Stärkung der Anlagerendite führt", lässt sich CEO Bruno Kurz zitieren.</p>
+<p/><p>Auch operativ gab es Fortschritte. So stieg der Reingewinn ohne Neubewertungseffekte auf 8,2 Millionen von 6,6 Millionen Franken. Basis dafür war ein um 2,3 Prozent höherer Liegenschaftsertrag von 15,9 Millionen sowie eine nach wie vor tiefe Leerstandsquote von 2,0 Prozent.</p>
+<p/><h3>Portfolio-Rotation auf Kurs</h3>
+<p/><p>Profitiert habe der Gewinn ausserdem vom Verkauf zweier Liegenschaften über Marktwert und einem positiven Beitrag des Promotionsgeschäfts. Zwei Liegenschaften seien für 19,9 Millionen verkauft und eine Wohnliegenschaft im renommierten Zürcher Seefeldquartier für 13,8 Millionen erworben worden, so das Communiqué.</p>
+<p/><p>Damit sei die Portfoliorotation, die im laufenden Jahr weitgehend abgeschlossen werden soll, fortgeführt worden. Die Gesellschaft will sich auf Lagen, welche ein überdurchschnittliches Aufwertungspotenzial bieten und zugleich ein tiefes Leerstandsrisiko haben, fokussieren.</p>
+<p/><p>Bereits nach dem Bilanzstichtag seien eine weitere Wohnliegenschaft im Zürcher Seefeldquartier sowie eine Arrondierungsliegenschaft in Basel erworben worden, heisst es. Zudem sei eine neue Promotionsliegenschaft in Zürich gesichert worden. Im weiteren Jahresverlauf sei der Erwerb von ein bis zwei weiteren Entwicklungsprojekten vorgesehen.</p>
+<p/><p>Infolge der Portfoliorotation rechnet das Management im zweiten Halbjahr mit einem leicht tieferen Liegenschaftsertrag als im ersten Halbjahr. Alle laufenden Entwicklungsprojekte befänden sich derweil auf Kurs und sollen im Geschäftsjahr 2025 insgesamt rund 4,5 Millionen Franken zum EBIT beitragen.</p>
+<p/><p>rw/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
