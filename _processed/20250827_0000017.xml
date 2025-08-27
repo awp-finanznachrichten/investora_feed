@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T080511+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>1031</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:1031:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T080510+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T080510+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Bioversys erhält von EMA Orphan-Status für Kombination Alpibectir/Ethionamid</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016037"/><Subject FormalName="04016027"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4057 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2076734224">
+<Property FormalName="FullName" Value="BioVersys AG" />
+
+<Property FormalName="ShortName" Value="Bioversys" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-400.4.030.951-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0210362643" />
+
+<Property FormalName="Ticker" Value="BIOV" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Bioversys erhält für seinen Hoffnungsträger Alpibectir in Kombination mit Ethionamid nun auch in der EU einen wichtigen Förderstatus. Das Mittel wird von der europäischen Arzneimittelbehörde als Behandlung für eine seltene Krankheit, eine sogenannte "Orphan Drug", eingestuft.</p>
+<p/><p>Damit sind wichtige Anreize wie tiefere Gebühren, Forschungsunterstützung und eine 10-jährige Marktexklusivität verbunden, wie das Biopharmaunternehmen am Mittwoch mitteilte. Der Status bezieht sich auf die Behandlung von Tuberkulose. Viele bestehende Behandlungen gegen die tödliche Infektionskrankheit verlören aufgrund von Resistenzen ihre Wirksamkeit, schreibt Bioversys.</p>
+<p/><p>Die Einstufung als "Orphan Drug" in der EU erfolge nach einer erfolgreichen klinischen Phase-2a-Studie. Die US-Arzneimittelbehörde FDA hatte der Behandlung bereits 2023 den Status als seltenes Mittel zugestanden.</p>
+<p/><p>Derzeit läuft eine Phase-2-Studie zur Behandlung von Lungentuberkulose in Kombination mit anderen Mitteln. Parallel dazu startet voraussichtlich Anfang 2026 die Dosierung in einer Phase-2-Studie zur tuberkulösen Meningitis. Bioversys führt die Studien in Zusammenarbeit mit dem britischen Pharmaunternehmen GSK durch.</p>
+<p/><p>tt/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
