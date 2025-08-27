@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T074911+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>811</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:811:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T074911+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T074911+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Cosmo erhält nun doch Empfehlung von EU-Ausschuss für Aknemittel</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="04016030"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH" />
+
+<Property FormalName="Country" Value="IE" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2118342001">
+<Property FormalName="FullName" Value="Cosmo Pharmaceuticals N.V. " />
+
+<Property FormalName="ShortName" Value="Cosmo" />
+
+<Property FormalName="Telekurs" Value="717960" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="NL0011832936" />
+
+<Property FormalName="Ticker" Value="COPN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Dublin (awp) - Das Spezialitätenpharma-Unternehmen Cosmo hat nach einem ersten Rückschlag nun doch die Empfehlung des EU-Ausschusses für sein Aknemittel Winlevi erhalten. Der Ausschuss für Humanarzneimittel (CHMP) der Europäischen Arzneimittel-Agentur (EMA) habe nach erneuter Prüfung nun eine positive Stellungnahme für Winlevi zur Behandlung von akuter Akne im Gesicht bei Erwachsenen und Jugendlichen im Alter von zwölf bis 18 Jahren abgegeben, teilte Cosmo am Mittwoch mit.</p>
+<p/><p>Diese Empfehlung zur Zulassung sei eine "bedeutende Erweiterung" der Indikation für Winlevi in Europa und ein wichtiger Meilenstein für Cosmo, heisst es weiter. Das Aknemittel ist unter anderem bereits in den USA, Kanada, Grossbritannien und Australien zugelassen.</p>
+<p/><p>Bei der ersten Überprüfung hatte der CHMP die Behandlung von Jugendlichen aufgrund einer negativen Nutzen-Risiko-Bewertung abgelehnt. Cosmo habe daraufhin unter anderem eine eingehendere klinische Bewertung vorgelegt.</p>
+<p/><p>dm/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
