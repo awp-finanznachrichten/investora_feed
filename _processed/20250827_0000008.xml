@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250827T073209+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250827</DateId>
+			<NewsItemId>775</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250827:775:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250827T073209+0200</FirstCreated>
+		<ThisRevisionCreated>20250827T073209+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SNB-Vize: Setzen auf Stabilität und Vorsicht trotz geopolitischer Unsicherheiten</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008001"/><Subject FormalName="04019001"/><Subject FormalName="04008009"/><Subject FormalName="04008000"/><Subject FormalName="11000000"/><Subject FormalName="04008033"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3011 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197664">
+<Property FormalName="FullName" Value="Schweizerische Nationalbank" />
+
+<Property FormalName="ShortName" Value="SNB" />
+
+<Property FormalName="Telekurs" Value="22802" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.957-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001319265" />
+
+<Property FormalName="Ticker" Value="SNBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Subject" Value="CBK"/><Property FormalName="Subject" Value="MON"/><Property FormalName="Subject" Value="IRT"/><Property FormalName="Subject" Value="ECO"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="TRA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Schweizerische Nationalbank (SNB) agiert aktuell in einem sehr schwierigen Umfeld. Zu den grössten Herausforderungen gehören laut Antoine Martin, Mitglied der Direktion, die US-Zölle von 39 Prozent, die Schwäche des US-Dollars, die Risiken einer Deflation sowie die Stabilität des Schweizer Bankensystems.</p>
+<p/><p>Auch vor dem Hintergrund all dieser Risiken will die SNB an ihrem konservativen Ansatz fest halten. "Ja, unser Mandat ist klar: Preisstabilität gewährleisten und die Finanzstabilität im Auge behalten", sagte Martin in einem Interview mit der Westschweizer Wirtschaftszeitung "L'Agefi" vom Mittwoch.</p>
+<p/><p>Die SNB beobachte gleichzeitig die Auswirkungen der Zölle auf die Schweizer Wirtschaft genau, insbesondere auf Lieferketten und Exporte. Eine Aufwertung des Frankens sei aktuell eher eine Folge des schwachen Dollars als eines übermässig starken Franken. Trotz dieser Volatilität bestehe derzeit kein Deflationsrisiko.</p>
+<p/><h3>"Manipulieren Franken nicht"</h3>
+<p/><p>Zur Geldpolitik erinnerte Martin an das SNB-Mandat der Preisstabilität. Dabei könne sie bei Bedarf auch marktpolitisch intervenieren. "Die SNB manipuliert den Franken nicht", betont er aber. Die SNB verhindere weder notwendige Anpassungen der Handelsbilanz noch versuche sie, die Wettbewerbsfähigkeit der Schweizer Wirtschaft ungebührlich zu steigern.</p>
+<p/><p>Negative Zinsen sind derweil offenbar nur unter strengen Bedingungen eine Option. "Die Anforderungen für die Einführung von Negativzinsen sind höher als für eine Zinssenkung im positiven Bereich", betonte Martin.</p>
+<p/><p>Die Erfahrungen der Vergangenheit hätten zwar gezeigt, dass Negativzinsen funktioniert haben. Sie brächten aber auch grössere Herausforderungen für Banken, Investoren und auch Haushalte mit sich, die dadurch grössere Risiken eingingen. "Dieses Phänomen kann langfristig negative Auswirkungen haben", warnte der SNB-Vize.</p>
+<p/><h3>Keine Engpässe im Kreditmarkt</h3>
+<p/><p>Bezüglich Finanzstabilität betonte Martin, dass die Übernahme der Credit Suisse durch UBS positiv für den Schweizer Finanzplatz sei. Die neuen "Too Big To Fail"-Vorschriften sollen Martin zufolge die Widerstandsfähigkeit der UBS erhöhen, während kleinere Banken die Kreditversorgung der Wirtschaft sicherstellten.</p>
+<p/><p>"Die Marktmechanismen funktionieren trotz der Marktmacht von UBS. Kleinere Banken kompensieren teilweise reduzierte Kredite", sagte er. Insgesamt sehe die SNB jedenfalls keine strukturellen Engpässe im Kreditmarkt.</p>
+<p/><p>In Bezug auf Kryptowährungn sagte Martin, der Bitcoin sei weiterhin kein geeignetes Anlageinstrument für die SNB-Reserven. Seine Volatilität sei zu hoch. "Ich weiss immer noch nicht, wozu Bitcoin dienen soll", sagt Martin auf seine früheren Aussagen angesprochen, wonach seiner Meinung nach der langfristige Wert der Kryptowährung ungefähr Null betrage.</p>
+<p/><p>Abschliessend betonte Martin die Unabhängigkeit der SNB: "Unsere Entscheidungen basieren auf wirtschaftlichen Daten, nicht auf politischen Erwägungen. Ziel ist eine stabile Schweizer Wirtschaft, Preisstabilität und eine widerstandsfähige Finanzlandschaft."</p>
+<p/><p>ra/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
