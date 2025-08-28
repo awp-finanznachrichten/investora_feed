@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T080111+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>918</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:918:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T080110+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T080110+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BKB will mit Strategie 2026+ Marktposition in nächsten vier Jahren stärken</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016039"/><Subject FormalName="04016030"/><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4051" />
+
+<Property FormalName="City" Value="4052" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197637">
+<Property FormalName="FullName" Value="Basler Kantonalbank" />
+
+<Property FormalName="ShortName" Value="BKB" />
+
+<Property FormalName="Telekurs" Value="25839" />
+
+<Property FormalName="CHNr" Value="CH-270.8.000.002-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0118095667" />
+
+<Property FormalName="Ticker" Value="BSK10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0119153663" />
+
+<Property FormalName="Ticker" Value="BSK102" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0149549575" />
+
+<Property FormalName="Ticker" Value="BSK12" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0353574319" />
+
+<Property FormalName="Ticker" Value="BSK176" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041006" />
+
+<Property FormalName="Ticker" Value="BSK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041410" />
+
+<Property FormalName="Ticker" Value="BSK191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239037" />
+
+<Property FormalName="Ticker" Value="BKS192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071395" />
+
+<Property FormalName="Ticker" Value="BSK21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0545754688" />
+
+<Property FormalName="Ticker" Value="BKS200" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1193213076" />
+
+<Property FormalName="Ticker" Value="BSK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1193213142" />
+
+<Property FormalName="Ticker" Value="BSK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890801" />
+
+<Property FormalName="Ticker" Value="BSK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890827" />
+
+<Property FormalName="Ticker" Value="BSK241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009236461" />
+
+<Property FormalName="Ticker" Value="BSKP" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890942" />
+
+<Property FormalName="Ticker" Value="BSK25" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193330">
+<Property FormalName="FullName" Value="Bank Cler AG" />
+
+<Property FormalName="ShortName" Value="Bank Cler" />
+
+<Property FormalName="Telekurs" Value="359894" />
+
+<Property FormalName="CHNr" Value="CH-270.3.001.135-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0373476040" />
+
+<Property FormalName="Ticker" Value="BCA17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041139" />
+
+<Property FormalName="Ticker" Value="BCA19" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Die Basler Kantonalbank (BKB Konzern) hat mit der 'Strategie 2026+' ihre Ausrichtung für die kommenden vier Jahre definiert. Aufbauend auf der aktuellen Positionierung des Stammhauses BKB und der Tochter Bank Cler will sie Stabilität, Kundennähe, fortschrittliche Banklösungen und die Mitarbeiter-Kompetenzen weiter ausbauen.</p>
+<p/><p>Die übergeordnete "Vision 2040" sehe derweil ein "deutlich ausgewogeneres Ertragsmodell" mit stärkerer Diversifikation zwischen Zins-, Kommissions- und Handelserträgen vor, heisst es in einer Mitteilung vom Donnerstag.</p>
+<p/><p>Die BKB hat in ihrer aktualisierten Strategie vier Stossrichtungen definiert. Als erstes wird die Vertriebs- und Dienstleistungsexzellenz genannt. Kundenprozesse sollen dabei End-to-End optimiert, Beratung und Beziehungsmanagement ausgebaut und digitale wie physische Kanäle stärker verzahnt werden. Ziel sei eine höhere Kundenzufriedenheit und die Rolle als Hauptbankbeziehung.</p>
+<p/><p>Als zweite Stossrichtung nennt die Bank den Bereich Vermögensverwaltung und Anlageberatung. Angesichts steigender Nachfrage nach Anlageprodukten sollen Beratungspakete und Anlagelösungen ausgebaut, Prozesse verbessert und die Anlagekompetenz gestärkt werden.</p>
+<p/><h3>Weiter juristisch eigenständig</h3>
+<p/><p>Weiter wird das Bilanzmanagement genannt: Mit einer Optimierung der Bilanzstruktur und Weiterentwicklung von Risikomodellen sollen Stabilität, das Vertrauen und nachhaltiges Wachstum, besonders im Firmen- und Immobiliengeschäft, gesichert werden.</p>
+<p/><p>Als vierten und letzten Punkt nennt die BKB Führungs- und Zukunftskompetenzen: Mit attraktiver Personalpolitik, gezielter Förderung von Schlüsselqualifikationen und moderner Unternehmenskultur solle die Arbeitgeberattraktivität gestärkt werden.</p>
+<p/><p>Die Bank betont in der Mitteilung, dass das Stammhaus und die Bank Cler die vier Stossrichtungen gemeinsam verfolgen würden und im Grundsatz einheitliche Produkte und Dienstleistungen anbieten würden. "Sie bleiben jedoch weiterhin juristisch eigenständig und behalten ihren eigenen Marktauftritt", so das Communiqué.</p>
+<p/><p>uh/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
