@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T072310+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>687</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:687:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T072310+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T072310+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Cham Swiss Properties schreibt im Halbjahr hohen Gewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6330" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2025756012">
+<Property FormalName="FullName" Value="Cham Swiss Properties AG" />
+
+<Property FormalName="ShortName" Value="Cham SP" />
+
+<Property FormalName="Telekurs" Value="845661" />
+
+<Property FormalName="CHNr" Value="CH-020.3.048.325-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0524026959" />
+
+<Property FormalName="Ticker" Value="CHAM" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Cham (awp) - Die neu formierte Immobiliengesellschaft Cham Swiss Properties hat im neuen Kleid erstmals Zahlen vorgelegt. Im ersten Halbjahr 2025 schlugen insbesondere Neubewertungen von Liegenschaften positiv zu Buche, was zu einem hohen Konzerngewinn führte.</p>
+<p/><p>Der Betriebsertrag der in diesem Jahr aus der Fusion der Cham Group mit der Ina Invest entstandenen Cham Swiss Properties lag bei 125,6 Millionen Franken, wie die Gesellschaft am Donnerstag mitteilte. Da aber die Zahlen von Ina Invest bis zum Fusionszeitpunkt im Frühjahr 2025 nicht enthalten seien, seien Vergleiche mit Vorjahreswerten nicht aussagekräftig. Zum Betriebsertrag wird in der Erfolgsrechnung ein Vorjahreswert von 4,5 Millionen angegeben.</p>
+<p/><p>Aus der Vermietung der rund zwanzig Renditeliegenschaften inklusive jenen von Ina Invest flossen der Gesellschaft pro forma insgesamt 13,1 Millionen Franken zu, wie es weiter hiess. Derweil belief sich der Ertrag aus dem Verkauf von Liegenschaften auf 114,9 Millionen Franken.</p>
+<p/><p>Das Betriebsergebnis (EBIT) ohne Neubewertungseffekte stand bei 39,0 Millionen Franken. Und getragen von einem hohen Erfolg aus Neubewertungen von 125,4 Millionen lag der Konzerngewinn bei 144,0 Millionen. Im Vorjahr hatte laut den Angaben ein Gewinn in Höhe von 86,6 Millionen resultiert.</p>
+<p/><p>Das Immobilienportfolio habe die Wüest Partner AG einheitlich bewertet, wobei sich der Marktwert auch infolge der Harmonisierung und der Einschätzung der Zukunftsperspektiven des Portfolios stark auf 1,66 Milliarden Franken erhöht habe, hiess es weiter. Die Leerstandsquote liege bei 6 Prozent.</p>
+<p/><h3>Integration verläuft plangemäss</h3>
+<p/><p>Nach dem Zusammenschluss der Cham Group und Ina Invest wurden die Aktien der in Cham Swiss Properties AG umfirmierten Gesellschaft erstmals am 9. April an der Schweizer Börse SIX Swiss Exchange gehandelt. Die Integration verlaufe auf allen Ebenen planmässig und werde voraussichtlich bis zum Jahresende abgeschlossen sein. Und auch die Bau- und Entwicklungsvorhaben, etwa in Genf oder in Winterthur, seien auf Kurs.</p>
+<p/><p>Die Cham Swiss Properties rechnet damit, dass bis zum Jahresende zusätzliche Erträge aus der Vermietung eines grossen Teils des Zentrallagers auf dem Papieri-Areal in Cham und aufgrund des Bezugs einer der Winterthurer Lokstadt-Hallen durch Swiss Casinos dazukommen werden.</p>
+<p/><p>mk/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
