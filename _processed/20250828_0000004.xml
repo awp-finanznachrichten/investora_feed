@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T073113+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>744</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:744:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T073112+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T073112+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Jungfraubahnen steigern Ertrag im Halbjahr und machen Rekordgewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147192962">
+<Property FormalName="FullName" Value="Jungfraubahn Holding AG" />
+
+<Property FormalName="ShortName" Value="Jungfraubahn" />
+
+<Property FormalName="Telekurs" Value="272494" />
+
+<Property FormalName="CHNr" Value="CH-092.3.006.230-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0017875789" />
+
+<Property FormalName="Ticker" Value="JFN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Interlaken (awp) - Die Jungfraubahn-Gruppe hat im ersten Halbjahr 2025 mehr Gäste auf das Jungfraujoch befördert und den Ertrag gesteigert. Unter dem Strich resultierte ein Rekordgewinn.</p>
+<p/><p>Mit 472'700 Personen kamen von Januar bis Juni 2,6 Prozent mehr Gäste auf das Jungfraujoch als in der Vorjahresperiode, wie die Gruppe am Donnerstag mitteilte. Dabei gelang es dem Berner Oberländer Bahnbetreiber, die Ausgaben pro Gast zu steigern. Der Verkehrsertrag für das Jungfraujoch lag bei 59,7 Millionen Franken - das sind 4,9 Prozent mehr als im Vorjahr.</p>
+<p/><p>Bei den sogenannten Erlebnisbergen - dazu zählen Firstbahn, Harderbahn und Mürrenbahn - stieg der Verkehrsertrag sogar um 18 Prozent auf 20,8 Millionen Franken. Dazu kam eine Wintersaison 2024/25 mit der zweithöchsten Besucherzahl der letzten zehn Jahre.</p>
+<p/><p>Zusammengenommen stiegen die Verkehrserträge damit um 8,2 Prozent erstmals über die 100-Millionen-Marke auf 107,2 Millionen Franken. Inklusive Restaurants, Souvenirshops und weiteren Einnahmequellen steigerte das Tourismusunternehmen den Betriebsertrag um 5,7 Prozent auf 149,9 Millionen Franken.</p>
+<p/><h3>Erwartungen übertroffen</h3>
+<p/><p>Auch der Betriebsaufwand nahm zu - mit 5,3 Prozent allerdings nicht so stark wie der Ertrag. So stieg der Betriebsgewinn (EBITDA) um 6,3 Prozent auf 65,9 Millionen Franken. Unter dem Strich stand für das erste Halbjahr 2025 ein Rekordgewinn von 37,0 Millionen - das sind 7,2 Prozent mehr als vor einem Jahr.</p>
+<p/><p>Damit schnitt das Berner Oberländer Unternehmen besser als erwartet ab: Analysten hatten gemäss AWP-Konsens mit weniger hohen Erträgen gerechnet. Auch der EBITDA und der Reingewinn lagen etwas über den Erwartungen.</p>
+<p/><h3>Erstmals unter neuem CEO</h3>
+<p/><p>Zum ersten Mal präsentierte das Tourismusunternehmen die Geschäftszahlen unter dem neuen CEO Oliver Hammel. Er hatte die operative Leitung Mitte Juni übernommen und folgte auf Urs Kessler, der nach 38 Jahren im Unternehmen die operative Führung abgab.</p>
+<p/><p>Die positive Entwicklung bei den Gästezahlen führt er auf die Strategie zurück, die Monate mit weniger Besuchenden besser auszulasten. Mehr Gäste kamen vor allem aus den USA, Indien und Südkorea - wobei sich auch China weiter im Aufwärtstrend befinde.</p>
+<p/><p>In den beiden Folgemonaten des ersten Halbjahres 2025, Juli und August, setzte sich der Trend laut Hammel fort - auch wenn der Juli teils sehr regenreich gewesen sei. Bewährt habe sich dabei auch die internationale Ausrichtung und die grosse Diversifikation bei den Fernmärkten. Damit sei die Jungfraubahn-Gruppe weniger abhängig vom Wetter.</p>
+<p/><p>jl/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
