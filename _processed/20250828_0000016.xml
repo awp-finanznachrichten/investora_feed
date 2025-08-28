@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T135111+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>2893</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:2893:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T135111+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T135111+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SRG verlängert TV-Vermarktungsvertrag mit Admeira bis 2028</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Meldung mit letztem Satz zum Anteilsverkauf von Swisscom erg&#228;nzt.</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016013"/><Subject FormalName="04010000"/><Subject FormalName="04003007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3006" />
+
+<Property FormalName="City" Value="3063" />
+
+<Property FormalName="City" Value="3006" />
+
+<Property FormalName="City" Value="3006 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2132447087">
+<Property FormalName="FullName" Value="publisuisse SA" />
+
+<Property FormalName="Telekurs" Value="242655" />
+
+<Property FormalName="CHNr" Value="CH-035.3.004.239-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002426556" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193763">
+<Property FormalName="FullName" Value="Swisscom AG" />
+
+<Property FormalName="ShortName" Value="Swisscom" />
+
+<Property FormalName="Telekurs" Value="11346" />
+
+<Property FormalName="CHNr" Value="CH-035.8.018.212-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0247776138" />
+
+<Property FormalName="Ticker" Value="SCM14" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0254147504" />
+
+<Property FormalName="Ticker" Value="SCM141" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0268988182" />
+
+<Property FormalName="Ticker" Value="SCM151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0317921663" />
+
+<Property FormalName="Ticker" Value="SCM16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0336352775" />
+
+<Property FormalName="Ticker" Value="SCM161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0344583783" />
+
+<Property FormalName="Ticker" Value="SCM162" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0362748359" />
+
+<Property FormalName="Ticker" Value="SCM17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0373476164" />
+
+<Property FormalName="Ticker" Value="SCM33" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040982" />
+
+<Property FormalName="Ticker" Value="SCM19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0437180935" />
+
+<Property FormalName="Ticker" Value="SCM181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0494734335" />
+
+<Property FormalName="Ticker" Value="SCM192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0515152467" />
+
+<Property FormalName="Ticker" Value="SCM20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0580291968" />
+
+<Property FormalName="Ticker" Value="SCM201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112455766" />
+
+<Property FormalName="Ticker" Value="SCM21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1248666930" />
+
+<Property FormalName="Ticker" Value="SCM23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1254751907" />
+
+<Property FormalName="Ticker" Value="SCM231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727785" />
+
+<Property FormalName="Ticker" Value="SCM24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727793" />
+
+<Property FormalName="Ticker" Value="SCM240" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727801" />
+
+<Property FormalName="Ticker" Value="SCM241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401875" />
+
+<Property FormalName="Ticker" Value="SCM242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403761" />
+
+<Property FormalName="Ticker" Value="SCM25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403779" />
+
+<Property FormalName="Ticker" Value="SCM251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008742519" />
+
+<Property FormalName="Ticker" Value="SCMN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197141">
+<Property FormalName="FullName" Value="Schweizerische Radio- und Fernsehgesellschaft" />
+
+<Property FormalName="ShortName" Value="SRG SSR" />
+
+<Property FormalName="Telekurs" Value="163641" />
+
+<Property FormalName="CHNr" Value="CH-035.6.002.185-3" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2042329189">
+<Property FormalName="FullName" Value="Admeira AG" />
+
+<Property FormalName="Telekurs" Value="242655" />
+
+<Property FormalName="CHNr" Value="CH-020.3.042.725-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002426556" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="ORD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp/sda) - Die Schweizerische Radio- und Fernsehgesellschaft SRG verlängert ihren Kooperationsvertrag mit der Werbevermarkterin Admeira bis 2028. Damit wird das Medienhaus das TV-Werbeinventar weiterhin exklusiv von Admeira vermarkten lassen.</p>
+<p/><p>Diese Entscheidung unterstreiche das gegenseitige Vertrauen und die erfolgreiche Zusammenarbeit in einem dynamischen Medienumfeld, teilten Ringier und die SRG am Donnerstag mit.</p>
+<p/><p>Die langfristige Zusammenarbeit ermögliche beiden Unternehmen, gemeinsam die Zukunft der TV-Werbung in der Schweiz mitzugestalten und innovative Lösungen für die Herausforderungen des sich wandelnden Medienmarktes zu entwickeln.</p>
+<p/><p>Entgegen dem allgemeinen Markttrend behaupte sich Admeira erfolgreich. Der Umsatz im laufenden Jahr entwickle sich erfreulich, und die Marktanteile zeigten eine stabile bis positive Tendenz, hiess es weiter. Damit knüpfe Admeira an die Jahre 2023 und 2024 an.</p>
+<p/><p>Admeira ist laut eigenen Angaben ein führendes Vermarktungsunternehmen für TV-Werbung in der Schweiz. Admeira war 2016 ursprünglich als Werbeallianz von Swisscom, Ringier und der SRG gegründet worden. Die SRG hatte bereits 2018 im Rahmen eines Sparprogramms ihre Anteile verkauft. Admeira vermarktet aber weiterhin Werbung für die SRG-Sender. Die Swisscom verkaufte ihre Anteile im Februar 2020.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
