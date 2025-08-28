@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T074513+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>802</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:802:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T074512+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T074512+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Varia US Properties senkt Halbjahresverlust deutlich</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2044881160">
+<Property FormalName="FullName" Value="Varia US Properties AG" />
+
+<Property FormalName="ShortName" Value="Varia US" />
+
+<Property FormalName="Telekurs" Value="704032" />
+
+<Property FormalName="CHNr" Value="CH-170.3.039.996-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0305285295" />
+
+<Property FormalName="Ticker" Value="VARN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553695815" />
+
+<Property FormalName="Ticker" Value="VAR21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Die auf US-Wohnimmobilien spezialisierte Varia US Properties hat im ersten Halbjahr 2025 den Nettoverlust deutlich um fast 80 Prozent verringert. Das Unternehmen geht davon aus, dass sich die Daten des US-Marktes für Mehrfamilienhäuser im Laufe des Jahres weiter verbessern.</p>
+<p/><p>Die gesamten Mieterträge zwischen Januar und Juni beliefen sich auf 51,0 Millionen US-Dollar, was einem Rückgang um 9,5 Prozent entspricht, wie das Unternehmen am Donnerstag mitteilte. Grund war der Verkauf von drei älteren Immobilien mit total 608 Wohnungen in den US-Staaten Tennessee, Kansas und Nebraska. Zum Ende des ersten Halbjahres umfasste das Portfolio 24 Immobilien mit insgesamt 7120 Einheiten in zehn US-Bundesstaaten.</p>
+<p/><p>Auf vergleichbarer Basis ("like for like") legten die Einnahmen dagegen um 3,6 Prozent auf 49,4 Millionen Dollar zu. Die Entwicklung stützte sich auf eine höhere Vermietungsquote und stabile Durchschnittsmieten, wie es hiess.</p>
+<p/><p>Der operative Gewinn auf Stufe EBITDA brach um 41,9 Prozent auf 17,8 Millionen Dollar ein. Das Unternehmen führte dies auf gestiegene Instandhaltungs- und Ersatzkosten bei älteren Objekten sowie auf höhere Finanzierungskosten zurück, was auf das Konto negativer Währungseffekte auch im Zusammenhang mit einem im Oktober fälligen Bond ging.</p>
+<p/><h3>Gewinn im zweiten Quartal</h3>
+<p/><p>Unter dem Strich blieb dem Immobilienkonzern einen Fehlbetrag von 2,8 Millionen Dollar, nach 13,4 Millionen im Vorjahreszeitraum. Im zweiten Quartal erzielte das Unternehmen wieder einen Quartalsgewinn.</p>
+<p/><p>Trotz der weiterhin roten Zahlen wertete Varia US die Resultate als Fortschritt. Für den weiteren Jahresverlauf zeigte sich das Management zuversichtlich. Es verwies auf die erwartete Stabilisierung der Zinsen und die anhaltend starke Nachfrage nach Wohnraum in den USA. Priorität habe die Stärkung der operativen Margen auf Objektebene. Über eine Dividendenausschüttung solle erst im Frühjahr 2026 wieder entschieden werden.</p>
+<p/><p>Der Verwaltungsrat prüft den Angaben zufolge Finanzierungsoptionen, darunter das Management bestehender Kreditfazilitäten und eine mögliche Refinanzierung der im Oktober fälligen CHF-Anleihe über 50 Millionen Franken. Ziel sei es, die Leistungsfähigkeit des Unternehmens zu stärken und das Portfolio bei passenden Gelegenheiten ausbauen zu können.</p>
+<p/><p>to/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
