@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T121811+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>2358</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:2358:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T121811+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T121811+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Jungfraubahnen-Gäste geben mehr aus - Rekordhalbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016015"/><Subject FormalName="04016048"/><Subject FormalName="04016039"/><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147192962">
+<Property FormalName="FullName" Value="Jungfraubahn Holding AG" />
+
+<Property FormalName="ShortName" Value="Jungfraubahn" />
+
+<Property FormalName="Telekurs" Value="272494" />
+
+<Property FormalName="CHNr" Value="CH-092.3.006.230-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0017875789" />
+
+<Property FormalName="Ticker" Value="JFN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="DIV"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Interlaken (awp) - Gäste auf dem Jungfraujoch haben im ersten Halbjahr 2025 im Schnitt fast 190 Franken ausgegeben. Neben gestiegenen Gästezahlen war die höhere Wertschöpfung pro Besucher ein zentraler Grund, weshalb die Jungfraubahn-Gruppe mehr verdiente und den höchsten Halbjahresgewinn ihrer Geschichte einfuhr.</p>
+<p/><p>"Noch nie kamen im ersten Halbjahr so viele Gäste aufs Jungfraujoch", sagte CEO Oliver Hammel am Donnerstag im Hotel Victoria Jungfrau in Interlaken vor Medien und Investoren. Erstmals präsentierte der Nachfolger von Urs Kessler Ergebnisse.</p>
+<p/><p>472'700 Gäste kamen von Januar bis Juni am höchstgelegenen Bahnhof Europas auf 3454 Metern über Meer an. Das sind 2,6 Prozent mehr als im Vorjahr - und 100,4 Prozent des letzten Vor-Corona-Jahres 2019.</p>
+<p/><h3>Preiserhöhungen im Skigebiet - keine dynamischen Preise</h3>
+<p/><p>Zugleich gelang es dem Unternehmen, die Ausgaben pro Gast zu erhöhen: Reisende gaben im Durchschnitt 187 Franken aus, allein für die Bahnfahrten 126 Franken. Damit resultierte für das Jungfraujoch ein 5 Prozent höherer Verkehrsertrag von 60 Millionen Franken.</p>
+<p/><p>Bei den Erlebnisbergen - dazu zählen Firstbahn, Harderbahn und Mürrenbahn - stieg der Verkehrsertrag um 18 Prozent auf 21 Millionen Franken. Im Wintersport verzeichnete die Gruppe mit 1,18 Millionen Skier Visits (Ersteintritte) die zweithöchste Frequenz der letzten zehn Jahre. Der Verkehrsertrag stieg hier um 9 Prozent auf 27 Millionen Franken.</p>
+<p/><p>Auch hier trugen Preiserhöhungen bei: Eine Tageskarte kostete 79 statt 75 Franken. In der kommenden Saison soll es saisonale Preise geben, in der Hochsaison 83 Franken. Keine Preiserhöhungen sind für Kinder und Jugendliche vorgesehen. Auch von dynamischen Preisen will Hammel nichts wissen - im Gegensatz zu den grossen Schweizer Skigebieten.</p>
+<p/><h3>Rekordgewinn von 37 Millionen</h3>
+<p/><p>In Gastronomie und Souvenirshops legten die Umsätze ebenfalls zu: Restaurants erwirtschafteten 9,3 Millionen Franken (+5 Prozent), die Top of Europe Shops 6,5 Millionen (+4 Prozent).</p>
+<p/><p>Der Betriebsertrag der Gruppe stieg damit insgesamt um 6 Prozent auf 150 Millionen Franken. Unter dem Strich resultierte ein Rekordgewinn von 37 Millionen (+7 Prozent).</p>
+<p/><h3>"Pisten CO2-neutral beschneien"</h3>
+<p/><p>Ein Schwerpunkt bleibt laut dem neuen CEO auch die Nachhaltigkeit. Im ersten Halbjahr wurden im Gemeindegebiet Grindelwald rund 1000 sogenannte Klimabäume gepflanzt, zudem wurden Biodiversitätsprojekte oberhalb von Unterseen umgesetzt.</p>
+<p/><p>Mit der geplanten alpinen Solaranlage am Hintisberg soll die Energieversorgung langfristig nachhaltiger werden. Das Bewilligungsverfahren verlief ohne Einsprachen, ein Baustart ist frühestens 2026 möglich.</p>
+<p/><p>Dazu sagte Hammel: "Unsere Vision ist es, im Sommer Strom einzuspeisen und zu speichern, mit dem wir im Winter unsere Pisten CO2-neutral beschneien können."</p>
+<p/><h3>Transformation von Bergbahn zum Tourismusunternehmen</h3>
+<p/><p>Im Ausblick setzt der Konzernchef auf Kontinuität - sieht aber auch Optimierungspotenzial. "Ich habe ein grundsolides Unternehmen mit einem hervorragenden Team übernommen", sagte er.</p>
+<p/><p>Die Strategie werde sich langfristig nicht wesentlich verändern: Qualität solle vor Quantität gehen, Wartezeiten verkürzt, Überschüsse ins Wachstum investiert und gleichzeitig als Dividenden ausgeschüttet werden.</p>
+<p/><p>Zugleich will Hammel die Transformation von der Bergbahn zum umfassenden Tourismusunternehmen vorantreiben - mit Gastronomie, Souvenirshops und einer erweiterten Online-Plattform, wo Gäste auch externe Angebote wie Hotels, Gleitschirmflüge oder River Rafting buchen können.</p>
+<p/><p>jl/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
