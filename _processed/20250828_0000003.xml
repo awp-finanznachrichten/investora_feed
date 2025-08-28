@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T072511+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>693</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:693:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T072510+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T072510+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sandoz führt höhere Dosierungen von Rivaroxaban in Deutschland ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4056" />
+
+</Property>
+
+<Property FormalName="Country" Value="DE" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2010004181">
+<Property FormalName="FullName" Value="Sandoz AG" />
+
+<Property FormalName="ShortName" Value="Sandoz" />
+
+<Property FormalName="CHNr" Value="CH-270-3003263-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1243598427" />
+
+<Property FormalName="Ticker" Value="SDZ" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290870950" />
+
+<Property FormalName="Ticker" Value="SDZ23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290870968" />
+
+<Property FormalName="Ticker" Value="SDZ232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428867027" />
+
+<Property FormalName="Ticker" Value="SDZ252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428867035" />
+
+<Property FormalName="Ticker" Value="SDZ251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Der Generika-Hersteller Sandoz hat das Antithrombotikum Rivaroxaban in Deutschland in höheren Dosierungen eingeführt. Es wird künftig mit 10, 15 und 20 Milligramm verfügbar sein, wie es in einer Mitteilung vom Donnerstag heisst.</p>
+<p/><p>Der Einführung sei ein Rechtsstreit in Deutschland vorausgegangen, in dem Sandoz das entsprechende Dosierungspatent erfolgreich angefochten hatte, heisst es weiter. Bereits im April 2024 wurde Rivaroxaban in der Dosierung 2,5 Milligramm eingeführt, nachdem das Patent ausgelaufen war. Jedoch konnte Bayer Rivaroxaban in den höheren Stärken zu Monopolpreisen weiter verkaufen, schreibt Sandoz. In Zukunft beabsichtigt Sandoz Rivaroxaban auch in anderen Märkten einzuführen.</p>
+<p/><p>Bei Rivaroxaban handelt es sich um ein Antithrombotikum. Es wird zur Schlaganfallprävention bei nicht-valvulärem Vorhofflimmern, zur Behandlung von tiefer Venenthrombose und Lungenembolie sowie zur Prävention von Rezidiven eingesetzt.</p>
+<p/><p>cg/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
