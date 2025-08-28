@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T075410+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>835</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:835:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T075410+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T075410+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Pierer Mobility will 2026 wieder positiven EBITDA erzielen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04011002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="AT" />
+
+<Property FormalName="Country" Value="CH" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2045330958">
+<Property FormalName="FullName" Value="Pierer Mobility AG" />
+
+<Property FormalName="ShortName" Value="Pierer Mobility" />
+
+<Property FormalName="Telekurs" Value="28891" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="AT0000KTMI02" />
+
+<Property FormalName="Ticker" Value="PKTM" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="AUT"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Wels (Ö) (awp) - Der angeschlagene Zweiradhersteller Pierer Mobility will nach Abschluss der Sanierung im nächsten Jahr operativ wieder in die schwarzen Zahlen vorstossen. Für das Geschäftsjahr 2026 werde bereits ein positiver EBITDA erwartet; auf EBIT-Ebene soll dies im Geschäftsjahr 2027 erzielbar sein.</p>
+<p/><p>Dies teilte das an der Schweizer Börse SIX kotierte österreichische Unternehmen am Donnerstag bei der Vorlage der definitiven Halbjahresergebnisse mit. Einige der eingeleiteten Kosteneinsparungsmassnahmen bräuchten mehr Zeit für die Umsetzung und Entfaltung ihrer Wirkung, hiess es.</p>
+<p/><p>Für das laufende Jahr 2025 erwartet der Konzern einen Umsatz deutlich unter dem Niveau des vergangenen Geschäftsjahres. Denn während der Sanierung hat Pierer ein halbes Jahr lang keine KTM-Motorräder produziert. Zudem habe man bewusst entschieden, weniger Motorräder den Händlern zu verkaufen, damit diese ihre übervollen Lagerbestände reduzieren könnten, hiess es.</p>
+<p/><p>Durch die mittlerweile abgeschlossene Sanierung bei der Tochter KTM, bei der die Gläubiger auf einen Grossteil ihrer Forderungen verzichteten, erzielte der Konzern im ersten Halbjahr einen Sanierungsgewinn von 1,187 Milliarden Euro. Deshalb werde Pierer im Geschäftsjahr 2025 einen deutlich positiven Betriebsgewinn EBIT ausweisen.</p>
+<p/><h3>Weiterhin weniger Töffs verkauft</h3>
+<p/><p>"Da auch im Geschäftsjahr 2026 dem Markt weiter die Möglichkeit gegeben werden muss, die Lagerbestände der Händler weiter abzubauen, werden auch im Jahr 2026 weniger Motorräder als im 2024 produziert und verkauft werden", schrieb Pierer weiter. Der Neu- und Wiederaufbau von Lieferantenbeziehungen bleibe herausfordernd. Der Mangel einzelner Komponenten könne das Hochfahren der Produktion jederzeit stören oder unterbrechen. KTM hatte die Produktion Ende Juli wieder aufgenommen.</p>
+<p/><p>Wie bereits bekannt, brach im ersten Halbjahr 2025 der Umsatz von 1,0 Milliarden auf 425 Millionen Euro ein. Wegen des Sanierungsgewinns von 1,187 Milliarden Euro wies Pierer einen Betriebsgewinn vor Abschreibungen und Amortisationen (EBITDA) in Höhe von 1,0 Milliarden Euro aus nach einem Minus von 102 Millionen im Vorjahr.</p>
+<p/><p>Der EBIT erreichte 930 Millionen Euro nach einem Verlust von 195 Millionen im Vorjahressemester. Unter dem Strich betrug das Konzernergebnis +739 Millionen Euro nach einem Defizit von 172 Millionen vor einem Jahr.</p>
+<p/><p>Die operativen Gewinne wurden in der Motorradsparte ausgewiesen. Dagegen blieb die Velosparte in den roten Zahlen, konnte aber die Verluste markant reduzieren. Das Fahrradgeschäft werde bis Ende 2025 eingestellt, schrieb Pierer. Die Fahrradmarken Husqvarna sowie Gasgas würden bis Ende 2025 ausverkauft sein.</p>
+<p/><p>jb/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
