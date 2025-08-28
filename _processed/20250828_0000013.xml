@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T104611+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>1894</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:1894:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T104611+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T104611+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Korr: Autoversicherer erhöhen laut Umfrage Preise</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Berichtigt, dass auch Zurich keine konkrete Pr&#228;mienerh&#246;hung nannte</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>C</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04006005"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002" />
+
+<Property FormalName="City" Value="4002" />
+
+<Property FormalName="City" Value="9001" />
+
+<Property FormalName="City" Value="8002" />
+
+<Property FormalName="City" Value="8401" />
+
+<Property FormalName="City" Value="3011" />
+
+<Property FormalName="City" Value="8400 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198115">
+<Property FormalName="FullName" Value="Allianz Suisse Versicherungs-Gesellschaft AG" />
+
+<Property FormalName="ShortName" Value="Allianz Suisse" />
+
+<Property FormalName="Telekurs" Value="316809" />
+
+<Property FormalName="CHNr" Value="CH-020.3.907.697-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0013543902" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197153">
+<Property FormalName="FullName" Value="Baloise-Holding AG" />
+
+<Property FormalName="ShortName" Value="Baloise" />
+
+<Property FormalName="Telekurs" Value="147250" />
+
+<Property FormalName="CHNr" Value="CH-270.3.000.505-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012410517" />
+
+<Property FormalName="Ticker" Value="BALN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0458097976" />
+
+<Property FormalName="Ticker" Value="BAL190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496692978" />
+
+<Property FormalName="Ticker" Value="BAL192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496692986" />
+
+<Property FormalName="Ticker" Value="BAL193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553331817" />
+
+<Property FormalName="Ticker" Value="BAL20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553331825" />
+
+<Property FormalName="Ticker" Value="BAL201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0593641068" />
+
+<Property FormalName="Ticker" Value="BAL210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1130818839" />
+
+<Property FormalName="Ticker" Value="BAL211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148728210" />
+
+<Property FormalName="Ticker" Value="BAL22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1199322350" />
+
+<Property FormalName="Ticker" Value="BAL221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367661" />
+
+<Property FormalName="Ticker" Value="BAL222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1232107180" />
+
+<Property FormalName="Ticker" Value="BAL023" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1256367199" />
+
+<Property FormalName="Ticker" Value="BAL231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614145" />
+
+<Property FormalName="Ticker" Value="BAL24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185880" />
+
+<Property FormalName="Ticker" Value="BAL25" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193865">
+<Property FormalName="FullName" Value="Helvetia Holding AG" />
+
+<Property FormalName="ShortName" Value="Helvetia" />
+
+<Property FormalName="Telekurs" Value="474438" />
+
+<Property FormalName="CHNr" Value="CH-320.3.040.603-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0466642201" />
+
+<Property FormalName="Ticker" Value="HELN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191600">
+<Property FormalName="FullName" Value="Zurich Insurance Group AG" />
+
+<Property FormalName="ShortName" Value="Zurich" />
+
+<Property FormalName="Telekurs" Value="93000" />
+
+<Property FormalName="CHNr" Value="CH-020.3.023.083-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011075394" />
+
+<Property FormalName="Ticker" Value="ZURN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197345">
+<Property FormalName="FullName" Value="AXA Versicherungen AG" />
+
+<Property FormalName="ShortName" Value="AXA Schweiz" />
+
+<Property FormalName="Telekurs" Value="124653" />
+
+<Property FormalName="CHNr" Value="CH-020.3.928.827-5" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2132524239">
+<Property FormalName="FullName" Value="Schweizerische Mobiliar Holding AG" />
+
+<Property FormalName="ShortName" Value="Mobiliar" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-035.3.008.267-5" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2028823091">
+<Property FormalName="FullName" Value="Best Smile AG" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value=" CH-020.3.046.155-9" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp/sda) - Autoversicherungen werden gemäss Tamedia bis zu 25 Prozent teurer. Die Zurich-Versicherung begründete den Schritt mit höheren Reparaturkosten, der Zunahme schwerer Unwetterschäden und mehr Unfällen, wie das Medienhaus schrieb.</p>
+<p/><p>Tamedia fragte bei verschiedenen Versicherungen nach. Auch Mobiliar, Baloise, Axa, Helvetia, Smile und Allianz Suisse wälzen höhere Schadenskosten demnach auf ihre Prämien über. Keine der angefragten Versicherungen habe die exakte Prämienerhöhung angegeben.</p>
+<p/><p>ls/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
