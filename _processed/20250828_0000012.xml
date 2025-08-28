@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T091611+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>1528</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:1528:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T091611+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T091611+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sunrise steigt ins Geschäft mit Schutz vor Einbrüchen ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04006006"/><Subject FormalName="04003007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8152" />
+
+<Property FormalName="City" Value="8002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2055222019">
+<Property FormalName="FullName" Value="Sunrise Communications AG" />
+
+<Property FormalName="ShortName" Value="Sunrise" />
+
+<Property FormalName="Telekurs" Value="677481" />
+
+<Property FormalName="CHNr" Value="	CH-020-3054260-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1386220409" />
+
+<Property FormalName="Ticker" Value="SUNN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679751045" />
+
+<Property FormalName="Ticker" Value="SNRE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679752035" />
+
+<Property FormalName="Ticker" Value="SNRBY" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191600">
+<Property FormalName="FullName" Value="Zurich Insurance Group AG" />
+
+<Property FormalName="ShortName" Value="Zurich" />
+
+<Property FormalName="Telekurs" Value="93000" />
+
+<Property FormalName="CHNr" Value="CH-020.3.023.083-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011075394" />
+
+<Property FormalName="Ticker" Value="ZURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Nach dem Einstieg ins Geschäft mit Versicherungsangeboten expandiert Sunrise weiter: Neu bietet der zweitgrösste Schweizer Telekomkonzern auch Sicherheitspakete gegen Einbrüche an.</p>
+<p/><p>Dazu lanciere Sunrise ein Home Security-Angebot, das Sicherheitsgeräte wie Kameras, Kontaktsensoren, eine Steuerungs-App und Anwesenheitssimulation umfasse, teilte das Unternehmen am Donnerstag in einem Communiqué mit.</p>
+<p/><p>Beim grösseren Paket sei auch noch im Alarmfall der Einsatz von Sicherheitsleuten vor Ort enthalten. Zudem gebe es einen Versicherungsschutz mit persönlicher Unterstützung durch den Sunrise-Partner Zurich Versicherungen. Im Notfall oder bei einem Einbruch organisiere die Zurich rund um die Uhr professionelle Hilfe. Das Angebot richte sich auch an Kunden anderer Telekomfirmen, hiess es.</p>
+<p/><p>Damit geht die Ausweitung der Produktepalette als Ergänzung des Telekomangebots weiter. Seit Anfang Juli verkauft Sunrise seinen Kunden auch Versicherungsprodukte wie etwa Reise- oder Cyberversicherungen.</p>
+<p/><p>Sunrise folgte damit dem Branchenprimus Swisscom. Dieser hat im Frühling vor einem Jahr den Ausbau des Vertriebs von Versicherungen angekündigt.</p>
+<p/><p>jb/ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
