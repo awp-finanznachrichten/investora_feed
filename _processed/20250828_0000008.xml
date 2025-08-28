@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T075709+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>847</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:847:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T075709+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T075709+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SoftwareOne will im zweiten Semester wieder wachsen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016015"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6370 " />
+
+</Property>
+
+<Property FormalName="Country" Value="NO" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2027672288">
+<Property FormalName="FullName" Value="SoftwareOne Holding AG" />
+
+<Property FormalName="ShortName" Value="SoftwareONE" />
+
+<Property FormalName="Telekurs" Value="834238" />
+
+<Property FormalName="CHNr" Value="CH-150.3.004.191-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496451508" />
+
+<Property FormalName="Ticker" Value="SWON" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1997171669">
+<Property FormalName="FullName" Value="Crayon Group Holding ASA" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="NO0010808892" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Stans (awp) - Der IT-Dienstleister SoftwareOne hat in der ersten Jahreshälfte 2025 weniger eingenommen und verdient. Insbesondere die geringeren Incentives des wichtigen Partners Microsoft belasteten die Geschäfte. Kombiniert mit der norwegischen Crayon soll das Unternehmen zum Wachstum zurückkehren.</p>
+<p/><p>Wie der Anbieter von Software- und Cloud-Lösungen am Donnerstag mitteilte, schrumpfte der Umsatz im ersten Halbjahr um 8,0 Prozent auf 487,7 Millionen Franken. Zu konstanten Wechselkursen hätte das Umsatzminus lediglich bei 4,9 Prozent gelegen.</p>
+<p/><p>Das Segment Software &amp; Cloud Services (-13,9%) schnitt dabei deutlich schlechter ab als Software &amp; Cloud Marketplace (-1,0%). Die Änderungen bei den Microsoft-Incentives hätten sich bei den Cloud Services negativ auf die Ergebnisse in allen Regionen ausgewirkt.</p>
+<p/><p>Operativ lief es etwas besser. Der bereinigte Betriebsgewinn vor Abschreibungen und Amortisationen (EBITDA) sank um 5,8 Prozent auf 114,7 Millionen Franken. Die entsprechende Marge stieg um 0,5 Prozentpunkte auf 23,5 Prozent.</p>
+<p/><p>Hintergrund waren laut SoftwareOne das abgeschlossene Kostensenkungsprogramm und eine strikte Kostenkontrolle. Auch die ausserordentlichen Kosten seien tiefer ausgefallen.</p>
+<p/><h3>Wieder wachsen nach Übernahme</h3>
+<p/><p>Just nach dem Stichtag hatte SoftwareOne den Kauf des Mitbewerbers Crayon Group aus Norwegen abgeschlossen. Daher gibt das Unternehmen eine neue Guidance für 2025 ab.</p>
+<p/><p>Unterstützt durch einen guten Start ins dritte Quartal rechne man in der zweiten Jahreshälfte 2025 mit der Rückkehr zum Wachstum. Insgesamt wird in 2025 mit einer flachen Umsatzentwicklung in Lokalwährungen gerechnet. Total hätten SoftwareOne und Crayon 2024 zusammen 1,58 Milliarden Franken umgesetzt.</p>
+<p/><p>Die bereinigte EBITDA-Marge wird nun in 2025 bei über 20 Prozent erwartet. Auf kombinierter Basis liegt der Vergleichswert der beiden Unternehmen 2024 bei 20,0 Prozent.</p>
+<p/><p>An Dividende sollen 30 bis 50 Prozent des bereinigten Jahresgewinns ausgeschüttet werden, hiess es weiter.</p>
+<p/><h3>Crayon unter den Erwartungen</h3>
+<p/><p>Die Crayon Group hatte am Donnerstag zeitgleich mit SoftwareOne die eigenen Halbjahreszahlen vorgelegt. Bei einem Umsatzerlös von 3,61 Milliarden norwegischen Kronen (+1,7%) resultierte ein bereinigtes EBITDA von 469 Millionen Kronen (-23,7%).</p>
+<p/><p>Das Ergebnis von Crayon lag laut SoftwareOne hinter den Erwartungen zurück. Schwach sei die Perfomance in der Region Nordics und im Services-Bereich gewesen.</p>
+<p/><p>ra/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
