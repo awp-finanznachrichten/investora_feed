@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250828T075809+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250828</DateId>
+			<NewsItemId>857</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250828:857:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250828T075809+0200</FirstCreated>
+		<ThisRevisionCreated>20250828T075809+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ascom geht Partnerschaft mit AvaSure für KI-gestützte Pflege ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016023"/><Subject FormalName="04016030"/><Subject FormalName="04003007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6340 " />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197547">
+<Property FormalName="FullName" Value="Ascom Holding AG" />
+
+<Property FormalName="ShortName" Value="Ascom" />
+
+<Property FormalName="Telekurs" Value="73193" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.419-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011339204" />
+
+<Property FormalName="Ticker" Value="ASCN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Baar (awp) - Ascom spannt mit AvaSure, einem US-Anbieter von KI-gestützter virtueller Pflege, zusammen. In diesem Rahmen wurde eine mehrjährige Interoperabilitätspartnerschaft in Nordamerika vereinbart, wie das Medizinal-IT-Unternehmen am Donnerstag mitteilte.</p>
+<p/><p>Die Zusammenarbeit soll Krankenhäusern dabei helfen, die Effizienz der Pflegeteams zu verbessern und Kosten zu senken. Zu den KI-gestützten Funktionen von AvaSure gehört zum Beispiel eine Umgebungsüberwachung zur Sturzprävention. Laut der Mitteilung werden die Lösungen weltweit von mehr als 1100 Krankenhäusern genutzt. Finanzielle Angaben zur Partnerschaft machte Ascom nicht.</p>
+<p/><p>ls/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
