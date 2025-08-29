@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T073710+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>638</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:638:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T073710+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T073710+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Edisun mit tieferer Solarproduktion im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04016019"/><Subject FormalName="04016005"/><Subject FormalName="04005007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8005" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2101019879">
+<Property FormalName="FullName" Value="Edisun Power Europe AG" />
+
+<Property FormalName="ShortName" Value="Edisun Power" />
+
+<Property FormalName="Telekurs" Value="320562" />
+
+<Property FormalName="CHNr" Value="CH-020.3.029.350-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024736404" />
+
+<Property FormalName="Ticker" Value="ESUN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENV"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Solarstromproduzent Edisun Power hat im ersten Halbjahr 2025 weniger Strom produziert und auch mehr Verlust gemacht. Das Ergebnis des Gesamtjahres bleibt nun vom Ausgang der Verkaufsverhandlungen des Projektes "Fuencarral" abhängig.</p>
+<p/><p>Der Umsatz fiel von Januar bis Juni um 7,5 Prozent auf 7,22 Millionen Franken, wie das Unternehmen am Freitag mitteilte. Dazu habe vor allem eine geringere Solarstromproduktion geführt. Die Stromproduktion sank um 9,5 Prozent auf 72'973 Megawattstunden (MWh).</p>
+<p/><p>In der Schweiz, Frankreich, Italien und Deutschland stieg die Produktion laut den Angaben zwar an, jedoch sank der Umsatz gesamthaft aufgrund von Tarifkorrekturen sowie dem Betriebsende von zwei Kleinanlagen. Auf der Iberischen Halbinsel sanken Produktion und Umsatz wegen ungünstiger Wetterbedingungen sowie Produktionsausfällen in Spanien durch Blackout und Diebstahl.</p>
+<p/><h3>Verlust ausgeweitet</h3>
+<p/><p>Der Betriebsgewinn (EBITDA) tauchte in Folge um 12,7 Prozent auf 4,60 Millionen Franken, die entsprechende Marge verringerte sich auf 63,3 Prozent von 67,5 Prozent im Vorjahressemester.</p>
+<p/><p>Die Anlagen in den verschiedenen Ländern erreichten Margen von 49,9 Prozent in Spanien bis 90,1 Prozent in der Schweiz. Die Schweizer Produktion profitierte dabei von hohen Einspeisevergütungen und tiefen Nebenkosten.</p>
+<p/><p>Unter dem Strich rutschte Edisun damit noch tiefer in die roten Zahlen mit einem Reinverlust von 2,97 Millionen Franken nach einem Fehlbetrag von 1,25 Millionen im Vorjahr. Neben den Umsatzrückgängen seien dafür höhere Zinskosten, Wertberichtigungen auf deutschen Solaranlagen sowie tiefere nicht realisierte Fremdwährungsgewinne verantwortlich.</p>
+<p/><h3>Jahresergebnis von "Fuencarral" abhängig</h3>
+<p/><p>Für das Gesamtjahr sei nun der Verkauf des weiterentwickelten Projekts "Fuencarral to AI" entscheidend. Dieses soll Rechenzentren mit erneuerbarer Energie versorgen.</p>
+<p/><p>Positiv stimme immerhin, dass sich der Strompreis infolge der Hitzewellen in Europa gegenüber dem Vorjahr etwas erholt habe und die Zinssätze sich fast halbiert hätten. Allerdings bleibe die Stromproduktion aufgrund wechselhafter Wetterbedingungen unbeständig.</p>
+<p/><p>Zur Finanzierung der weiteren Entwicklung von Projekten will Edisun Anfang September eine neue fünfjährige Anleihe zu einem Zinssatz von 3,5 Prozent ausgeben. Das Volumen beläuft sich laut den Angaben auf 10 Millionen Franken mit Aufstockungsmöglichkeiten.</p>
+<p/><p>ls/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
