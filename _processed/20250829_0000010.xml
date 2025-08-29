@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T131710+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>2355</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:2355:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T131710+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T131710+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Holcim schliesst Verkauf des Nigeria-Geschäfts an Huaxin Cement ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016048"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+<Property FormalName="Country" Value="CN" />
+
+<Property FormalName="Country" Value="NG" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197403">
+<Property FormalName="FullName" Value="Holcim AG" />
+
+<Property FormalName="ShortName" Value="Holcim" />
+
+<Property FormalName="Telekurs" Value="110323" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.050-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012214059" />
+
+<Property FormalName="Ticker" Value="HOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561525" />
+
+<Property FormalName="Ticker" Value="LAH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263973" />
+
+<Property FormalName="Ticker" Value="LAH210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263981" />
+
+<Property FormalName="Ticker" Value="LAH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887132" />
+
+<Property FormalName="Ticker" Value="LAH22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887140" />
+
+<Property FormalName="Ticker" Value="LAH220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1159841357" />
+
+<Property FormalName="Ticker" Value="LAH221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0306179125" />
+
+<Property FormalName="Ticker" Value="LAH151" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1997090434">
+<Property FormalName="FullName" Value="Huaxin Cement Co Ltd" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CNE000000DC6" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Der Zementhersteller Holcim hat den Verkauf seines Geschäfts in Nigeria abgeschlossen. Wie bereits Ende 2024 angekündigt, wurde damit die Beteiligung in Höhe von 83,81 Prozent an Lafarge Africa PLC an die chinesische Huaxin Cement übertragen.</p>
+<p/><p>Der Unternehmenswert auf einer 100 Prozent-Basis liege bei 1 Milliarde US-Dollar, heisst es in einer Mitteilung vom Freitagnachmittag. Der Verkaufserlös verschaffe "Holcim zusätzliche Kapazitäten für unsere wachstumsorientierte Kapitalallokation", lässt sich Martin Kriegner, Regional Head Asia, Middle East &amp; Africa von Holcim, zitieren.</p>
+<p/><p>cg/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
