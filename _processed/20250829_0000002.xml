@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T071909+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>601</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:601:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T071908+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T071908+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Plazza mit kräftigem Gewinnanstieg im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8055" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2053805389">
+<Property FormalName="FullName" Value="Plazza AG" />
+
+<Property FormalName="ShortName" Value="Plazza" />
+
+<Property FormalName="Telekurs" Value="690873" />
+
+<Property FormalName="CHNr" Value="CH-020.3.041.787-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284142913" />
+
+<Property FormalName="Ticker" Value="PLAN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284143929" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Immobiliengesellschaft Plazza hat im ersten Halbjahr 2025 erneut mehr Gewinn verbucht als im Vorjahr. Für den weiteren Geschäftsverlauf hält das Unternehmen an seinem Ausblick fest.</p>
+<p/><p>Das Immobilienunternehmen hat laut einer Mitteilung vom Freitag den Liegenschaftsertrag um 32 Prozent auf 19,7 Millionen Franken gesteigert. Dazu trug insbesondere die im Vorjahr in Betrieb genommene Liegenschaft in Crissier bei. Die Leerstandsquote stieg aufgrund der Sanierung im Tiergarten (Zürich) auf 6,9 Prozent (VJ 6,0%), heisst es.</p>
+<p/><p>Beim EBIT vor Abschreibungen und Neubewertungen stand ein Plus von 40 Prozent auf 15,8 Millionen Franken. Unter dem Strich verblieb dank wieder gestiegener Neubewertungen ein um 24 Prozent höherer Reingewinn von 25,3 Millionen.</p>
+<p/><p>Die Neubewertungen legten wie mit den Jahreszahlen im März angekündigt auf 19,5 Millionen zu, nachdem sie im Vorjahr 14,5 Millionen betragen hatten. Ohne die Neubewertungen lag der Gewinn mit 12,2 Millionen um 34 Prozent über dem Vorjahr.</p>
+<p/><p>Der gesamte Marktwert des überwiegend aus Wohnliegenschaften bestehenden Portfolios betrug per Mitte 2025 rund 1,2 Milliarden Franken (VJ 1,1 Mrd).</p>
+<p/><p>Die Entwicklungsprojekte verlaufen gemäss den Informationen soweit alle nach Plan. In Regensdorf kann mit der Realisierung voraussichtlich 2026 begonnen werden. Der Beginn der zweiten Etappe in Crissier werde derweil frühestens 2028 erwartet.</p>
+<p/><p>Für das neue Entwicklungsprojekt auf dem übernommenen Schönbächler-Areal in Affoltern am Albis liege die Baubewilligung vor und der Beginn der Realisierung sei für 2026 geplant.</p>
+<p/><p>Für das laufende Jahr hält Plazza am Ausblick fest und erwartet entsprechend weiterhin ein Betriebsergebnis vor Abschreibungen und Neubewertung von etwa 10 bis 15 Prozent über dem Vorjahr. Darin enthalten sei auch der Anteil von Schönbächler von annualisiert rund 1 Million Franken. Gleichzeitig sei eine erste Reduktion der vorübergehend angestiegenen Leerstände zu erwarten.</p>
+<p/><p>Abhängig von der Entwicklung der Kapital- und Transaktionsmärkte sowie den Fortschritten bei den Entwicklungsprojekten erwartet Plazza auch für das zweite Halbjahr 2025 einen weiteren Gewinn aus Neubewertungen.</p>
+<p/><p>dm/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
