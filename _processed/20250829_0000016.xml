@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T200112+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>3967</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:3967:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T200112+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T200112+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swatch-Chef schliesst "Going Private" aus</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04007010"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="2000" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196689">
+<Property FormalName="FullName" Value="The Swatch Group SA" />
+
+<Property FormalName="ShortName" Value="Swatch" />
+
+<Property FormalName="Telekurs" Value="5165" />
+
+<Property FormalName="CHNr" Value="CH-645.1.000.444-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255151" />
+
+<Property FormalName="Ticker" Value="UHR" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255144" />
+
+<Property FormalName="Ticker" Value="UHRN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="LUX"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Nick Hayek bleibt dabei: Der Chef der Swatch-Gruppe würde den Uhrenkonzern gerne von der Börse nehmen - immerhin besitzt die Familie Hayek fast die Hälfte der Aktien - wird es aber nicht tun. Ein "Going Private" sei nicht möglich, sagte er im Gespräch mit der "Frankfurter Allgemeine Sonntagszeitung".</p>
+<p/><p>Denn das würde bedeuten, dass sich die Familie verschulden müsste. "Und Schulden hat schon mein Vater wie die Pest gehasst", erklärte Hayek. Ein Rückzug von der Börse hätte für die Gruppe aber "nur Vorteile", betont er.</p>
+<p/><p>"Denn dann würde sich kein Börsianer, kein Finanzanalyst und kein Finanzjournalist für uns interessieren." Und Swatch müsste "diese ganze Kommunikation und Bürokratie" nicht mitmachen. "Wissen Sie, was das für Kosteneinsparungen geben würde!"</p>
+<p/><p>Mit Blick auf die Zölle für Exporte in die USA schlägt Hayek ähnlich optimistische Töne an, wie er es schon vergangenen Mittwoch bei einem überraschend einberufenen Call mit Analysten getan hatte: "Die USA boomen nach wie vor".</p>
+<p/><p>"Da haben wir teils 20, 30 Prozent Wachstum - trotz Preiserhöhungen von rund fünf Prozent, die wir im April wegen der Zölle und des starken Schweizer Frankens gemacht haben."</p>
+<p/><p>Hayek verteidigt zudem sein Prinzip, in allen Segmenten vertreten zu sein alles in den rund 150 Fabriken in der Schweiz selber zu produzieren. Die Firma sei dadurch viel flexibler als die Konkurrenz.</p>
+<p/><p>"Ja, wir haben höhere Kosten", räumt Hayek ein. "Weil wir an unseren Arbeitern festhalten, aber wir sind viel schneller wieder am Markt, wenn die Nachfrage anzieht." Und das ganze Know-how in der Produktion bedeute auch mehr eigene Innovation.</p>
+<p/><p>ra/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
