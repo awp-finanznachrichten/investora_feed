@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T183211+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>3834</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:3834:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T183211+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T183211+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ems-Gewinn erhält im Frühjahr einen neuen Finanzchef</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="7013" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197451">
+<Property FormalName="FullName" Value="Ems-Chemie Holding AG" />
+
+<Property FormalName="ShortName" Value="Ems-Chemie" />
+
+<Property FormalName="Telekurs" Value="102101" />
+
+<Property FormalName="CHNr" Value="CH-350.3.000.778-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0016440353" />
+
+<Property FormalName="Ticker" Value="EMSN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Domat/Ems (awp) - Der Spezialchemiekonzern Ems wird per 1. März 2026 in der Person von Alexander Hergert einen neuen Finanzchef erhalten. Hergert ist derzeit CFO des Unternehmensbereichs EMS-EFTEC und wird damit auch Teil der Ems-Geschäftsleitung.</p>
+<p/><p>Der aktuelle Finanzchef Olivier Minger wird sich per Ende Februar 2026 ausserhalb der Gruppe neu orientieren, teilte Ems-Chemie am Freitag nach Börsenschluss mit. Minger hate die Position erst am 1. Oktober 2023 angetreten.</p>
+<p/><p>Darüber hinaus publiziert die Gruppe den definitiven Halbjahresabschluss 2025. Dieser weise "keine wesentlichen" Abweichungen zum provisorischen Abschluss auf, der Mitte Juli gezeigt wurde.</p>
+<p/><p>Lauf definitivem Semester-Abschluss sank der konsolidierte Nettoumsatz um 6,2 Prozent auf 1,02 Milliarden Franken. Das Betriebsergebnis (EBIT) stieg hingegen um 1,6 Prozent auf 296 Millionen.</p>
+<p/><p>Mitte Juli hatte Ems auf provisorischer Basis die gleichen Werte vermeldet. Der EBITDA wurde hingegen leicht auf 324 von 323 Millionen im Vergleich zu den provisorischen Werten angepasst. Und die EBIT-Marge wird neu mit 29,1 Prozent beziffert (alt: 29,0%).</p>
+<p/><p>Neu sind die Angaben zum Nettogewinn, die im Juli nicht vorgelegen hatten. Er legte gegenüber der Vorjahresperiode um 0,2 Prozent auf 253 Millionen Franken zu.</p>
+<p/><p>Zum Ausblick gab es keine neuen Aussagen.</p>
+<p/><p>ra/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
