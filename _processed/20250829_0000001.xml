@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T064410+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>458</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:458:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T064410+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T064410+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Amrize informiert über Mini-Tender-Angebot</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-1991195184">
+<Property FormalName="FullName" Value="Amrize AG" />
+
+<Property FormalName="ShortName" Value="Amrize" />
+
+<Property FormalName="CHNr" Value="CH-170-3048432-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1430134226" />
+
+<Property FormalName="Ticker" Value="AMRZ" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Chicago/Zug (awp) - Die auf Baustoffe in Nordamerika spezialisierte Amrize hat eine Mitteilung über ein sogenanntes unaufgefordertes "Mini-Kaufangebot" von TRC Capital Investment Corporation erhalten. Diese will demnach bis zu 2 Millionen Amrize-Stammaktien zu einem Preis von 49,63 US-Dollar je Aktie in bar erwerben.</p>
+<p/><p>Amrize empfiehlt laut Mitteilung vom Donnerstagabend, das Angebot nicht anzunehmen. Der Angebotspreis liege mit 51,96 US-Dollar um 4,5 Prozent unter dem Schlusskurs vom 26. August, dem letzten Handelstag vor Beginn des Angebots. Zudem verfüge TRC über eine Klausel in seinem Angebot, wonach der Schlusskurs nicht um mehr als 5 Prozent gegenüber dem Schlusskurs vom 26. August fallen dürfe.</p>
+<p/><p>Sofern TRC nicht auf diese Bedingung verzichte, würden Amrize-Aktionäre, die auf das Angebot eingehen, ihre Aktien damit unter dem Marktpreis verkaufen, heisst es.</p>
+<p/><p>Laut Amrize werden mit Mini-Übernahmeangeboten jeweils weniger als fünf Prozent der ausstehenden Aktien eines Unternehmens erworben. Dadurch könnten Offenlegungs- und Verfahrensvorschriften der US-Börsenaufsichtsbehörde umgangen werden. Die Behörden hätten Anleger entsprechend vor solchen Angeboten gewarnt.</p>
+<p/><p>TRC ist ein privat geführtes Unternehmen, das hauptsächlich in Texas investiert.</p>
+<p/><p>ls/uh/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
