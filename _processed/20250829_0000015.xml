@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T185812+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>3901</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:3901:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T185812+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T185812+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>VAT-Halbleiterchef Finn Felsberg verlässt das Unternehmen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9469" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2048543996">
+<Property FormalName="FullName" Value="VAT Group AG" />
+
+<Property FormalName="ShortName" Value="VAT" />
+
+<Property FormalName="Telekurs" Value="713208" />
+
+<Property FormalName="CHNr" Value="CH-320.3.079.470-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0311864901" />
+
+<Property FormalName="Ticker" Value="VACN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Haag (awp) - In der Geschäftsleitung des Sensorenherstellers VAT kommt es zu einem Abgang. Finn Felsberg, Executive Vice President der Semiconductor Solutions Group (SSG) werde das Unternehmen verlassen, teilte VAT am Freitagabend mit. Er werde "eine neue Herausforderung ausserhalb des Unternehmens" verfolgen.</p>
+<p/><p>Felsberg war erst im Dezember 2023 zur VAT Group gestossen und von Beginn an für das weltweite Halbleitergeschäft verantwortlich. Dazu zählen die Kernaktivitäten im Ventilbereich, im Geschäft für angrenzende Produkte sowie die konzernweite Forschung &amp; Entwicklung.</p>
+<p/><p>Bis ein Nachfolger für Felsberg bestimmt ist, wird laut der Mitteilung VAT-CEO Urs Gantner die Leitung der Aktivitäten im Halbleiterbereich interimistisch übernehmen.</p>
+<p/><p>mk/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
