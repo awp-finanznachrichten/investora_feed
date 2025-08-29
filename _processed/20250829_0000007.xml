@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T081611+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>960</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:960:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T081611+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T081611+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swissquote unterstützt ETH-Forschung zur Cybersicherheit mit 2,5 Mio Franken</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1196" />
+
+<Property FormalName="City" Value="8092" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191819">
+<Property FormalName="FullName" Value="Swissquote Group Holding SA" />
+
+<Property FormalName="ShortName" Value="Swissquote" />
+
+<Property FormalName="Telekurs" Value="77344" />
+
+<Property FormalName="CHNr" Value="CH-550.1.000.705-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010675863" />
+
+<Property FormalName="Ticker" Value="SQN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2058580649">
+<Property FormalName="FullName" Value="ETH Zürich" />
+
+<Property FormalName="ShortName" Value="ETH" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-020-7001087-9" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Digitalbank Swissquote unterstützt die Forschung im Bereich Informationssicherheit an der ETH Zürich mit einer Spende von 2,5 Millionen Franken. Der Beitrag fliesst an das Zurich Information Security &amp; Privacy Center (ZISC), das sich mit Cybersicherheit, Betrugsbekämpfung und Datenschutz befasst, wie Swissquote am Freitag mitteilte.</p>
+<p/><p>Angesichts neuer, durch künstliche Intelligenz gestützter Betrugsformen stünden Finanzdienstleister vor wachsenden Herausforderungen, heisst es in der Mitteilung. Das ZISC bringe Forschende und Industriepartner zusammen, um Strategien und Technologien gegen digitale Bedrohungen zu entwickeln.</p>
+<p/><p>Mit der Unterstützung von Swissquote solle der Wissenstransfer zwischen Forschung und Praxis beschleunigt werden. Das Unternehmen betonte, es leiste damit einen wesentlichen Beitrag zum Schutz sensibler Daten und Vermögenswerte. Swissquote ist nach eigenen Angaben Schweizer Marktführer im Digital Banking und verwaltet Kundengelder von über 80 Milliarden Franken.</p>
+<p/><p>to/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
