@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T114109+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>1886</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:1886:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T114109+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T114109+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>DKSH erhält Vertriebs- und Werberechte für Abnehmmittel in Singapur</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016013"/><Subject FormalName="04007007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196699">
+<Property FormalName="FullName" Value="DKSH Holding AG" />
+
+<Property FormalName="ShortName" Value="DKSH" />
+
+<Property FormalName="Telekurs" Value="2384" />
+
+<Property FormalName="CHNr" Value="CH-020.3.924.096-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0126673539" />
+
+<Property FormalName="Ticker" Value="DKSH" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRD"/><Property FormalName="Subject" Value="ORD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der auf Asien ausgerichtete Marktdienstleister DKSH hat in Singapur neues Geschäft an Land gezogen. So hat er die Marketing- und Vertriebsrechte für einen von Eli Lilly entwickelten Pen für übergewichtige oder an Diabetes leidende Menschen erhalten.</p>
+<p/><p>Der Pen unter der Bezeichnung "Mounjaro KwikPen" wurde von den Behörden in Singapur im Juni 2025 zugelassen, wie DKSH am Freitag mitteilte. Mit dem Pen wird ein Medikament (Tirzepatide) gespritzt, das Übergewichtigen oder von Diabetes Typ 2 betroffenen Erwachsenen hilft. Es ermöglicht laut der Mitteilung eine verbesserte Kontrolle des Blutzuckers und damit verbunden eine deutliche Gewichtsreduktion. Mounjaro wird einmal pro Woche und nur auf Verschreibung verabreicht.</p>
+<p/><p>cf/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
