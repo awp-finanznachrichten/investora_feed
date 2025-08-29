@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T073808+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>641</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:641:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T073808+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T073808+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Santhera schliesst Vertriebsvereinbarung für Agamree in Indien</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016023"/><Subject FormalName="04016030"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4133 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2129025039">
+<Property FormalName="FullName" Value="Santhera Pharmaceuticals Holding AG" />
+
+<Property FormalName="ShortName" Value="Santhera" />
+
+<Property FormalName="Telekurs" Value="116405" />
+
+<Property FormalName="CHNr" Value="CH-270.3.012.442-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1276028821" />
+
+<Property FormalName="Ticker" Value="SANN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Pratteln (awp) - Das Biopharmaunternehmen Santhera hat für sein Mittel Agamree ein Vertriebsabkommen mit der Firma Ikris Pharma abgeschlossen. Demnach wird das indische Unternehmen den Vertrieb und die Vermarktung des Mittels auf dem Subkontinent übernehmen.</p>
+<p/><p>Die Vereinbarung zwischen Santhera und Ikris habe eine Laufzeit von fünf Jahren, teilte das Unternehmen am Freitag mit. Santhera erhalte entsprechend früheren Vertriebsvereinbarungen einen Prozentsatz des Nettoumsatzes. Der Verkauf soll im vierten Quartal 2025 beginnen.</p>
+<p/><p>Kürzlich hat Santhera bereits Vertriebsvereinbarungen für das Mittel in der Türkei und für eine Reihe von Ländern in der Golfregion abgeschlossen. Weitere sollen folgen.</p>
+<p/><p>Agamree wird zur Behandlung von Duchenne-Muskeldystrophie (DMD) bei Patienten ab vier Jahren eingesetzt.</p>
+<p/><p>pre/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
