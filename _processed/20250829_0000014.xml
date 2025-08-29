@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T184511+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>3870</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:3870:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T184511+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T184511+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>HLEE rutscht tiefer in die roten Zahlen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04014000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4133" />
+
+<Property FormalName="City" Value="4133 " />
+
+</Property>
+
+<Property FormalName="Country" Value="DE" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191979">
+<Property FormalName="FullName" Value="Highlight Communications AG" />
+
+<Property FormalName="ShortName" Value="Highlight" />
+
+<Property FormalName="Telekurs" Value="031150" />
+
+<Property FormalName="CHNr" Value="CH-130.0.005.502-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0006539198" />
+
+<Property FormalName="Ticker" Value="HLG" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191516">
+<Property FormalName="FullName" Value="Highlight Event and Entertainment AG" />
+
+<Property FormalName="ShortName" Value="Highlight Event" />
+
+<Property FormalName="Telekurs" Value="92807" />
+
+<Property FormalName="CHNr" Value="CH-217.0.630.372-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0003583256" />
+
+<Property FormalName="Ticker" Value="HLEE" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="LEI"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Pratteln (awp) - Die Highlight Event and Entertainment AG (HLEE) hat im ersten Semester 2025 weniger Umsatz erzielt und einen deutlich höheren Verlust geschrieben.</p>
+<p/><p>Der Umsatz sank um 14,4 Prozent auf 156,5 Millionen Franken, wie die Gruppe am Freitag bekannt gab. Während die Erlöse im Segment Film mit 101,2 Millionen Franken nahezu unverändert geblieben seien, sanken sie im Segment Sport und Event aufgrund von einmaligen Sondereffekten auf 25,2 Millionen.</p>
+<p/><p>Ebenfalls wegen Sondereffekten resultierte ein operativer Verlust (EBIT) von 31,0 Millionen Franken. Im Vorjahr hatte der Fehlbetrag nur 9,9 Millionen Franken betragen.</p>
+<p/><p>Am Ende der Erfolgsrechnung stand ein ebenfalls deutlich höherer Verlust von 35,7 Millionen Franken. Die Eigenkapitalquote lag zur Jahresmitte noch bei 22,4 Prozent, nach 26,3 Prozent Ende 2024.</p>
+<p/><p>Für das zweite, traditionell stärkere Halbjahr werde eine "wesentliche" Verbesserung der Resultate erwartet, hiess es weiter. Denn die Sonderkosten würden weitgehend wegfallen und der Umsatz werde sich positiv entwickeln.</p>
+<p/><p>ra/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
