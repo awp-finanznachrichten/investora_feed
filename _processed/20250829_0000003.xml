@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250829T073610+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250829</DateId>
+			<NewsItemId>636</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250829:636:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250829T073610+0200</FirstCreated>
+		<ThisRevisionCreated>20250829T073610+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Carlo Gavazzi schliesst die Produktion in Malta</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016039"/><Subject FormalName="04016030"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6312" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197025">
+<Property FormalName="FullName" Value="Carlo Gavazzi Holding AG" />
+
+<Property FormalName="ShortName" Value="Carlo Gavazzi" />
+
+<Property FormalName="Telekurs" Value="177949" />
+
+<Property FormalName="CHNr" Value="CH-170.3.001.062-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1278877563" />
+
+<Property FormalName="Ticker" Value="GAV" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Steinhausen (awp) - Der Elektrotechnikhersteller Carlo Gavazzi will seinen Produktionsstandort in Malta aufgeben. Ein Datum für die Schliessung des Werks wurde in der Mitteilung vom Freitag noch nicht genannt.</p>
+<p/><p>Die Produktion in Malta werde schrittweise eingestellt, schrieb das Unternehmen. Das Produktangebot der Carlo Gavazzi Gruppe sei davon aber nicht betroffen. Die Produktion der bis anhin in Malta hergestellten Produkte werde an anderen Standorten der Gruppe weitergeführt, insbesondere in den Werken in Mexiko und China.</p>
+<p/><p>sc/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
