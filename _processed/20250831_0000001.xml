@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250831T143833+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250831</DateId>
+			<NewsItemId>130</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250831:130:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250831T143833+0200</FirstCreated>
+		<ThisRevisionCreated>20250831T143833+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Konsortium mit Stadler angelt sich Mega-Auftrag für Berliner S-Bahn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04003000"/><Subject FormalName="04011009"/><Subject FormalName="04014000"/><Subject FormalName="04015000"/><Subject FormalName="04016019"/><Subject FormalName="04016023"/><Subject FormalName="04016013"/><Subject FormalName="11000000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9565" />
+
+</Property>
+
+<Property FormalName="Country" Value="DE">
+<Property FormalName="City" Value="DE-80333" />
+
+<Property FormalName="City" Value="10785" />
+
+</Property>
+
+<Property FormalName="Country" Value="FR">
+<Property FormalName="City" Value="92300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196057">
+<Property FormalName="FullName" Value="Siemens AG" />
+
+<Property FormalName="ShortName" Value="Siemens" />
+
+<Property FormalName="Telekurs" Value="316890" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE0007236101" />
+
+<Property FormalName="Ticker" Value="SIE" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193667">
+<Property FormalName="FullName" Value="Alstom SA" />
+
+<Property FormalName="Telekurs" Value="000725" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="FR0010220475" />
+
+<Property FormalName="Ticker" Value="ALO" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191533">
+<Property FormalName="FullName" Value="Stadler Rail AG" />
+
+<Property FormalName="ShortName" Value="Stadler Rail" />
+
+<Property FormalName="Telekurs" Value="067816" />
+
+<Property FormalName="CHNr" Value="CH-440.3.002.481-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002178181" />
+
+<Property FormalName="Ticker" Value="SRAIL" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238864" />
+
+<Property FormalName="Ticker" Value="SRA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852651" />
+
+<Property FormalName="Ticker" Value="SRA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852669" />
+
+<Property FormalName="Ticker" Value="SRA241" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193343">
+<Property FormalName="FullName" Value="Deutsche Bahn AG" />
+
+<Property FormalName="Telekurs" Value="398795" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS0135295664" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0303138520" />
+
+<Property FormalName="Ticker" Value="DBF15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0385997108" />
+
+<Property FormalName="Ticker" Value="DBF17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0423233557" />
+
+<Property FormalName="Ticker" Value="DBF18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0479514272" />
+
+<Property FormalName="Ticker" Value="DBF19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0479514280" />
+
+<Property FormalName="Ticker" Value="DBF191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158887" />
+
+<Property FormalName="Ticker" Value="DBF211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0581947808" />
+
+<Property FormalName="Ticker" Value="DBF21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1137122797" />
+
+<Property FormalName="Ticker" Value="DBF212" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1204259811" />
+
+<Property FormalName="Ticker" Value="DBF22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1228838129" />
+
+<Property FormalName="Ticker" Value="DBF221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1277080508" />
+
+<Property FormalName="Ticker" Value="DBF23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS0524471355" />
+
+<Property FormalName="Ticker" Value="EU874" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1045386494" />
+
+<Property FormalName="Ticker" Value="EU2812" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1306410249" />
+
+<Property FormalName="Ticker" Value="AUD570" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="LEI"/><Property FormalName="Industry" Value="SVS"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="ORD"/><Property FormalName="Subject" Value="POL"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>BERLIN (awp international) - Die milliardenschwere Ausschreibung für einen grossen Teil des Berliner S-Bahn-Netzes ist nach jahrelangen Verzögerungen entschieden: Den Zuschlag für wichtige Nord-Süd- sowie Ost-West-Verbindungen erhielt nach Informationen der Deutschen Presse-Agentur ein Konsortium aus Deutscher Bahn, Stadler und Siemens. Dieses setzte sich gegen den Mitbewerber Alstom durch, der gegen die Entscheidung noch juristisch vorgehen kann.</p>
+<p/><p>In dem grössten Vergabeverfahren für den öffentlichen Nahverkehr in Europa geht es um ein Auftragsvolumen von rund 15 Milliarden Euro. Es umfasst den Betrieb mehrerer S-Bahn-Linien ab den 2030er Jahren für 15 Jahre, die Lieferung von 1.400 neuen Wagen und die Fahrzeugwartung für 30 Jahre.</p>
+<p/><p>Bisher werden die sogenannten Teilnetze Nord-Süd und Stadtbahn ebenso von der Bahntochter S-Bahn Berlin GmbH betrieben wie die Ringbahn. Letztere war nicht Teil der bereits 2020 gestarteten Ausschreibung der Länder Berlin und Brandenburg.</p>
+<p/><h3>Jahrelange Hängepartie</h3>
+<p/><p>Diese verzögerte sich immer wieder. Die Gründe sind vielfältig, es gab auch juristische Auseinandersetzungen. Im Nord-Süd-Teilnetz war die Betriebsaufnahme ursprünglich bereits für Ende 2027 geplant, auf der Stadtbahn für das Frühjahr 2028. Da die Vergabe nun erst in den 2030er Jahren greift, müssen die aktuellen, teils schon recht alten S-Bahn-Züge wohl länger auf den fraglichen Linien verkehren als geplant.</p>
+<p/><p>Der Berliner Senat kommentierte die Auftragsvergabe am Wochenende auf Anfrage zunächst ebenso wenig wie das Brandenburger Verkehrsministerium. Ein Sprecher der Deutschen Bahn AG erklärte, man werde mit Blick auf das nicht vollständig abgeschlossene Ausschreibungsverfahren keinerlei Stellung beziehen.</p>
+<p/><h3>Alstom mahnt "echten Wettbewerb" an</h3>
+<p/><p>Der französische Bahnkonzern Alstom äusserte sich zum Vergabeergebnis ebenfalls nicht, verwies aber auf die Kritik des Berliner Kammergerichts am Vergabeverfahren. "Es ist ein Fakt, dass das Berliner Kammergericht im März 2024 diese Ausschreibung in zentralen Punkten als vergaberechtswidrig eingestuft hat", sagte ein Alstom-Sprecher.</p>
+<p/><p>"Bei einer Vergabe dieser Dimension muss sichergestellt sein, dass echter Wettbewerb stattfindet und sich dadurch das beste S-Bahn-Angebot zum besten Preis durchsetzt", sagte er weiter. "Dies ist ein ordnungspolitisches Gebot und im Sinne der Steuerzahler und Fahrgäste."</p>
+<p/><h3>Gericht wurde bereits angerufen</h3>
+<p/><p>Alstom hatte gegen das Vergabeverfahren geklagt, weil sich das Unternehmen im Vergleich zu anderen Bietern benachteiligt sah. Im März vergangenen Jahres wies das Berliner Kammergericht die Klage in den meisten Punkten ab. Das Vergabeverfahren ging mit leichten Änderungen weiter.</p>
+<p/><p>Gleichwohl machte das Gericht damals deutlich, dass es in dem S-Bahn-Verfahren weitere Verstösse gegen das Vergaberecht sieht. Allerdings habe Alstom die Rügen zu diesen Punkten nicht rechtzeitig erhoben.</p>
+<p/><h3>Verband gegen Vergabeentscheidung</h3>
+<p/><p>Der Vorsitzende der Eisenbahn- und Verkehrsgewerkschaft (EVG), Martin Burkert, wertete die Vergabeentscheidung positiv. Für die Beschäftigten ende damit eine lange Zeit der Unsicherheit. Mit der Entscheidung werde ein wichtiges Signal für langfristige Sicherheit gesetzt: "Für die Beschäftigten selbst, am Ende aber vor allem für die Fahrgäste."</p>
+<p/><p>Die Initiative "Bahn für Alle" sprach hingegen von einer "Teilprivatisierung" der Berliner S-Bahn und forderte den Senat zu einem Kurswechsel auf. "Statt zwei Drittel des Betriebs für 15 bis 20 Milliarden Euro in eine ungewisse Zukunft zu katapultieren, muss sich Berlin für einen niedrigen einstelligen Milliardenbetrag die Mehrheit an der S-Bahn GmbH sichern", meinte Sprecher Carl Wassmuth. "Berlin sollte das S-Bahn-Netz kaufen und Netz und Betrieb zukunftsfähig ausbauen."/kr/DP/he</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
