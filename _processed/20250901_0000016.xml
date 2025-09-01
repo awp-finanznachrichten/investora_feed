@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T184709+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>2970</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:2970:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T184709+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T184709+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Hypothekarbank Lenzburg verliert Geschäftsleitungsmitglied</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="5600" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197616">
+<Property FormalName="FullName" Value="Hypothekarbank Lenzburg" />
+
+<Property FormalName="ShortName" Value="Hypi Lenzburg" />
+
+<Property FormalName="Telekurs" Value="28711" />
+
+<Property FormalName="CHNr" Value="CH-400.3.903.227-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001341608" />
+
+<Property FormalName="Ticker" Value="HBLN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lenzburg (awp) - Bei der Hypothekarbank Lenzburg nimmt das Geschäftsleitungsmitglied Manuela Spillmann den Hut. Die Leiterin des Bereichs Services wird das Institut Ende November 2025 verlassen, wie Bank am Montag mitteilte.</p>
+<p/><p>Spillmann tritt den Angaben zufolge auf eigenen Wunsch zurück, um eine neue berufliche Herausforderung ausserhalb der Bank anzunehmen. Sie war seit Juli 2023 für den Bereich Services verantwortlich und rückte im Oktober 2023 in die Geschäftsleitung auf. Nach ihrem Austritt wird die Geschäftsleitung der Hypothekarbank Lenzburg aus sechs Mitgliedern bestehen, darunter CEO Silvan Hilfiker sowie CFO Stefan Meyer.</p>
+<p/><p>Erst im April hatte die Bank eine Erweiterung der Geschäftsleitung bekannt gegeben. Seit Mai ist der Geschäftsbereich Legal, Regulatory &amp; Compliance in der Leitung vertreten. Begründet wurde der Schritt mit den "steigenden regulatorischen Anforderungen".</p>
+<p/><p>to/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
