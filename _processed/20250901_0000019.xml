@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T193610+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>19</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>3041</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:3041:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T193610+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T193610+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Nestlé entlässt CEO Laurent Freixe nach Liebesbeziehung mit Mitarbeiterin</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Ausf&#252;hrliche Fassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04016027"/><Subject FormalName="04009000"/><Subject FormalName="04016030"/><Subject FormalName="04016048"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196839">
+<Property FormalName="FullName" Value="Nestlé SA" />
+
+<Property FormalName="ShortName" Value="Nestlé" />
+
+<Property FormalName="Telekurs" Value="213695" />
+
+<Property FormalName="CHNr" Value="CH-550.0.067.293-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0038863350" />
+
+<Property FormalName="Ticker" Value="NESN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042509" />
+
+<Property FormalName="Ticker" Value="NES181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355108" />
+
+<Property FormalName="Ticker" Value="NES22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355116" />
+
+<Property FormalName="Ticker" Value="NES221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355124" />
+
+<Property FormalName="Ticker" Value="NES222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1221150506" />
+
+<Property FormalName="Ticker" Value="NES223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543838" />
+
+<Property FormalName="Ticker" Value="NES224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543846" />
+
+<Property FormalName="Ticker" Value="NES225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475397" />
+
+<Property FormalName="Ticker" Value="NES231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475405" />
+
+<Property FormalName="Ticker" Value="NES232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475413" />
+
+<Property FormalName="Ticker" Value="NES233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277832" />
+
+<Property FormalName="Ticker" Value="NES234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277840" />
+
+<Property FormalName="Ticker" Value="NES235" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277857" />
+
+<Property FormalName="Ticker" Value="NES236" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316745" />
+
+<Property FormalName="Ticker" Value="NES241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316752" />
+
+<Property FormalName="Ticker" Value="NES242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316760" />
+
+<Property FormalName="Ticker" Value="NES243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316778" />
+
+<Property FormalName="Ticker" Value="NES244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104335" />
+
+<Property FormalName="Ticker" Value="NES17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104343" />
+
+<Property FormalName="Ticker" Value="NES171" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="MGT"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Vevey (awp) - Der Nahrungsmittelkonzern Nestlé hat CEO Laurent Freixe mit sofortiger Wirkung abgesetzt. Der Schritt folgt auf eine Untersuchung zu einer nicht offengelegten romantischen Beziehung Freixes mit einer ihm direkt unterstellten Mitarbeiterin, wie das Unternehmen am Montagabend mitteilte.</p>
+<p/><p>Der Verwaltungsrat sah im Verhalten des 63-Jährigen einen Verstoss gegen den Nestlé-Verhaltenskodex sowie interne Richtlinien, wie es hiess. Der Verwaltungsrat ernannte Nespresso-CEO Philipp Navratil zum neuen Konzernchef. Das Gremium betonte, die strategische Ausrichtung bleibe auch unter dem neuen Schweizer CEO unverändert, man wolle aber das Tempo bei Wachstum und Effizienz steigern.</p>
+<p/><p>Die Untersuchung gegen Freixe wurde unter Aufsicht vom abtretenden Verwaltungsratspräsidenten Paul Bulcke und dem designierten neuen Verwaltungsratspräsidenten Pablo Isla geführt. Bulcke liess sich in der Mitteilung mit den Worten zitieren, die Entscheidung sei notwendig gewesen: "Nestlé's Werte und Governance bilden das solide Fundament unseres Unternehmens." Gleichzeitig dankte er Freixe für dessen langjährigen Einsatz.</p>
+<p/><p>Freixe war nur gerade mal ein Jahr als CEO im Amt. Für das Unternehmen allerdings arbeitete er seit 1986. Er war ein Nestlé-Urgestein.</p>
+<p/><h3>Ein Schweizer übernimmt den Chefposten</h3>
+<p/><p>Der neue CEO Philipp Navratil ist seit 24 Jahren bei Nestlé. Der Schweizer begann seine Karriere bei Nestlé im Jahr 2001 in der internen Revision. Vor einem Jahr wurde er zum Nespresso-Chef ernannt. Seit Anfang Januar sitzt Navratil in der Konzernleitung.</p>
+<p/><p>Navratil erklärte: "Es ist ein Privileg, Nestlé in die Zukunft führen zu dürfen. Ich unterstütze voll und ganz die strategische Ausrichtung des Unternehmens, sowie den schon in Gang gesetzten Aktionsplan um die Leistung von Nestlé zu stärken."</p>
+<p/><p>Zudem wolle er mit dem Verwaltungsrat, dem Präsidenten Paul Bulcke und dem designierten Präsidenten Pablo Isla daran arbeiten, die Umsetzung der Strategie zu beschleunigen, erklärte Navratil weiter. Auch der Wertschöpfungsplan solle intensiv vorangetrieben werden.</p>
+<p/><h3>Freixe in der Kritik</h3>
+<p/><p>Nestlé-Chef Freixe hat seit geraumer Zeit in der Kritik gestanden. Der Franzose bekundete Mühe damit, die Investoren von seinem Turnaround-Plan zu überzeugen. Zuletzt sorgten die Halbjahreszahlen für einen Kurseinbruch.</p>
+<p/><p>Dabei hatte es anfangs so gut ausgesehen: Nach einem sehr schwachen 2024 hatten die Nestlé-Aktien ein sehr starkes erstes Quartal und waren damit längere Zeit grösster Gewinner im SMI - doch dann haben sie einen grossen Teil dieser Gewinne wieder eingebüsst.</p>
+<p/><p>to/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
