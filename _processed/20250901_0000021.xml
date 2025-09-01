@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T202110+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>21</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>3069</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:3069:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T202109+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T202109+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Givaudan schliesst Übernahme von brasilianischer Vollmens Fragrances ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="BR" />
+
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1214" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191792">
+<Property FormalName="FullName" Value="Givaudan SA" />
+
+<Property FormalName="ShortName" Value="Givaudan" />
+
+<Property FormalName="Telekurs" Value="78786" />
+
+<Property FormalName="CHNr" Value="CH-660.0.028.929-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010645932" />
+
+<Property FormalName="Ticker" Value="GIVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0343366784" />
+
+<Property FormalName="Ticker" Value="GIV161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0572327036" />
+
+<Property FormalName="Ticker" Value="GIV20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308724" />
+
+<Property FormalName="Ticker" Value="GIV21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308732" />
+
+<Property FormalName="Ticker" Value="GIV211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714703" />
+
+<Property FormalName="Ticker" Value="GIV22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714711" />
+
+<Property FormalName="Ticker" Value="GIV220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916731" />
+
+<Property FormalName="Ticker" Value="GIV23" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Vernier (awp) - Der Aromen- und Riechstoffkonzern Givaudan hat die Übernahme der Mehrheit am brasilianischen Dufthaus Vollmens Fragrances abgeschlossen. Der weltweit führende Anbieter von Duft- und Schönheitsprodukten stärke damit seine Präsenz in Lateinamerika, Mittelamerika sowie weiteren internationalen Märkten, hiess es in einer Mitteilung vom Montagabend.</p>
+<p/><p>Die Bedingungen der Transaktion wurden nicht bekannt gegeben. Doch das Geschäft von Vollmens Fragrances hätte auf Pro-forma-Basis einen zusätzlichen Umsatz von rund 25 Millionen Franken zu den Ergebnissen von Givaudan im Jahr 2024 beigetragen, wie Givaudan mitteilte.</p>
+<p/><p>Givaudan will den Kauf aus eigenen Mitteln finanzieren. Der Konzern hält sich zudem die Option offen, den Anteil an Vollmens weiter auszubauen.</p>
+<p/><p>Vollmens mit Sitz in Saltinho beschäftigt rund 180 Mitarbeitende und erzielte 2024 einen Umsatz von umgerechnet etwa 25 Millionen Franken. Das Unternehmen bleibt unter der Leitung der Gründerfamilie Mendes, die auch künftig die Geschäftsführung innehaben wird.</p>
+<p/><p>to/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
