@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T075509+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>520</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:520:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T075509+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T075509+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Skan ernennt Jonas Greutert zum neuen CEO</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147195814">
+<Property FormalName="FullName" Value="SKAN Group AG" />
+
+<Property FormalName="ShortName" Value="Skan" />
+
+<Property FormalName="Telekurs" Value="135503" />
+
+<Property FormalName="CHNr" Value="CH-035.3.030.001-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0013396012" />
+
+<Property FormalName="Ticker" Value="SKAN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Allschwil (awp) - Der Verwaltungsrat des Isolatortechnologie-Spezialisten Skan hat Jonas Greutert zum neuen CEO bestimmt. Er wird sein Amt am 1. Januar 2026 antreten.</p>
+<p/><p>Greutert folgt auf Thomas Huber, der das Unternehmen mehr als acht Jahre operativ geleitet hatte. Die Neubesetzung erfolgt im Rahmen einer "strategischen Nachfolgeplanung", wie es in einer Mitteilung vom Montag heisst.</p>
+<p/><p>Greutert kommt vom schweizerisch-amerikanischen Präzisionsinstrumente-Hersteller Mettler-Toledo. Dort leitet er seit 2020 die Division Produktinspektion. Davor hatte er beim Unternehmen und auch in der Dätwyler Gruppe verschiedene internationale Führungspositionen inne.</p>
+<p/><p>"Mit Jonas Greutert gewinnen wir einen ausgewiesenen Branchenexperten mit langjähriger Führungserfahrung auf den für SKAN relevanten Gebieten", lässt sich Verwaltungsratspräsident Beat Lüthi zitieren. Zudem passten sein "unternehmerisches Denken und seine persönlichen Qualitäten" ideal zur Kultur von Skan.</p>
+<p/><p>Unter der Leitung von Huber sei Skan zur "Weltmarktführerin für hochwertige Isolatorsysteme für aseptische Produktionsprozesse in der Pharma- und Biotech-Industrie" aufgestiegen, lobt Verwaltungsratspräsident Beat Lüthi den scheidenden CEO. Zudem konnte der Umsatz des Unternehmens deutlich gesteigert und die internationale Präsenz ausgebaut werden.</p>
+<p/><p>Nach dem Ausscheiden als CEO werde Huber weiterhin Mitglied im Verwaltungsrat des Unternehmens bleiben, beisst es.</p>
+<p/><p>cg/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
