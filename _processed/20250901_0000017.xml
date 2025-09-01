@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T190409+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>2993</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:2993:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T190408+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T190408+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Montana Aerospace vermeldet Insiderverkauf von über 60 Millionen Franken</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04016047"/><Subject FormalName="04011001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="5734" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2019382311">
+<Property FormalName="FullName" Value="Montana Aerospace AG" />
+
+<Property FormalName="ShortName" Value="Montana Aerospace" />
+
+<Property FormalName="CHNr" Value="CH-400.3.446.646-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1110425654" />
+
+<Property FormalName="Ticker" Value="AERO" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="AIR"/><Property FormalName="Subject" Value="MGT"/><Property FormalName="Subject" Value="PAN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Reinach (awp) - Bei Montana Aerospace hat ein Insider eigene Aktien des Unternehmens für mehr als 60 Millionen Franken verkauft. Dies geht aus einer Mitteilung auf dem Portal der Regulierungsstelle der Schweizer Börse vom Montag hervor.</p>
+<p/><p>Demnach hat ein nicht-exekutives Verwaltungsratsmitglied, abgeschlossen von einer nahestehenden juristischen Person, am 28. August insgesamt 2,645 Millionen Aktien im Wert von 61,1 Millionen Aktien verkauft.</p>
+<p/><p>Dabei dürfte es sich um den Hauptaktionär und Verwaltungsratspräsidenten Michael Tojner handeln. Denn nur der Österreicher verfügt dafür über genügend Aktien. Gemäss letzten Angaben der SIX hält er 52,3 Prozent oder gut 31 Millionen Aktien an dem Luftfahrtzulieferer.</p>
+<p/><p>pre/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
