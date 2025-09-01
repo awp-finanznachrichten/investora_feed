@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T100330+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>1339</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:1339:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T100330+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T100330+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Flughafen Zürich verzeichnet auch im August mehr Flugbewegungen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Am Flughafen Zürich sind im Monat August deutlich mehr Flugzeuge gestartet und gelandet als im Vorjahr. Der Steigflug der vergangenen Monate setzt sich damit fort.</p>
+<p/><p>Mit insgesamt 24'955 Starts und Landungen lag das Verkehrsaufkommen im August um 4,7 Prozent über dem Niveau des Vorjahresmonats, wie eine Datenauswertung der Nachrichtenagentur AWP zeigt. Einzig im Monat Juli waren im laufenden Jahr noch rund 40 Flugzeuge mehr gestartet oder gelandet.</p>
+<p/><p>Im Vergleich zum August 2019 schwingt der August 2025 obenaus: So wurden dieses Jahr 1,8 Prozent mehr Flugbewegungen verzeichnet als im letzten Jahr vor der Pandemie.</p>
+<p/><h3>Aufwärtstrend hält an</h3>
+<p/><p>Damit setzt sich der Aufwärtstrend weiter fort. Von Jahresbeginn bis Ende August stieg die Zahl der Starts und Landungen im Vergleich zu 2024 um 3,4 Prozent auf 176'382. Im Vergleich zum Vorkrisenjahr 2019 liegt sie jedoch immer noch um 3,1 Prozent tiefer.</p>
+<p/><p>Die Flugbewegungen am Flughafen Zürich werden täglich erfasst und umfassen sämtliche Flüge nach den sogenannten Instrumentenflugregeln (IFR), also Linien-, Fracht-, Geschäfts- und Privatflüge. Diese Zahlen stehen in Zusammenhang mit der Passagierentwicklung, weisen jedoch gewisse Abweichungen auf - bedingt durch Unterschiede in der Auslastung sowie der Grösse der eingesetzten Flugzeuge.</p>
+<p/><p>Detaillierte Passagier- und Verkehrszahlen für den Monat August veröffentlicht der Flughafen Zürich am 10. September.</p>
+<p/><p>an/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
