@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T075309+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>516</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:516:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T075309+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T075309+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Burkhalter wächst im ersten Halbjahr weiter</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8048" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2116375139">
+<Property FormalName="FullName" Value="Burkhalter Holding AG" />
+
+<Property FormalName="ShortName" Value="Burkhalter" />
+
+<Property FormalName="Telekurs" Value="268521" />
+
+<Property FormalName="CHNr" Value="CH-020.3.023.357-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0212255803" />
+
+<Property FormalName="Ticker" Value="BRKN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401891" />
+
+<Property FormalName="Ticker" Value="BCH241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Elektroinstallateur und Gebäudetechniker Burkhalter hat im ersten Halbjahr 2025 leicht mehr umgesetzt und verdient. Für den weiteren Verlauf des Jahres bleibt das Management zuversichtlich.</p>
+<p/><p>Der Umsatz stieg in den ersten sechs Monaten um 3,4 Prozent auf 586,8 Millionen Franken, wie das Unternehmen am Montag mitteilte. Das Wachstum sei auf die nach wie vor starke Nachfrage nach Gebäudetechnik-Dienstleistungen zurückzuführen, schrieb Burkhalter. Zudem hatte die Gruppe im vergangenen Semester zwei kleinere Firmen übernommen.</p>
+<p/><p>Der EBIT erreichte 29,5 Millionen Franken, was einer Zunahme von 4,6 Prozent entspricht. Der Reingewinn stieg um 3 Prozent auf 24,0 Millionen und der Gewinn pro Aktie kam 3,2 Prozent höher, bei rund 2,3 Franken, zu liegen.</p>
+<p/><h3>Prognose bestätigt</h3>
+<p/><p>Am Ausblick hält das Management derweil fest: So geht es davon aus, den Gewinn pro Aktie im laufenden Geschäftsjahr gegenüber dem Vorjahr erneut moderat steigern zu können.</p>
+<p/><p>Das Management sieht dank der Energiestrategie 2050 des Bundes gute Chancen für weiteres Wachstum. Die Burkhalter Gruppe trage durch die Sanierung und Renovation insbesondere älterer, schlecht isolierter oder mit fossilen Heizsystemen betriebener Gebäude aktiv zur Zielerreichung bei, heisst es in der Mitteilung.</p>
+<p/><p>sc/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
