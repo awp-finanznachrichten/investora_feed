@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T111610+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>1635</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:1635:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T111610+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T111610+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Neue Buchungsplattform OneDPS für den Schweizer Werbemarkt startet</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04010000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+<Property FormalName="City" Value="8021" />
+
+<Property FormalName="City" Value="4800" />
+
+<Property FormalName="City" Value="5000 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197302">
+<Property FormalName="FullName" Value="Aktiengesellschaft für die Neue Zürcher Zeitung" />
+
+<Property FormalName="ShortName" Value="NZZ" />
+
+<Property FormalName="Telekurs" Value="138001" />
+
+<Property FormalName="CHNr" Value="CH-020.3.900.787-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0126517975" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193909">
+<Property FormalName="FullName" Value="TX Group AG" />
+
+<Property FormalName="ShortName" Value="TX Group" />
+
+<Property FormalName="Telekurs" Value="90538" />
+
+<Property FormalName="CHNr" Value="CH-020.3.925.711-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011178255" />
+
+<Property FormalName="Ticker" Value="TXGN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147192113">
+<Property FormalName="FullName" Value="Ringier AG" />
+
+<Property FormalName="ShortName" Value="Ringier" />
+
+<Property FormalName="Telekurs" Value="842005" />
+
+<Property FormalName="CHNr" Value="CH-400.3.000.338-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002238431" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2035267710">
+<Property FormalName="FullName" Value="CH Media Holding AG" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-400.3.444.440-8" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Schweizer Werbewirtschaft hat neu eine zentrale Buchungsplattform in Betrieb genommen. Die Plattform mit dem Namen OneDSP ermögliche es Werbetreibenden, Schweizer Zielgruppen ab sofort datenschutzkonform und ohne Überschneidungen zu erreichen, teilten die Initianten am Montag in einem Communiqué mit.</p>
+<p/><p>Die Buchungsplattform sei eine gemeinsame Initiative der Verlage CH Media ("Aargauer Zeitung"), NZZ, Ringier ("Blick") und TX Group ("Tages-Anzeiger") sowie ihrer Vermarkter 20 Minuten, Audienzz, CH Media, Goldbach und Ringier Advertising. Damit wollen die Verlage den Abfluss von Schweizer Werbegeldern zu ausländischen Onlinegiganten wie beispielsweise Google eindämmen.</p>
+<p/><p>OneDSP bündelt den Angaben zufolge das digitale Werbeinventar von über 40 führenden Schweizer Medienmarken wie z.B. "20 Minuten", "Blick", NZZ, "Tages-Anzeiger" und "Watson", hiess es. Damit lassen sich 1,5 Millionen Nutzer direkt erreichen.</p>
+<p/><p>OneDSP richte sich an Mediaagenturen und Direktkunden, die Schweizer Reichweite buchen wollten. Auf ihr sei die Einhaltung der Datenschutzgesetze der EU und der Schweiz sichergestellt. Es gebe eine Schweizer Datenhoheit.</p>
+<p/><p>jb/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
