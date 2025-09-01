@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T080111+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>571</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:571:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T080111+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T080111+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Aevis-Tochter Swiss Medical Network mit starkem Wachstum im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191956">
+<Property FormalName="FullName" Value="Aevis Victoria SA" />
+
+<Property FormalName="ShortName" Value="Aevis" />
+
+<Property FormalName="Telekurs" Value="38231" />
+
+<Property FormalName="CHNr" Value="CH-550.0.166.624-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012488190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0478634105" />
+
+<Property FormalName="Ticker" Value="AEVS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Freiburg (awp) - Die Aevis-Tochter Swiss Medical Network hat im ersten Halbjahr 2025 deutlich zugelegt. Neben organischem Wachstum trug vor allem die Integration des Spitals Zofingen und des Netzwerks CentroMedico zum Ergebnis bei.</p>
+<p/><p>Der Nettoumsatz stieg im Zeitraum Januar bis Juni um 21 Prozent auf 426,2 Millionen Franken, wie Aevis am Montag anhand provisorischer Zahlen mitteilte. Auf vergleichbarer Basis lag das Wachstum bei 1,1 Prozent.</p>
+<p/><p>Der operative Gewinn vor Restrukturierungskosten EBITDAR wird zwischen 77 und 80 Millionen Franken erwartet. Dies entspricht einer Marge von über 18 Prozent, wie es heisst. Mit Fortschreiten der Integration der neuen Einheiten rechnet die Gruppe mit weiteren Effizienzsteigerungen und einer höheren Profitabilität.</p>
+<p/><p>Aevis Victoria hält derzeit rund 77 Prozent an Swiss Medical Network. Der detaillierte Halbjahresbericht wird am 18. September 2025 veröffentlicht.</p>
+<p/><p>an/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
