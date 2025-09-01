@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T114511+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>1750</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:1750:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T114511+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T114511+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BLKB-Gutachten zu Radicant soll am 11. September veröffentlicht werden</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="11000000"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4410" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197636">
+<Property FormalName="FullName" Value="Basellandschaftliche Kantonalbank" />
+
+<Property FormalName="ShortName" Value="BLKB" />
+
+<Property FormalName="Telekurs" Value="25889" />
+
+<Property FormalName="CHNr" Value="CH-280.8.910.265-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001473559" />
+
+<Property FormalName="Ticker" Value="BLKB" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0274314787" />
+
+<Property FormalName="Ticker" Value="BLK15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0397450724" />
+
+<Property FormalName="Ticker" Value="BLK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0407153359" />
+
+<Property FormalName="Ticker" Value="BLK182" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040784" />
+
+<Property FormalName="Ticker" Value="BLK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041147" />
+
+<Property FormalName="Ticker" Value="BLK191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239086" />
+
+<Property FormalName="Ticker" Value="BLK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158994" />
+
+<Property FormalName="Ticker" Value="BLK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159034" />
+
+<Property FormalName="Ticker" Value="BLK221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159042" />
+
+<Property FormalName="Ticker" Value="BLK222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0565650832" />
+
+<Property FormalName="Ticker" Value="BLK202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0592087230" />
+
+<Property FormalName="Ticker" Value="BLK203" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1102417735" />
+
+<Property FormalName="Ticker" Value="BLK204" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1138869784" />
+
+<Property FormalName="Ticker" Value="BLK205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1216740667" />
+
+<Property FormalName="Ticker" Value="BLK225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1217066583" />
+
+<Property FormalName="Ticker" Value="BLK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1217066591" />
+
+<Property FormalName="Ticker" Value="BLK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991301" />
+
+<Property FormalName="Ticker" Value="BLK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991327" />
+
+<Property FormalName="Ticker" Value="BLK242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991335" />
+
+<Property FormalName="Ticker" Value="BLK243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991343" />
+
+<Property FormalName="Ticker" Value="BLK244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991384" />
+
+<Property FormalName="Ticker" Value="BLK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204314" />
+
+<Property FormalName="Ticker" Value="BLK251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/><Property FormalName="Subject" Value="POL"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Liestal (awp) - Der von der Basellandschaftlichen Kantonalbank (BLKB) in Auftrag gegebene Untersuchungsbericht zum Radicant-Debakel ist fertiggestellt. Der unabhängige Bericht liege dem Bankrat vor, und der Landrat erhalte am 11. September eine Zusammenfassung der Erkenntnisse sowie die Empfehlungen, teilte die BLKB am Montag mit.</p>
+<p/><p>Und auch die Öffentlichkeit solle an diesem Tag unter anderem in Form einer Medienkonferenz informiert werden.</p>
+<p/><p>Die Umstände, Ereignisse und Abläufe, die im Zusammenhang mit den massiven Wertberichtigungen auf die Radicant-Beteilung der BLKB stehen, seien von der gw&amp;p ag Schweiz hat als unabhängige Sachverständige untersucht worden, heisst es weiter. Der Bericht werde nun dem Regierungsrat des Kantons Basel-Landschaft und der Finanzkommission des Landrats vorgelegt.</p>
+<p/><p>Anfang Juli hatte die BLKB Wertberichtigungen in der Höhe von mehr als 100 Millionen Franken auf ihrer Beteiligung an der Radicant Holding angekündigt. Der Bankratspräsident Thomas Schneider und CEO John Häfelfinger verliessen das Unternehmen per Ende Juli. Seit dem 1. September hat Thomas Bauer interimistisch das Präsidium des Bankrats übernommen.</p>
+<p/><p>an/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
