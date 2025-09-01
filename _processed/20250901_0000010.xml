@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T102147+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>1396</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:1396:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T102147+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T102147+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Burkhalter-Aktien brechen nach Halbjahreszahlen ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004000"/><Subject FormalName="04016048"/><Subject FormalName="04009000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8048" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2116375139">
+<Property FormalName="FullName" Value="Burkhalter Holding AG" />
+
+<Property FormalName="ShortName" Value="Burkhalter" />
+
+<Property FormalName="Telekurs" Value="268521" />
+
+<Property FormalName="CHNr" Value="CH-020.3.023.357-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0212255803" />
+
+<Property FormalName="Ticker" Value="BRKN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401891" />
+
+<Property FormalName="Ticker" Value="BCH241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Burkhalter-Aktien Burkhalter sind am Montag nach Halbjahreszahlen mit hohen Verlusten in den Handel gestartet. Der Elektroinstallateur und Gebäudetechniker hatte die Erwartungen vor allem bei der Profitabilität leicht verfehlt. Hauptgrund für den Einbruch dürften laut Marktteilnehmern aber Gewinnmitnahmen nach der jüngst starken Kursentwicklung sein.</p>
+<p/><p>Bis 10.15 Uhr geben die Burkhalter-Aktien um 8,4 Prozent auf 133,80 Franken nach. Der Gesamtmarkt liegt derweil leicht im Plus. Seit Anfang Jahr haben sich die Titel aber immer noch um rund ein Drittel verteuert.</p>
+<p/><p>Im Urteil der ZKB sind die Halbjahreszahlen insgesamt solide ausgefallen. Das Wachstum werde unterstützt durch die jüngsten Akquisitionen sowie durch den anhaltend hohen Sanierungsbedarf in Bezug auf Energieeffizienz und die hohe Nachfrage nach entsprechenden Dienstleistungen innerhalb der Schweiz, heisst es. Allerdings habe der operative Gewinn die Erwartungen verfehlt.</p>
+<p/><p>Auch laut UBS dürften die Gewinnschätzungen für das laufende Jahr nach Halbjahreszahlen nach unten angepasst werden. Der zuständige Experte rechnet mit Reduktionen im tiefen bis mittleren einstelligen Prozentbereich. Die Guidance sei aber bestätigt worden und zusätzliche Akquisitionen könnten den Titeln im Jahresverlauf wieder Schwung verleihen.</p>
+<p/><p>an/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
