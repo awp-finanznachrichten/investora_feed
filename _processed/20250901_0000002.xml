@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T074810+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>499</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:499:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T074809+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T074809+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Gurit gewinnt mehrjährigen Auftrag aus dem Unterwassersektor</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016013"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9630" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197003">
+<Property FormalName="FullName" Value="Gurit Holding AG" />
+
+<Property FormalName="ShortName" Value="Gurit" />
+
+<Property FormalName="CHNr" Value="CH-320.3.024.129-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1173567111" />
+
+<Property FormalName="Ticker" Value="GURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="ORD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Wattwil (awp) - Gurit hat einen mehrjährigen Vertrag zur Lieferung von Corecell-Strukturschaumkernen für die Unterwasserindustrie abgeschlossen. Zur Umsetzung eröffnet das Unternehmen eine neue Produktions- und Distributionsstätte nahe Brisbane in Australien.</p>
+<p/><p>Gurit plane, die derzeitige Distributionsanlage an den neuen Standort zu verlegen, heisst es in einer Mitteilung vom Montag. Der Vertrag soll innerhalb von fünf Jahren niedrige bis mittlere zweistellige Millionenumsätze in Schweizer Franken generieren.</p>
+<p/><p>Corecell ist ein Strukturschaummaterial, das in den 1980er-Jahren von Gurit entwickelt und seither mehrfach verbessert wurde.</p>
+<p/><p>ra/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
