@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T080011+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>536</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:536:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T080011+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T080011+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ypsomed erhält FDA-Freigabe für SmartPilot</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016027"/><Subject FormalName="04016037"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3400 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2134006103">
+<Property FormalName="FullName" Value="Ypsomed Holding AG" />
+
+<Property FormalName="ShortName" Value="Ypsomed" />
+
+<Property FormalName="Telekurs" Value="247651" />
+
+<Property FormalName="CHNr" Value="CH-053.3.016.597-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0019396990" />
+
+<Property FormalName="Ticker" Value="YPSN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Burgdorf (awp) - Das Medtech-Unternehmen Ypsomed hat einen Erfolg mit seinem digitalen Konnektivitätsmodul erzielt. Die US-Gesundheitsbehörde FDA erteilte die Freigabe für SmartPilot.</p>
+<p/><p>Das Add-on sei damit für den Markt freigegeben, was ein wichtiger Schritt für digitale Technologien im Bereich der Selbstinjektion und der Selbstbehandlung sei, heisst es in einer Mitteilung vom Montag. Damit werde der "YpsoMate Autoinjektor" zu einem vernetzten System, das Injektionsdaten automatisch erfasse und übertrage.</p>
+<p/><p>SmartPilot erfasst den Angaben zufolge Injektionsdaten wie Zeitpunkt, Ergebnis und mögliche Anwendungsfehler und überträgt sie per Bluetooth auf das Smartphone der Patientinnen und Patienten. Durch die automatische Datenerfassung unterstützt das Gerät sowohl die klinische Entwicklung als auch das tägliche Therapiemanagement.</p>
+<p/><p>Das Modul sei das bislang einzige von der FDA freigegebene Konnektivitätsgerät für eine Autoinjektor-Plattform, schreibt Ypsomed. Bisher waren FDA-freigegebene Geräte zur Erfassung von Injektionsdaten auf Pen-Injektoren beschränkt, die vor allem bei Diabetes eingesetzt werden. SmartPilot sei kompatibel mit Medikamenten, die bei chronischen und komplexen Erkrankungen eingesetzt werden - etwa Autoimmun- und Herz-Kreislauf-Erkrankungen, Adipositas, Hormonstörungen, neurologischen und onkologischen Indikationen sowie bei seltenen Krankheiten.</p>
+<p/><p>ys/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
