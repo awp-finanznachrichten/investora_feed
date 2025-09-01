@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T160209+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>2506</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:2506:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T160209+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T160209+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Wincasa verstärkt Geschäftsleitung mit Fokus auf Wohnen und Gewerbe</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04004000"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8404 " />
+
+<Property FormalName="City" Value="8305 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2060329141">
+<Property FormalName="FullName" Value="Wincasa AG" />
+
+<Property FormalName="Telekurs" Value="17040" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.208-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009668515" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2125829448">
+<Property FormalName="FullName" Value="Implenia AG" />
+
+<Property FormalName="ShortName" Value="Implenia" />
+
+<Property FormalName="Telekurs" Value="318935" />
+
+<Property FormalName="CHNr" Value="CH-170.3.028.842-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0316994661" />
+
+<Property FormalName="Ticker" Value="IMP16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1145096173" />
+
+<Property FormalName="Ticker" Value="IMP21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316687" />
+
+<Property FormalName="Ticker" Value="IMP24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428867134" />
+
+<Property FormalName="Ticker" Value="IMP25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0023868554" />
+
+<Property FormalName="Ticker" Value="IMPN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Immobiliendienstleister Wincasa hat seine Geschäftsleitung neu aufgeteilt. Er will die Bewirtschaftung von Wohn- und Gewerbeliegenschaften stärker spezialisieren.</p>
+<p/><p>Laut einer Mitteilung vom Montag übernimmt dabei Gabriella Gassmann, bisher Leiterin Services &amp; Projekte, die Verantwortung für den Bereich Wohnen und rückt in die Geschäftsleitung auf. Thomas Hinderling führt weiterhin den Bereich Center &amp; Mixed-Use Site Management und übernimmt zusätzlich alle kommerziellen Immobilien.</p>
+<p/><p>Mit der Trennung von Wohn- und Gewerbeliegenschaften auf oberster Ebene setzt Wincasa den letzten Schritt seines neuen Organisationsmodells um, das seit 2024 bereits auf Filialstufe eingeführt wurde. Die Umstellung soll Anfang 2026 abgeschlossen sein.</p>
+<p/><p>Gassmann kündigte an, den Service für Mieterinnen und Mieter gezielt zu verbessern. Hinderling betonte, dass Eigentümer von Gewerbeflächen künftig von spezialisierten Teams und einheitlichen Prozessen profitieren sollen.</p>
+<p/><p>to/pre</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
