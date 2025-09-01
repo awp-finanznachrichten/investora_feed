@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T111410+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>1619</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:1619:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T111410+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T111410+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>ABB und Wallenius Marine gründen Joint Venture</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016023"/><Subject FormalName="04003000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8050" />
+
+</Property>
+
+<Property FormalName="Country" Value="SE" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191955">
+<Property FormalName="FullName" Value="ABB Ltd" />
+
+<Property FormalName="ShortName" Value="ABB" />
+
+<Property FormalName="Telekurs" Value="39802" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.615-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012221716" />
+
+<Property FormalName="Ticker" Value="ABBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0457206818" />
+
+<Property FormalName="Ticker" Value="ABB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1168499775" />
+
+<Property FormalName="Ticker" Value="ABB221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1214797180" />
+
+<Property FormalName="Ticker" Value="ABB222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1214797198" />
+
+<Property FormalName="Ticker" Value="ABB223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293237975" />
+
+<Property FormalName="Ticker" Value="ABB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293237983" />
+
+<Property FormalName="Ticker" Value="ABB231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293237991" />
+
+<Property FormalName="Ticker" Value="ABB232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185773" />
+
+<Property FormalName="Ticker" Value="ABB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185781" />
+
+<Property FormalName="Ticker" Value="ABB251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="JNV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Technologiekonzern ABB und die schwedische Wallenius Marine bauen ihre Zusammenarbeit aus. Im Rahmen des neu gegründeten Joint Ventures "Oversea" würden gemeinsam Lösungen für das Flottenmanagement erarbeitet.</p>
+<p/><p>Die Partnerschaft baue auf einer seit 2022 bestehenden Zusammenarbeit auf, heisst es in einer Mitteilung vom Montag. Oversea werde Daten direkt von Schiffen sammeln, um Betreiber mit massgeschneiderten Empfehlungen zu unterstützen. Ziel sei es, Kraftstoffverbrauch und Emissionen zu senken und gleichzeitig die Sicherheit und Zuverlässigkeit der Flotten zu optimieren.</p>
+<p/><p>an/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
