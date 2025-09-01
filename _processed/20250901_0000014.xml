@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250901T140022+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250901</DateId>
+			<NewsItemId>2204</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250901:2204:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250901T140022+0200</FirstCreated>
+		<ThisRevisionCreated>20250901T140022+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ausblick Partners Group: H1-Erträge von 1,14 Milliarden Franken erwartet</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Forecast"/>
+			<SubjectCode><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6341" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2124422893">
+<Property FormalName="FullName" Value="Partners Group Holding AG" />
+
+<Property FormalName="ShortName" Value="Partners Group" />
+
+<Property FormalName="Telekurs" Value="321079" />
+
+<Property FormalName="CHNr" Value="CH-170.3.021.159-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024608827" />
+
+<Property FormalName="Ticker" Value="PGHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041287" />
+
+<Property FormalName="Ticker" Value="PAR191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714346" />
+
+<Property FormalName="Ticker" Value="PAR23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714353" />
+
+<Property FormalName="Ticker" Value="PAR231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742930" />
+
+<Property FormalName="Ticker" Value="PAR24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742948" />
+
+<Property FormalName="Ticker" Value="PAR241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="OUT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Baar (awp) - Der auf Privatmarktanlagen spezialisierte Vermögensverwalter Partners Group publiziert am Dienstag, 2. September, die Ergebnisse zum ersten Semester 2025. Insgesamt haben sechs Analysten zum AWP-Konsens beigetragen.</p>
+<p/><pre>H1 2025
+(in Mio Fr.)       AWP-Konsens  H1 2024  
+
+Erträge               1'135      977
+Management Fees         866      815
+Performance Fees        270      161
+EBITDA                  721      627
+Reingewinn              581      508
+
+</pre><p/><p>FOKUS: Partners Group dürfte sowohl die Erträge als auch den Gewinn im ersten Halbjahr gesteigert haben. Die verwalteten Vermögen sind stärker angestiegen als am Markt erwartet worden war, wie bereits seit Juli bekannt ist.</p>
+<p/><p>Für das Finanzergebnis ist ausschlaggebend, wie viele Beteiligungen gewinnbringend verkauft wurden und damit wie hoch jeweils die erfolgsabhängigen Einnahmen ausgefallen sind. Denn diese sind prozentual deutlich höher als die fixen Verwaltungsgebühren, die im Einklang mit den durchschnittlichen Assets under Management zulegen. Negativ dürfte sich laut Analysten dabei die Frankenstärke auf das Volumen in der hiesigen Währung ausgewirkt haben und damit auch auf Erträge und Gewinn.</p>
+<p/><p>CEO David Layton sprach bei der Vorlage der Assets under Management von einer erhöhten Volatilität im ersten Semester. Eigentlich habe er nach einem starken Start in das Jahr von Januar bis März 2025 das Potential für eine klare Erholung innerhalb der Branche im Gesamtjahr gesehen. Ab April seien dann jedoch mit der Unsicherheit bezüglich Zöllen die Transaktionsvolumen am Privatmarkt gedämpft gewesen. Jedoch verwies Layton auch auf eine starke" Pipeline sowohl für Exits als auch für weitere Investments.</p>
+<p/><p>Wegen der Unsicherheiten angesichts der US-Zölle sowie aufgrund der Verzögerung beim Techem-Exit stelle das erste Halbjahr "noch einmal ein Übergangssemester" dar, kommentiert der zuständige ZKB-Analyst im Vorfeld der Zahlen vom Dienstag. Wichtig werden zukunftsgerichtete Aussagen sein: Ein positiver Ausblick der Firma für das zweite Halbjahr sowie 2026 könnte der Aktie Schwung verleihen.</p>
+<p/><p>Auch Vontobel rechnet mit für die Zukunft mit einem "günstigeren" Umfeld und mit einer weiteren Verbesserung der Performancegebühren im zweiten Halbjahr und insbesondere im Geschäftsjahr 2026. Dies würde zu einem starken Umsatz- und Gewinnwachstum in den Geschäftsjahren 2026 bis 2027 führen.</p>
+<p/><p>ZIELE: Für das Gesamtjahr 2025 rechnet der Zuger Asset Manager mit Kapitalzusagen im Umfang von 22 bis 27 Milliarden US-Dollar. Hinzu kommen 4 Milliarden aus der Übernahme der Empira Group.</p>
+<p/><p>Bis 2033 sollen die verwalteten Vermögen auf über 450 Milliarden Dollar ansteigen. Ende Juni 2024 verwaltete Partners Group Vermögen in der Höhe von 174 Milliarden.</p>
+<p/><p>Das Partners-Group-Management rechnete zuletzt sowohl für das erste Halbjahr als auch für das Gesamtjahr 2025 mit einem Anteil der erfolgsabhängigen Einnahmen an den Gesamterträgen von 20 bis 30 Prozent. Ab 2026 soll der Anteil gar auf 25 bis 40 Prozent ansteigen.</p>
+<p/><p>PRO MEMORIA: Der Vermögensverwalter stellt in diesem Jahre ihre Profitabilitätskennzahl vom EBIT auf den EBITDA um. Begründet wurde dies mit einem verstärkten Engagement in M&amp;A-Aktivitäten in einer sich konsolidierenden Branche. In der Vergangenheit hatte das Unternehmen hingegen stark auf organisches Wachstum fokussiert und grossen Wert auf das Heranbilden eigener Talente gesetzt.</p>
+<p/><p>Empira ist das jüngste Beispiel für eine Abkehr von dieser Strategie allein. Die Akquisition des Zuger Immobilien-Investmentmanagers mit Fokus auf den Wohnungssektor hat Partners Group im ersten Semester 2025 vollzogen. Empira operiert weiterhin unter ihrer bestehenden Marke als Teil der Partners Group.</p>
+<p/><p>Die 2014 gegründete Gesellschaft beschäftigt den Angaben zufolge mehr als 250 Mitarbeitende in 13 Niederlassungen weltweit. Finanzielle Details zum Kauf wurden nicht kommuniziert.</p>
+<p/><p>AKTIENKURS: Nachdem die Aktien von Partners Group Mitte Februar 2025 ein Mehrjahreshoch bei 1426,50 Franken erreicht haben, sind sie seither klar zurückgekommen und notieren aktuell bei 1118 Franken (Stand: Donnerstag 16.00 Uhr). Damit stehen sie im laufenden Jahr 9 Prozent im Minus, während der SMI 2025 bis dato unter dem Strich zugelegt hat. Bis zum Allzeithoch der PGHN-Titel bei 1667 Franken vom November 2021 bräuchte es einen Anstieg um rund 50 Prozent.</p>
+<p/><p>Website: www.partnersgroup.com</p>
+<p/><p>ab/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
