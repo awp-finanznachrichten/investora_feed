@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T075909+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>594</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:594:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T075909+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T075909+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>LLB zieht sich aus dem Mittleren Osten zurück - Vermittlung an Rothschild &amp; Co</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016039"/><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9490" />
+
+</Property>
+
+<Property FormalName="Country" Value="LI" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147194851">
+<Property FormalName="FullName" Value="Liechtensteinische Landesbank AG" />
+
+<Property FormalName="ShortName" Value="LLB" />
+
+<Property FormalName="Telekurs" Value="588287" />
+
+<Property FormalName="CHNr" Value="FL-000.1.000.289-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="LI0355147575" />
+
+<Property FormalName="Ticker" Value="LLBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041204" />
+
+<Property FormalName="Ticker" Value="LLB19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041527" />
+
+<Property FormalName="Ticker" Value="LLB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536893255" />
+
+<Property FormalName="Ticker" Value="LLB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1306117040" />
+
+<Property FormalName="Ticker" Value="LLB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910237" />
+
+<Property FormalName="Ticker" Value="LLB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1423931596" />
+
+<Property FormalName="Ticker" Value="LLB25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Vaduz (awp) - Die Liechtensteinische Landesbank (LLB) zieht sich von ihren Standorten in Dubai und Abu Dhabi zurück. Private-Banking-Kunden in der Region werden künftig der Rothschild &amp; Co Bank AG vermittelt. Dazu wurde eine entsprechende Vereinbarung getroffen.</p>
+<p/><p>Der Entscheid sei nach 20 Jahren Präsenz im Mittleren Osten "aus strategischen Überlegungen" gefällt worden, teilte das Finanzinstitut am Dienstag mit. Die LLB fokussiere in der Betreuung der internationalen Kundschaft in Zukunft auf die Standorte in Liechtenstein, der Schweiz, Österreich und in Deutschland.</p>
+<p/><p>Den in den Vereinigten Arabischen Emiraten betreuten Kunden empfiehlt die LLB daher nun Rothschild als zukünftige Partnerin. "Das internationale Private-Banking-Geschäft ist und bleibt ein wichtiger strategischer Pfeiler für die LLB-Gruppe", betont der interimistische CEO Christoph Reich in der Mitteilung.</p>
+<p/><p>Die Transaktion zur Vermittlung von Private-Banking-Kunden erfolgt in Form eines sogenannten Referral-Deals, hiess es weiter. Das Vermittlungspotenzial belaufe sich auf rund eine Milliarde Franken - das sei weniger ein 1 Prozent des Geschäftsvolumens der LLB-Gruppe. Über den Vermittlungspreis wurde Stillschweigen vereinbart.</p>
+<p/><p>ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
