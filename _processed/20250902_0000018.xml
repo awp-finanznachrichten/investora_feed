@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T161311+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>3258</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:3258:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T161311+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T161311+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Clariant baut Standort in Norwegen aus</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4132" />
+
+</Property>
+
+<Property FormalName="Country" Value="NO" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193353">
+<Property FormalName="FullName" Value="Clariant AG" />
+
+<Property FormalName="ShortName" Value="Clariant" />
+
+<Property FormalName="Telekurs" Value="379427" />
+
+<Property FormalName="CHNr" Value="CH-280.3.900.172-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0469273541" />
+
+<Property FormalName="Ticker" Value="CLN19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1210198144" />
+
+<Property FormalName="Ticker" Value="CLN22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290870901" />
+
+<Property FormalName="Ticker" Value="CLN23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1331113501" />
+
+<Property FormalName="Ticker" Value="CLN241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1331113519" />
+
+<Property FormalName="Ticker" Value="CLN243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012142631" />
+
+<Property FormalName="Ticker" Value="CLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1423036925" />
+
+<Property FormalName="Ticker" Value="CLN25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1423036933" />
+
+<Property FormalName="Ticker" Value="CLN251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Muttenz (awp) - Der Spezialchemiekonzern Clariant baut seine Öl- und Gas-Aktivitäten in Norwegen aus. Die Tochter Clariant Oil Services habe gemeinsam mit dem Partnerunternehmen Swire Energy Services die Lagerkapazitäten im norwegischen Dusavik bei Stavanger erweitert, teilte Clariant am Dienstag mit.</p>
+<p/><p>Die vergrösserte Anlage umfasse mehrere Grosslagertanks mit grösserer Umschlagkapazität, um Schiffe oder Tankwagen direkt mit Chemikalien für die Öl- und Gasindustrie zu beliefern, hiess es weiter. Das Ladesystem sei dabei vollständig automatisiert worden und könne noch im September in den Vollbetrieb gehen. Zudem seien am Standort ein Qualitätslabor und Verwaltungsbüros gebaut worden.</p>
+<p/><p>mk/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
