@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T082811+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>931</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:931:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T082811+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T082811+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Nestlé-Aktien vorbörslich unter Druck - Unsicherheit nach CEO-Wechsel</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016028"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196839">
+<Property FormalName="FullName" Value="Nestlé SA" />
+
+<Property FormalName="ShortName" Value="Nestlé" />
+
+<Property FormalName="Telekurs" Value="213695" />
+
+<Property FormalName="CHNr" Value="CH-550.0.067.293-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0038863350" />
+
+<Property FormalName="Ticker" Value="NESN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042509" />
+
+<Property FormalName="Ticker" Value="NES181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355108" />
+
+<Property FormalName="Ticker" Value="NES22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355116" />
+
+<Property FormalName="Ticker" Value="NES221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355124" />
+
+<Property FormalName="Ticker" Value="NES222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1221150506" />
+
+<Property FormalName="Ticker" Value="NES223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543838" />
+
+<Property FormalName="Ticker" Value="NES224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543846" />
+
+<Property FormalName="Ticker" Value="NES225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475397" />
+
+<Property FormalName="Ticker" Value="NES231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475405" />
+
+<Property FormalName="Ticker" Value="NES232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475413" />
+
+<Property FormalName="Ticker" Value="NES233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277832" />
+
+<Property FormalName="Ticker" Value="NES234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277840" />
+
+<Property FormalName="Ticker" Value="NES235" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277857" />
+
+<Property FormalName="Ticker" Value="NES236" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316745" />
+
+<Property FormalName="Ticker" Value="NES241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316752" />
+
+<Property FormalName="Ticker" Value="NES242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316760" />
+
+<Property FormalName="Ticker" Value="NES243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316778" />
+
+<Property FormalName="Ticker" Value="NES244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104335" />
+
+<Property FormalName="Ticker" Value="NES17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104343" />
+
+<Property FormalName="Ticker" Value="NES171" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der überraschende Wechsel an der Nestlé-Spitze verunsichert die Märkte. Am Montagabend gab der Nahrungsmittelkonzern überraschend einen Chefwechsel bekannt - schon wieder. Laurent Freixe muss wegen einer verheimlichten Liebschaft das Unternehmen per sofort verlassen, Philipp Navratil übernimmt das Steuer. Dieser leitet seit Sommer 2024 die erfolgreiche Sparte Nespresso.</p>
+<p/><p>Gegen 8.15 Uhr fallen die Titel im vorbörslichen Handel bei Julius Bär um 1,9 Prozent auf 74,04 Franken. Damit ziehen sie den ganzen SMI noch tiefer ins Minus, der um 0,37 Prozent schwächer erwartet wird.</p>
+<p/><p>Die plötzliche Entlassung des Konzernchefs habe ihn schockiert, schreibt James Edwardes Jones von der kanadischen Bank RBC. Sein Nachfolger Navratil sei - gemessen an traditionellen Standards von Nestlé - recht jung. Einen Strategiewechsel befürchtet der Experte nicht, aber zunächst etwas Unsicherheit.</p>
+<p/><p>Mit der Beförderung des 48-jährigen Navratil setze Nestlé auf eine Führungskraft der nächsten Generation, stellt auch Vontobel-Analyst Jean-Philippe Bertschy fest. Er kenne ihn als "aussergewöhnlich direkt, ehrgeizig und konsequent ergebnisorientiert." Eine seiner ersten Prioritäten werde es sein, Nestlé aus dem Zyklus der negativen Schlagzeilen herauszuführen.</p>
+<p/><p>David Hayes vom Analysehaus Jefferies stellt sich derweil die Frage, warum Nestlé erneut einen Chef aus den eigenen Reihen berufen hat, anstatt sich Zeit für eine umfassende Bewertung interner und externer Kandidaten zu nehmen. Der vor ziemlich genau einem Jahr geschasste Mark Schneider war bei seinem Antritt der erste externe CEO bei Nestlé seit fast 100 Jahren.</p>
+<p/><p>Im Urteil von Helvea Baader-Analyst Andreas von Arx hätte der Generationswechsel bei Nestlé - zusammen mit dem im nächsten Jahr geplanten Wechsel an der Spitze des Verwaltungsrates - bereits vor zwölf Monaten erfolgen sollen. Er hoffe, dass Navratil "nun endlich den Ehrgeiz hat", die Probleme in den einzelnen Kategorien und Produkten anzugehen.</p>
+<p/><p>Denn nach Ansicht des Analysten sind die Ursachen für die Probleme bei Nestlé vor allem struktureller Natur. Sie seien kein vorübergehendes Phänomen oder auf Fehlmanagement zurückzuführen - dies sei aber die Einschätzung des bisherigen CEO Freixe gewesen. Ohnehin sei die Investorenmeinung zur Strategie von Freixe - zurück zu einem "Nestlé-von-früher-Modell" - geteilt gewesen.</p>
+<p/><p>ra/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
