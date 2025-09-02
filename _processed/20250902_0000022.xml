@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T181312+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>22</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>3674</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:3674:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T181311+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T181311+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SGS übernimmt australischen Drohnenspezialisten Fulcrum Robotics</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1203" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196254">
+<Property FormalName="FullName" Value="SGS SA" />
+
+<Property FormalName="ShortName" Value="SGS" />
+
+<Property FormalName="Telekurs" Value="759153" />
+
+<Property FormalName="CHNr" Value="CH-660.0.023.919-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1256740924" />
+
+<Property FormalName="Ticker" Value="SGSN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990015" />
+
+<Property FormalName="Ticker" Value="SGS25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990023" />
+
+<Property FormalName="Ticker" Value="SGS251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0279135328" />
+
+<Property FormalName="Ticker" Value="SGS151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0352595927" />
+
+<Property FormalName="Ticker" Value="SGS17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633526" />
+
+<Property FormalName="Ticker" Value="SGS181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633534" />
+
+<Property FormalName="Ticker" Value="SGS18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536892588" />
+
+<Property FormalName="Ticker" Value="SGS201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189217990" />
+
+<Property FormalName="Ticker" Value="SGS22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189218006" />
+
+<Property FormalName="Ticker" Value="SGS23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222558" />
+
+<Property FormalName="Ticker" Value="SGS231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222566" />
+
+<Property FormalName="Ticker" Value="SGS232" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="NKL"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Der Genfer Prüf- und Inspektionskonzern SGS hat den Erwerb von Fulcrum Robotics in Australien bekanntgegeben. Das Unternehmen ist auf drohnengestützte Inspektions- und Robotiklösungen zu Land, zu Wasser und aus der Luft spezialisiert und arbeitet für Kunden in der Industrie und im Umweltbereich.</p>
+<p/><p>Mit der Übernahme des Teams von 16 Fachleuten will SGS seine Präsenz in Australien ausbauen und seine technologische Basis stärken, wie das Unternehmen am Dienstag mitteilte. Angaben zum Kaufpreis wurden keine gemacht.</p>
+<p/><p>SGS betonte, dass der Zusammenschluss die lokale Innovationskraft mit dem globalen Know-how des Konzerns verbinde. Damit wolle man den steigenden Anforderungen der Kunden nach Sicherheit, Nachhaltigkeit und Effizienz gerecht werden.</p>
+<p/><p>SGS ist weltweit führend in den Bereichen Testen, Prüfen und Zertifizieren. Der Konzern betreibt mehr als 2500 Labors und Niederlassungen in 115 Ländern und beschäftigt rund 99'500 Mitarbeitende.</p>
+<p/><p>to/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
