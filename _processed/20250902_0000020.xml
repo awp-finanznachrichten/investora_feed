@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T163011+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>3316</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:3316:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T163011+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T163011+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Art Basel stellt Ruba Katrib als Leiterin des Unlimited-Sektors für 2026 vor</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4021" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191350">
+<Property FormalName="FullName" Value="MCH Group AG" />
+
+<Property FormalName="ShortName" Value="MCH" />
+
+<Property FormalName="Telekurs" Value="64224" />
+
+<Property FormalName="CHNr" Value="CH-270.8.000.004-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0039542854" />
+
+<Property FormalName="Ticker" Value="MCHN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="NKL"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Die Kunstmesse Art Basel hat die renommierte Kuratorin Ruba Katrib als neue Leiterin des Unlimited-Sektors für 2026 vorgestellt. Die Chief Curator und Director of Curatorial Affairs am MoMA PS1 in New York übernimmt die Nachfolge von Giovanni Carmine, Direktor der Kunst Halle Sankt Gallen, der die Plattform seit 2021 prägte, wie die Messebetreiberin MCH Group am Dienstag mitteilte.</p>
+<p/><p>Unlimited gilt als einer der Höhepunkte der Basler Art und zeigt grossformatige Installationen, Skulpturen und aufwendige Videoarbeiten, die den Rahmen klassischer Messestände sprengen. Die Art-Basel-Leitung lobte Katribs Gespür für aktuelle gesellschaftliche Themen und ihre visionäre Haltung. Jüngst realisierte sie Retrospektiven von Simone Fattal und Jumana Manna in New York. Die Messe Art Basel findet vom 18. bis 21. Juni 2026 in Basel statt, die Vorschautage sind am 16. und 17. Juni.</p>
+<p/><p>to/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
