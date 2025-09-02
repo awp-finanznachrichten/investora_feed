@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T110809+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>1555</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:1555:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T110809+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T110809+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Vaudoise Versicherung wechselt in Bern an grösseren Standort</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016033"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196420">
+<Property FormalName="FullName" Value="Vaudoise Assurances Holding SA" />
+
+<Property FormalName="ShortName" Value="Vaudoise" />
+
+<Property FormalName="Telekurs" Value="24356" />
+
+<Property FormalName="CHNr" Value="CH-550.0.091.601-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0021545667" />
+
+<Property FormalName="Ticker" Value="VAHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1232107057" />
+
+<Property FormalName="Ticker" Value="VAH22" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="PLO"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lausanne (awp) - Die Vaudoise Versicherung bezieht in Bern-Wankdorf einen neuen, grösseren Standort. Der Umzug erfolge im Rahmen der "erfolgreichen Geschäftsentwicklung" in der Deutschschweiz, teilte die Gruppe am Dienstag mit.</p>
+<p/><p>Am neuen Berner Hub bündelt die Vaudoise auf einer Fläche von 2000 Quadratmetern laut den Angaben vor allem die für die Deutschschweiz zuständigen Teams aus der Personen-, der P&amp;C- sowie aus der Tierversicherung Animalia. Die neuen Büros umfassen künftig bis zu 120 Arbeitsplätze.</p>
+<p/><p>Die Vaudoise belegt heute in Bern-Wankdorf bereits einen Standort. Dieser sei aber angesichts des jüngsten Wachstums in der Deutschschweiz zu klein geworden. Wie in der Vorwoche mitgeteilt, kletterten die Prämieneinnahmen im Deutschschweizer Nichtlebensgeschäft im ersten Halbjahr 2025 um 9,5 Prozent. Gruppenweit wuchs das Segment um 7,2 Prozent.</p>
+<p/><p>mk/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
