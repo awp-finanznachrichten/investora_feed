@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T183210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>23</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>3741</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:3741:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T183210+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T183210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BCJ ernennt Grégory Chapuis per März 2026 zum neuen CEO</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="2900" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197641">
+<Property FormalName="FullName" Value="Banque Cantonale du Jura AG" />
+
+<Property FormalName="ShortName" Value="BCJ" />
+
+<Property FormalName="Telekurs" Value="25660" />
+
+<Property FormalName="CHNr" Value="CH-677.8.001.538-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0032991348" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0350665672" />
+
+<Property FormalName="Ticker" Value="BCJ" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Pruntrut (awp) - Bei der jurassischen Kantonalbank (BCJ) übernimmt Grégory Chapuis im kommenden Jahr die Geschäftsleitung. Chapuis werde Anfang März 2026 die Nachfolge des langjährigen CEO Bertrand Valley antreten, teilte die Bank am Dienstagabend mit. Valley bekleidet das Amt seit 21 Jahren.</p>
+<p/><p>Mit Chapuis hat die Bank eine interne Lösung für die Nachfolge von Valley gefunden. Chapuis arbeitet seit 2016 für die BCJ, zunächst als Leiter des Bereichs Märkte, und seit 2021 leitet er das Kreditgeschäft, wie es weiter hiess. Vor seiner Zeit bei der BCJ hatte Chapuis für die Grossbank UBS in verschiedenen Funktionen in der Westschweiz gearbeitet.</p>
+<p/><p>mk/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
