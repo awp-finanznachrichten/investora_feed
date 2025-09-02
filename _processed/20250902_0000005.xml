@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T075108+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>577</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:577:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T075108+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T075108+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Romande Energie mit Umsatz- und Gewinnrückgang im Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1110" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197446">
+<Property FormalName="FullName" Value="Romande Energie Holding SA" />
+
+<Property FormalName="ShortName" Value="Romande Energie" />
+
+<Property FormalName="Telekurs" Value="103278" />
+
+<Property FormalName="CHNr" Value="CH-550.0.069.472-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1263676327" />
+
+<Property FormalName="Ticker" Value="REHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1196217017" />
+
+<Property FormalName="Ticker" Value="ROM22" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Morges (awp) - Romande Energie hat im ersten Halbjahr 2025 trotz tieferem Umsatz operativ mehr verdient. Der Reingewinn fiel allerdings aufgrund von geringeren Beteiligungserträgen deutlich unter Vorjahr aus. Am Ausblick hält das Westschweizer Energieunternehmen fest.</p>
+<p/><p>Der Umsatz sank im ersten Semester im Vergleich zum Vorjahreszeitraum um 9 Prozent auf 386,4 Millionen Franken. Der Rückgang lag unter anderem an geringeren Verkäufen sowie an den für regulierte Kunden günstigen Preisen, wie es in einer Mitteilung vom Dienstag heisst.</p>
+<p/><p>Das Betriebsergebnis EBIT legte hingegen um 10 Prozent auf 22,2 Millionen Franken zu. Die Marge im Energiebereich sei trotz anhaltender Regulierung sowie geringerer Erzeugung aus eigenen Anlagen stabil geblieben. Zudem hebt Romande Energie die hohe Kostendisziplin hervor.</p>
+<p/><p>Der Beitrag von Alpiq und EOS NER SA zum Ergebnis belief sich noch auf 24 Millionen nach 48 Millionen Franken im Vorjahreszeitraum. Zudem hat Alpiq bereits angekündigt, dass das operative Ergebnis in der zweiten Jahreshälfte vom längeren Ausfall des AKW Gösgen belastet wird. Romande Energie hält knapp 30 Prozent an der EOS Holding, die wiederum ein Drittel an Alpiq und 100 Prozent an EOS NER SA hält. Unter dem Strich verdiente Romande Energie angesichts des tieferen Gewinns aus der Beteiligung lediglich 39,7 Millionen (-40%).</p>
+<p/><p>Die Investitionen kletterten derweil deutlich auf 90 von 67 Millionen Franken im Vorjahr, was das Engagement der Gruppe für erneuerbare Energien sowie den Ausbau und die Stärkung des Stromnetzes unterstreiche.</p>
+<p/><p>Am Ausblick hält das Unternehmen fest. Entsprechend soll das um nicht-operative Effekte bereinigte Ergebnis in etwa auf dem Niveau des Vorjahres liegen - obwohl das zweite Halbjahr traditionell schwächer ausfalle als das erste. Um auf die zahlreichen Herausforderungen zu reagieren, seien zahlreiche Effizienzmassnahmen sowie beispielsweise erhöhte Anstrengungen zur Stärkung des Solar-Bereichs geplant.</p>
+<p/><p>dm/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
