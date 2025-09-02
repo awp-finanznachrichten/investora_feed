@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T101808+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>1382</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:1382:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T101808+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T101808+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Orell-Füssli-Tochter Procivis nimmt am EU-Projekt für digitale ID-Wallet teil</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016013"/><Subject FormalName="04016030"/><Subject FormalName="04003005"/><Subject FormalName="04010000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8036" />
+
+<Property FormalName="City" Value="8001 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191838">
+<Property FormalName="FullName" Value="Orell Füssli AG" />
+
+<Property FormalName="ShortName" Value="Orell Füssli" />
+
+<Property FormalName="Telekurs" Value="37351" />
+
+<Property FormalName="CHNr" Value="CH-020.3.919.326-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0003420806" />
+
+<Property FormalName="Ticker" Value="OFN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2040677310">
+<Property FormalName="FullName" Value="Procivis AG" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-020.3.044.629-7" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Subject" Value="ORD"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Orell-Füssli-Tochter Procivis nimmt am EU-Projekt zur Einführung einer digitalen Identitäts-Wallet teil. Ziel des Pilotprojekts "WE BUILD" ist es, die Einführung der EU Digital Identity Wallet (EUDI Wallet) in Geschäfts- und Zahlungsanwendungen voranzutreiben.</p>
+<p/><p>Procivis sei als technischer Anbieter an drei von insgesamt dreizehn Pilotprojekten beteiligt, teilte das Unternehmen am Dienstag mit. So biete die modulare Plattform Procivis One etwa Lösungen für grenzüberschreitende Zahlungen und sofortige Überweisungen. Auch in weiteren Anwendungsfällen könne die Plattform die Umsetzung innerhalb des Konsortiums unterstützen.</p>
+<p/><p>"WE BUILD ist ein Meilenstein für die digitale Wirtschaft in Europa", lässt sich Désirée Heutschi, Co-CEO von Procivis, in der Meldung zitieren. Man wolle mit eigener Technologie dazu beitragen, ein interoperables Ökosystem für Staaten und Unternehmen zu schaffen.</p>
+<p/><p>Das von der EU geförderte Pilotprogramm startet den Angaben zufolge am (morgigen) 3. September in Amsterdam und läuft über zwei Jahre. Rund 200 Partnerorganisationen aus Verwaltung und Wirtschaft sind beteiligt. Geleitet wird das Konsortium von den Behörden in den Niederlanden und Schweden.</p>
+<p/><p>Procivis wurde im Jahr 2017 gegründet und ist auf digitale Identitäts- und Zertifikatlösungen für den öffentlichen und privaten Sektor spezialisiert. Seit 2021 wird das Unternehmen als unabhängige Tochtergesellschaft der Orell Füssli AG geführt.</p>
+<p/><p>an/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
