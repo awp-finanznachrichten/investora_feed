@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T161311+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>19</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>3259</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:3259:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T161311+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T161311+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Meyer Burger stellt Betrieb deutscher Standorte ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016007"/><Subject FormalName="09000000"/><Subject FormalName="04016039"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3645 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2120151886">
+<Property FormalName="FullName" Value="Meyer Burger Technology AG" />
+
+<Property FormalName="ShortName" Value="Meyer Burger" />
+
+<Property FormalName="Telekurs" Value="351705" />
+
+<Property FormalName="CHNr" Value="CH-170.3.023.419-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0108503795" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357065999" />
+
+<Property FormalName="Ticker" Value="MBTN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="BCY"/><Property FormalName="Subject" Value="LAB"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Berlin/Gwatt (afp) - Der Solarzellen-Hersteller Meyer Burger hat den Betrieb seiner Standorte in Sachsen und Sachsen-Anhalt am 1. September eingestellt. Die Suche nach Investoren für die Standorte in Hohenstein-Ernstthal bei Chemnitz sowie in Bitterfeld-Wolfen "hat bisher zu keinem Ergebnis geführt", erklärte die Insolvenzrechtskanzlei Flöther &amp; Wissing am Dienstag.</p>
+<p/><p>Fast 500 und damit ein Grossteil der Beschäftigten wurden freigestellt beziehungsweise gekündigt. Die beiden Insolvenzverwalter Lucas Flöther und Reinhard Klose führten noch Gespräche mit möglichen Investoren, erklärte die Kanzlei.</p>
+<p/><p>"Wir sind offen für zusätzliche Angebote von Investoren und bereit, erneut Verhandlungen aufzunehmen", erklärte Flöther. "Allerdings gibt es dafür zurzeit keine Anzeichen. Die Solarbranche in Deutschland und Europa befindet sich nach wie vor in einer höchst schwierigen wirtschaftlichen Lage."</p>
+<p/><p>In Europa überschwemmen chinesische Solarmodule den Markt und drücken die Preise, weil der Zugang zum US-Markt den chinesischen Herstellern verwehrt ist. Meyer Burger hatte versucht, sich auf den US-Markt zu konzentrieren, der als wesentlich rentabler gilt.</p>
+<p/><p>Im August 2024 dampfte das Unternehmen seine Expansionspläne in den USA allerdings stark ein. In Europa strich der Hersteller Stellen. Im November kündigte Meyer Burgers grösster Kunde, die US-Firma Desri (D.E. Shaw Renewable Investment), und stürzte die Firma in die Krise. Ende Mai beantragte Meyer Burger Insolvenz für die deutschen Tochtergesellschaften.</p>
+<p/><p>mk/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
