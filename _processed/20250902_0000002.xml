@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T070604+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>453</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:453:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T070604+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T070604+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Dormakaba mit Gewinnsprung im Geschäftsjahr 2024/25</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004000"/><Subject FormalName="04016015"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8153" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193326">
+<Property FormalName="FullName" Value="Dormakaba Holding AG" />
+
+<Property FormalName="ShortName" Value="Dormakaba" />
+
+<Property FormalName="Telekurs" Value="376745" />
+
+<Property FormalName="CHNr" Value="CH-020.3.902.576-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011795959" />
+
+<Property FormalName="Ticker" Value="DOKA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0384629892" />
+
+<Property FormalName="Ticker" Value="DOR179" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367497" />
+
+<Property FormalName="Ticker" Value="DOR22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1446452356" />
+
+<Property FormalName="Ticker" Value="DOR25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="DIV"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Rümlang (awp) - Der Schliesstechnikkonzern Dormakaba hat im vergangenen Geschäftsjahr 2024/25 die Einnahmen gesteigert und einen Gewinnsprung hingelegt. Auch die Restrukturierung kommt voran.</p>
+<p/><p>Der Umsatz stieg im Geschäftsjahr 2024/25 (per Ende Juni) um 1,2 Prozent auf 2,87 Milliarden Franken, wie das Unternehmen am Dienstag in einem Communiqué mitteilte. Organisch wuchs Dormakaba um 4,1 Prozent. Dazu steuerten Preiserhöhungen 1,7 Prozent bei, während 2,4 Prozent auf Volumensteigerungen zurückzuführen sind.</p>
+<p/><p>Der bereinigte Betriebsgewinn (Stufe EBITDA) legte derweil aufgrund von Effizienzsteigerungen um 6,7 Prozent auf 445,0 Millionen Franken zu. Die operative Marge verbesserte sich um 0,8 Prozentpunkte auf 15,5 Prozent.</p>
+<p/><p>Unter dem Strich konnte Dormakaba den Konzerngewinn auf 188,0 Millionen Franken steigern nach 82,2 Millionen Franken im Vorjahr, als Restrukturierungskosten aufs Ergebnis gedrückt hatten.</p>
+<p/><h3>Mehr Dividende</h3>
+<p/><p>Dies erfreut die Aktionäre: Dormakaba will die Dividende auf 9,20 Franken je Aktie erhöhen. Im Vorjahr hatte der Konzern 8,00 Franken je Titel ausgeschüttet.</p>
+<p/><p>Damit hat Dormakaba ein gemischtes Ergebnis vorgelegt. Beim Umsatz wurden die Erwartungen der Analysten im Schnitt gemäss AWP-Konsens leicht verfehlt, beim bereinigten EBITDA genau erfüllt, beim Reingewinn übertroffen.</p>
+<p/><p>Für das neue Geschäftsjahr 2025/26 zeigt sich der Konzern eine Spur verhaltener. So soll der Umsatz weiterhin um 3 bis 5 Prozent wachsen, während neu eine bereinigte EBITDA-Marge von über 16 Prozent angestrebt wird (bisher 16-18%). Zudem peilt Dormakaba eine operative Cashflow-Marge von 11,5 bis 12,5 Prozent an.</p>
+<p/><p>jb/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
