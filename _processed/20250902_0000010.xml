@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T095210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>1280</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:1280:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T095210+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T095210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Partners-Group-Aktien an SMI-Spitze nach Halbjahreszahlen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6341" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2124422893">
+<Property FormalName="FullName" Value="Partners Group Holding AG" />
+
+<Property FormalName="ShortName" Value="Partners Group" />
+
+<Property FormalName="Telekurs" Value="321079" />
+
+<Property FormalName="CHNr" Value="CH-170.3.021.159-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024608827" />
+
+<Property FormalName="Ticker" Value="PGHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041287" />
+
+<Property FormalName="Ticker" Value="PAR191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714346" />
+
+<Property FormalName="Ticker" Value="PAR23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714353" />
+
+<Property FormalName="Ticker" Value="PAR231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742930" />
+
+<Property FormalName="Ticker" Value="PAR24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742948" />
+
+<Property FormalName="Ticker" Value="PAR241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Partners Group legen am Dienstag im frühen Handel deutlich zu. Der Vermögensverwalter hat die Erträge im ersten Halbjahr dank hoher Einnahmen aus Performance Fees mehr als am Markt zuvor erwartet gesteigert. Zudem hat das Management die Guidance für die Fees im Gesamtjahr erhöht.</p>
+<p/><p>Partners Group legen gegen 9.45 Uhr 4,3 Prozent auf 1143,50 Franken zu. Der Gesamtmarkt gemessen am SMI verliert dagegen 0,41 Prozent. Die Aktie war seit April stark zurückgekommen und stand im laufenden Jahr bis Montagabend insgesamt knapp 11 Prozent im Minus.</p>
+<p/><p>Die Analysten loben durchwegs das solide erste Halbjahr dank höher als erwartet ausgefallener Performance Fees, und auch der angehobene Ausblick für die erfolgsabhängigen Einnahmen kommt gut an. Das alles seien gute Zeichen für das zweite Halbjahr und würden wahrscheinlich auch ein verbessertes Transaktionsumfeld widerspiegeln, heisst es etwa bei Vontobel. Der zuständige Analyst will in der Folge seine Schätzungen für die Performance Fees und den Gewinn anheben.</p>
+<p/><p>Dank guter Visibilität über die Exit-Pipeline der fälligen Vermögenswerte, die voraussichtlich im zweiten Halbjahr verkauft werden, stelle Partners Group neu schon für das laufende Jahr Performance-Fees von 25 bis 40 Prozent der Erträge in Aussicht, hebt die ZKB hervor. Bisher galt diese Guidance erst ab dem kommenden Jahr.</p>
+<p/><p>Das solide erste Halbjahr trotz eines sehr unsicheren makroökonomischen Umfelds bestätigte die Widerstandsfähigkeit des Geschäfts der Zuger Gesellschaft über Marktzyklen hinweg, fügt Octavian hinzu.</p>
+<p/><p>ys/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
