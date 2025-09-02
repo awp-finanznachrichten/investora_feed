@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T140022+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>2487</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:2487:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T140022+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T140022+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ausblick Swiss Life: H1-Gewinn von 593 Millionen Franken erwartet</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Forecast"/>
+			<SubjectCode><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197979">
+<Property FormalName="FullName" Value="Swiss Life Holding AG" />
+
+<Property FormalName="ShortName" Value="Swiss Life" />
+
+<Property FormalName="Telekurs" Value="165159" />
+
+<Property FormalName="CHNr" Value="CH-020.3.026.160-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0014852781" />
+
+<Property FormalName="Ticker" Value="SLHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0316994653" />
+
+<Property FormalName="Ticker" Value="SLH161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406990801" />
+
+<Property FormalName="Ticker" Value="SWL181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561491" />
+
+<Property FormalName="Ticker" Value="SLH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238914" />
+
+<Property FormalName="Ticker" Value="SLH191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1236363433" />
+
+<Property FormalName="Ticker" Value="SLH23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301278" />
+
+<Property FormalName="Ticker" Value="SLH230" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301286" />
+
+<Property FormalName="Ticker" Value="SLH231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341034994" />
+
+<Property FormalName="Ticker" Value="SLH24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035009" />
+
+<Property FormalName="Ticker" Value="SLH241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035017" />
+
+<Property FormalName="Ticker" Value="SLH242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064601" />
+
+<Property FormalName="Ticker" Value="SLH25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064619" />
+
+<Property FormalName="Ticker" Value="SLH252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064627" />
+
+<Property FormalName="Ticker" Value="SLH253" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="OUT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Versicherer Swiss Life veröffentlicht am Mittwoch, 3. September, die Ergebnisse zum ersten Semester 2025. Insgesamt haben sieben Analysten zum AWP-Konsens beigetragen.</p>
+<p/><pre>H1 2025
+(in Mio Fr.)      AWP-Konsens  H1 2024  
+
+Adj. op. Gewinn        855        883
+Reingewinn             593        632
+Fee-Ergebnis           398        395
+Bruttoprämie        12'122     11'664
+SST-Ratio (%)          197        201
+
+</pre><p/><p>FOKUS: Analysten rechnen mit einem leichten Ergebnisrückgang. Für den Finanzkonzern war das Marktumfeld mit fallenden Zinsen und einer unvorteilhaften Wechselkursentwicklung herausfordernd. Davon unbeirrt setzt die Swiss Life die vor Jahren eingeschlagene Strategie mit dem Ausbau des gebührenbasierten Geschäfts fort.</p>
+<p/><p>ZIELE: Gemäss dem vergangenen Dezember vorgestellten "Swiss Life 2027"-Programm peilt die Gruppe im Kern eine Eigenkapitalrendite in Höhe von 17 bis 19 Prozent an. Dabei soll das Fee-Geschäft weiter ausgebaut werden und bis 2027 eine Milliarde Franken zum Gruppengewinn beitragen.</p>
+<p/><p>Das Gewinnwachstum soll zu höheren Ausschüttungen führen, wobei die angepeilte Ausschüttungsquote bei "über 75 Prozent" liegt. Gespiesen werden die Dividendenzahlungen über Cash-Transfers von den operativen Einheiten in die Holding. Innert drei Jahren sollen so 3,6 bis 3,8 Milliarden Franken in die Holding fliessen.</p>
+<p/><p>PRO MEMORIA: Im ersten Quartal, zu dem die Swiss Life primär Zahlen zur Volumenentwicklung publiziert, hat die Gruppe das Prämienvolumen um 5 Prozent auf 7,92 Milliarden Franken und die mit Finanzberatungen oder in der Vermögensverwaltung eingenommenen Gebühren um 3 Prozent auf 659 Millionen gesteigert.</p>
+<p/><p>Auch die direkten Anlageerträge stiegen im Startquartal verglichen mit dem Vorjahr leicht auf 1,08 Milliarden Franken, während die SST-Kapitalquote mit 201 Prozent weiterhin klar über dem Ziel-Korridor von 140 bis 190 Prozent stand.</p>
+<p/><p>Ausserdem sind der Gruppe in der Vermögensverwaltung für Drittkunden (TPAM) Neugelder von netto 9,3 Milliarden Franken zugeflossen nach deutlich geringeren 0,7 Milliarden im ersten Quartal 2024. Die verwalteten TPAM-Vermögen erhöhten sich seit Jahresbeginn per Ende März um 10 auf 135 Milliarden.</p>
+<p/><p>Ende August hat die Anlagestiftung die Anlagegruppe "Geschäftsimmobilien Schweiz ESG" geöffnet. Es sollen neue Ansprüche im Umfang von rund 150 Millionen Franken ausgegeben werden. Die Zeichnungsfrist läuft bis zum 24. Oktober.</p>
+<p/><p>AKTIENKURS: An der Börse verzeichnen die Aktien der Swiss Life in diesem Jahr einen guten Lauf. Seit Jahresbeginn haben die Titel um rund ein Fünftel an Wert zugelegt. Die Aussicht auf weiterhin attraktive Ausschüttungen ist für die Swiss-Life-Aktie eine Stütze.</p>
+<p/><p>nb/an/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
