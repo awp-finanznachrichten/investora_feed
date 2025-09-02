@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T075409+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>585</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:585:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T075409+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T075409+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Adval Tech rutscht im Halbjahr noch tiefer in die roten Zahlen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3172" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193733">
+<Property FormalName="FullName" Value="Adval Tech Holding AG" />
+
+<Property FormalName="ShortName" Value="Adval Tech" />
+
+<Property FormalName="Telekurs" Value="905148" />
+
+<Property FormalName="CHNr" Value="CH-035.3.001.126-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008967926" />
+
+<Property FormalName="Ticker" Value="ADVN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Niederwangen (awp) - Der Autozulieferer Adval Tech hat im ersten Halbjahr 2025 unter der schwierigen Marktsituation gelitten. Handelskonflikte, ein Cyber-Angriff und das schwache Automobilgeschäft belasteten die Rechnung. So ging der Umsatz deutlich zurück und unter dem Strich wurde der Verlust ausgeweitet.</p>
+<p/><p>Die Gesamtleistung sank um 12 Prozent auf 79,5 Millionen und der Nettoumsatz um rund 10 Prozent auf 77,7 Millionen Franken, wie Adval Tech am Dienstag mitteilte. Das operative Ergebnis (EBITDA) brach auf 0,8 Millionen von 3,5 Millionen ein und unter dem Strich resultierte ein Verlust von 4,7 Millionen nach einem Fehlbetrag von 3,3 Millionen im Vorjahr.</p>
+<p/><h3>Automobilgeschäft weiter unter Druck</h3>
+<p/><p>Besonders angespannt blieb die Lage im Automobil-Geschäft. Zwar seien die weltweiten Fahrzeugverkäufe leicht gestiegen, doch die massiven US-Einfuhrzölle hätten zu grossen Einbussen geführt, heisst es. So habe man im Werk Endingen (Deutschland) ein Projekt abbrechen müssen, was einen Umsatzverlust von "mehreren Millionen" allein im Jahr 2025 bedeute.</p>
+<p/><p>Besser lief es im Medtech-Segment: Hier konnten mehrere Neuaufträge gewonnen werden und der Umsatz habe sich über den Erwartungen entwickelt. Allerdings reichte dies nicht aus, um die Schwäche im Automobil-Geschäft zu kompensieren.</p>
+<p/><h3>Cyber-Angriff belastet</h3>
+<p/><p>Zusätzlich zur schwachen Marktlage sorgte ein Cyber-Angriff Anfang März für Mehrkosten. Zwar sei die Produktion an allen Standorten aufrechterhalten worden, allerdings habe der Vorfall direkte und indirekte Kosten im hohen sechsstelligen Bereich verursacht, so Adval Tech. Der Angriff sei jedoch innert weniger Wochen bewältigt und die Cyber-Sicherheit gleichzeitig massgeblich verstärkt worden.</p>
+<p/><p>Für das zweite Halbjahr zeigt sich das Unternehmen vorsichtig optimistisch. In beiden Segmenten seien "bedeutende" Aufträge eingegangen und es würden derzeit auch Verhandlungen über weitere Grossaufträge geführt, heisst es. Trotz dem anhaltenden schwierigen Umfeld soll auch die Profitabilität in der zweiten Jahreshälfte verbessert werden.</p>
+<p/><p>an/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
