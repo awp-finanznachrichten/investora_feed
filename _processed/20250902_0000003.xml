@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T072010+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>497</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:497:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T072009+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T072009+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Partners Group steigert Gewinn deutlich dank hoher Performance Fees</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6341" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2124422893">
+<Property FormalName="FullName" Value="Partners Group Holding AG" />
+
+<Property FormalName="ShortName" Value="Partners Group" />
+
+<Property FormalName="Telekurs" Value="321079" />
+
+<Property FormalName="CHNr" Value="CH-170.3.021.159-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024608827" />
+
+<Property FormalName="Ticker" Value="PGHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041287" />
+
+<Property FormalName="Ticker" Value="PAR191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714346" />
+
+<Property FormalName="Ticker" Value="PAR23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714353" />
+
+<Property FormalName="Ticker" Value="PAR231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742930" />
+
+<Property FormalName="Ticker" Value="PAR24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742948" />
+
+<Property FormalName="Ticker" Value="PAR241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Baar (awp) - Der Vermögensverwalter Partners Group hat im ersten Halbjahr mehr Ertrag generiert und unter dem Strich auch mehr verdient. Die wichtigen Performance Fees sind deutlich höher ausgefallen als von Analysten erwartet. Das Unternehmen erhöht nun die Guidance für das Gesamtjahr.</p>
+<p/><p>Die Erträge stiegen in den ersten sechs Monaten 2025 im Vergleich zum Vorjahreszeitraum um ein Fünftel auf 1,17 Milliarden Franken, wie die auf Privatmarktanlagen spezialisierte Gesellschaft am Dienstag mitteilte. Das lag an deutlich höheren Einnahmen aus Performance Fees, die sich mit 314 Millionen mehr oder weniger verdoppelten (+94%). Die Einnahmen aus den erfolgsabhängigen Gebühren erreichten damit einen Anteil von 27 Prozent der Gesamteinnahmen.</p>
+<p/><p>Die Haupt-Ertragsquelle für Partners Group sind die fixen Managementgebühren, welche sich abhängig von den verwalteten Vermögen entwickeln. Diese Einnahmen beliefen sich im ersten Semester auf 854 Millionen (+5%). Wie bereits seit Juli bekannt, verwaltete der Zuger Asset Manager Ende Juni 174 Milliarden Dollar nach 152 Milliarden Ende 2024.</p>
+<p/><h3>Viele Verkäufe bereits 2025</h3>
+<p/><p>Der EBITDA stieg damit im ersten Semester um 17 Prozent auf 733 Millionen Franken, was einer Marge von 62,7 Prozent entspricht. Und der Gewinn fiel mit 578 Millionen um 14 Prozent höher aus.</p>
+<p/><p>Mit Blick in die Zukunft bestätigte Partners Group derweil die Prognose für das Gesamtjahr: Für 2025 rechnet der Zuger Asset Manager weiterhin mit neuen Kapitalzusagen im Umfang von 22 bis 27 Milliarden US-Dollar, wovon das Unternehmen im ersten Semester rund die Hälfte akquiriert hat. Hinzu kommen 4 Milliarden aus der Übernahme der Empira Group.</p>
+<p/><p>Bereits im Gesamtjahr 2025 soll der Anteil der Performance Fees an den Gesamterträgen derweil auf 25 bis 40 Prozent ansteigen, wie es am Dienstag hiess. Zuvor hatte das Partners-Group-Management mit 20 bis 30 Prozent gerechnet und erst ab 2026 mit 25 bis 40 Prozent.</p>
+<p/><p>Das Unternehmen verfüge über eine "robuste" Pipeline an Investitionen und weit gereiften hochwertigen Vermögenswerten, die zur Realisierung bereitstünden, begründete CEO David Layton dies laut Mitteilung.</p>
+<p/><p>ys/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
