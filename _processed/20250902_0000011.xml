@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T095910+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>1298</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:1298:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T095909+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T095909+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Nestlé-Aktien stehen nach neuerlichem Führungswechsel unter Druck</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016028"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196839">
+<Property FormalName="FullName" Value="Nestlé SA" />
+
+<Property FormalName="ShortName" Value="Nestlé" />
+
+<Property FormalName="Telekurs" Value="213695" />
+
+<Property FormalName="CHNr" Value="CH-550.0.067.293-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0038863350" />
+
+<Property FormalName="Ticker" Value="NESN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042509" />
+
+<Property FormalName="Ticker" Value="NES181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355108" />
+
+<Property FormalName="Ticker" Value="NES22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355116" />
+
+<Property FormalName="Ticker" Value="NES221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355124" />
+
+<Property FormalName="Ticker" Value="NES222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1221150506" />
+
+<Property FormalName="Ticker" Value="NES223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543838" />
+
+<Property FormalName="Ticker" Value="NES224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543846" />
+
+<Property FormalName="Ticker" Value="NES225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475397" />
+
+<Property FormalName="Ticker" Value="NES231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475405" />
+
+<Property FormalName="Ticker" Value="NES232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475413" />
+
+<Property FormalName="Ticker" Value="NES233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277832" />
+
+<Property FormalName="Ticker" Value="NES234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277840" />
+
+<Property FormalName="Ticker" Value="NES235" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277857" />
+
+<Property FormalName="Ticker" Value="NES236" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316745" />
+
+<Property FormalName="Ticker" Value="NES241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316752" />
+
+<Property FormalName="Ticker" Value="NES242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316760" />
+
+<Property FormalName="Ticker" Value="NES243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316778" />
+
+<Property FormalName="Ticker" Value="NES244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104335" />
+
+<Property FormalName="Ticker" Value="NES17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104343" />
+
+<Property FormalName="Ticker" Value="NES171" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der am Vorabend unerwartet angekündigte Chefwechsel bei Nestlé kommt am Dienstag in der ersten Reaktion an den Märkten nicht gut an. Analysten attestieren dem neuen Konzernlenker Philipp Navratil zwar einen starken Leistungsweis als Nespresso-Chef. Investoren, die auf einen Neuanfang gehofft hatten, werden aber enttäuscht.</p>
+<p/><p>Der zweite unerwartete Wechsel an der Spitze des Nahrungsmittelriesen Nestlé innerhalb eines Jahres verunsichert die Märkte. Bis um 9.45 Uhr verlieren die Aktien an der Schweizer Börse 2,0 Prozent auf 73,98 Franken - Tendenz zuletzt leicht steigend. Damit zieht das Index-Schwergewicht auch den Gesamtmarkt SMI nach unten, der um 0,4 Prozent nachgibt.</p>
+<p/><p>Laurent Freixe muss Nestlé wegen einer verheimlichten Liebschaft per sofort verlassen. Es ist der zweite "Notfall-CEO-Wechsel" in kurzer Folge, nachdem Nestlé vor ziemlich genau einem Jahr Mark Schneider nach fast acht Jahren als CEO abgesetzt hatte.</p>
+<p/><p>Mit der Beförderung des 48-jährigen Navratil setze Nestlé auf eine Führungskraft der nächsten Generation, stellt Vontobel-Analyst Jean-Philippe Bertschy fest. Er kenne ihn als "aussergewöhnlich direkt, ehrgeizig und konsequent ergebnisorientiert."</p>
+<p/><p>ZKB-Analyst Patrik Schwendimann spricht von einem "gut schweizerischen Kompromiss" zwischen Navratils beiden Vorgängern. Mit Schneider sollte frischer Wind von aussen gebracht werden und mit Freixe sollte eine Rückkehr zu bewährten Nestlé-Rezepten gelingen. Navratil dürfte nun mehr frischen Wind von innen bringen, hofft Schwendimann.</p>
+<p/><h3>Schon wieder CEO-Ernennung in Notlage</h3>
+<p/><p>Anderen Experten wie Celine Pannuti von JP Morgan wäre es hingegen lieber gewesen, Nestlé hätte unter der Führung eines interimistischen Chefs eine gründliche Suche nach einem Nachfolger für Freixe eingeleitet. Nun installiere der Verwaltungsrat schon wieder in einer Notlage einen dauerhaften CEO.</p>
+<p/><p>Auch David Hayes vom Analysehaus Jefferies stellt sich die Frage, warum Nestlé erneut einen Chef aus den eigenen Reihen berufen hat, anstatt sich Zeit für eine umfassende Bewertung interner und externer Kandidaten zu nehmen. Der vorletzte Nestlé-CEO Schneider war bei seinem Antritt 2017 der erste externe Firmenchef seit fast 100 Jahren.</p>
+<p/><p>Im Urteil von Helvea Baader-Analyst Andreas von Arx hätte der Generationswechsel bei Nestlé - zusammen mit dem im nächsten Jahr geplanten Wechsel an der Spitze des Verwaltungsrates - bereits vor zwölf Monaten erfolgen sollen.</p>
+<p/><h3>Die Frage der Strategie</h3>
+<p/><p>Von Arx hofft, dass Navratil "nun endlich den Ehrgeiz hat", die Probleme in den einzelnen Kategorien und Produkten anzugehen. Denn seiner Ansicht nach sind die Ursachen für die Probleme bei Nestlé vor allem struktureller Natur. Sie seien kein vorübergehendes Phänomen oder auf Fehlmanagement zurückzuführen.</p>
+<p/><p>Dies sei aber die Einschätzung des bisherigen CEO Freixe gewesen. Ohnehin sei die Investorenmeinung zur Strategie von Freixe - zurück zu einem "Nestlé-von-früher-Modell" - geteilt gewesen.</p>
+<p/><p>Zu den Skeptikern gehört etwa Pannuti von JP Morgan, die auf das Statement des Nestlé-Verwaltungsrates verweist, wonach der Konzern die strategische Ausrichtung nicht ändere. Sie sei "enttäuscht", dass der neue CEO Navratil vorerst gezwungen sei, die Strategie seines Vorgängers fortzusetzten. Die Analystin will zuerst mehr über die Pläne des neuen Chefs zur mittelfristigen Ausrichtung des Unternehmens erfahren.</p>
+<p/><h3>Tiefer Fall der Aktie</h3>
+<p/><p>Bis dahin sei aber die Attraktivität der Nestlé-Aktie begrenzt. Die Beförderung von Navratil sorgt also noch für keine unmittelbare Trendwende. Und das in einer Zeit, in der die Nestlé-Aktie auf einem fast historischen Tiefstand notiert: So tief wie jetzt lag der Aktienkurs zuletzt vor mehr als 8 Jahren. In den letzten fünf Jahren sank er um fast ein Drittel - alleine unter Freixe waren es 17 Prozent.</p>
+<p/><p>ra/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
