@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T070109+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>420</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:420:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T070109+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T070109+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Dormakaba will Aktie im Verhältnis 1 zu 10 splitten</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016015"/><Subject FormalName="04009000"/><Subject FormalName="04016002"/><Subject FormalName="04016028"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8153" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193326">
+<Property FormalName="FullName" Value="Dormakaba Holding AG" />
+
+<Property FormalName="ShortName" Value="Dormakaba" />
+
+<Property FormalName="Telekurs" Value="376745" />
+
+<Property FormalName="CHNr" Value="CH-020.3.902.576-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011795959" />
+
+<Property FormalName="Ticker" Value="DOKA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0384629892" />
+
+<Property FormalName="Ticker" Value="DOR179" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367497" />
+
+<Property FormalName="Ticker" Value="DOR22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1446452356" />
+
+<Property FormalName="Ticker" Value="DOR25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="DIV"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="AGM"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Rümlang (awp) - Dormakaba will seine Aktien im Verhältnis 1 zu 10 splitten. Damit wolle man das Papier für Investoren und Mitarbeiter noch attraktiver machen, teilte das Unternehmen am Dienstag in einem Communiqué mit.</p>
+<p/><p>Auch die Ausschüttungspolitik soll attraktiver werden. Die neue Dividendenpolitik sehe vor, die Dividende je Aktie jährlich beizubehalten oder zu erhöhen. "Damit verbindet das Unternehmen kontinuierliche Aktionärsrenditen mit der finanziellen Flexibilität für langfristiges Wachstum", schrieb Dormakaba. Der Verwaltungsrat will der Generalversammlung eine Dividendenerhöhung um 15 Prozent auf 9,20 Franken je Aktie vorschlagen.</p>
+<p/><p>An der kommenden Generalversammlung stellen sich alle Verwaltungsräte zur Wiederwahl. Dafür kommt es in der Geschäftsführung zu einem Wechsel. Der Verwaltungsrat habe David Fuller mit sofortiger Wirkung zum Chief Innovation Officer und Mitglied der Geschäftsleitung ernannt, hiess es.</p>
+<p/><p>Er trete die Nachfolge von Magin Guardiola an, der in gegenseitigem Einvernehmen von der Position zurücktrete, schrieb der Konzern. "Nach der erfolgreichen Umsetzung der ersten Phase des aktuellen Strategieprogramms wird Magin Guardiola eine andere Funktion innerhalb von Dormakaba übernehmen."</p>
+<p/><p>jb/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
