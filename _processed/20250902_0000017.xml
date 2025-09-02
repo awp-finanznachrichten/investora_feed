@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T155831+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>3196</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:3196:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T155831+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T155831+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Standard &amp; Poor's erwartet weiter fallende Preise in der Rückversicherung</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006006"/><Subject FormalName="04008027"/><Subject FormalName="04016048"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002 " />
+
+</Property>
+
+<Property FormalName="Country" Value="DE">
+<Property FormalName="City" Value="DE-30625" />
+
+<Property FormalName="City" Value="DE-80802" />
+
+</Property>
+
+<Property FormalName="Country" Value="FR" />
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196134">
+<Property FormalName="FullName" Value="Hannover Rückversicherungs AG" />
+
+<Property FormalName="ShortName" Value="Hannover Rück" />
+
+<Property FormalName="Telekurs" Value="134494" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE0008402215" />
+
+<Property FormalName="Ticker" Value="HNR1" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196041">
+<Property FormalName="FullName" Value="Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München" />
+
+<Property FormalName="ShortName" Value="Munich Re" />
+
+<Property FormalName="Telekurs" Value="341960" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE0008430026" />
+
+<Property FormalName="Ticker" Value="MUV2" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147194160">
+<Property FormalName="FullName" Value="Berkshire Hathaway Inc" />
+
+<Property FormalName="Telekurs" Value="016381" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US0846707026" />
+
+<Property FormalName="Ticker" Value="BRKN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US0846701086" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147192802">
+<Property FormalName="FullName" Value="Scor SA" />
+
+<Property FormalName="Telekurs" Value="473614" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="FR0010411983" />
+
+<Property FormalName="Ticker" Value="SDRC" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2075884431">
+<Property FormalName="FullName" Value="Swiss Re AG" />
+
+<Property FormalName="ShortName" Value="Swiss Re" />
+
+<Property FormalName="Telekurs" Value="549076" />
+
+<Property FormalName="CHNr" Value="CH-020.3.036.183-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0126881561" />
+
+<Property FormalName="Ticker" Value="SREN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="BND"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>FRANKFURT/MONTE CARLO (awp international) - Die Preise für Rückversicherungsschutz werden nach Einschätzung der Ratingagentur Standard &amp; Poor's (S&amp;P) im kommenden Jahr weiter sinken. Entsprechend dürften Unternehmen wie Munich Re , Swiss Re und Hannover Rück auch geringere Renditen einfahren, sagten die Experten um S&amp;P-Analyst Johannes Bender am Dienstag kurz vor dem jährlichen Branchentreffen in Monte Carlo voraus.</p>
+<p/><p>Angesichts der Preisanstiege aus den vergangenen Jahren sieht Bender die Branche dank eines vorteilhaften Umfelds jedoch weiterhin "in der Spur". Daran änderten auch die immensen Schäden durch die Waldbrände in Kalifornien zu Anfang des Jahres nichts.</p>
+<p/><p>Ab dem kommenden Samstag (6. September) treffen sich Rückversicherer, Erstversicherer und Makler wie jedes Jahr üblich im Fürstentum Monaco, um die Konditionen für die grosse Vertragserneuerung im Schaden- und Unfallgeschäft zum 1. Januar 2026 auszuloten.</p>
+<p/><p>Dass die Rückversicherer nach den Spitzenpreisen der vergangenen Jahre wieder Abschläge hinnehmen müssen, hatte sich schon abgezeichnet. So meldeten Munich Re und Hannover Rück bei den Vertragserneuerungen im bisherigen Jahresverlauf im Schnitt Preisrückgänge von gut 1 bis gut 2 Prozent, wenn man die Inflation und veränderte Risiken herausrechnet.</p>
+<p/><p>S&amp;P-Experte Bender erwartet, dass die Prämien von Verträgen mit kurzer Laufzeit wie der Feuerversicherung zum kommenden Jahreswechsel im Schnitt um rund fünf Prozent sinken. Bei längerfristigen Verträgen blieben die Anbieter jedoch diszipliniert. So erwartet Bender, dass die Branche auch im kommenden Jahr ihre Kapitalkosten verdient.</p>
+<p/><p>So dürfte der Preisrückgang dazu führen, dass die Rückversicherer einen grösseren Anteil ihres Umsatzes für Schäden, Verwaltung und Vertrieb ausgeben müssen. Rechnet man Naturkatastrophen, Anpassungen der Schadenreserven und Pandemieschäden heraus, dürfte sich die kombinierte Schaden-Kosten-Quote von 86,5 Prozent im Jahr 2024 auf 88 Prozent im laufenden Jahr verschlechtern - und 2026 dann auf 90 Prozent.</p>
+<p/><p>In der Folge werde die Rendite auf das Eigenkapital der Rückversicherer sinken, sagt S&amp;P voraus. Hatte sie im Spitzenjahr 2023 noch mehr als 21 Prozent betragen und 2024 fast 17 Prozent, rechnet die Ratingagentur für 2025 mit 12 bis 14 Prozent und 2026 nur noch mit 11 bis 13 Prozent.</p>
+<p/><p>Unterdessen haben vor allem Grossanleger weiter Interesse an Katastrophenanleihen, mit deren Hilfe Erst- und Rückversicherer Naturkatastrophenrisiken an die Kapitalmärkte weiterreichen. Vom gesamten weltweiten Rückversicherungskapital von 720 Milliarden Dollar Ende Juni entfielen 605 Milliarden auf klassische Rückversicherer und 115 Milliarden auf solches alternatives Rückversicherungskapital.</p>
+<p/><p>"Naturkatastrophenanleihen erfreuen sich hoher Beliebtheit", sagte Bender. "Die Ausfallraten sind relativ gering, die Renditen sind auch attraktiv." Der Vorteil dieser Anleihen sei, dass ihre Risiken nicht mit dem Kapitalmarkt korrelieren. "Das ist ein schlagendes Argument für Investoren."</p>
+<p/><p>Bei Katastrophenanleihen stellen Anleger ihr Geld für die Deckung von Risiken aus Naturkatastrophen bereit. In der Regel bekommen sie dafür einen Basiszins und zudem eine Risikoprämie. Nur wenn sich eine Naturkatastrophe der vorher festgelegten Art ereignet und vorab definierte Schadenhöhen überschritten werden, wird das angelegte Geld zur Deckung der Schäden verwendet - und die Anleger verlieren ihren Einsatz./stw/tav/nas</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
