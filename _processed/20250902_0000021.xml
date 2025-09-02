@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250902T164310+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>21</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250902</DateId>
+			<NewsItemId>3341</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250902:3341:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250902T164310+0200</FirstCreated>
+		<ThisRevisionCreated>20250902T164310+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Meyer Burger stellt deutsche Werke ein - Hunderte verlieren Job</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Meldung erg&#228;nzt</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016007"/><Subject FormalName="04016039"/><Subject FormalName="09000000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3645 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2120151886">
+<Property FormalName="FullName" Value="Meyer Burger Technology AG" />
+
+<Property FormalName="ShortName" Value="Meyer Burger" />
+
+<Property FormalName="Telekurs" Value="351705" />
+
+<Property FormalName="CHNr" Value="CH-170.3.023.419-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0108503795" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357065999" />
+
+<Property FormalName="Ticker" Value="MBTN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="BCY"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="LAB"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Berlin/Gwatt (afp dpa) - Der Thuner Solarzellen-Hersteller Meyer Burger hat den Betrieb seiner deutschen Standorte eingestellt. In den Werken in Hohenstein-Ernstthal bei Chemnitz und in Bitterfeld-Wolfen wurde die Produktion am 1. September gestoppt, wie die Insolvenzverwalter Lucas Flöther und Reinhard Klose am Dienstag mitteilten.</p>
+<p/><p>Für die beiden Standorte fand sich bislang kein Investor. Betroffen sind rund 540 Beschäftigte, von denen der Grossteil freigestellt oder gekündigt wurde, nachdem der Insolvenzgeldzeitraum abgelaufen war.</p>
+<p/><p>Ein kleiner Teil der Belegschaft bleibt vorerst tätig: In Hohenstein-Ernstthal wurden 206 Mitarbeiter freigestellt, 62 helfen bei Abwicklungsarbeiten. Bei der Meyer Burger (Industries) GmbH in Bitterfeld-Wolfen müssen 271 Beschäftigte gehen, darunter 38, die zunächst noch mit Abwicklungstätigkeiten befasst sind.</p>
+<p/><p>Insolvenzverwalter Klose sprach von einer "ausserordentlich bedauerlichen" Situation. Er lobte aber das Engagement der Belegschaft in den vergangenen Monaten.</p>
+<p/><h3>Keine Anzeichen für neue Investoren</h3>
+<p/><p>Die Insolvenzverwalter betonten, es liefen zwar noch Gespräche mit möglichen Interessenten, doch sei völlig offen, ob diese zu einem Ergebnis führen. "Wir sind offen für zusätzliche Angebote von Investoren und bereit, erneut Verhandlungen aufzunehmen", sagte Flöther. Zugleich machte er deutlich, dass es derzeit keine konkreten Anzeichen gebe.</p>
+<p/><p>Meyer Burger war durch die Krise in der europäischen Solarbranche schwer getroffen worden. Der Markt leidet unter dem Preisdruck chinesischer Anbieter, die wegen Handelshemmnissen nicht in die USA liefern können und ihre Produkte verstärkt in Europa absetzen.</p>
+<p/><p>Meyer Burger hatte ursprünglich versucht, im US-Markt Fuss zu fassen. Nachdem der wichtigste Kunde, die US-Firma Desri, im November 2024 absprang und Expansionspläne in den USA im Sommer 2024 eingedampft wurden, rutschte das Unternehmen in eine existenzielle Krise. Ende Mai meldeten die deutschen Gesellschaften Insolvenz an.</p>
+<p/><p>Ob sich kurzfristig doch noch ein Investor findet und ein Teil der Belegschaft zurückkehren könnte, ist derzeit ungewiss.</p>
+<p/><p>to/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
