@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T112210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>1705</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:1705:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T112210+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T112210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Anleihe: Straumann nimmt 250 Mio Fr. für 3 Jahre auf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>T</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4002 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193710">
+<Property FormalName="FullName" Value="Straumann Holding AG" />
+
+<Property FormalName="ShortName" Value="Straumann" />
+
+<Property FormalName="Telekurs" Value="850848" />
+
+<Property FormalName="CHNr" Value="CH-280.3.917.651-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1175448666" />
+
+<Property FormalName="Ticker" Value="STMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0551990689" />
+
+<Property FormalName="Ticker" Value="STM201" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Straumann Holding AG emittiert unter Federführung von UBS und ZKB eine Anleihe zu folgenden Konditionen:</p>
+<p/><pre>Betrag:          250 Mio Fr. (mit Aufstockungsmöglichkeit)
+Coupon:          0,55%
+Emissionspreis:  100,141%
+Laufzeit:        3 Jahre, bis 03.10.2028
+Liberierung:     03.10.2025
+YTM:             0,503%
+Spread (MS):     +50 BP
+Spread (Govt.):  +57 BP
+ISIN:            CH1478430833
+Rating:          A-/A-/A- (UBS/ZKB/Fedafin)
+Kotierung:       SIX, ab 1.10.2025
+</pre><p/><p>uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
