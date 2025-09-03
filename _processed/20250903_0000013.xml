@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T120111+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>1892</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:1892:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T120110+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T120110+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Holcim bestreitet Zulässigkeit der Klimaklage am Kantonsgericht Zug</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="02000000"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197403">
+<Property FormalName="FullName" Value="Holcim AG" />
+
+<Property FormalName="ShortName" Value="Holcim" />
+
+<Property FormalName="Telekurs" Value="110323" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.050-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012214059" />
+
+<Property FormalName="Ticker" Value="HOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561525" />
+
+<Property FormalName="Ticker" Value="LAH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263973" />
+
+<Property FormalName="Ticker" Value="LAH210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263981" />
+
+<Property FormalName="Ticker" Value="LAH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887132" />
+
+<Property FormalName="Ticker" Value="LAH22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887140" />
+
+<Property FormalName="Ticker" Value="LAH220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1159841357" />
+
+<Property FormalName="Ticker" Value="LAH221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0306179125" />
+
+<Property FormalName="Ticker" Value="LAH151" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="LAW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp/sda) - Ein Zivilgericht könne nicht über Klimaschutzmassnahmen entscheiden. So hat der beklagte Konzern Holcim am Mittwochvormittag in der Verhandlung am Zuger Kantonsgericht argumentiert.</p>
+<p/><p>Die Verhandlung fokussierte sich auf die Frage, ob die Klage die Prozessvoraussetzungen erfüllt. Drei Bewohner und eine Bewohnerin der indonesischen Insel Pari fordern vom Zuger Zementkonzern Schadenersatz, Reduktion des CO2-Ausstosses und Beteiligung an Anpassungsmassnahmen. Dies aufgrund der Mitverantwortung des Konzerns für den Klimawandel, der die Lebensgrundlage auf Pari bedroht. Namens Holcim plädierten eine Anwältin und ein Anwalt.</p>
+<p/><h3>"Politischer Prozess"</h3>
+<p/><p>Für den Klimaschutz sei in der Schweiz der Gesetzgeber verantwortlich, betonten die für Holcim Sprechenden. Ein Zivilgericht könne darüber hinaus keine Massnahmen verordnen. So würden das demokratische System und die Gewaltenteilung unterwandert. Die Klage sei ein rein "politischer Prozess", hinter dem Nicht-Regierungsorganisationen wie das Hilfswerk der Evangelisch-reformierten Kirche Schweiz stehe. Der Anwalt sprach von einer "Aufführung", für die das "Schweizer Vorzeigeunternehmen Holcim" als "Bösewicht" hinhalten müsse.</p>
+<p/><p>Formalrechtlich hätten die Klägerinnen und Kläger kein schützenswertes Interesse, das ausreichend persönlich, praktisch und aktuell sei, wie es die Zivilprozessordnung verlange. Vielmehr sei die gesamte Weltbevölkerung von den Folgen des Klimawandels betroffen. Die besondere und konkrete Betroffenheit der Klägerinnen und Kläger sei nicht gegeben. Überdies seien die Schadenersatzforderungen rein symbolisch. Den Klagenden gehe es um allgemeine Massnahmen an der ganzen Insel Pari, die nicht nur ihren eigenen, persönlichen Interessen dienen würden.</p>
+<p/><h3>"Würde sich nichts ändern"</h3>
+<p/><p>Weiter argumentierte der Holcim-Anwalt, die Persönlichkeitsverletzung müsse in der Gegenwart feststellbar sei. Künftige Schäden und die suggerierte Mitverantwortung von Holcim liessen sich nicht im Vorhinein einklagen.</p>
+<p/><p>Zudem würde sich an der Lage der Klägerinnen und Kläger nichts ändern, "selbst wenn Holcim die Zementproduktion ganz einstellen würde", so der Holcim-Anwalt. Stattdessen würde ein anderes Unternehmen die Produktion übernehmen - möglicherweise in einem Land, das weniger strenge Vorgaben für Klimaschutzmassnahmen kenne. Die Reduktion der CO2-Emissionen müsse global koordiniert werden.</p>
+<p/><p>Nach dem Plädoyer der beklagten Partei verzichtete die Anwältin der Klagenden auf eine Replik, daraufhin ebenso die Partei des beklagten Konzerns Holcim.</p>
+<p/><p>In der Folge schloss der vorsitzende Richter die Verhandlung. Das Urteil werde "zu gegebener Zeit schriftlich eröffnet".</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
