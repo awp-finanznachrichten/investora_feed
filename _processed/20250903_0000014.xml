@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T122410+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>1992</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:1992:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T122410+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T122410+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swiss Life mit harzigem Start in neue Strategiephase</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197979">
+<Property FormalName="FullName" Value="Swiss Life Holding AG" />
+
+<Property FormalName="ShortName" Value="Swiss Life" />
+
+<Property FormalName="Telekurs" Value="165159" />
+
+<Property FormalName="CHNr" Value="CH-020.3.026.160-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0014852781" />
+
+<Property FormalName="Ticker" Value="SLHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0316994653" />
+
+<Property FormalName="Ticker" Value="SLH161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406990801" />
+
+<Property FormalName="Ticker" Value="SWL181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561491" />
+
+<Property FormalName="Ticker" Value="SLH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238914" />
+
+<Property FormalName="Ticker" Value="SLH191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1236363433" />
+
+<Property FormalName="Ticker" Value="SLH23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301278" />
+
+<Property FormalName="Ticker" Value="SLH230" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301286" />
+
+<Property FormalName="Ticker" Value="SLH231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341034994" />
+
+<Property FormalName="Ticker" Value="SLH24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035009" />
+
+<Property FormalName="Ticker" Value="SLH241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035017" />
+
+<Property FormalName="Ticker" Value="SLH242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064601" />
+
+<Property FormalName="Ticker" Value="SLH25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064619" />
+
+<Property FormalName="Ticker" Value="SLH252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064627" />
+
+<Property FormalName="Ticker" Value="SLH253" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Swiss Life ist verhalten in die neue, dreijährige Strategieperiode gestartet. Während im ersten Halbjahr 2025 im Versicherungsteil mehr Prämien eingenommen wurden, wuchs das Gebührengeschäft nur leicht. Weniger Geld macht der Finanzkonzern mit Immobilienprojekten, hingegen fliessen der Gruppe von Drittkunden Anlagegelder in Milliardenhöhe zu.</p>
+<p/><p>Swiss Life sei insgesamt "erfolgreich" in das "Swiss Life 2027"-Programm gestartet, hielt Konzernchef Matthias Aellig am Mittwoch an einer Telefonkonferenz fest. "Wir konnten sowohl unser Versicherungs- als auch unser Fee-Geschäft weiter ausbauen und erzielten einen höheren Betriebsgewinn."</p>
+<p/><p>Die Gruppe steigerte insbesondere die Prämieneinnahmen im Versicherungsgeschäft mit währungsbereinigt 5 Prozent klar. Zu diesem Wachstum trug der Heimmarkt Schweiz (+4 Prozent) wesentlich bei. Aber auch in den kleineren Einheiten Frankreich (+7 Prozent), Deutschland (+3 Prozent) und International (+7 Prozent) wurden Zuwächse verbucht.</p>
+<p/><h3>Geschäft mit Immobilienprojekten wirft weniger ab</h3>
+<p/><p>Weniger dynamisch entwickelten sich die Einnahmen in dem auf Finanzberatungen und die Vermögensverwaltung ausgerichteten Fee-Geschäft. Da nahmen die Erträge währungsbereinigt lediglich um 2 Prozent zu, was Aellig vor allem mit geringeren Einnahmen aus dem Geschäft mit Immobilienprojekten begründete.</p>
+<p/><p>In der Vermögensverwaltung für Drittkunden (TPAM) seien nicht-wiederkehrende Einnahmen, die etwa durch Verkäufe oder Neubewertungen von Immobilien erzielt werden, vom sehr hohen Vorjahreswert zurückgekommen, hiess es. Demgegenüber zog Swiss Life im TPAM-Geschäft Nettoneugelder in Milliardenhöhe an, was künftig zu höheren wiederkehrenden Gebühreneinnahmen führen dürfte.</p>
+<p/><h3>Weniger verdient</h3>
+<p/><p>Auf der Gewinnseite hat die Swiss Life das Betriebsergebnis in den Monaten Januar bis Juni um 3 Prozent auf 903 Millionen Franken gesteigert. Der Reingewinn sank dagegen um 5 Prozent auf 602 Millionen, dies hauptsächlich aufgrund von 36 Millionen höherer Steueraufwendungen. In Frankreich etwa habe die Regierung den Steuersatz für Unternehmen erhöht, erklärte Aellig.</p>
+<p/><p>Mit den bis 2027 gesetzten Zielen sieht er den Konzern indes auf Kurs. So liegt etwa die Eigenkapitalrendite mit 17,6 Prozent in der angestrebten Bandbreite von 17 bis 19 Prozent. Und seit Jahresbeginn flossen Barmittel im grossen Umfang von 1,2 Milliarden Franken von den operativen Einheiten in die Holding. Über drei Jahre sollen kumuliert 3,6 bis 3,8 Milliarden vor allem zur Zahlung höherer Dividenden übertragen werden.</p>
+<p/><p>Zudem sieht Konzernchef Aellig die Swiss Life mit einer SST-Kapitalquote von rund 205 Prozent zur Jahresmitte gut kapitalisiert, um weiteres Geld in Wachstum investieren zu können. Der Konzern will dabei unter anderem bei Drittkunden wie Pensionskassen oder Banken mit dem Verkauf von den vor rund einem Jahr neu angebotenen Index-Produkten weiterhin punkten.</p>
+<p/><p>An der Börse hat die Swiss-Life-Aktie am Mittwoch nach einem bislang sehr guten Kursverlauf während des Jahres den Rückwärtsgang eingelegt. Kursgewinne werden ins Trockene gebracht. Um die Mittagsstunden fällt der Kurs um 2 Prozent auf 829 Franken zurück. Ins Jahr 2025 gestartet war die Aktie zu 713 Franken.</p>
+<p/><p>mk/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
