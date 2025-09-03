@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T125309+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>2105</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:2105:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T125309+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T125309+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Helvetia macht mehr Halbjahresgewinn trotz Schäden in Blatten</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016005"/><Subject FormalName="03000000"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4002" />
+
+<Property FormalName="City" Value="9001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197153">
+<Property FormalName="FullName" Value="Baloise-Holding AG" />
+
+<Property FormalName="ShortName" Value="Baloise" />
+
+<Property FormalName="Telekurs" Value="147250" />
+
+<Property FormalName="CHNr" Value="CH-270.3.000.505-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0458097976" />
+
+<Property FormalName="Ticker" Value="BAL190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496692978" />
+
+<Property FormalName="Ticker" Value="BAL192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496692986" />
+
+<Property FormalName="Ticker" Value="BAL193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553331817" />
+
+<Property FormalName="Ticker" Value="BAL20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553331825" />
+
+<Property FormalName="Ticker" Value="BAL201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0593641068" />
+
+<Property FormalName="Ticker" Value="BAL210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1130818839" />
+
+<Property FormalName="Ticker" Value="BAL211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148728210" />
+
+<Property FormalName="Ticker" Value="BAL22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1199322350" />
+
+<Property FormalName="Ticker" Value="BAL221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367661" />
+
+<Property FormalName="Ticker" Value="BAL222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1232107180" />
+
+<Property FormalName="Ticker" Value="BAL023" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1256367199" />
+
+<Property FormalName="Ticker" Value="BAL231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614145" />
+
+<Property FormalName="Ticker" Value="BAL24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185880" />
+
+<Property FormalName="Ticker" Value="BAL25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012410517" />
+
+<Property FormalName="Ticker" Value="BALN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193865">
+<Property FormalName="FullName" Value="Helvetia Holding AG" />
+
+<Property FormalName="ShortName" Value="Helvetia" />
+
+<Property FormalName="Telekurs" Value="474438" />
+
+<Property FormalName="CHNr" Value="CH-320.3.040.603-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0466642201" />
+
+<Property FormalName="Ticker" Value="HELN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="DIS"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>St. Gallen (awp) - Die Versicherer Helvetia hat im ersten Semester klar mehr Gewinn eingefahren. Dies gelang, obwohl die Schäden aus der Zerstörung des Bergdorfes Blatten durch einen Bergsturz aufs Ergebnis durchschlugen.</p>
+<p/><p>Diese Katastrophe dürfte in der Rechnung Versicherers Schäden von 40 bis 60 Millionen Franken verursachen. Man habe die Schadenmeldungen zum grossen Teil schon ausbezahlt, sagte Konzernchef Fabian Rupprecht am Mittwoch vor den Medien in Zürich. "Wir haben angenommen, dass wir alle Häuser ersetzen müssen."</p>
+<p/><p>Von den Rückversicherern werde die Helvetia nur ganz wenig zurückbekommen. Und die künftigen Zahlungen des Elementarschadenpools in der Schweiz habe man noch nicht in der Rechnung berücksichtigt, sagte Rupprecht.</p>
+<p/><p>Beim Unglück am 28. Mai begruben gewaltige Schuttmassen aus rund neun Millionen Kubikmetern Gestein, Schlamm und Eis einen Grossteil des 300-Seelen-Dorfs. Durch den Schuttkegel wurde der Fluss Lonza aufgestaut, so dass noch weitere Gebäude überflutet wurden. Der Schweizerische Versicherungsverband (SVV) hatte die Schäden aus der Verschüttung des Lötschentaler Dorfs und den Überschwemmungen für die gesamte Versicherungsbranche auf 320 Millionen Franken veranschlagt.</p>
+<p/><h3>Weniger Naturkatastrophen als erwartet</h3>
+<p/><p>Abgesehen von Blatten hat die Helvetia ein günstiges erstes Halbjahr gehabt. Die Schäden durch Naturkatastrophen in den ersten sechs Monaten seien um 10 Prozent tiefer ausgefallen, als man erwartet habe, sagte Finanzchefin Annelis Lüscher Hämmerli: Es habe weniger Hagel-, Überschwemmungs- oder Sturmschäden gegeben als in einem durchschnittlichen Jahr.</p>
+<p/><p>Das gelte nicht nur für die Schweiz, sondern auch für das Ausland wie beispielsweise Deutschland oder Österreich. Auch die Feuersbrünste in Spanien treffen die Helvetia nicht stark: Der Versicherer muss einen Schaden von einem einstelligen Millionenbetrag schultern. "Das liegt locker innerhalb der Erwartungen für Naturkatastrophen", sagte die Finanzchefin. In der Folge verbesserte sich der Schaden-Kosten-Satz (im Fachjargon: Combined Ratio) auf 93,3 Prozent nach 95,4 Prozent im Vorjahressemester.</p>
+<p/><h3>Reingewinn um ein Viertel höher</h3>
+<p/><p>Gemäss dem Versicherungsgeschäft unterliegenden Ergebnissen, die weniger volatil sind, belief sich der Reingewinn auf 300,8 Millionen Franken. Das ist ein Plus von 5,5 Prozent im Vergleich zum Vorjahressemester. Hier sind die volatilen Finanzmärkte, Restrukturierungskosten und nicht-operative Effekte herausgerechnet, wie Finanzchefin Lüscher erklärte.</p>
+<p/><p>Mit all diesen Einflüssen klingelten unter dem Strich die Kassen: Der Reingewinn stieg nach IRFS-Rechnungslegung um knapp ein Viertel auf 320,1 Millionen Franken.</p>
+<p/><p>Mit den Zahlen hat die Helvetia die Erwartungen der Finanzgemeinde auf allen Ebenen übertroffen.</p>
+<p/><h3>Ausblick bestätigt</h3>
+<p/><p>Die Zahlen werden indes etwas in den Schatten gestellt von der Riesenhochzeit, die Ende April angekündigt wurde. Die Helvetia und Konkurrentin Baloise wollen sich zusammenschliessen. Damit entsteht die zweitgrösste Versicherungsgruppe der Schweiz mit einem Marktanteil von 20 Prozent über alle Geschäftsbereiche hinweg. Innerhalb Europas wird die fusionierte Gesellschaft zu den Top-10 der Versicherer aufsteigen.</p>
+<p/><p>Viel Neues liess die Konzernleitung dazu nicht verlauten: "Der geplante Zusammenschluss mit Baloise kann im nächsten Jahr zur Bekanntgabe neuer Ziele führen. Momentan bleibt der Fokus aber auf dem eigenständigen aktuellen Strategieplan von Helvetia", hiess es.</p>
+<p/><p>Grosse Änderungen in der Strategie seien aber durch die Fusion nicht zu erwarten, sagte Helvetia-Chef Rupprecht. Denn die beiden Konzerne hätten grosse Überschneidungen. An Integrationskosten würden weiterhin 500 Millionen Franken erwartet. Ein Teil davon dürfte im Jahresergebnis 2025 anfallen. Der Vollzug der Fusion werde weiterhin gegen Ende Jahr erwartet. Zuerst müssten noch mehrere Behörden wie beispielsweise die Schweizer Finanzmarktaufsicht Finma und die Wettbewerbskommission Weko grünes Licht geben.</p>
+<p/><p>jb/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
