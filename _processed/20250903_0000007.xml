@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T072810+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>644</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:644:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T072809+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T072809+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Fundamenta Real Estate im Halbjahr mit Gewinnverdopplung dank Neubewertungen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016019"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2077857766">
+<Property FormalName="FullName" Value="Fundamenta Real Estate AG" />
+
+<Property FormalName="ShortName" Value="Fundamenta" />
+
+<Property FormalName="Telekurs" Value="442986" />
+
+<Property FormalName="CHNr" Value="CH-170.3.030.243-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0045825517" />
+
+<Property FormalName="Ticker" Value="FREN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Die Immobiliengesellschaft Fundamenta Real Estate hat im ersten Halbjahr 2025 den Gewinn massiv gesteigert. Erneut schlugen positive Neubewertungen zu Buche. Zudem plant das Unternehmen im vierten Quartal eine Kapitalerhöhung, um den Portfolioausbau voran zu treiben.</p>
+<p/><p>Der Reingewinn kletterte auf 28,9 Millionen Franken von zuvor 12,2 Millionen und hat sich damit mehr als verdoppelt, wie die auf Wohnimmobilien spezialisierte Gesellschaft am Mittwoch mitteilte. Dabei wurde ein positiver Erfolg aus Neubewertungen in Höhe von 20,4 Millionen verbucht, dies nach einem Plus von 4,5 Millionen vor Jahresfrist.</p>
+<p/><p>Der operative Gewinn vor Neubewertungen stieg ebenfalls an, und zwar um gut 30 Prozent auf 19,4 Millionen Franken. Der für die Dividende relevante Reingewinn ohne Neubewertungen stieg um gut 12 Prozent auf 10,3 Millionen.</p>
+<p/><h3>Mieteinnahmen leicht im Plus</h3>
+<p/><p>Der Nettomietertrag stieg in den ersten sechs Monaten um 1,4 Prozent auf 21,0 Millionen Franken. Dabei lag die Leerstandsquote per Ende Juni mit 1,3 Prozent nach 1,6 Prozent in der Vorjahresperiode bzw. 1,3 zum Jahresende weiter auf sehr tiefem Niveau. Gleichzeitig reduzierte sich der Betriebsaufwand um 2,2 Prozent.</p>
+<p/><p>Der Wert des Immobilienportfolios beläuft sich per Stichtag auf 1,22 Milliarden Franken und damit auf ähnlichem Niveau wie Ende 2024. Es wurden drei Liegenschaften mit einem Verkaufserfolg von 4,5 Millionen Franken veräussert.</p>
+<p/><p>Zwei Projekte in Zürich und in Basel erweiterten das Portfolio um 112 Wohnungen. Beide seien termingerecht abgeschlossen und mit einer "sehr hohen" Vermietungsquote ins Portfolio überführt worden.</p>
+<p/><p>Für das zweite Halbjahr plant das Unternehmen, die Entwicklungen im Bestand und im Neubau "konsequent" voranzutreiben. Die Betriebskosten sollen weiter optimiert und die Erträge nachhaltig gesteigert werden.</p>
+<p/><h3>Kapitalerhöhung im Q4</h3>
+<p/><p>Der Verwaltungsrat beabsichtige ausserdem, die starke Marktposition zu nutzen und prüfe derzeit die Durchführung einer Kapitalerhöhung im vierten Quartal 2025, heisst es in der Mitteilung weiter. Im Rahmen des bestehenden Kapitalbands könnten demnach gut 6 Millionen neuen Aktien gezeichnet werden. Der Nettoerlös soll primär zur Finanzierung von Investitionen in die bestehende Projektpipeline, gezielte Akquisitionen von Rendite- und Entwicklungsliegenschaften und die weitere Stärkung der Eigenkapitalbasis verwendet werden.</p>
+<p/><p>Bei der Kapitalerhöhung wird die Gesellschaft von UBS als Sole Global Coordinator und Bookrunner sowie von Swiss Prime Site Solutions unterstützt.</p>
+<p/><p>dm/uh/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
