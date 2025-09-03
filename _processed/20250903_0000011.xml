@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T102809+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>1528</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:1528:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T102809+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T102809+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Indonesische Klägerin begründet Forderung an Holcim vor Gericht</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="02000000"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197403">
+<Property FormalName="FullName" Value="Holcim AG" />
+
+<Property FormalName="ShortName" Value="Holcim" />
+
+<Property FormalName="Telekurs" Value="110323" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.050-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012214059" />
+
+<Property FormalName="Ticker" Value="HOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561525" />
+
+<Property FormalName="Ticker" Value="LAH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263973" />
+
+<Property FormalName="Ticker" Value="LAH210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263981" />
+
+<Property FormalName="Ticker" Value="LAH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887132" />
+
+<Property FormalName="Ticker" Value="LAH22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887140" />
+
+<Property FormalName="Ticker" Value="LAH220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1159841357" />
+
+<Property FormalName="Ticker" Value="LAH221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0306179125" />
+
+<Property FormalName="Ticker" Value="LAH151" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="LAW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp/sda) - Klägerin Ibu Asmania von der indonesischen Insel Pari hat am Mittwochvormittag am Zuger Kantonsgericht ihre Schadenersatzforderung an den Zementkonzern Holcim begründet. Sie sagte, Holcim sei mitverantwortlich für den Klimawandel.</p>
+<p/><p>Das Gericht berät in der Verhandlung über die Erfüllung der Prozessvoraussetzungen. Drei Bewohner und eine Bewohnerin stellen Schadenersatzforderungen an Holcim und verlangen, der Konzern solle seine CO2-Emissionen weiter senken und sich an Anpassungsmassnahmen auf Pari beteiligen.</p>
+<p/><p>Im Plädoyer der Klagepartei äusserte sich neben einer Anwältin auch Ibu Asmania kurz und stellvertretend für die Gruppe. Die Schäden und Kosten, die wegen des steigenden Meeresspiegels anfallen, hätten die Bewohnerinnen und Bewohner nicht selbst verursacht. Es fehle das Geld, um Massnahmen zu ergreifen. Ihre Anwältin übersetzte und trug die rechtlichen Argumente vor.</p>
+<p/><p>Im gut einstündigen Plädoyer warf die Anwältin Holcim vor, die Klage schon "an der Schwelle des Gerichts" stoppen zu wollen, indem sie die Erfüllung der Prozessvoraussetzung in Zweifel ziehe.</p>
+<p/><h3>"Reine Routine"</h3>
+<p/><p>Eine Schadenersatzklage wie jene der Gruppe aus Indonesien sei für ein Zivilgericht "reine Routine", sagte die Anwältin. Es bestehe ein schützenswertes Interesse, das als Prozessvoraussetzung gegeben sein müsse. Die Interessen der Klägerin und der Kläger seien persönlich, praktisch, und aktuell, wie es das Gesetz verlange. Die Persönlichkeitsrechte der Gruppe der Klagenden würden bereits heute durch den Klimawandel und dessen Folgen geritzt.</p>
+<p/><p>Der Zementkonzern Holcim trage zu diesen Schäden durch den Ausstoss von Treibhausgasen massgeblich bei. Holcim habe in seiner Unternehmensgeschichte doppelt so viel CO2 ausgestossen wie der ganze Schweizer Staat.</p>
+<p/><p>Eine Verringerung der Emissionen des Unternehmens würde dazu beitragen, das globale Ziel der Beschränkung der Erderwärmung auf 1,5 Grad zu beschränken. Damit könnte die Zukunft der Insel Pari, die im Meer zu versinken droht, gerettet werden, so die Anwältin.</p>
+<p/><h3>"Koordinierte Kampagne"</h3>
+<p/><p>Am Unternehmenssitz von Holcim, in Zug, entscheide sich, wie der Konzern die Zukunft der Insel durch seinen künftigen CO2-Ausstoss weiter beeinflusse. Deshalb sei Zug auch der richtige Ort, um die Klage einzureichen.</p>
+<p/><p>Holcim streitet dies ab. Die Anwältin des Konzerns bezeichnete die Klage in der Eröffnung ihres Plädoyers als "künstliche Inszenierung" und "koordinierte Kampagne".</p>
+<p/><p>Die Parteien dürfen beide zweimal ihre Argumente vortragen, wie der vorsitzende Richter zur Eröffnung der Verhandlung feststellte.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
