@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T132909+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>2284</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:2284:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T132909+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T132909+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Novartis schliesst weitere Lizenzvereinbarungen mit Argo Biopharma ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016023"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4056" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193880">
+<Property FormalName="FullName" Value="Novartis AG" />
+
+<Property FormalName="ShortName" Value="Novartis" />
+
+<Property FormalName="Telekurs" Value="500449" />
+
+<Property FormalName="CHNr" Value="CH-270.3.002.061-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012005267" />
+
+<Property FormalName="Ticker" Value="NOVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0270190991" />
+
+<Property FormalName="Ticker" Value="NOV151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0270191007" />
+
+<Property FormalName="Ticker" Value="NOV152" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1134729794" />
+
+<Property FormalName="Ticker" Value="EUF076" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1492825481" />
+
+<Property FormalName="Ticker" Value="EUF080" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1585010074" />
+
+<Property FormalName="Ticker" Value="EUF081" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1769041192" />
+
+<Property FormalName="Ticker" Value="EUF85" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1769041606" />
+
+<Property FormalName="Ticker" Value="EUF84" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2235996217" />
+
+<Property FormalName="Ticker" Value="EUF87" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257806" />
+
+<Property FormalName="Ticker" Value="NOV241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257814" />
+
+<Property FormalName="Ticker" Value="NOV242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257822" />
+
+<Property FormalName="Ticker" Value="NOV243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257830" />
+
+<Property FormalName="Ticker" Value="NOV244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257848" />
+
+<Property FormalName="Ticker" Value="NOV245" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="JNV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp)- Novartis baut seine strategische Zusammenarbeit mit dem Biotech-Unternehmen Argo Biopharma weiter aus. So hat sich der Pharmakonzern Optionen und Lizenzen für mehrere Herz-Kreislauf-Wirkstoffe aus der Argos-Pipeline gesichert.</p>
+<p/><p>Im Rahmen der Vereinbarung soll Argo von Novartis eine Vorauszahlung von 160 Millionen US-Dollar erhalten, schreibt das US-Unternehmen in einer Medienmitteilung vom Mittwoch. Darüber hinaus seien Meilensteinzahlungen und Lizenzgebühren in Höhe von bis zu 5,2 Milliarden US-Dollar vereinbart. Novartis plane zudem, sich an der nächsten Finanzierungsrunde des Partners zu beteiligen.</p>
+<p/><p>Mit dem Abkommen sichert sich Novartis den Angaben zufolge ein Optionsrecht auf zwei neuartige Moleküle zur Behandlung der Fettstoffwechsel-Störungen Hypertriglyzeridämie und Mischdyslipidämie. Zudem erhält der Pharmakonzern ein Vorkaufsrecht auf den Phase-II-Kandidaten ANGPTL3 (BW-00112) sowie eine Lizenz mit Gewinn- und Verlustbeteiligung für einen weiteren siRNA-Wirkstoff, dessen klinische Erprobung 2026 beginnen soll.</p>
+<p/><p>Die neue Vereinbarung knüpft an die bereits im Januar 2024 geschlossene Partnerschaft zwischen Argo und Novartis an. Damals erhielt Argo eine Vorauszahlung von 185 Millionen US-Dollar sowie die Aussicht auf über 4 Milliarden US-Dollar an Meilensteinzahlungen.</p>
+<p/><p>an/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
