@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T071110+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>616</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:616:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T071109+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T071109+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swiss Life schreibt im ersten Halbjahr etwas weniger Gewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197979">
+<Property FormalName="FullName" Value="Swiss Life Holding AG" />
+
+<Property FormalName="ShortName" Value="Swiss Life" />
+
+<Property FormalName="Telekurs" Value="165159" />
+
+<Property FormalName="CHNr" Value="CH-020.3.026.160-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0014852781" />
+
+<Property FormalName="Ticker" Value="SLHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0316994653" />
+
+<Property FormalName="Ticker" Value="SLH161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406990801" />
+
+<Property FormalName="Ticker" Value="SWL181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561491" />
+
+<Property FormalName="Ticker" Value="SLH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238914" />
+
+<Property FormalName="Ticker" Value="SLH191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1236363433" />
+
+<Property FormalName="Ticker" Value="SLH23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301278" />
+
+<Property FormalName="Ticker" Value="SLH230" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301286" />
+
+<Property FormalName="Ticker" Value="SLH231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341034994" />
+
+<Property FormalName="Ticker" Value="SLH24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035009" />
+
+<Property FormalName="Ticker" Value="SLH241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035017" />
+
+<Property FormalName="Ticker" Value="SLH242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064601" />
+
+<Property FormalName="Ticker" Value="SLH25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064619" />
+
+<Property FormalName="Ticker" Value="SLH252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064627" />
+
+<Property FormalName="Ticker" Value="SLH253" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Swiss Life hat in der ersten Jahreshälfte 2025 im Vergleich zum Vorjahr etwas weniger verdient. Derweil ist der Finanzkonzern gewachsen, sowohl im Versicherungs- wie auch im Gebührengeschäft.</p>
+<p/><p>Der Reingewinn der Swiss Life sank in den Monaten Januar bis Juni um 5 Prozent auf 602 Millionen Franken, wie die Gruppe am Mittwoch bekannt gab. Dies sei hauptsächlich auf höhere Steueraufwendungen zurückzuführen.</p>
+<p/><p>Der bereinigte Betriebsgewinn stieg indes um 3 Prozent auf 903 Millionen Franken. Dabei steuerte das Geschäft mit Finanzberatungen, Vorsorgeprodukten und der Vermögensverwaltung, wo der Konzern Gebühren beziehungsweise Fees einnimmt, 392 Millionen bei (-0,8%).</p>
+<p/><p>Derweil steigerte Swiss Life die Fee-Erträge um 2 Prozent auf 1,27 Milliarden Franken. Gewachsen sind auch die im Versicherungsgeschäft eingenommenen Bruttoprämien, und zwar um 4 Prozent auf 12,1 Milliarden Franken.</p>
+<p/><p>Mit Kennzahlen hat Swiss Life die Vorgaben der Analysten übertroffen. Die hatten im Vorfeld der Vorlage im Durchschnitt mit einem Reingewinn von 593 Millionen Franken und einem Betriebsgewinn von 855 Millionen gerechnet.</p>
+<p/><p>"Mit diesen Ergebnissen sind wir erfolgreich in unser Unternehmensprogramm Swiss Life 2027 gestartet und auf Kurs", wird Konzernchef Matthias Aellig in der Medienmitteilung zitiert. In dem vergangenen Dezember vorgestellten Dreijahresprogramm strebt die Gruppe unter anderem eine Eigenkapitalrendite in Höhe von 17 bis 19 Prozent und den weiteren Ausbau des Fee-Geschäfts an.</p>
+<p/><p>mk/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
