@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T173611+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>3405</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:3405:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T173610+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T173610+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Nestlé-CFO: Nachfolgepläne schon vor Freixes Entlassung geprüft</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016039"/><Subject FormalName="04016028"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196839">
+<Property FormalName="FullName" Value="Nestlé SA" />
+
+<Property FormalName="ShortName" Value="Nestlé" />
+
+<Property FormalName="Telekurs" Value="213695" />
+
+<Property FormalName="CHNr" Value="CH-550.0.067.293-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0038863350" />
+
+<Property FormalName="Ticker" Value="NESN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042509" />
+
+<Property FormalName="Ticker" Value="NES181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355108" />
+
+<Property FormalName="Ticker" Value="NES22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355116" />
+
+<Property FormalName="Ticker" Value="NES221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355124" />
+
+<Property FormalName="Ticker" Value="NES222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1221150506" />
+
+<Property FormalName="Ticker" Value="NES223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543838" />
+
+<Property FormalName="Ticker" Value="NES224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543846" />
+
+<Property FormalName="Ticker" Value="NES225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475397" />
+
+<Property FormalName="Ticker" Value="NES231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475405" />
+
+<Property FormalName="Ticker" Value="NES232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475413" />
+
+<Property FormalName="Ticker" Value="NES233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277832" />
+
+<Property FormalName="Ticker" Value="NES234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277840" />
+
+<Property FormalName="Ticker" Value="NES235" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277857" />
+
+<Property FormalName="Ticker" Value="NES236" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316745" />
+
+<Property FormalName="Ticker" Value="NES241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316752" />
+
+<Property FormalName="Ticker" Value="NES242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316760" />
+
+<Property FormalName="Ticker" Value="NES243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316778" />
+
+<Property FormalName="Ticker" Value="NES244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104335" />
+
+<Property FormalName="Ticker" Value="NES17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104343" />
+
+<Property FormalName="Ticker" Value="NES171" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="MGT"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Vevey/Zürich (awp) - Der Verwaltungsrat von Nestlé hat bereits vor der abrupten Entlassung von Konzernchef Laurent Freixe über Nachfolgefragen beraten. Das sagte Finanzchefin Anna Manz am Mittwoch an einer Investoren- und Analystenkonferenz.</p>
+<p/><p>Anlass dafür sei auch das Alter von Freixe gewesen, der 63 Jahre alt sei, sagte Manz. Dennoch habe das Gremium nicht erwartet, so schnell über eine Neubesetzung entscheiden zu müssen.</p>
+<p/><p>Freixe war am Montag per sofort entlassen worden. Zuvor hatte er laut Konzernangaben eine Liebesbeziehung zu einer ihm direkt unterstellten Managerin verheimlicht und damit gegen den Firmencodex verstossen.</p>
+<p/><h3>Finanzchefin: Es ging auch um Begünstigung</h3>
+<p/><p>Im Mai habe es interne Beschwerden über unangemessene Begünstigung sowie Vorwürfe einer Beziehung gegeben, sagte Manz. Eine erste interne Untersuchung unter Aufsicht des Verwaltungsrats ergab laut Nestlé damals keine Beweise. Freixe habe die Vorwürfe zudem bestritten und eine persönliche Erklärung abgegeben, sagte Manz.</p>
+<p/><p>Nach weiteren Beschwerden und nachdem die Plattform "Inside Paradeplatz" Ende Juli über die Affäre berichtet hatte, leitete der Verwaltungsrat eine externe Untersuchung ein. Diese förderte Belege zutage, woraufhin der Verwaltungsrat Freixe per sofort entliess.</p>
+<p/><p>Nach übereinstimmenden Berichten von "Inside Paradeplatz" und der "Neuen Zürcher Zeitung" hatte Freixe seine Partnerin zuvor befördert und später diskret aus dem Konzern entfernt. Im September 2023 war die Frau demnach überraschend zur Kommunikationschefin für Lateinamerika aufgestiegen, als Freixe die Region leitete. Insider sahen darin einen Zusammenhang mit der Beziehung.</p>
+<p/><p>Im Frühjahr 2025, als Freixe als CEO vorübergehend zusätzlich den neu geschaffenen Bereich Amerika führte, soll er ein Abgangspaket für sie organisiert haben, hiess es in den Medienberichten. Nach mehr als 20 Jahren bei Nestlé verliess die Managerin das Unternehmen im Juni. Verwaltungsratspräsident Paul Bulcke habe das Vorgehen gebilligt, berichteten die Medien.</p>
+<p/><h3>Keine Abgangsentschädigung</h3>
+<p/><p>Freixe selbst hat sich bislang nicht öffentlich zu den Vorgängen geäussert. Laut Nestlé erhielt er keine Abgangsentschädigung.</p>
+<p/><p>Mit der Ernennung von Philipp Navratil, bisher Chef der Tochter Nespresso, sei die Nachfolge zügig geregelt worden, sagte CFO Manz. Der 49-Jährige sei ein "strategischer und umsichtiger Führer", der frische Perspektiven in einer Zeit des Wandels einbringen und aufs Tempo drücken werde. Dass kein externer Kandidat gesucht wurde, begründete Manz damit, dass der Verwaltungsrat die Vorarbeit bereits geleistet habe.</p>
+<p/><p>Navratil soll bei den Quartalszahlen im Herbst erstmals vor Investoren auftreten, Nestlé prüfe jedoch eine frühere Kommunikation. Im Vordergrund stehe nun, das Geschäft besser zu führen, sagte die Finanzchefin. Nestlé mache zudem Fortschritte bei der Sanierung schwächer laufender Sparten.</p>
+<p/><p>to/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
