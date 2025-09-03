@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T134911+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>2391</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:2391:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T134911+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T134911+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Noch kein Urteil zu "Klimaklage" gegen Holcim am Kantonsgericht Zug</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="02000000"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197403">
+<Property FormalName="FullName" Value="Holcim AG" />
+
+<Property FormalName="ShortName" Value="Holcim" />
+
+<Property FormalName="Telekurs" Value="110323" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.050-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012214059" />
+
+<Property FormalName="Ticker" Value="HOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561525" />
+
+<Property FormalName="Ticker" Value="LAH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263973" />
+
+<Property FormalName="Ticker" Value="LAH210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263981" />
+
+<Property FormalName="Ticker" Value="LAH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887132" />
+
+<Property FormalName="Ticker" Value="LAH22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887140" />
+
+<Property FormalName="Ticker" Value="LAH220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1159841357" />
+
+<Property FormalName="Ticker" Value="LAH221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0306179125" />
+
+<Property FormalName="Ticker" Value="LAH151" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="LAW"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp/sda) - Ob sich das Zuger Kantonsgericht inhaltlich mit der "Klimaklage" an den Zementkonzern Holcim befasst, bleibt offen. Die Verhandlung über die Erfüllung der Prozessvoraussetzungen am Mittwoch schloss ohne Urteil.</p>
+<p/><p>Dieses werde das Gericht "zu gegebener Zeit" schriftlich eröffnen, sagte der vorsitzende Richter zum Ende der Verhandlung, die aufgrund des grossen öffentlichen Interesses im Kantonsratssaal stattfand.</p>
+<p/><p>Drei Bewohner und eine Bewohnerin der indonesischen Insel Pari fordern vom Zuger Zementkonzern Schadenersatz, eine deutliche Reduktion des CO2-Ausstosses und Beteiligung an Anpassungsmassnahmen. Dies aufgrund der Mitverantwortung des Konzerns für den Klimawandel, der die Lebensgrundlage auf Pari bedrohe, wie sie sagen.</p>
+<p/><h3>Persönliches Plädoyer</h3>
+<p/><p>Die Gefährdung ihrer Heimat und der Zukunft künftiger Generationen schilderte die anwesende Klägerin Ibu Asmania persönlich, ihre Anwältin übersetzte für die Anwesenden. Auch ein zweiter Kläger, Arif Pujianto, war bei der Verhandlung zugegen.</p>
+<p/><p>Die Schäden und Kosten, die wegen des steigenden Meeresspiegels anfallen, hätten die Bewohnerinnen und Bewohner nicht selbst verursacht, sagte Asmania. Es fehle das Geld, um Massnahmen zu ergreifen.</p>
+<p/><p>Steige der Meeresspiegel weiter an wie bisher, müssten die rund 1500 Bewohnerinnen und Bewohner Ende des Jahrhunderts die Insel verlassen.</p>
+<p/><p>Holcim trage daran eine Mitverantwortung, sagte die Anwältin vor Gericht. In seiner Geschichte habe das Unternehmen mehr als doppelt so viel CO2 ausgestossen wie der gesamte Schweizer Staat. Gemäss einer Studie des Climate Accountability-Instituts sei der Konzern für 0,42 Prozent der globalen CO2-Emissionen seit 1750 verantwortlich. Deshalb solle Holcim für diesen Prozentsatz der den Klägerinnen und Klägern durch den Klimawandel entstandenen Kosten aufkommen.</p>
+<p/><p>Sie verfügten in der Klage über ein persönliches, praktisches und aktuelles Interesse. Somit seien sie nach Schweizer Gesetz zum Zivilprozess berechtigt.</p>
+<p/><h3>"Politischer Prozess"</h3>
+<p/><p>Ganz anders sahen dies die Anwältin und der Anwalt von Holcim. Sie argumentierten, die Klagenden seien vom Klimawandel ebenso betroffen wie die gesamte Weltbevölkerung. Von einem konkreten schützenswerten Interesse könne aber nicht die Rede sein. Für den Klimaschutz sei in der Schweiz überdies der Gesetzgeber zuständig, ein Zivilgericht dürfe keine weiteren Massnahmen anordnen.</p>
+<p/><p>Zudem würde sich an der Lage der Klägerinnen und Kläger nichts ändern, "selbst wenn Holcim die Zementproduktion ganz einstellen würde", so der Holcim-Anwalt. Stattdessen würde ein anderes Unternehmen die Produktion übernehmen - möglicherweise in einem Land, das weniger strenge Vorgaben für Klimaschutzmassnahmen kenne. Die Reduktion der CO2-Emissionen müsse global koordiniert werden.</p>
+<p/><p>Die Holcim-Vertretung monierte, die Klage gegen das Unternehmen führe zu einem rein "politischen Prozess", hinter dem Nicht-Regierungsorganisationen wie das Hilfswerk der Evangelisch-reformierten Kirche Schweiz (Heks) stehe.</p>
+<p/><p>Dieses unterstütze die Klage nach eigener Darstellung mit einer Unterstützungs- und Sensibilisierungskampagne und organisiert im Zusammenhang mit der Verhandlung Veranstaltungen.</p>
+<p/><h3>Warten auf das Urteil</h3>
+<p/><p>In einer kurz nach Ende der Verhandlung verschickten Mitteilung des Heks liess sich Ibu Asmania zitieren. "Wir sind optimistisch" in Bezug auf den noch ausstehenden Entscheid des Gerichts. "Schliesslich geht es um unsere Existenz."</p>
+<p/><p>Der beklagte Konzern schrieb in einer Stellungnahme an die Medien, Holcim sei unabhängig vom Entscheid fest entschlossen, bis 2050 Netto-Null-Emissionen von Treibhausgasen zu erreichen. Dies stehe im Einklang mit dem Ziel des internationalen Pariser Klimaabkommens, die Erderwärmung auf 1,5 Grad zu beschränken.</p>
+<p/><p>Die Zivilklage gegen Holcim ist eine Premiere für die Schweizer Rechtssprechung. Zuvor wurde noch nie eine Schweizer Firma wegen ihrer mutmasslichen Verantwortung für derartige Klimaschäden verklagt.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
