@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250903T063010+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250903</DateId>
+			<NewsItemId>398</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250903:398:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250903T063010+0200</FirstCreated>
+		<ThisRevisionCreated>20250903T063010+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Kantonsgericht Zug berät über Klage gegen Holcim wegen Klimaschäden</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="02000000"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197403">
+<Property FormalName="FullName" Value="Holcim AG" />
+
+<Property FormalName="ShortName" Value="Holcim" />
+
+<Property FormalName="Telekurs" Value="110323" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.050-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012214059" />
+
+<Property FormalName="Ticker" Value="HOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561525" />
+
+<Property FormalName="Ticker" Value="LAH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263973" />
+
+<Property FormalName="Ticker" Value="LAH210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263981" />
+
+<Property FormalName="Ticker" Value="LAH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887132" />
+
+<Property FormalName="Ticker" Value="LAH22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887140" />
+
+<Property FormalName="Ticker" Value="LAH220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1159841357" />
+
+<Property FormalName="Ticker" Value="LAH221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0306179125" />
+
+<Property FormalName="Ticker" Value="LAH151" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="LAW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp/sda) - Das Kantonsgericht Zug berät am Mittwoch über die Erfüllung der Prozessvoraussetzungen einer Klage gegen Holcim. Vier Bewohnende einer indonesischen Insel verlangen vom Zementkonzern Wiedergutmachung für Schäden, die durch den Klimawandel verursacht wurden.</p>
+<p/><p>Die kleine Insel Pari wird immer öfter überschwemmt. Das bedrohe die Existenzgrundlagen, das Recht auf Leben und das Recht auf körperliche Unversehrtheit der drei Männer und der Frau, die gemeinsam eine Zivilklage vorbringen. Dies geht aus Unterlagen des Hilfswerks der Evangelisch-reformierten Kirche Schweiz (Heks) hervor, das die Klage mit einer Kampagne unterstützt.</p>
+<p/><p>Da das global tätige Zuger Unternehmen Holcim für den Klimawandel mitverantwortlich sei, fordern sie Schadenersatz von rund 3600 Franken pro Person. Dabei handle es sich um 0,42 Prozent der gesamten Kosten, die der Klimawandel verursacht. Der Prozentsatz entspricht gemäss einer Studie des Climate Accountability Instituts dem Anteil von Holcim an allen industriellen CO2-Emissionen seit 1750.</p>
+<p/><p>Zudem soll das Unternehmen seine Emissionen bis 2040 weiter senken und sich an den Anpassungsmassnahmen auf Pari beteiligen müssen.</p>
+<p/><h3>Unternehmen verweist auf Klimaziele</h3>
+<p/><p>Holcim schrieb im Vorfeld der ersten Verhandlung in einem kurzen Statement, das Keystone-SDA vorliegt: "Wer wie viel CO2 ausstossen darf, ist unseres Erachtens eine Kompetenz des Gesetzgebers und keine Frage für ein Zivilgericht". Zudem verweist das Unternehmen auf seine Klimaziele und die bereits vollzogene Reduktion der CO2-Emissionen um mehr als 50 Prozent seit 2015.</p>
+<p/><p>An der ersten Verhandlung am Kantonsgericht wird die Klage noch nicht inhaltlich geprüft. Zunächst geht es um die Frage, ob das Gericht die Klage zulässt. Die Verhandlung findet aufgrund des grossen öffentlichen Interesses im Kantonsratssaal statt.</p>
+<p/><p>Klägerin Ibu Asmania und Kläger Arif Pujianto sind aus ihrer Heimat angereist und werden sich vor Gericht äussern. Wie das Verfahren nach der Verhandlung vom Mittwoch weiter geht, ist offen.</p>
+<p/><p>Das Schlichtungsgesuch, das im Kanton Zug Voraussetzung für eine Zivilklage ist, reichten die Klägerin und die Kläger im Juli 2022 ein. Nachdem die Schlichtungsverhandlung scheiterte, läuft nun das ordentliche Zivilverfahren.</p>
+<p/><p>ra/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
