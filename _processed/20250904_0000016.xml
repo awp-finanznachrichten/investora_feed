@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T200711+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>3689</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:3689:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T200711+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T200711+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Temenos-Chef Jean-Pierre Brulard muss nach 16 Monaten gehen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1205 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191419">
+<Property FormalName="FullName" Value="Temenos AG" />
+
+<Property FormalName="ShortName" Value="Temenos" />
+
+<Property FormalName="Telekurs" Value="117045" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.953-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012453913" />
+
+<Property FormalName="Ticker" Value="TEMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0508785745" />
+
+<Property FormalName="Ticker" Value="TEM19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222426" />
+
+<Property FormalName="Ticker" Value="TEM23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400000019" />
+
+<Property FormalName="Ticker" Value="TEM25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Der Bankensoftware-Spezialist Temenos vollzieht einen überraschenden Führungswechsel: Konzernchef Jean-Pierre Brulard muss per sofort gehen. Die Leitung des Unternehmens übernimmt bis auf Weiteres Finanzchef Takis Spiliopoulos, wie Temenos am Donnerstagabend bekanntgab.</p>
+<p/><p>Zu den genauen Gründen des Abgangs äusserte sich Temenos in der Mitteilung nicht. Verwaltungsratspräsident Thibault de Tersant erklärte jedoch an einer Telefonkonferenz, es brauche für die Umsetzung der neuen Strategie nun eine klare Führungsstärke.</p>
+<p/><p>Brulard habe zwar in seiner 16-monatigen Amtszeit einen Strategieplan erarbeitet und wichtige Personalentscheide getroffen, sagte der Verwaltungsratspräsident. Nun sei aber der richtige Zeitpunkt, diesen Plan mit neuer Führung umzusetzen. Es gehe nicht um einen aggressiven Bruch, betonte de Tersant. Das operative Momentum solle beibehalten werden, zugleich wolle man Stabilität sichern.</p>
+<p/><h3>Suche nach Nachfolger eingeleitet</h3>
+<p/><p>Temenos sei eine starke Firma mit klarem Kurs, einem guten Portfolio und einem leistungsfähigen Team, sagte der Verwaltungsratspräsident weiter. Grössere Turbulenzen oder Abgänge erwarte er nicht. Der Verwaltungsrat beauftragte eine</p>
+<p/><p>externe Personalberatung mit der Suche nach einem dauerhaften Nachfolger.</p>
+<p/><p>Brulard hatte die operative Leitung bei Temenos erst im Mai 2024 übernommen. Zuvor war er 14 Jahre bei VMware tätig gewesen, einem Unternehmen für Cloud Computing und Virtualisierungssoftware, das 2023 an Broadcom verkauft wurde.</p>
+<p/><p>Bei Temenos war er nach turbulenten Jahren angetreten, um aufzuräumen und die Organisation schlanker sowie effizienter aufzustellen. Ausserdem wollte das neue Management vor allem den US-Markt stärker in Angriff nehmen.</p>
+<p/><h3>Eigentlich für fünf Jahre verpflichtet</h3>
+<p/><p>Mitte November hatte Brulard an einem Kapitalmarkttag die neue Strategie präsentiert. Im Dezember sagte der damals 65-Jährige, er sehe sich nicht als Übergangschef: "Ich bin nicht für einige Monate hier. Ich habe mich gegenüber dem Verwaltungsrat für fünf Jahre verpflichtet, und ich will diesen Rahmen einhalten."</p>
+<p/><p>Zuletzt hatte Temenos gute Zahlen vorgelegt. So nahm die Firma im zweiten Quartal deutlich mehr mit dem Verkauf von Bankensoftware ein als im Jahr zuvor. Auch der Gewinn unter dem Strich kletterte in die Höhe, worauf der Bankensoftwarehersteller die Prognose für das Gesamtjahr anhob.</p>
+<p/><p>In seiner Abschiedserklärung zeigte sich Brulard stolz auf die Fortschritte: Man habe die Produkt- und Technologieorganisation gestrafft, das Portfolio auf strategische Prioritäten ausgerichtet und die Präsenz in den USA ausgebaut.</p>
+<p/><h3>Ziele bestätigt</h3>
+<p/><p>Interimschef Spiliopoulos versicherte, das Unternehmen verfüge über eine klare, gut definierte Strategie. Die Prioritäten blieben unverändert: Wert für Kunden schaffen, Innovation vorantreiben und die Wachstumspläne konsequent umsetzen.</p>
+<p/><p>An den finanziellen Vorgaben ändert sich durch den abrupten Wechsel nichts. Temenos bestätigte die im Juli angehobene Prognose für das Geschäftsjahr 2025 sowie die Ziele für 2028.</p>
+<p/><p>to/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
