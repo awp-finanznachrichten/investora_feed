@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T070609+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>460</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:460:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T070609+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T070609+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Kühne+Nagel gewinnt Auftrag von Sysmex in Deutschland</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016013"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8834" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196362">
+<Property FormalName="FullName" Value="Kühne + Nagel International AG" />
+
+<Property FormalName="ShortName" Value="Kühne+Nagel" />
+
+<Property FormalName="Telekurs" Value="547726" />
+
+<Property FormalName="CHNr" Value="CH-130.0.005.610-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0025238863" />
+
+<Property FormalName="Ticker" Value="KNIN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241150" />
+
+<Property FormalName="Ticker" Value="KNI25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241168" />
+
+<Property FormalName="Ticker" Value="KNI251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ORD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Schindellegi (awp) - Kühne+Nagel hat im Segment Kontraktlogistik einen Auftrag an Land gezogen. Das Unternehmen unterhält künftig für Sysmex ein Distributionszentrum für medizinische Laboranalysegeräte und Reagenzien, wie es in einer Mitteilung vom Donnerstag heisst.</p>
+<p/><p>Das Lager steht in Hamburg und hat eine Fläche von 10'000 Quadratmetern. Es decke für Sysmex ein breites Leistungsspektrum ab: Dazu zählten unter anderem die Direktkundenbelieferung in Teilen Europas und der taggleiche Versand von Luftfracht-Export-Eilaufträgen. Die Lagerung der Medizinprodukte erfolge in drei Temperaturzonen.</p>
+<p/><p>rw/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
