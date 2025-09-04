@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T074610+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>558</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:558:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T074609+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T074609+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Kuros-Verwaltungsrat Albert Arp tritt per sofort zurück</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8952" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198207">
+<Property FormalName="FullName" Value="Kuros Biosciences AG" />
+
+<Property FormalName="ShortName" Value="Kuros" />
+
+<Property FormalName="Telekurs" Value="84178" />
+
+<Property FormalName="CHNr" Value="CH-020.4.000.944-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0325814116" />
+
+<Property FormalName="Ticker" Value="KURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Schlieren (awp) - Bei Kuros kommt es zu einem sofortigen Abgang aus dem Verwaltungsrat. Albert Arp habe aus persönlichen und beruflichen Gründen beschlossen zurückzutreten, heisst es in einer Mitteilung vom Donnerstag. Seine Verdienste werden verdankt.</p>
+<p/><p>In der Folge kommt es bei Untergremien des Verwaltungsrates zu Veränderungen: Oliver Walker wurde laut den Angaben zum Vorsitzenden des Prüfungsausschusses ernannt, Kimberley Elting zum Mitglied des Prüfungsausschusses sowie zum Mitglied und zugleich zur Vorsitzenden des Vergütungs- und Nominierungsausschusses.</p>
+<p/><p>rw/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
