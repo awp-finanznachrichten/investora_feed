@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T072710+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>498</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:498:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T072710+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T072710+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Forbo holt Hilti-Manager als neuen Konzernchef</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6340 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197042">
+<Property FormalName="FullName" Value="Forbo Holding AG" />
+
+<Property FormalName="ShortName" Value="Forbo" />
+
+<Property FormalName="Telekurs" Value="175980" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.124-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0003541510" />
+
+<Property FormalName="Ticker" Value="FORN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Baar (awp) - Der Bauzulieferer Forbo hat nach monatelanger Suche einen neuen Konzernchef gefunden: Johannes Huber wird das Amt am 1. Januar 2026 antreten. Zudem hat Forbo den ehemaligen EMS-Manager Peter Germann zum interimistischen Finanzchef ernannt.</p>
+<p/><p>Johannes Huber folgt auf Jens Fankhänel, der aus gesundheitlichen Gründen nicht mehr in die CEO-Funktion zurückkehren konnte und das Unternehmen per Ende April 2025 verlassen hat, wie Forbo am Donnerstag in einem Communiqué mitteilte. Aktuell führe der 53-jährige Österreicher Huber die Geschäftseinheit Diamond Systems beim Liechtensteiner Baugerätehersteller Hilti.</p>
+<p/><p>Zudem ist er Mitglied des Group Executive Management Teams der Hilti AG. Huber ist seit 20 Jahren für das Unternehmen tätig.</p>
+<p/><p>Damit kann Forbo einen Teil des Führungsvakuums an der Firmenspitze füllen. Im Februar hatte Jens Fankhänel wegen einer Erkrankung seine Führungsfunktionen abgegeben. Diese Aufgaben übernahm interimistisch Finanzchef Andreas Jaeger, der dann im Sommer allerdings ebenfalls seinen Abgang auf Ende Oktober angekündigt hatte, um einen neuen Job anzunehmen.</p>
+<p/><h3>Ex-EMS-Manager zum interimistischen CFO ernannt</h3>
+<p/><p>Um eine lückenlose Führung des Unternehmens sicherzustellen, hatte Forbo Ende Juli angekündigt, die CFO-Position noch vor dem Ausscheiden von Andreas Jaeger interimistisch zu besetzen. Nun stehe fest, dass Peter Germann ab dem 1. Oktober interimistisch die CFO-Funktion übernehmen werde. "Es ist vorgesehen, dass Peter Germann seine Interimsfunktion bis zur Übergabe an den künftigen CFO ausüben wird", schrieb das Unternehmen.</p>
+<p/><p>Damit hat Forbo Peter Germann aus dem Ruhestand geholt. Er war knapp 30 Jahre lang für die EMS-Gruppe als deren Finanzchef tätig und wurde 2024 pensioniert.</p>
+<p/><p>Der Forbo-Verwaltungsrat sei sehr erfreut, dass Peter Germann interimistisch die CFO-Funktion übernehmen werde, und danke ihm bereits heute für seinen Einsatz, hiess es.</p>
+<p/><p>jb/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
