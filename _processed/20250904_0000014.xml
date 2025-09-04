@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T184609+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>3581</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:3581:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T184609+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T184609+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Mobimo plant 70 Eigentumswohnungen in Meggen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016030"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6003" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198128">
+<Property FormalName="FullName" Value="Mobimo Holding AG" />
+
+<Property FormalName="ShortName" Value="Mobimo" />
+
+<Property FormalName="Telekurs" Value="086486" />
+
+<Property FormalName="CHNr" Value="CH-100.3.023.255-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011108872" />
+
+<Property FormalName="Ticker" Value="MOBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0354836113" />
+
+<Property FormalName="Ticker" Value="MOB17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071213" />
+
+<Property FormalName="Ticker" Value="MOB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101096613" />
+
+<Property FormalName="Ticker" Value="MOB21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1239464774" />
+
+<Property FormalName="Ticker" Value="MOB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346743029" />
+
+<Property FormalName="Ticker" Value="MOB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472056" />
+
+<Property FormalName="Ticker" Value="MOB241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403787" />
+
+<Property FormalName="Ticker" Value="MOB25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Luzern (awp) - Mobimo hat in der Luzerner Gemeinde Meggen ein rund 12'000 Quadratmeter grosses Grundstück gekauft. Nun plant die Immobiliengesellschaft in der Gemeinde mit dem tiefsten Steuerfusses des Kantons ein Projekt mit rund 70 Eigentumswohnungen.</p>
+<p/><p>Die geplante Überbauung im Stockwerkeigentum hat ein Projektvolumen von rund 120 Millionen Franken, teilte Mobimo am Donnerstag nach Börsenschluss mit. Die Fertigstellung sei bis Ende 2032 geplant.</p>
+<p/><p>ra/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
