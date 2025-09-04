@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T092411+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>1232</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:1232:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T092411+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T092411+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Interroll kauft niederländisches Start-up Sortteq</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6592" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193814">
+<Property FormalName="FullName" Value="Interroll Holding SA" />
+
+<Property FormalName="ShortName" Value="Interroll" />
+
+<Property FormalName="Telekurs" Value="430233" />
+
+<Property FormalName="CHNr" Value="CH-500.3.001.340-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0006372897" />
+
+<Property FormalName="Ticker" Value="INRN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Sant'Antonino (awp) - Der Fördertechnikspezialist Interroll hat das in den Niederlanden beheimatete Start-up Sortteq übernommen. Der modulare Kettenbandsorter (CBS) von Sortteq soll die bestehende Sortierplattform von Interroll ergänzen, teilte Interroll am Donnerstag mit. Zum Kaufpreis gab es keine Angaben.</p>
+<p/><p>Die beiden Gründer von Sortteq sollen ihr technisches Know-how weiterhin als Berater einbringen. Deren Schwerpunkt werde auf der Weiterentwicklung und Unterstützung der Industrialisierung des Kettenbandsorters innerhalb der globalen Aktivitäten von Interroll liegen, heisst es weiter.</p>
+<p/><p>cg/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
