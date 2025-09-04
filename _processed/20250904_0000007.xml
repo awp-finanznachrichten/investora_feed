@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T090513+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>1165</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:1165:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T090513+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T090513+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Zürich Anlagestiftung führt Kapitalerhöhung über 400 Millionen Franken durch</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191600">
+<Property FormalName="FullName" Value="Zurich Insurance Group AG" />
+
+<Property FormalName="ShortName" Value="Zurich" />
+
+<Property FormalName="Telekurs" Value="93000" />
+
+<Property FormalName="CHNr" Value="CH-020.3.023.083-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011075394" />
+
+<Property FormalName="Ticker" Value="ZURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Zürich Anlagestiftung ZAST führt eine weitere Kapitalerhöhung für die Anlagegruppe ZAST "Immobilien Wohnen Schweiz" durch. Geplant ist laut einer Mitteilung vom Donnerstag eine Erhöhung im Umfang von 400 Millionen Franken.</p>
+<p/><p>Die frischen Mittel will die Anlagestiftung ins Immobilienportfolio investieren. Das zusätzliche Kapital diene dem Erwerb von insgesamt sieben Liegenschaften an Top-Lagen in Städten wie Zürich, Genf oder Lausanne, hiess es weiter.</p>
+<p/><p>Die Zeichnungsfrist läuft laut den Angaben für bestehende Anleger bis am 10. Oktober. Für frei werdende Anteile ist eine Zeichnungsfrist vom 13. bis 31. Oktober geplant.</p>
+<p/><p>mk/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
