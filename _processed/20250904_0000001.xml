@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T064711+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>399</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:399:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T064710+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T064710+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SGS platziert Anleihe über 1 Milliarde Euro für ATS-Übernahme</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/><Subject FormalName="04016005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1203" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196254">
+<Property FormalName="FullName" Value="SGS SA" />
+
+<Property FormalName="ShortName" Value="SGS" />
+
+<Property FormalName="Telekurs" Value="759153" />
+
+<Property FormalName="CHNr" Value="CH-660.0.023.919-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1256740924" />
+
+<Property FormalName="Ticker" Value="SGSN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0279135328" />
+
+<Property FormalName="Ticker" Value="SGS151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0352595927" />
+
+<Property FormalName="Ticker" Value="SGS17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633526" />
+
+<Property FormalName="Ticker" Value="SGS181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633534" />
+
+<Property FormalName="Ticker" Value="SGS18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536892588" />
+
+<Property FormalName="Ticker" Value="SGS201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189217990" />
+
+<Property FormalName="Ticker" Value="SGS22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189218006" />
+
+<Property FormalName="Ticker" Value="SGS23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222558" />
+
+<Property FormalName="Ticker" Value="SGS231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222566" />
+
+<Property FormalName="Ticker" Value="SGS232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990015" />
+
+<Property FormalName="Ticker" Value="SGS25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990023" />
+
+<Property FormalName="Ticker" Value="SGS251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="NKL"/><Property FormalName="Subject" Value="BND"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Der Prüf- und Inspektionskonzern SGS hat erfolgreich eine Anleihe über 1 Milliarde Euro am Kapitalmarkt platziert. Das Paket umfasst eine 5-jährige Tranche bis 2030 mit einem Coupon von 3,125 Prozent und eine 10-jährige Tranche bis 2035 mit einem Coupon von 3,750 Prozent.</p>
+<p/><p>Die Papiere werden von SGS Nederland Holding BV begeben und von der Muttergesellschaft SGS SA garantiert, wie das Unternehmen am Donnerstag mitteilte. In Kürze sollen die Anleihen an der SIX Swiss Exchange kotiert werden.</p>
+<p/><p>Der Erlös aus der Transaktion dient den Angaben zufolge allgemeinen Unternehmenszwecken, einschliesslich der geplanten Übernahme des US-Prüfkonzerns Applied Technical Services (ATS). Anfang Juli hatte SGS die Übernahme zu einem Kaufpreis von 1,325 Milliarden US-Dollar angekündigt. Mit der Transaktion will SGS den Umsatz in Nordamerika bis 2027 verdoppeln. Es handelt sich um die grösste Akquisition der Firmengeschichte.</p>
+<p/><p>Mit der Platzierung kehre SGS nach der Erstemission 2021 erfolgreich an den Euro-Markt zurück, heisst es weiter. Die Anleihe sei auf grosses Interesse eines breit diversifizierten und qualitativ hohen Investorenkreises gestossen.</p>
+<p/><p>jl/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
