@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250904T122011+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250904</DateId>
+			<NewsItemId>1943</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250904:1943:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250904T122011+0200</FirstCreated>
+		<ThisRevisionCreated>20250904T122011+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Zuger Kantonalbank will effizienter werden - Kein Stellenabbau geplant</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016039"/><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197631">
+<Property FormalName="FullName" Value="Zuger Kantonalbank" />
+
+<Property FormalName="ShortName" Value="ZGKB" />
+
+<Property FormalName="Telekurs" Value="26299" />
+
+<Property FormalName="CHNr" Value="CH-170.8.000.001-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001308904" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0493891243" />
+
+<Property FormalName="Ticker" Value="ZUGER" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Die Zuger Kantonalbank (ZGKB) gibt sich eine neue Strategie, die den Namen "gemeinsamzumziel2029" trägt. Zur weiteren Steigerung der Profitabilität stünden der Ausbau des Vermögensverwaltungsgeschäfts und die Verbesserung der Effizienz im Zentrum, heisst es in einer Mitteilung vom Donnerstag.</p>
+<p/><p>Konkrete Zielwerte gibt es allerdings nicht, wie ein Sprecher auf Anfrage der Nachrichtenagentur AWP sagte. Er betonte allerdings, dass kein Stellenabbau geplant sei. Zum Teil könne es innerhalb der Belegschaft aber zu Verschiebungen kommen.</p>
+<p/><p>Mit der bisherigen Strategie "gemeinsamvorwärts2025" sei ein neues Ertrags- und Erfolgsniveau erreicht worden, heisst es im Communiqué weiter. Darauf will die Bank aufbauen.</p>
+<p/><p>So will sie nun in allen Geschäftsbereichen die marktführende Stellung in der Wirtschaftsregion Zug erreichen. Dies solle mit einem geschärften Markenauftritt, einem erweiterten Produkt- und Dienstleistungsangebot sowie einer auf die Bedürfnisse der vermögenden Kundschaft ausgerichteten Beratung gelingen.</p>
+<p/><p>Ein weiterer Fokus liege auf der Entwicklung massgeschneiderter Lösungen für die im Kanton Zug ansässigen ausländischen Einwohnerinnen und Einwohner. Gleichzeitig sollen laut den Angaben die Prozesse vereinfacht und beschleunigt werden. Entlang der gesamten Wertschöpfungskette wolle man damit Effizienzgewinne erzielen.</p>
+<p/><p>rw/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
