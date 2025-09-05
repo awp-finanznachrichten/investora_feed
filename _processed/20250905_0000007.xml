@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T085236+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>881</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:881:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T085236+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T085236+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Roche präsentiert neue Daten zu Augenmittel Vabysmo</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>R</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04002006"/><Subject FormalName="04016030"/><Subject FormalName="04016037"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196451">
+<Property FormalName="FullName" Value="Roche Holding AG" />
+
+<Property FormalName="ShortName" Value="Roche" />
+
+<Property FormalName="Telekurs" Value="416111" />
+
+<Property FormalName="CHNr" Value="CH-270.3.005.159-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012032113" />
+
+<Property FormalName="Ticker" Value="RO" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012032048" />
+
+<Property FormalName="Ticker" Value="ROG" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2592088236" />
+
+<Property FormalName="Ticker" Value="EU4124" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2592088400" />
+
+<Property FormalName="Ticker" Value="EU4123" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2726331932" />
+
+<Property FormalName="Ticker" Value="EU4125" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2726335099" />
+
+<Property FormalName="Ticker" Value="EU4126" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2813211294" />
+
+<Property FormalName="Ticker" Value="EU0524" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2813211617" />
+
+<Property FormalName="Ticker" Value="EU0424" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USU75000BJ45" />
+
+<Property FormalName="Ticker" Value="US1836" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0359915409" />
+
+<Property FormalName="Ticker" Value="ROK125" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0433761308" />
+
+<Property FormalName="Ticker" Value="ROK126" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0433761316" />
+
+<Property FormalName="Ticker" Value="ROK127" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1166151899" />
+
+<Property FormalName="Ticker" Value="ROK221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1166151907" />
+
+<Property FormalName="Ticker" Value="ROK222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1166151915" />
+
+<Property FormalName="Ticker" Value="ROK223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1211713222" />
+
+<Property FormalName="Ticker" Value="ROK224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1211713230" />
+
+<Property FormalName="Ticker" Value="ROK225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916764" />
+
+<Property FormalName="Ticker" Value="ROK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916772" />
+
+<Property FormalName="Ticker" Value="ROK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916780" />
+
+<Property FormalName="Ticker" Value="ROK232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1371736807" />
+
+<Property FormalName="Ticker" Value="ROK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1371736815" />
+
+<Property FormalName="Ticker" Value="ROK241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1371736823" />
+
+<Property FormalName="Ticker" Value="ROK242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474857013" />
+
+<Property FormalName="Ticker" Value="ROK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474857021" />
+
+<Property FormalName="Ticker" Value="ROK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474857039" />
+
+<Property FormalName="Ticker" Value="ROK252" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Wire" Value="T"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Roche hat neue Studiendaten zur Augenarznei Vabysmo vorgestellt. Diese untermauerten die Wirksamkeit, Sicherheit und Langzeitwirkung des Medikaments bei der Behandlung von Patienten mit neovaskulärer oder "feuchter" altersbedingter Makuladegeneration (nAMD), teilte der Pharmakonzern am Freitag mit.</p>
+<p/><p>In der bislang grössten Langzeit-Verlängerungsstudie zu nAMD konnte die Wirksamkeit von Vabysmo über einen Zeitraum von vier Jahren erhalten werden, wie es in der Mitteilung hiess. Fast 80 Prozent der Patienten hätten dabei bis zum Ende der Studie eine verlängerte Dosis erhalten.</p>
+<p/><p>Zudem zeigte Vabysmo auch in einer zweiten Studie vielversprechende Ergebnisse: Über 60 Prozent der Patienten mit einer schwer zu behandelnden Form der nAMD wiesen keine Anzeichen für schädliche Läsionen auf, und es wurden klinisch relevante Verbesserungen des Sehvermögens festgestellt, schrieb Roche. Vabysmo sei in beiden Studien gut vertragen worden und habe ein konsistentes Sicherheitsprofil gezeigt, so der Pharmakonzern.</p>
+<p/><p>Vabysmo ist derzeit in über 100 Ländern zur Behandlung von nAMD und diabetischem Makulaödem (DME) zugelassen. Laut Roche wurden seit der Markteinführung 2022 weltweit über acht Millionen Dosen verabreicht. Die neuen Daten werden auf dem 25. Euretina-Kongress in Paris vorgestellt.</p>
+<p/><p>sc/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
