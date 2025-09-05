@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T111610+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>1305</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:1305:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T111610+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T111610+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Flughafen Zürich: PFAS-belasteter Boden verzögert die Revitalisierung der Glatt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Rümlang/Opfikon (awp/sda) - Weil im Boden gesundheitsschädliche Ewigkeitschemikalien PFAS entdeckt wurden, verzögert sich die Revitalisierung der Glatt in den Gemeinden Rümlang und Opfikon. Wie lange ist noch unklar.</p>
+<p/><p>Die systematischen Bodenbeprobungen seien aufgrund der aktuellen Diskussion über PFAS-Schadstoffe in Böden durchgeführt worden, teilte die Flughafen Zürich AG am Freitag mit, welche das Revitalisierungsprojekt realisiert.</p>
+<p/><p>Dabei zeigte sich, dass die bisher landwirtschaftlich genutzten Böden und die Glattuferböschungen mit PFAS belastet sind. Die gemessenen Werte seien unterschiedlich hoch - je nach Nähe zum Wasser und früherer landwirtschaftlicher Nutzung der Flächen.</p>
+<p/><p>Da rechtlich derzeit ungeklärt ist, wie mit PFAS belastetem Boden umzugehen sei, beschloss die Flughafen Zürich AG, über die weiteren Projektabschnitte erst zu entscheiden, wenn "klare gesetzliche Rahmenbedingungen" vorliegen, wie sie schreibt.</p>
+<p/><p>Die Arbeiten des ersten Bauabschnitts im Gebiet Eichhof, die seit April laufen, will die Flughafen Zürich AG aber bis Ende 2026 zu Ende führen. "Trotz Mehrkosten in Millionenhöhe", heisst es in der Medienmitteilung. Die angetroffenen Schadstoffbelastungen seien in diesem Bereich nicht sehr hoch, so dass ein grosser Teil des bereits abgetragenen Bodens verwertet werden könne.</p>
+<p/><h3>Ersatzmassnahmen</h3>
+<p/><p>Wird am Flughafen gebaut, werden teilweise auch sogenannte "schützenswerte Lebensräume" beansprucht. Um diese auszugleichen, müssen ökologische Ersatzmassnahmen umgesetzt werden. Das nun betroffene Projekt sieht vor, auf einer Länge von 3,2 Kilometern die heute kanalisierte Glatt wieder zu einem naturnahen Fluss umgestaltet und damit renaturiert werden.</p>
+<p/><p>Laut der Flughafen AG liegen die betroffenen Flächen für die Revitalisierung ausserhalb des Flughafenperimeters. Die Schadstoffbelastung im Boden habe keinen nachweislichen Zusammenhang mit dem Flughafen oder dem Flugbetrieb.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
