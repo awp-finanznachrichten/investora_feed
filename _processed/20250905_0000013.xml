@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T193511+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>2791</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:2791:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T193510+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T193510+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sonova fällt aus dem SMI - Galderma neu im SLI</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="04009000"/><Subject FormalName="04006002"/><Subject FormalName="04003000"/><Subject FormalName="04002006"/><Subject FormalName="04005000"/><Subject FormalName="04011009"/><Subject FormalName="04003007"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="AT">
+<Property FormalName="City" Value="8141" />
+
+</Property>
+
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+<Property FormalName="City" Value="8001" />
+
+<Property FormalName="City" Value="6300" />
+
+<Property FormalName="City" Value="1196" />
+
+<Property FormalName="City" Value="5400" />
+
+<Property FormalName="City" Value="8152" />
+
+<Property FormalName="City" Value="8712" />
+
+<Property FormalName="City" Value="3013 " />
+
+<Property FormalName="City" Value="8708" />
+
+<Property FormalName="City" Value="3027 " />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-1991195184">
+<Property FormalName="FullName" Value="Amrize AG" />
+
+<Property FormalName="ShortName" Value="Amrize" />
+
+<Property FormalName="CHNr" Value="CH-170-3048432-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1430134226" />
+
+<Property FormalName="Ticker" Value="AMRZ" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2057015308">
+<Property FormalName="FullName" Value="UBS Group AG" />
+
+<Property FormalName="ShortName" Value="UBS" />
+
+<Property FormalName="Telekurs" Value="657910" />
+
+<Property FormalName="CHNr" Value="CH-020.3.040.677-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185856" />
+
+<Property FormalName="Ticker" Value="UBG305" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185864" />
+
+<Property FormalName="Ticker" Value="UBG306" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185898" />
+
+<Property FormalName="Ticker" Value="UBG307" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185963" />
+
+<Property FormalName="Ticker" Value="UBG308" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1462229860" />
+
+<Property FormalName="Ticker" Value="UBG309" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097FE21" />
+
+<Property FormalName="Ticker" Value="UBG317" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097FF95" />
+
+<Property FormalName="Ticker" Value="UBG316" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1462229977" />
+
+<Property FormalName="Ticker" Value="UBG310" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1462229985" />
+
+<Property FormalName="Ticker" Value="UBG311" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1462229993" />
+
+<Property FormalName="Ticker" Value="UBG312" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1462230009" />
+
+<Property FormalName="Ticker" Value="UBG313" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1462230017" />
+
+<Property FormalName="Ticker" Value="UBG315" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1462230025" />
+
+<Property FormalName="Ticker" Value="UBG314" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474856957" />
+
+<Property FormalName="Ticker" Value="UBG318" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474856965" />
+
+<Property FormalName="Ticker" Value="UBG319" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474856999" />
+
+<Property FormalName="Ticker" Value="UBG325" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474857088" />
+
+<Property FormalName="Ticker" Value="UBG326" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0244767585" />
+
+<Property FormalName="Ticker" Value="UBSG" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428867118" />
+
+<Property FormalName="Ticker" Value="UBG293" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428867159" />
+
+<Property FormalName="Ticker" Value="UBG294" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241101" />
+
+<Property FormalName="Ticker" Value="UBG295" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241127" />
+
+<Property FormalName="Ticker" Value="UBG296" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241192" />
+
+<Property FormalName="Ticker" Value="UBG301" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097FD48" />
+
+<Property FormalName="Ticker" Value="UBG299" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241242" />
+
+<Property FormalName="Ticker" Value="UBG302" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241259" />
+
+<Property FormalName="Ticker" Value="UBG300" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1449583652" />
+
+<Property FormalName="Ticker" Value="UBG304" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011366" />
+
+<Property FormalName="Ticker" Value="UBG280" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1390516966" />
+
+<Property FormalName="Ticker" Value="UBG281" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1390516974" />
+
+<Property FormalName="Ticker" Value="UBG282" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1396329794" />
+
+<Property FormalName="Ticker" Value="UBG283" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1396329828" />
+
+<Property FormalName="Ticker" Value="UBG284" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097FA09" />
+
+<Property FormalName="Ticker" Value="UBS252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097FB81" />
+
+<Property FormalName="Ticker" Value="UBS253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1414003454" />
+
+<Property FormalName="Ticker" Value="UBG286" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1414003462" />
+
+<Property FormalName="Ticker" Value="UBG287" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1414003538" />
+
+<Property FormalName="Ticker" Value="UBG288" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1414003553" />
+
+<Property FormalName="Ticker" Value="UBG289" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1414003579" />
+
+<Property FormalName="Ticker" Value="UBG290" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428866979" />
+
+<Property FormalName="Ticker" Value="UBG291" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428866995" />
+
+<Property FormalName="Ticker" Value="UBG292" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0310451858" />
+
+<Property FormalName="Ticker" Value="UFL161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0336602930" />
+
+<Property FormalName="Ticker" Value="UGF161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0379268722" />
+
+<Property FormalName="Ticker" Value="GBF006" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0385997058" />
+
+<Property FormalName="Ticker" Value="JPF2" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0385997066" />
+
+<Property FormalName="Ticker" Value="JPF3" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406415296" />
+
+<Property FormalName="Ticker" Value="USF123" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406415312" />
+
+<Property FormalName="Ticker" Value="USF116" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042517" />
+
+<Property FormalName="Ticker" Value="USF122" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0428194218" />
+
+<Property FormalName="Ticker" Value="USF126" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0438965599" />
+
+<Property FormalName="Ticker" Value="USF129" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0445624999" />
+
+<Property FormalName="Ticker" Value="UBG181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0449619078" />
+
+<Property FormalName="Ticker" Value="USF130" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0449619094" />
+
+<Property FormalName="Ticker" Value="USF131" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0457206792" />
+
+<Property FormalName="Ticker" Value="USF132" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0457206834" />
+
+<Property FormalName="Ticker" Value="USF133" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0474977748" />
+
+<Property FormalName="Ticker" Value="USF137" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0483180912" />
+
+<Property FormalName="Ticker" Value="EUF087" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0483180946" />
+
+<Property FormalName="Ticker" Value="EUF088" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0483180987" />
+
+<Property FormalName="Ticker" Value="USF138" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0494734418" />
+
+<Property FormalName="Ticker" Value="EUF09" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506668844" />
+
+<Property FormalName="Ticker" Value="UBG19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0511762046" />
+
+<Property FormalName="Ticker" Value="USF144" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0517825276" />
+
+<Property FormalName="Ticker" Value="EUF10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520042489" />
+
+<Property FormalName="Ticker" Value="UBG20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0521617321" />
+
+<Property FormalName="Ticker" Value="UBG201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0535271214" />
+
+<Property FormalName="Ticker" Value="UBG202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0537261858" />
+
+<Property FormalName="Ticker" Value="EUF092" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0543827189" />
+
+<Property FormalName="Ticker" Value="UBG203" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0547243250" />
+
+<Property FormalName="Ticker" Value="UBG204" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0550413337" />
+
+<Property FormalName="Ticker" Value="GBF007" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0558521271" />
+
+<Property FormalName="Ticker" Value="UBG206" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0561923860" />
+
+<Property FormalName="Ticker" Value="UBG207" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0576402181" />
+
+<Property FormalName="Ticker" Value="UBG208" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0579132942" />
+
+<Property FormalName="Ticker" Value="UBS209" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0581183594" />
+
+<Property FormalName="Ticker" Value="UBG210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0587372951" />
+
+<Property FormalName="Ticker" Value="UBG211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0588488863" />
+
+<Property FormalName="Ticker" Value="UBG212" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0591979627" />
+
+<Property FormalName="Ticker" Value="EUF096" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0591979635" />
+
+<Property FormalName="Ticker" Value="EUF095" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0595205490" />
+
+<Property FormalName="Ticker" Value="USF199" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0595205508" />
+
+<Property FormalName="Ticker" Value="AUF005" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0595205524" />
+
+<Property FormalName="Ticker" Value="UBG215" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0595205532" />
+
+<Property FormalName="Ticker" Value="UBG216" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0598928718" />
+
+<Property FormalName="Ticker" Value="UBG217" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0598928734" />
+
+<Property FormalName="Ticker" Value="UBG218" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112455774" />
+
+<Property FormalName="Ticker" Value="UBG219" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1142231682" />
+
+<Property FormalName="Ticker" Value="UBG21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1142231690" />
+
+<Property FormalName="Ticker" Value="UBG22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1142231708" />
+
+<Property FormalName="Ticker" Value="UBG23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1142754311" />
+
+<Property FormalName="Ticker" Value="GBF010" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1145096165" />
+
+<Property FormalName="Ticker" Value="UBG220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1167887269" />
+
+<Property FormalName="Ticker" Value="USF205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1174335732" />
+
+<Property FormalName="Ticker" Value="EUF067" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1174335740" />
+
+<Property FormalName="Ticker" Value="EUF068" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1174335773" />
+
+<Property FormalName="Ticker" Value="JPF001" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1175016083" />
+
+<Property FormalName="Ticker" Value="UBG320" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1182086871" />
+
+<Property FormalName="Ticker" Value="UBG223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1187520452" />
+
+<Property FormalName="Ticker" Value="UBG226" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194000340" />
+
+<Property FormalName="Ticker" Value="UBG227" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194000357" />
+
+<Property FormalName="Ticker" Value="UBG228" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1195555425" />
+
+<Property FormalName="Ticker" Value="UBG229" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1204175116" />
+
+<Property FormalName="Ticker" Value="UBG251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1210198151" />
+
+<Property FormalName="Ticker" Value="UBG252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1211713180" />
+
+<Property FormalName="Ticker" Value="GBF012" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1211713198" />
+
+<Property FormalName="Ticker" Value="GBF011" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1212189141" />
+
+<Property FormalName="Ticker" Value="UBG253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1213243889" />
+
+<Property FormalName="Ticker" Value="UBG233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1213243905" />
+
+<Property FormalName="Ticker" Value="UBG234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1214797172" />
+
+<Property FormalName="Ticker" Value="EUF099" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1236363391" />
+
+<Property FormalName="Ticker" Value="UBG235" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301294" />
+
+<Property FormalName="Ticker" Value="UBG238" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1244731761" />
+
+<Property FormalName="Ticker" Value="UBG239" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1244731779" />
+
+<Property FormalName="Ticker" Value="UBG240" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1244731787" />
+
+<Property FormalName="Ticker" Value="UBG321" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1248666922" />
+
+<Property FormalName="Ticker" Value="UBG241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1253456094" />
+
+<Property FormalName="Ticker" Value="UBG322" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1255915006" />
+
+<Property FormalName="Ticker" Value="UBG243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1255915014" />
+
+<Property FormalName="Ticker" Value="UBG244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1255915022" />
+
+<Property FormalName="Ticker" Value="UBG242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1255915030" />
+
+<Property FormalName="Ticker" Value="UBG245" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1277240953" />
+
+<Property FormalName="Ticker" Value="UBG246" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1277240961" />
+
+<Property FormalName="Ticker" Value="UBG247" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916756" />
+
+<Property FormalName="Ticker" Value="UBG254" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916798" />
+
+<Property FormalName="Ticker" Value="UBG255" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916806" />
+
+<Property FormalName="Ticker" Value="UBG256" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916822" />
+
+<Property FormalName="Ticker" Value="UBG257" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916863" />
+
+<Property FormalName="Ticker" Value="UBG258" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916897" />
+
+<Property FormalName="Ticker" Value="UBG261" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1314941464" />
+
+<Property FormalName="Ticker" Value="UBG262" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1325807860" />
+
+<Property FormalName="Ticker" Value="UBG193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1331113543" />
+
+<Property FormalName="Ticker" Value="UBG264" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1331113600" />
+
+<Property FormalName="Ticker" Value="UBG265" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614079" />
+
+<Property FormalName="Ticker" Value="UBG150" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614095" />
+
+<Property FormalName="Ticker" Value="UBG267" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614152" />
+
+<Property FormalName="Ticker" Value="UBG268" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AC20" />
+
+<Property FormalName="Ticker" Value="USF098" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AF50" />
+
+<Property FormalName="Ticker" Value="USF115" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AM02" />
+
+<Property FormalName="Ticker" Value="USF142" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AP33" />
+
+<Property FormalName="Ticker" Value="USF148" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AQ16" />
+
+<Property FormalName="Ticker" Value="USF150" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AT54" />
+
+<Property FormalName="Ticker" Value="USF159" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AU28" />
+
+<Property FormalName="Ticker" Value="USF162" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AV01" />
+
+<Property FormalName="Ticker" Value="USF216" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AY40" />
+
+<Property FormalName="Ticker" Value="USF212" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401AZ15" />
+
+<Property FormalName="Ticker" Value="USF215" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US225401BB38" />
+
+<Property FormalName="Ticker" Value="USF217" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US902613AF58" />
+
+<Property FormalName="Ticker" Value="USF160" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US902613AW81" />
+
+<Property FormalName="Ticker" Value="USF219" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US902613AX64" />
+
+<Property FormalName="Ticker" Value="USF221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US902613AY48" />
+
+<Property FormalName="Ticker" Value="USF224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US902613AZ13" />
+
+<Property FormalName="Ticker" Value="USF222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US902613BA52" />
+
+<Property FormalName="Ticker" Value="USF225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US902613BB36" />
+
+<Property FormalName="Ticker" Value="USF227" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USG91703AB73" />
+
+<Property FormalName="Ticker" Value="USF068" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USG91703AK72" />
+
+<Property FormalName="Ticker" Value="USF078" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DAR55" />
+
+<Property FormalName="Ticker" Value="USF097" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DBM59" />
+
+<Property FormalName="Ticker" Value="USF114" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DCR38" />
+
+<Property FormalName="Ticker" Value="USF143" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DCW23" />
+
+<Property FormalName="Ticker" Value="USF147" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DCY88" />
+
+<Property FormalName="Ticker" Value="USF149" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DDG63" />
+
+<Property FormalName="Ticker" Value="USF158" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DDH47" />
+
+<Property FormalName="Ticker" Value="USF161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DDN15" />
+
+<Property FormalName="Ticker" Value="USF213" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DDR29" />
+
+<Property FormalName="Ticker" Value="USF211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DDS02" />
+
+<Property FormalName="Ticker" Value="USF214" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH3698DDW14" />
+
+<Property FormalName="Ticker" Value="USF218" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097AZ05" />
+
+<Property FormalName="Ticker" Value="USF139" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097BT36" />
+
+<Property FormalName="Ticker" Value="USF152" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097CC91" />
+
+<Property FormalName="Ticker" Value="UBG213" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097CM73" />
+
+<Property FormalName="Ticker" Value="USF201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097CT27" />
+
+<Property FormalName="Ticker" Value="USF202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097CU99" />
+
+<Property FormalName="Ticker" Value="USF203" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097CZ86" />
+
+<Property FormalName="Ticker" Value="USF207" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097DA27" />
+
+<Property FormalName="Ticker" Value="USF206" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097DB00" />
+
+<Property FormalName="Ticker" Value="USF208" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097DK09" />
+
+<Property FormalName="Ticker" Value="UBG231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097DL81" />
+
+<Property FormalName="Ticker" Value="UBG232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097DS35" />
+
+<Property FormalName="Ticker" Value="UBG236" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097DT18" />
+
+<Property FormalName="Ticker" Value="UBG237" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EG87" />
+
+<Property FormalName="Ticker" Value="USF220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EH60" />
+
+<Property FormalName="Ticker" Value="USF223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EJ27" />
+
+<Property FormalName="Ticker" Value="USF226" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EL72" />
+
+<Property FormalName="Ticker" Value="UBG248" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EN39" />
+
+<Property FormalName="Ticker" Value="UBG249" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EQ69" />
+
+<Property FormalName="Ticker" Value="UBG250" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097ER43" />
+
+<Property FormalName="Ticker" Value="UBG324" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097ES26" />
+
+<Property FormalName="Ticker" Value="UBG323" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EU71" />
+
+<Property FormalName="Ticker" Value="UBG260" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EV54" />
+
+<Property FormalName="Ticker" Value="UBG259" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EW38" />
+
+<Property FormalName="Ticker" Value="UBG263" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EX11" />
+
+<Property FormalName="Ticker" Value="UBG266" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH4209UAC02" />
+
+<Property FormalName="Ticker" Value="USF104" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257855" />
+
+<Property FormalName="Ticker" Value="UBG269" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852636" />
+
+<Property FormalName="Ticker" Value="UBG270" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852701" />
+
+<Property FormalName="Ticker" Value="UBG271" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852727" />
+
+<Property FormalName="Ticker" Value="UBG273" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852743" />
+
+<Property FormalName="Ticker" Value="UBG274" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852719" />
+
+<Property FormalName="Ticker" Value="UBG272" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852768" />
+
+<Property FormalName="Ticker" Value="UBG275" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852776" />
+
+<Property FormalName="Ticker" Value="UBG276" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EY93" />
+
+<Property FormalName="Ticker" Value="UBG277" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="USH42097EZ68" />
+
+<Property FormalName="Ticker" Value="UBG278" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1377443820" />
+
+<Property FormalName="Ticker" Value="UBG221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1377443861" />
+
+<Property FormalName="Ticker" Value="UBG279" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2061255917">
+<Property FormalName="FullName" Value="Galderma Group AG" />
+
+<Property FormalName="ShortName" Value="Galderma" />
+
+<Property FormalName="Telekurs" Value="711366" />
+
+<Property FormalName="CHNr" Value="CH-170-3046903-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1399999973" />
+
+<Property FormalName="Ticker" Value="GAD25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1399999981" />
+
+<Property FormalName="Ticker" Value="GAD251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1335392721" />
+
+<Property FormalName="Ticker" Value="GALD" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904403" />
+
+<Property FormalName="Ticker" Value="GAD24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904411" />
+
+<Property FormalName="Ticker" Value="GAD241" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191819">
+<Property FormalName="FullName" Value="Swissquote Group Holding SA" />
+
+<Property FormalName="ShortName" Value="Swissquote" />
+
+<Property FormalName="Telekurs" Value="77344" />
+
+<Property FormalName="CHNr" Value="CH-550.1.000.705-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010675863" />
+
+<Property FormalName="Ticker" Value="SQN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2013344186">
+<Property FormalName="FullName" Value="Accelleron Industries AG" />
+
+<Property FormalName="ShortName" Value="Accelleron" />
+
+<Property FormalName="CHNr" Value="CH-400-3449316-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1169360919" />
+
+<Property FormalName="Ticker" Value="ACLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910328" />
+
+<Property FormalName="Ticker" Value="ACL24" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2055222019">
+<Property FormalName="FullName" Value="Sunrise Communications AG" />
+
+<Property FormalName="ShortName" Value="Sunrise" />
+
+<Property FormalName="Telekurs" Value="677481" />
+
+<Property FormalName="CHNr" Value="	CH-020-3054260-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1386220409" />
+
+<Property FormalName="Ticker" Value="SUNN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679751045" />
+
+<Property FormalName="Ticker" Value="SNRE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679752035" />
+
+<Property FormalName="Ticker" Value="SNRBY" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193895">
+<Property FormalName="FullName" Value="Sonova Holding AG" />
+
+<Property FormalName="ShortName" Value="Sonova" />
+
+<Property FormalName="Telekurs" Value="324541" />
+
+<Property FormalName="CHNr" Value="CH-020.3.920.080-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012549785" />
+
+<Property FormalName="Ticker" Value="SOON" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041592" />
+
+<Property FormalName="Ticker" Value="SON19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041600" />
+
+<Property FormalName="Ticker" Value="SON191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0547243268" />
+
+<Property FormalName="Ticker" Value="SON201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0547243276" />
+
+<Property FormalName="Ticker" Value="SON202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179534933" />
+
+<Property FormalName="Ticker" Value="SON22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179534941" />
+
+<Property FormalName="Ticker" Value="SON221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1230759503" />
+
+<Property FormalName="Ticker" Value="SON222" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2073005594">
+<Property FormalName="FullName" Value="BKW AG" />
+
+<Property FormalName="ShortName" Value="BKW" />
+
+<Property FormalName="Telekurs" Value="566152" />
+
+<Property FormalName="CHNr" Value="CH-036.3.050.070-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0130293662" />
+
+<Property FormalName="Ticker" Value="BKW" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0117843745" />
+
+<Property FormalName="Ticker" Value="BKW10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0435590358" />
+
+<Property FormalName="Ticker" Value="BKW018" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0487087295" />
+
+<Property FormalName="Ticker" Value="BKW019" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179184390" />
+
+<Property FormalName="Ticker" Value="BKW221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179184408" />
+
+<Property FormalName="Ticker" Value="BKW222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011192" />
+
+<Property FormalName="Ticker" Value="BKW24" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197532">
+<Property FormalName="FullName" Value="Tecan Group AG" />
+
+<Property FormalName="ShortName" Value="Tecan" />
+
+<Property FormalName="Telekurs" Value="80580" />
+
+<Property FormalName="CHNr" Value="CH-020.3.926.126-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012100191" />
+
+<Property FormalName="Ticker" Value="TECN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1137122755" />
+
+<Property FormalName="Ticker" Value="TEC21" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2042236061">
+<Property FormalName="FullName" Value="Galenica AG" />
+
+<Property FormalName="ShortName" Value="Galenica" />
+
+<Property FormalName="Telekurs" Value="748474" />
+
+<Property FormalName="CHNr" Value="CH-036.3.069.575-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0360674466" />
+
+<Property FormalName="Ticker" Value="GALE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0367206700" />
+
+<Property FormalName="Ticker" Value="GAL171" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1255924453" />
+
+<Property FormalName="Ticker" Value="GAL23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1331113634" />
+
+<Property FormalName="Ticker" Value="GAL24" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147198032">
+<Property FormalName="FullName" Value="AMS Osram AG" />
+
+<Property FormalName="ShortName" Value="AMS Osram" />
+
+<Property FormalName="Telekurs" Value="88734" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="AT0000A3EPA4" />
+
+<Property FormalName="Ticker" Value="AMS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - In rund zwei Wochen herrscht im Aktienhandel an der Schweizer Börse wieder Normalbetrieb. Nachdem mit dem Börsengang der Holcim-Tochter Amrize im Juni sowohl der Leitindex SMI als auch der etwas grössere SLI vorübergehend um je einen Titel aufgestockt worden waren, muss nun Sonova den SMI verlassen.</p>
+<p/><p>Während die Titel des Hörgeräteherstellers Sonova aus dem SMI herausfallen, habe sich Amrize für den Verbleib im wichtigsten Schweizer Börsensegment qualifiziert, teilte die Börsenbetreiberin SIX am Freitagabend mit. Amrize bündelt das US-Geschäft von Holcim.</p>
+<p/><p>Entscheidend für eine Mitgliedschaft im SMI sind der Börsenwert des frei handelbaren Anteils einer Aktie (Freefloat) sowie die Liquidität - also wie rege die Aktie gehandelt wird. Bei Amrize war von Anfang an klar, dass der Aktie aufgrund der Marktkapitalisierung ein Platz im SMI zusteht.</p>
+<p/><p>Ohne Sonova wird der SMI wieder zum "Normalbestand" von 20 Titeln zurückkehren. Nach dem Börsengang von Amrize Ende Juni umfasste das Leitbörsenbarometer vorübergehend 21 Aktien. Die SIX hatte damals jedoch angekündigt, dass dies bis im September angepasst werde. Sonova galt als Wackelkandidat.</p>
+<p/><p>Solche Veränderungen sind für Anleger relevant, da viele Fonds die Indizes direkt nachbilden und dadurch automatisch die betroffenen Aktien kaufen oder verkaufen.</p>
+<p/><h3>Galderma neu im SLI - UBS neu "gekappt"</h3>
+<p/><p>Nebst der Veränderung im SMI kommt es Mitte September auch zu einer Reihe von Anpassungen in weiteren Indizes. Die Indizes würden am 19. September 2025 nach Handelsschluss angepasst, mit Wirkung ab dem 22. September, so die SIX weiter.</p>
+<p/><p>So nimmt die SIX die Aktien des Hautpflegekonzerns Galderma, der sein Börsendebüt im März feierte, in den Swiss Leader Index (SLI) auf. Diesen Index verlassen müssen dagegen der Personaldienstleister Adecco und der Verpackungsspezialist SIG. Damit umfasst der SLI neu wieder nur noch 30 Aktien, nachdem es mit Amrize 31 waren.</p>
+<p/><p>Neu ist im SLI zudem, dass auch die Titel der Grossbank UBS in ihrer Titelgewichtung limitiert werden. Bis anhin war die Limitierung auf 9 Prozent lediglich bei den drei Schwergewichten Nestlé, Novartis und Roche angewandt worden. Mit dieser Kappung will die SIX die Marktmacht der grössten Titel im SLI eingrenzen.</p>
+<p/><h3>Swissquote, Accelleron und Sunrise im SMIM</h3>
+<p/><p>Neu in den unter Börsianern beliebten Index "SMI Mid" (SMIM) werden nebst Sonova, die Titel der Onlinebank Swissquote, der früheren ABB-Tochter Accelleron sowie der seit vergangenen November an der Börse gelisteten Telekomgruppe Sunrise aufgenommen. Den Index verlassen müssen AMS-Osram, BKW, Tecan und Galenica.</p>
+<p/><p>Im SMIM werden nach den von der SIX angewandten Kriterien jene 30 Unternehmen gehandelt, die unmittelbar hinter den SMI-Firmen rangieren, also die Plätze 21 bis 50.</p>
+<p/><p>mk/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
