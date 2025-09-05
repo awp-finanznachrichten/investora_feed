@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T142503+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>1919</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:1919:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T142503+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T142503+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BUSINESSWIRE CURN: Curatis erweitert Vertriebsgeschäft mit Phoenix Labs um bis</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Press Release"/>
+			<SubjectCode><Subject FormalName="04006005"/><Subject FormalName="04002006"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4410" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191868">
+<Property FormalName="FullName" Value="Curatis Holding AG" />
+
+<Property FormalName="ShortName" Value="Curatis" />
+
+<Property FormalName="CHNr" Value="	CH-550-1024576-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1330780979" />
+
+<Property FormalName="Ticker" Value="CURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="O"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="OTS"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>zu CHF 5 Mio. zusätzliche Jahresumsätze</p>
+<p/><p>Die Curatis Holding AG (SIX: CURN, "Curatis") gibt einen neuen Vertriebsvertrag mit Phoenix Labs (Irland) für vier Produkte in der Schweiz bekannt.</p>
+<p/><p>Deutliches Umsatzwachstum mit neuen Produkten</p>
+<p/><p>Curatis hat mit Phoenix Labs (Irland) einen Vertrag über den Vertrieb von vier Produkten in den Bereichen Schmerztherapie und Urologie in der Schweiz ab Oktober 2025 unterzeichnet. Diese Produkte erzielten 2024 in der Schweiz einen Umsatz von rund CHF 5 Millionen. Als Inhaber der Marktzulassung wird Curatis im Auftrag von Phoenix Labs in der Schweiz für alle regulatorischen, qualitätsbezogenen und pharmakovigilanzbezogenen Dienstleistungen verantwortlich sein.</p>
+<p/><p>Über Curatis:</p>
+<p/><p>Die Curatis Holding AG ist ein börsennotiertes Unternehmen (CURN.SW), das sich auf die späte Entwicklungsphase und Vermarktung von Medikamenten für seltene Krankheiten und Spezialbehandlungen spezialisiert hat. Curatis verfügt über ein Vertriebsportfolio von mehr als 40 Produkten und eine Pipeline von Orphan- und Spezialmedikamenten. Weitere Informationen finden Sie auf der Website www.curatis.com.</p>
+<p/><p>Haftungsausschluss:</p>
+<p/><p>Die in dieser Medienmitteilung und in den hier angegebenen Links zu unserer Website enthaltenen Informationen sind nicht für die Verwendung in Ländern oder Gerichtsbarkeiten oder durch Personen bestimmt, in denen eine solche Verwendung einen Gesetzesverstoß darstellen würde. Wenn dies auf Sie zutrifft, sind Sie nicht berechtigt, auf diese Informationen zuzugreifen oder sie zu nutzen.</p>
+<p/><p>Diese Medienmitteilung enthält "zukunftsgerichtete Aussagen", die auf unseren derzeitigen Erwartungen, Annahmen, Schätzungen und Prognosen über uns und unsere Branche beruhen. Zukunftsgerichtete Aussagen beinhalten, ohne Einschränkung, jede Aussage, die zukünftige Ergebnisse, Leistungen oder Errungenschaften vorhersagt, prognostiziert, andeutet oder impliziert, und können die Worte "können", "werden", "sollten", "fortsetzen", "glauben", "antizipieren", "erwarten", "schätzen", "beabsichtigen", "projizieren", "planen", "werden wahrscheinlich fortsetzen", "werden wahrscheinlich resultieren", oder Worte oder Phrasen mit ähnlicher Bedeutung enthalten. Auf solche Aussagen sollte kein übermäßiges Vertrauen gesetzt werden, da zukunftsgerichtete Aussagen naturgemäß Risiken und Ungewissheiten beinhalten, einschließlich, ohne Einschränkung, wirtschaftlicher, wettbewerbsbezogener, staatlicher und technologischer Faktoren, die außerhalb der Kontrolle der Curatis Group liegen und die dazu führen können, dass das Geschäft, die Strategie oder die tatsächlichen Ergebnisse von Curatis wesentlich von den zukunftsgerichteten Aussagen (oder von den Ergebnissen der Vergangenheit) abweichen. Für alle Faktoren, die dazu führen könnten, dass die tatsächlichen Ergebnisse wesentlich von den in dieser Medienmitteilung enthaltenen zukunftsgerichteten Aussagen abweichen, verweisen wir auf die Risikofaktoren, die in unserem Börsenzulassungsprospekt in Verbindung mit dem Unternehmenszusammenschluss enthalten sind. Die Curatis Group übernimmt keine Verpflichtung, diese zukunftsgerichteten Aussagen öffentlich zu aktualisieren oder zu revidieren, sei es um neuen Informationen, zukünftigen Ereignissen oder Umständen Rechnung zu tragen oder aus anderen Gründen. Darüber hinaus sollte beachtet werden, dass vergangene Leistungen keinen Hinweis auf zukünftige Leistungen darstellen. Personen, die eine Beratung benötigen, sollten sich an einen unabhängigen Berater wenden.</p>
+<p/><p>Die in dieser Medienmitteilung enthaltenen Informationen stellen weder ein Angebot zum Verkauf noch eine Aufforderung zur Abgabe von Angeboten zum Kauf oder zur Zeichnung von Wertpapieren dar. Diese Medienmitteilung ist weder ein Prospekt im Sinne des Schweizerischen Finanzdienstleistungsgesetzes noch ein Prospekt im Sinne anderer anwendbarer Gesetze.</p>
+<p/><p>Einige Finanzinformationen in dieser Medienmitteilung wurden gerundet. Daher können die in dieser Medienmitteilung als Summen ausgewiesenen Zahlen geringfügig von der exakten arithmetischen Summe der vorangestellten Zahlen abweichen.</p>
+<p/><p>Die Ausgangssprache, in der der Originaltext veröffentlicht wird, ist die offizielle und autorisierte Version. Übersetzungen werden zur besseren Verständigung mitgeliefert. Nur die Sprachversion, die im Original veröffentlicht wurde, ist rechtsgültig. Gleichen Sie deshalb Übersetzungen mit der originalen Sprachversion der Veröffentlichung ab.</p>
+<p/><p>Originalversion auf businesswire.com ansehen: https://www.businesswire.com/news/home/20250904954279/de/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
