@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T080210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>556</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:556:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T080210+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T080210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Idorsia arbeitet mit US-Einrichtungen zur Bluthochdruckforschung zusammen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016023"/><Subject FormalName="04016030"/><Subject FormalName="13000000"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2042569978">
+<Property FormalName="FullName" Value="Idorsia Ltd" />
+
+<Property FormalName="ShortName" Value="Idorsia" />
+
+<Property FormalName="Telekurs" Value="751373" />
+
+<Property FormalName="CHNr" Value="CH-280.3.020.963-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0363463438" />
+
+<Property FormalName="Ticker" Value="IDIA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1128004079" />
+
+<Property FormalName="Ticker" Value="IDIA21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="SCN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Allschwil (awp) - Idorsia spannt mit dem Stanford Hypertension Center und dem Duke Heart Center bei einem Forschungsprogramm zum Bereich Bluthochdruck zusammen. Das IMPACT-HTN genannte dreiphasige Programm soll neue Behandlungsmethoden für schwer kontrollierbaren Bluthochdruck (Hypertonie) entwickeln, wie Idorsia am Freitag mitteilte.</p>
+<p/><p>Insbesondere Patienten, die aufgrund ihrer schwer kontrollierbaren Hypertonie mehrere Medikamente einnehmen müssen, stünden zunehmend vor Herausforderungen bei der Koordination ihrer Behandlung. Mit dem von den beiden medizinischen Einrichtungen geleiteten Programm sollen daher neue Werkzeuge entwickelt werden, wobei auch künstliche Intelligenz zum Einsatz kommen soll. Teil der Forschung werde auch Idorsias Blutdrucksenker Tryvio sein.</p>
+<p/><p>cg/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
