@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T180911+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>2576</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:2576:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T180911+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T180911+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sonova-Titel fallen anstelle von Amrize aus dem Börsenindex SMI</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="04009000"/><Subject FormalName="04011009"/><Subject FormalName="04006000"/><Subject FormalName="04013004"/><Subject FormalName="04012001"/><Subject FormalName="04006004"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+<Property FormalName="City" Value="8001 " />
+
+<Property FormalName="City" Value="8712" />
+
+<Property FormalName="City" Value="8008 " />
+
+<Property FormalName="City" Value="6300" />
+
+<Property FormalName="City" Value="8212" />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193381">
+<Property FormalName="FullName" Value="Swiss Market Indices SMI, SPI, SLI" />
+
+<Property FormalName="ShortName" Value="SMI" />
+
+<Property FormalName="Telekurs" Value="266982" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009980894" />
+
+<Property FormalName="Ticker" Value="SMI" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009987501" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030252883" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2105233029">
+<Property FormalName="FullName" Value="Swiss Financial Market Services AG" />
+
+<Property FormalName="Telekurs" Value="420440" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0037682280" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2132607599">
+<Property FormalName="FullName" Value="SIX" />
+
+<Property FormalName="ShortName" Value="SIX" />
+
+<Property FormalName="Telekurs" Value="420440" />
+
+<Property FormalName="CHNr" Value="CH-020.3.026.400-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0037682280" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1132966347" />
+
+<Property FormalName="Ticker" Value="SIX21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1142754345" />
+
+<Property FormalName="Ticker" Value="SIX212" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193895">
+<Property FormalName="FullName" Value="Sonova Holding AG" />
+
+<Property FormalName="ShortName" Value="Sonova" />
+
+<Property FormalName="Telekurs" Value="324541" />
+
+<Property FormalName="CHNr" Value="CH-020.3.920.080-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012549785" />
+
+<Property FormalName="Ticker" Value="SOON" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041592" />
+
+<Property FormalName="Ticker" Value="SON19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041600" />
+
+<Property FormalName="Ticker" Value="SON191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0547243268" />
+
+<Property FormalName="Ticker" Value="SON201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0547243276" />
+
+<Property FormalName="Ticker" Value="SON202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179534933" />
+
+<Property FormalName="Ticker" Value="SON22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179534941" />
+
+<Property FormalName="Ticker" Value="SON221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1230759503" />
+
+<Property FormalName="Ticker" Value="SON222" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193868">
+<Property FormalName="FullName" Value="Adecco Group AG" />
+
+<Property FormalName="ShortName" Value="Adecco" />
+
+<Property FormalName="Telekurs" Value="517029" />
+
+<Property FormalName="CHNr" Value="CH-550.1.005.691-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012138605" />
+
+<Property FormalName="Ticker" Value="ADEN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0428194283" />
+
+<Property FormalName="Ticker" Value="ADE18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0539032950" />
+
+<Property FormalName="Ticker" Value="ADE20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1214797206" />
+
+<Property FormalName="Ticker" Value="ADE22" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1991195184">
+<Property FormalName="FullName" Value="Amrize AG" />
+
+<Property FormalName="ShortName" Value="Amrize" />
+
+<Property FormalName="CHNr" Value="CH-170-3048432-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1430134226" />
+
+<Property FormalName="Ticker" Value="AMRZ" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196361">
+<Property FormalName="FullName" Value="SIG Group AG" />
+
+<Property FormalName="ShortName" Value="SIG" />
+
+<Property FormalName="Telekurs" Value="806240" />
+
+<Property FormalName="CHNr" Value="CH-290.3.019.795-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0114592188" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0435377954" />
+
+<Property FormalName="Ticker" Value="SIGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Industry" Value="IND"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Industry" Value="PAK"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Industry" Value="EMP"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien des Hörgeräteherstellers Sonova gehören in rund zwei Wochen nicht mehr dem Schweizer Börsen-Olymp an. Die Titel fallen aus dem Swiss Market Index (SMI). In der Folge wird das Schweizer Börsenbarometer wieder lediglich aus 20 Aktientiteln bestehen.</p>
+<p/><p>Während Sonova aus dem SMI herausfällt, hat sich die von der Holcim-Gruppe abgespaltene und Ende Juni an die Börse gebrachte Firma Amrize für den Verbleib im wichtigsten Schweizer Börsensegment qualifiziert, wie die Börsenbetreiberin SIX am Freitagabend bekanntgab. Amrize beinhaltet das US-Geschäft von Holcim.</p>
+<p/><p>Die Indizes würden am 19. September 2025 nach Handelsschluss angepasst, mit Wirkung ab dem 22. September, hiess es weiter. Das zählt auch für zahlreiche weitere Anpassungen in anderen Indizes.</p>
+<p/><p>So nimmt die SIX die Aktien des Hautpflegekonzerns Galderma, der sein Börsendebüt im März feierte, in den Swiss Leader Index (SLI) auf. Diesen Index verlassen müssen dagegen der Personaldienstleister Adecco und der Verpackungsspezialist SIG. Damit umfasst der SLI neu wieder nur noch 30 Aktien, nachdem es zuletzt mit Amrize vorübergehend 31 waren.</p>
+<p/><p>mk/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
