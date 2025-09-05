@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T074010+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>464</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:464:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T074010+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T074010+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Comet-Chef erwartet Aufwärtsbewegung um die Jahreswende</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3184" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197160">
+<Property FormalName="FullName" Value="Comet Holding AG" />
+
+<Property FormalName="ShortName" Value="Comet" />
+
+<Property FormalName="Telekurs" Value="160800" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.725-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0360826991" />
+
+<Property FormalName="Ticker" Value="COTN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101096563" />
+
+<Property FormalName="Ticker" Value="COT21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Flamatt (awp) - Der Röntgen- und Hochfrequenzspezialist Comet will von einer raschen Erholung in der Halbleiterindustrie profitieren. "Heute gehe ich davon aus, dass sich die Lage mit dem Jahreswechsel wieder verbessert", sagte CEO Stephan Haferl in einem am Donnerstagabend veröffentlichten Interview mit "Cash".</p>
+<p/><p>Die Halbleiterindustrie sei für das Unternehmen ein essenzieller Wirtschaftszweig. "Mehr als 70 Prozent unseres Umsatzes erzielen wir dort, den Grossteil davon in Asien."</p>
+<p/><p>Daher investiere das Unternehmen dort, genauer in Malaysia, auch in einen eigenen Produktionsstandort. Damit habe Comet auch die Möglichkeit, mit den Vakuumkondensatoren, die heute ausschliesslich in der Schweiz produziert werden, nach oben zu skalieren, führte der seit 2022 amtierende Konzernchef aus.</p>
+<p/><p>Denn aktuell stelle die Produktion in Flamatt ein Klumpenrisiko dar. Dort fertigt das Unternehmen neben den Vakuumkondensatoren auch die strategisch wichtigen Röntgenröhren. "Durch die Risikominimierung und zusätzliche Visibilität erwarten wir zusätzliche Neukunden."</p>
+<p/><p>Mit Blick auf die durch die Zollpolitik von US-Präsident Donald Trump entstandene Unsicherheit erwartet der CEO eine gewisse Gewöhnung. Doch das verlorene Vertrauen gewinne man nicht so schnell wieder zurück. "Die Zögerlichkeit der Kunden, sei es von privaten Konsumenten bis zu einem Unternehmen, dürfte deshalb anhalten."</p>
+<p/><p>Schliesslich äusserte sich der Unternehmenslenker zuversichtlich, dass der Aktienkurs steigen könnte. "Ich bin überzeugt, dass wir unterbewertet sind." Comet biete etwa Wachstum durch die beiden Megatrends Digitalisierung und Elektrifizierung. </p>
+<p/><p>ls/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
