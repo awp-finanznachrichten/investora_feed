@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T094611+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>1052</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:1052:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T094611+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T094611+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>DKSH übernimmt Vertrieb von Organik-Kimya-Produkten in Deutschland</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016013"/><Subject FormalName="04007007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196699">
+<Property FormalName="FullName" Value="DKSH Holding AG" />
+
+<Property FormalName="ShortName" Value="DKSH" />
+
+<Property FormalName="Telekurs" Value="2384" />
+
+<Property FormalName="CHNr" Value="CH-020.3.924.096-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0126673539" />
+
+<Property FormalName="Ticker" Value="DKSH" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRD"/><Property FormalName="Subject" Value="ORD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - DKSH übernimmt ab sofort Geschäftsentwicklung, Marketing, Vertrieb und Distribution der Hochleistungs-Polymeremulsionen von Organik Kimya in Deutschland. Das türkische Unternehmen will seine Position im deutschen Markt stärken, teilte der Vertriebsdienstleister am Freitag mit.</p>
+<p/><p>Organik Kimya bietet den Angaben zufolge Rohstoffe für Anwendungen in Bau- und Holzbeschichtungen, Dispergiermitteln, Verdickern und Spezialbeschichtungen an. Das familiengeführte Unternehmen hat seinen Sitz in Istanbul.</p>
+<p/><p>ra/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
