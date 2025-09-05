@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250905T081009+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250905</DateId>
+			<NewsItemId>683</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250905:683:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250905T081009+0200</FirstCreated>
+		<ThisRevisionCreated>20250905T081009+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Newron präsentiert neue Daten zum Schizophrenie-Hoffnungsträger an Fachkongress</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016037"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH" />
+
+<Property FormalName="Country" Value="IT" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2119704330">
+<Property FormalName="FullName" Value="Newron Pharmaceuticals S.p.A." />
+
+<Property FormalName="ShortName" Value="Newron" />
+
+<Property FormalName="Telekurs" Value="352389" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="IT0004147952" />
+
+<Property FormalName="Ticker" Value="NWRN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Mailand (awp) - Das Biotechunternehmen Newron wird nächste Woche Daten zu seinem Hoffnungsträger Evenamide am Weltkongress für Biologische Psychiatrie vorstellen. Im Mittelpunkt stehen Ergebnisse der Studie 008A zur Wirksamkeit des Schizophrenie-Mittels.</p>
+<p/><p>Zum einen zeige die Studie die "klinisch bedeutsame und statistisch signifikante Wirksamkeit" der Glutamat-Modulation durch die Zugabe von Evenamide, heisst es in einer Mitteilung vom Freitag. Zum anderen sei es die erste Studie, die nachweise, dass die Zugabe eines Antipsychotikums zu einem anderen mit einer Verbesserung der Wirksamkeit verbunden sei.</p>
+<p/><p>Bei der potenziell zulassungsrelevanten Studie 008A handelt es sich um eine internationale, placebo-kontrollierte Studie, in der Evenamide als Zusatz zu einem Antipsychotikum der zweiten Generation bei Patienten mit symptomatischer Schizophrenie untersucht wird. Die Patienten sprechen dabei auf ihre derzeitige antipsychotische Medikation, einschliesslich Clozapin, nicht ausreichend an.</p>
+<p/><p>"Evenamide wurde in dieser Studie sehr gut vertragen, ohne dass typische antipsychotische Nebenwirkungen auftraten", schreibt Newron dazu. Für eine weitere Untersuchung (ENIGMA-TRS 1) ist nun die Aufnahme von mehr als 600 Probanden in 20 Ländern geplant, um sowohl die kurzfristige als auch die langfristige Wirksamkeit zu bewerten. Der Weltkongress für Biologische Psychiatrie findet vom 9. bis 12. September in Berlin statt.</p>
+<p/><p>Newron hat für die Entwicklung und Vermarktung von Evenamide Lizenzvereinbarungen mit EA Pharma für Japan und andere asiatische Länder sowie mit Myung In Pharm für Südkorea geschlossen. Das Mittel befindet sich derzeit in der klinischen Phase-III-Entwicklung.</p>
+<p/><p>ls/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
