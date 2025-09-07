@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250907T141556+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250907</DateId>
+			<NewsItemId>105</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250907:105:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250907T141556+0200</FirstCreated>
+		<ThisRevisionCreated>20250907T141556+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Munich Re rechnet trotz Preiskampf mit guten Geschäftschancen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006006"/><Subject FormalName="04016048"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002 " />
+
+</Property>
+
+<Property FormalName="Country" Value="DE">
+<Property FormalName="City" Value="DE-30625" />
+
+<Property FormalName="City" Value="DE-80802" />
+
+<Property FormalName="City" Value="DE-80802" />
+
+</Property>
+
+<Property FormalName="Country" Value="IT">
+<Property FormalName="City" Value="I-34132" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196134">
+<Property FormalName="FullName" Value="Hannover Rückversicherungs AG" />
+
+<Property FormalName="ShortName" Value="Hannover Rück" />
+
+<Property FormalName="Telekurs" Value="134494" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE0008402215" />
+
+<Property FormalName="Ticker" Value="HNR1" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196041">
+<Property FormalName="FullName" Value="Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München" />
+
+<Property FormalName="ShortName" Value="Munich Re" />
+
+<Property FormalName="Telekurs" Value="341960" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE0008430026" />
+
+<Property FormalName="Ticker" Value="MUV2" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147195129">
+<Property FormalName="FullName" Value="Assicurazioni Generali SPA" />
+
+<Property FormalName="ShortName" Value="Generali" />
+
+<Property FormalName="Telekurs" Value="560894" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="IT0000062072" />
+
+<Property FormalName="Ticker" Value="G" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147192488">
+<Property FormalName="FullName" Value="Allianz SE" />
+
+<Property FormalName="ShortName" Value="Allianz" />
+
+<Property FormalName="Telekurs" Value="621867" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE0008404005" />
+
+<Property FormalName="Ticker" Value="ALV" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2075884431">
+<Property FormalName="FullName" Value="Swiss Re AG" />
+
+<Property FormalName="ShortName" Value="Swiss Re" />
+
+<Property FormalName="Telekurs" Value="549076" />
+
+<Property FormalName="CHNr" Value="CH-020.3.036.183-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0126881561" />
+
+<Property FormalName="Ticker" Value="SREN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>MONTE CARLO (awp international) - Der Rückversicherer Munich Re verspricht sich von der nächsten Vertragserneuerung im Schaden- und Unfallgeschäft trotz eines erwarteten Preisverfalls attraktive Geschäftschancen. Bei der Neuverhandlung der Verträge mit Erstversicherern wie Allianz und Generali dürfte die Nachfrage nach Rückversicherungsschutz weiter wachsen, erklärte Munich-Re-Vorstand Thomas Blunck am Sonntag beim jährlichen Branchentreffen in Monte Carlo. Ratingagenturen sagen den Rückversicherern allerdings weiter sinkende Preise voraus. Dies dürfte auch die Renditen sinken lassen.</p>
+<p/><p>Seit diesem Wochenende treffen sich Rückversicherer, Erstversicherer und Makler wie üblich im Fürstentum Monaco, um die Konditionen für die grosse Vertragserneuerung im Schaden- und Unfallgeschäft zum nächsten Jahreswechsel auszuloten. Die Erneuerungsrunde zum 1. Januar ist für die Branche die wichtigste. Bei den vergangenen Erneuerungen zum 1. April und 1. Juli hatte die Branche bereits Preisabschläge hinnehmen müssen.</p>
+<p/><p>Zuvor hatten Rückversicherer wie Munich Re, Swiss Re und Hannover Rück ihre Preise jahrelang kräftig angehoben. Für Erstversicherer wurde es deshalb immer teurer, Teile ihrer Risiken bei Rückversicherern abzuladen und damit aus der eigenen Bilanz zu bekommen. Viele behielten deshalb mehr Risiken in den eigenen Büchern. Die Munich Re werde bei der Vertragserneuerung weiter auf angemessene Preise und Bedingungen achten, erklärte Vorstandsmitglied Stefan Golling.</p>
+<p/><p>Nach Einschätzung der Munich Re wird der Bedarf an Rückversicherungsschutz allerdings auf absehbare Zeit weiter steigen. So lägen die versicherten Schäden durch Naturgefahren seit 2020 regelmässig über 100 Milliarden US-Dollar pro Jahr. Allein im ersten Halbjahr lagen sie bei 80 Milliarden Dollar, der zweithöchste Wert seit 1980. Neue Risiken gebe es auch durch stärker schwankende Inflationsraten und eine schlechter berechenbare Zollpolitik.</p>
+<p/><p>Galt die Munich Re lange als weltgrösster Rückversicherer der Welt, wurde sie laut Ratingagenturen zuletzt wegen eines neuen Bilanzierungsstandards von der Swiss Re aus Zürich überholt. Auf dem dritten Platz der Weltrangliste steht weiterhin die Hannover Rück./stw/zb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
