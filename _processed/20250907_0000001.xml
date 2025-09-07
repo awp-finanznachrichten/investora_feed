@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250907T132609+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250907</DateId>
+			<NewsItemId>85</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250907:85:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250907T132609+0200</FirstCreated>
+		<ThisRevisionCreated>20250907T132609+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Presse: Nestlé hat Seres Therapeutics Übernahmeofferte vorgelegt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1800" />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196839">
+<Property FormalName="FullName" Value="Nestlé SA" />
+
+<Property FormalName="ShortName" Value="Nestlé" />
+
+<Property FormalName="Telekurs" Value="213695" />
+
+<Property FormalName="CHNr" Value="CH-550.0.067.293-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0038863350" />
+
+<Property FormalName="Ticker" Value="NESN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042509" />
+
+<Property FormalName="Ticker" Value="NES181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355108" />
+
+<Property FormalName="Ticker" Value="NES22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355116" />
+
+<Property FormalName="Ticker" Value="NES221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355124" />
+
+<Property FormalName="Ticker" Value="NES222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1221150506" />
+
+<Property FormalName="Ticker" Value="NES223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543838" />
+
+<Property FormalName="Ticker" Value="NES224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543846" />
+
+<Property FormalName="Ticker" Value="NES225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475397" />
+
+<Property FormalName="Ticker" Value="NES231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475405" />
+
+<Property FormalName="Ticker" Value="NES232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475413" />
+
+<Property FormalName="Ticker" Value="NES233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277832" />
+
+<Property FormalName="Ticker" Value="NES234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277840" />
+
+<Property FormalName="Ticker" Value="NES235" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277857" />
+
+<Property FormalName="Ticker" Value="NES236" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316745" />
+
+<Property FormalName="Ticker" Value="NES241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316752" />
+
+<Property FormalName="Ticker" Value="NES242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316760" />
+
+<Property FormalName="Ticker" Value="NES243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316778" />
+
+<Property FormalName="Ticker" Value="NES244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104335" />
+
+<Property FormalName="Ticker" Value="NES17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104343" />
+
+<Property FormalName="Ticker" Value="NES171" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1997056680">
+<Property FormalName="FullName" Value="Seres Therapeutics Inc" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US81750R1023" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Nestlé hat laut einem Medienbericht für das amerikanische Pharma-Startup Seres Therapeutics eine Offerte vorgelegt. Das Angebot des Nahrungsmittelriesen beläuft sich auf total 76 Dollar pro Seres-Aktie oder gut 760 Millionen Dollar, berichtet "Inside Paradeplatz" am Sonntag.</p>
+<p/><p>Die Übernahme-Offerte der Nestlé Health-Leiterin Anna Mohl vom 14. August an den Verwaltungsrat von Seres belaufe sich 41 Dollar pro Aktie. Hinzu kämen zwei Meilenstein-Zahlungen: Eine über 20 Dollar und eine zweite über 15 Dollar pro Titel. Zuletzt schlossen die Papiere bei 19,36 Dollar je Aktie.</p>
+<p/><p>Das Pharma-Startup aus Boston forscht rund um das Mikrobiom im Darm. Fällig würden die Meilensteine, sobald der Wirkstoff SER-155, ein oraler Mikrobiomwirkstoff, zunächst entscheidende Tests und danach die Zulassung der US-Pharmabehörde geschafft hätte.</p>
+<p/><p>"Laut einer Quelle" soll die Bekanntgabe der Übernahme kurz bevorstehen, so das Finanzportal weiter. Nestlé Health und Seres kennen sich: Der Vorgänger-Wirkstoff von SER-155 ging letzten September an Nestlé, die im Gegenzug die Produktion bis Ende 2025 garantierte.</p>
+<p/><p>Nestlé wollte den Bericht auf Anfrage von AWP nicht kommentieren.</p>
+<p/><p>ra/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
