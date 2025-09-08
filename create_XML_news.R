@@ -15,6 +15,10 @@ item <- paste0("<news>\n",
 
 write_file(item,paste0(OUTPUT_PATH_NEWS,ID,".xml"))
 
+#Escape single quotes for Database
+titel <- str_replace_all(titel,"'","\\\\'")
+text <- str_replace_all(text,"'","\\\\'")
+
 #Entry in Database
 selected_category <- paste0(category,"/",type,"/",name)
 mydb <- retry(connectDB(db_name="picture_delivery_robot"),sleep=5)
