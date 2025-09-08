@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250908T075209+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250908</DateId>
+			<NewsItemId>488</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250908:488:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250908T075208+0200</FirstCreated>
+		<ThisRevisionCreated>20250908T075208+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Medacta erzielt deutlich mehr Gewinn im ersten Halbjahr 2025</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6874 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2052426065">
+<Property FormalName="FullName" Value="Medacta Group SA" />
+
+<Property FormalName="ShortName" Value="Medacta" />
+
+<Property FormalName="Telekurs" Value="814719" />
+
+<Property FormalName="CHNr" Value="CH-501.3.021.682-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0468525222" />
+
+<Property FormalName="Ticker" Value="MOVE" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Castel san Pietro (awp) - Medacta hat im ersten Halbjahr 2025 den Gewinn weiter gesteigert. Bereits seit Ende Juli ist ein höherer Umsatz bekannt. Für das laufende Jahr bestätigt das Tessiner Orthopädieunternehmen den Ausblick.</p>
+<p/><p>Den adjustierten Betriebsgewinn EBITDA beziffert das Unternehmen in einer Mitteilung vom Montag auf 98,8 Millionen Euro, ein Plus von 27,5 Prozent gegenüber dem Vorjahreszeitraum. Die Marge kam bei 28,7 Prozent zu liegen, nach 26,9 Prozent im ersten Halbjahr 2024. Zu konstanten Wechselkursen fällt sie mit 29,6 Prozent etwas höher aus.</p>
+<p/><p>Unter dem Strich verbuchte das Unternehmen einen Reingewinn von 60,0 Millionen Euro und damit gut 58 Prozent mehr als im Vorjahr. Der Anstieg resultiere aus einem höheren Betriebsergebnis und dem vorläufigen Kaufpreisvorteil aus der Übernahme von Parcus Medical, hiess es in der Mitteilung.</p>
+<p/><p>CEO Francesco Siccardi zeigt sich zufrieden mit den Ergebnissen der ersten sechs Monate. Die Leistung sei durch ein über dem Markt liegendes Wachstum in allen Geschäftsbereichen getrieben worden, wird er in der Mitteilung zitiert. Mit den vorgelegten Zahlen hat Medacta die Erwartungen der Analysten übertroffen.</p>
+<p/><h3>Weiteres Wachstum geplant</h3>
+<p/><p>Der Umsatz stieg - wie bereits bekannt - um 19,8 Prozent auf 344,1 Millionen Euro. Zu dem Wachstum trugen alle Regionen und Marktsegmente bei, wie Medacta bereits Ende Juli mitgeteilt hatte.</p>
+<p/><p>Auch die damals angehobenen Ziele bestätigte das Unternehmen. Es stellt im laufenden Jahr beim Umsatz ein Plus zwischen 16 und 18 Prozent in konstanten Wechselkursen in Aussicht. Mittelfristig erwartet das Management eine durchschnittliche Wachstumsrate von 10 bis 14 Prozent. Die bereinigte EBITDA-Marge soll vor Währungseffekten 28 Prozent erreichen.</p>
+<p/><p>Von den US-Zöllen bleibe Medacta weiterhin unberührt, hiess es in der Mitteilung. Man werde die Entwicklung aber laufend beobachten.</p>
+<p/><p>sc/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
