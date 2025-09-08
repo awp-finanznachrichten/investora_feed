@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250908T184716+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250908</DateId>
+			<NewsItemId>3143</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250908:3143:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250908T184716+0200</FirstCreated>
+		<ThisRevisionCreated>20250908T184716+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Idorsia meldet positive Vergleichsdaten zur Schlafmittel-Kategorie Dora</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016037"/><Subject FormalName="04016030"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2042569978">
+<Property FormalName="FullName" Value="Idorsia Ltd" />
+
+<Property FormalName="ShortName" Value="Idorsia" />
+
+<Property FormalName="Telekurs" Value="751373" />
+
+<Property FormalName="CHNr" Value="CH-280.3.020.963-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0363463438" />
+
+<Property FormalName="Ticker" Value="IDIA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1128004079" />
+
+<Property FormalName="Ticker" Value="IDIA21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="RAD"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Allschwil (awp) - Das Biotechunternehmen Idorsia hat anlässlich des "World Sleep"-Kongresses positive Daten aus einer Vergleichsstudie zur Schlafmittel-Kategorie Dora gemeldet. Dabei seien in der FAERS-Untersuchung verschiedene Schlaftherapien bezüglich Missbrauchsanwendungen und wiederholter Einnahme verglichen worden, teilte Idorsia am Montagabend mit.</p>
+<p/><p>Am schlechtesten hätten in der vom Medical College of Georgia und der Johns Hopkins University durchgeführten Studie im Zusammenhang mit Missbrauch und Abhängigkeit sogenannte Benzodiazepine abgeschnitten, hiess es weiter. Dabei handelt es sich um Tranquilizer mit angsthemmender, beruhigender und entspannender Wirkung.</p>
+<p/><p>Die dualen Orexin-Rezeptor-Antagonisten (Dora) haben laut Idorsia in der Studie deutlich bessere Ergebnisse erzielt. Im Portfolio von Idorsia ist Quviviq als solches Mittel in der EU für die Behandlung von Schlaflosigkeit zugelassen.</p>
+<p/><p>mk/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
