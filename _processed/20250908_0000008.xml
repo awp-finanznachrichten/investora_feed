@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250908T153810+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250908</DateId>
+			<NewsItemId>2530</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250908:2530:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250908T153810+0200</FirstCreated>
+		<ThisRevisionCreated>20250908T153810+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Erste Züge von Stadler auf Berliner-U-Bahnnetz in Betrieb genommen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016013"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9565" />
+
+</Property>
+
+<Property FormalName="Country" Value="DE" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191533">
+<Property FormalName="FullName" Value="Stadler Rail AG" />
+
+<Property FormalName="ShortName" Value="Stadler Rail" />
+
+<Property FormalName="Telekurs" Value="067816" />
+
+<Property FormalName="CHNr" Value="CH-440.3.002.481-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002178181" />
+
+<Property FormalName="Ticker" Value="SRAIL" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238864" />
+
+<Property FormalName="Ticker" Value="SRA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852651" />
+
+<Property FormalName="Ticker" Value="SRA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852669" />
+
+<Property FormalName="Ticker" Value="SRA241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="ORD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Berlin/Bussnang (awp) - Die Züge von Stadler Rail für die U-Bahn in Berlin sind am Montag nach mehreren Jahren Verzögerung auf Premierenfahrt gegangen. Bis Jahresende sollen bis zu 140 Wagen der Flotte, die bis zu 1500 Neuwagen umfasst, den Betrieb aufnehmen.</p>
+<p/><p>Der Fahrbetrieb startete mit den U-Bahnen der neuesten Generation auf der Linie U2, wie die Berliner Verkehrsbetriebe (BVG) am Montag mitteilten. Damit werde erstmals nach zehn Jahren ein neues Zugmodell für die schmaler als üblich gebauten Linien U1 bis U4 eingesetzt.</p>
+<p/><p>Der Rahmenvertrag mit Stadler umfasst laut BVG bis zu 1500 Neuwagen, die bis 2035 geliefert werden könnten. Das Vertragsvolumen belaufe sich auf bis zu drei Milliarden Euro. Aktuell bestellt seien insgesamt 484 Wagen.</p>
+<p/><p>Ursprünglich sollten die ersten U-Bahnen bereits im Jahr 2022 an die BVG übergeben werden. Wegen einer Klage gegen die Vergabe an Stadler durch die Konkurrentin Alstom, die Corona-Pandemie und den anschliessenden Lieferengpässen kam es mehrmals zu Verzögerungen.</p>
+<p/><p>sta/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
