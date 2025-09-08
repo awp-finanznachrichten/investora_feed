@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250908T074709+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250908</DateId>
+			<NewsItemId>479</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250908:479:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250908T074709+0200</FirstCreated>
+		<ThisRevisionCreated>20250908T074709+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Aevis steigert Umsatz und operatives Ergebnis deutlich</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191956">
+<Property FormalName="FullName" Value="Aevis Victoria SA" />
+
+<Property FormalName="ShortName" Value="Aevis" />
+
+<Property FormalName="Telekurs" Value="38231" />
+
+<Property FormalName="CHNr" Value="CH-550.0.166.624-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012488190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0478634105" />
+
+<Property FormalName="Ticker" Value="AEVS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Freiburg (awp) - Aevis Victoria hat im ersten Halbjahr 2025 Umsatz und Gewinn spürbar gesteigert.</p>
+<p/><p>Das Beteiligungsunternehmen mit Sitz in Fribourg erzielte laut einer Mitteilung vom Montag einen konsolidierten Bruttoumsatz von 621,3 Millionen Franken nach 527,6 Millionen im Vorjahr. Der Nettoumsatz stieg um 17,9 Prozent auf 546 Millionen. Das organische Wachstum belief sich auf 2,9 Prozent.</p>
+<p/><p>Getragen wurde die Entwicklung bei dem Unternehmen, das in den Bereichen Gesundheitswesen, Hotellerie und Infrastruktur investiert, vor allem von den beiden Kernbereichen: dem Kliniknetzwerk Swiss Medical Network und der Hotelkette MRH Switzerland.</p>
+<p/><p>Auch das Immobiliengeschäft legte zu. Zusätzlich brachte der Verkauf von nicht-operativen Vermögenswerten einen Free Cashflow von über 100 Millionen Franken ein, nachdem im Vorjahr noch ein Minus von 32,6 Millionen ausgewiesen worden war. Dadurch konnte Aevis die Verschuldung deutlich reduzieren.</p>
+<p/><p>Für das erste Halbjahr erwartet die Gruppe ein Betriebsergebnis vor Mieten, Abschreibungen und Zinsen (EBITDAR) zwischen 103 und 105 Millionen Franken sowie ein EBITDA zwischen 56 und 57 Millionen. Die Werte liegen über jenen des Vorjahres.</p>
+<p/><p>Das konsolidierte Nettoergebnis dürfte positiv ausfallen, wie es hiess. Aevis will seinen vollständigen Halbjahresbericht am 18. September vorlegen.</p>
+<p/><p>to/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
