@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250908T073209+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250908</DateId>
+			<NewsItemId>449</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250908:449:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250908T073209+0200</FirstCreated>
+		<ThisRevisionCreated>20250908T073209+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swiss Re: Risikobewertung ist komplexer geworden</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008000"/><Subject FormalName="04016030"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2075884431">
+<Property FormalName="FullName" Value="Swiss Re AG" />
+
+<Property FormalName="ShortName" Value="Swiss Re" />
+
+<Property FormalName="Telekurs" Value="549076" />
+
+<Property FormalName="CHNr" Value="CH-020.3.036.183-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0126881561" />
+
+<Property FormalName="Ticker" Value="SREN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="ECO"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Monte Carlo (awp) - Politische Spannungen, Protektionismus, häufigere Streiks: Laut dem Rückversicherer Swiss Re führt das zu mehr Volatilität und macht die Risikobewertung komplexer.</p>
+<p/><p>Dies stellt das Unternehmen am Montag im Rahmen des wichtigen jährlichen Branchentreffens "Rendez-Vous de Septembre" in Monte Carlo fest. Das seien daher auch die Themen, welche die Gespräche der diesjährigen Prämien-Erneuerungsrunde bestimmen würden.</p>
+<p/><p>Die geopolitischen Spannungen, protektionistischen Massnahmen und wirtschaftlichen Veränderungen führten zu einem Wandel der globalen Lieferketten, höheren Kosten, verstärkter Unsicherheit und der erhöhten Gefahr einer langfristigen Fragmentierung, so die Swiss Re.</p>
+<p/><p>Darüber hinaus nähmen Streiks, Aufstände und zivile Unruhen weltweit zu. In den letzten zwölf Monaten gab es in mehr als 70 Ländern bedeutende Proteste, stellt das Unternehmen fest.</p>
+<p/><h3>Diszipliniertes Underwriting</h3>
+<p/><p>In diesem Umfeld müsse ein ganzheitliches Risikoverständnis entwickelt werden. Und ein diszipliniertes Underwriting sei wichtig, um das derzeitige unsichere geopolitische Umfeld zu meistern, betont die Swiss Re.</p>
+<p/><p>Dies gelte umso mehr, weil gleichzeitig auch die Naturkatastrophenrisiken zunähmen. Eine Hauptsorge der Branche seien die nach wie vor die zunehmenden Auswirkungen extremer Wetterereignisse.</p>
+<p/><p>In den letzten Jahren seien die jährlichen versicherten Schäden aus Naturkatastrophen auf weit über 100 Milliarden US-Dollar gestiegen, heisst es in der Mitteilung. Und die Wahrscheinlichkeit habe sich erhöht, dass sie auf 200 Milliarden oder in einem Spitzenjahr sogar auf 300 Milliarden stiegen.</p>
+<p/><p>Es brauche daher Verbesserungen bei der Raumplanung, den Bauvorschriften und Risikomodellen. Zudem sei es unerlässlich, dass Staat und Privatwirtschaft gemeinsam in die Prävention von Schäden und die Widerstandsfähigkeit gegen Wetterereignisse investierten.</p>
+<p/><p>rw/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
