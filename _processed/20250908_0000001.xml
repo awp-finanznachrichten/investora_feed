@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250908T063509+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250908</DateId>
+			<NewsItemId>298</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250908:298:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250908T063509+0200</FirstCreated>
+		<ThisRevisionCreated>20250908T063509+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SNB-Präsident warnt vor Nebenwirkungen eines Negativzinses</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008001"/><Subject FormalName="04019001"/><Subject FormalName="04008009"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3011 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197664">
+<Property FormalName="FullName" Value="Schweizerische Nationalbank" />
+
+<Property FormalName="ShortName" Value="SNB" />
+
+<Property FormalName="Telekurs" Value="22802" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.957-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001319265" />
+
+<Property FormalName="Ticker" Value="SNBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Subject" Value="CBK"/><Property FormalName="Subject" Value="MON"/><Property FormalName="Subject" Value="IRT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Schweizerische Nationalbank (SNB) sieht eine erneute Einführung des Negativzinses kritisch. "Wir sind uns bewusst, dass der Negativzins unerwünschte Nebenwirkungen haben kann, zum Beispiel für Sparer und Pensionskassen."</p>
+<p/><p>"Die Hürde, ihn wieder einzuführen, ist hoch", sagte SNB-Präsident Martin Schlegel im Gespräch mit dem "Migros Magazin". Die SNB hatte zuletzt den Leitzins auf null gesenkt und wird am 25. September ihre nächste geldpolitische Entscheidung kommunizieren.</p>
+<p/><p>Zur Frage, ob die SNB ihr geldpolitisches Pulver zu früh verschossen habe, betonte Schlegel, dass vorausschauendes Handeln zentral sei: "In der Geldpolitik darf man nicht abwarten, wenn ein Entscheid nötig ist. Sonst muss man später stärker gegensteuern."</p>
+<p/><p>Auf die Stärke des Franken reagierte Schlegel gelassen: "Wechselkurse lassen sich kaum vorhersagen. Der Franken hat sich vor allem gegenüber dem Dollar aufgewertet. Real ist die Aufwertung aber nicht so gross, wie es auf den ersten Blick scheint."</p>
+<p/><p>Zu den Auswirkungen der US-Zölle sagte Schlegel: "Sie schaffen zunächst viel Unsicherheit. Viele Unternehmen investieren weniger, und das hat negative Auswirkungen auf die Wirtschaft. Einzelne Firmen können stark betroffen sein, die Gesamtauswirkungen sind noch abzuwarten."</p>
+<p/><p>ra/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
