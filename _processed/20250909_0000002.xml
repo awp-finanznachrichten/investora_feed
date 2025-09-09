@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250909T071710+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250909</DateId>
+			<NewsItemId>513</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250909:513:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250909T071710+0200</FirstCreated>
+		<ThisRevisionCreated>20250909T071710+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Adecco und Microsoft erneuern Partnerschaft</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016023"/><Subject FormalName="04003005"/><Subject FormalName="04006004"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008 " />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193868">
+<Property FormalName="FullName" Value="Adecco Group AG" />
+
+<Property FormalName="ShortName" Value="Adecco" />
+
+<Property FormalName="Telekurs" Value="517029" />
+
+<Property FormalName="CHNr" Value="CH-550.1.005.691-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012138605" />
+
+<Property FormalName="Ticker" Value="ADEN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0428194283" />
+
+<Property FormalName="Ticker" Value="ADE18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0539032950" />
+
+<Property FormalName="Ticker" Value="ADE20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1214797206" />
+
+<Property FormalName="Ticker" Value="ADE22" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147194029">
+<Property FormalName="FullName" Value="Microsoft Corp" />
+
+<Property FormalName="ShortName" Value="Microsoft" />
+
+<Property FormalName="Telekurs" Value="951692" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US5949181045" />
+
+<Property FormalName="Ticker" Value="MSFT" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1001749289" />
+
+<Property FormalName="Ticker" Value="EU3235" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Industry" Value="EMP"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="JNV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Adecco Group hat die Zusammenarbeit mit dem Softwaregiganten Microsoft um sechs Jahre verlängert. Die erneuerte Vereinbarung unterstreiche ihr Engagement, die digitale Transformation in der Arbeitswelt voranzutreiben, teilte der Personalvermittler am Dienstag mit.</p>
+<p/><p>Die Partnerschaft umfasst laut den Angaben eine Palette von Microsoft-Technologien, um die HR-Dienstleistungen der Adecco Group weiter zu modernisieren und die Kundenerfahrung zu verbessern. Dazu gehören unter anderem Azure-Cloud-Dienste, Microsoft 365 für die Arbeitsplätze der Mitarbeiter und Dynamics 365 zur Optimierung der Finanz- und Beschaffungsprozesse.</p>
+<p/><p>sc/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
