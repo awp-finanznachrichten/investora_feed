@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250909T184911+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250909</DateId>
+			<NewsItemId>3342</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250909:3342:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250909T184911+0200</FirstCreated>
+		<ThisRevisionCreated>20250909T184911+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Grosses Schindler-Aktienpaket wechselt innerhalb der Besitzerfamilien</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6060" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197365">
+<Property FormalName="FullName" Value="Schindler Holding AG" />
+
+<Property FormalName="ShortName" Value="Schindler" />
+
+<Property FormalName="Telekurs" Value="119066" />
+
+<Property FormalName="CHNr" Value="CH-150.3.001.483-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024638212" />
+
+<Property FormalName="Ticker" Value="SCHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024638196" />
+
+<Property FormalName="Ticker" Value="SCHP" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Ebikon (awp) - Im Verwaltungsrat von Schindler ist es zu einer grossen Umschichtung von Namenaktien innerhalb der Besitzerfamilien gekommen. Insgesamt wechselten gut 603'000 Aktien im Wert von 162 Millionen Franken die Hand.</p>
+<p/><p>Dies ging am Dienstag aus einer Meldung an die Börsenaufsicht SIX Exchange Regulation hervor. Dabei handelte es sich um eine "Transaktion innerhalb des Aktionärsbindungsvertrags".</p>
+<p/><p>Der Ausübungspreis lag den Angaben zufolge bei 268,85 Franken je Anteil. Schindler Namen schlossen am Dienstag bei 295 Franken.</p>
+<p/><p>Ähnliche Transaktionen bei Schindler standen in der Vergangenheit in der Regel im Zusammenhang mit Umschichtungen von der vierten in die fünfte Generation der Eigentümerfamilien Schindler und Bonnard. Dass der Konzern als Familienunternehmen langfristig in Schweizer Hand bleibt, ist ein Ziel der beiden Familien.</p>
+<p/><p>Gemäss Geschäftsbericht hielten die Familien Schindler und Bonnard sowie diesen Familien nahestehende Personen Ende 2024 über Aktionärbindungsverträge gemeinsam rund 46,6 Millionen Schindler-Namenaktien. Das entspricht knapp 70 Prozent der Stimmrechte.</p>
+<p/><p>ra/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
