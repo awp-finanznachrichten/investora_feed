@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250909T072110+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250909</DateId>
+			<NewsItemId>522</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250909:522:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250909T072109+0200</FirstCreated>
+		<ThisRevisionCreated>20250909T072109+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Meyer Burger soll dekotiert werden - Handel bleibt ausgesetzt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016027"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3645 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2120151886">
+<Property FormalName="FullName" Value="Meyer Burger Technology AG" />
+
+<Property FormalName="ShortName" Value="Meyer Burger" />
+
+<Property FormalName="Telekurs" Value="351705" />
+
+<Property FormalName="CHNr" Value="CH-170.3.023.419-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0108503795" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357065999" />
+
+<Property FormalName="Ticker" Value="MBTN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien des Solarzellen-Herstellers Meyer Burger müssen wohl die Schweizer Börse SIX verlassen. Das Regulatory Board der SIX Group hat einem entsprechenden Antrag der SIX Exchange Regulation zugestimmt.</p>
+<p/><p>Zudem erhält das im Insolvenzverfahren steckende Unternehmen keine temporäre Befreiung von Aufrechterhaltungspflichten betreffend der Publikation und Einreichung des Geschäftsberichts 2024, wie es in einer Mitteilung vom Dienstag heisst. Die Gründe für die Verzögerung bei der Einreichung und Publikation des Geschäftsberichts bestünden weiterhin. Es sei derzeit nicht absehbar, dass diese innerhalb der ersuchten Frist wegfielen, heisst es zur Begründung.</p>
+<p/><p>Noch ist der Entscheid des Regulatory Board nicht rechtskräftig. Es kann innerhalb von 20 Tagen an die Beschwerdeinstanz weitergezogen werden. Der Handel mit den Meyer-Burger-Aktien bleibt zunächst weiter ausgesetzt. Nach Ankündigung der allfälligen rechtskräftigen Dekotierung werde er wieder eröffnet und bleibe bis zum letzten Handelstag während drei Monaten offen.</p>
+<p/><p>Das Unternehmen steckt schon länger in der Krise. Anfang Juni hatte Meyer Burger für die deutsche Tochter Insolvenz beantragt, Ende Juni wurde dann ein Insolvenzantrag in den USA gestellt. Der Betrieb in den deutschen Werken wurde Anfang September eingestellt, nachdem Gespräche mit Investoren bislang ohne Ergebnis verliefen.</p>
+<p/><p>dm/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
