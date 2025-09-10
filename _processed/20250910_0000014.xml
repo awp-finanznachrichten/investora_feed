@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T175409+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>3306</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:3306:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T175409+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T175409+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Flughafen Zürich bleibt im August auf Rekordkurs</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Im August hat der Flughafen Zürich erneut neue Rekorde beim Passagieraufkommen aufgestellt. Damit bleibt der Airport auf Kurs, das Rekordjahr 2019 zu übertreffen.</p>
+<p/><p>Im August reisten insgesamt 3,27 Millionen Personen über den grössten Flughafen der Schweiz. Dies entspricht einer Zunahme von 5,5 Prozent im Vergleich zur Vorjahresperiode. Damit war der August auch der meistfrequentierte Monat der Unternehmensgeschichte, wie der Flughafen am Mittwoch mitteilte. Bereits im Vormonat Juli hatte es einen Passagierrekord gegeben, der nun noch einmal leicht übertroffen werden konnte.</p>
+<p/><p>Seit Jahresanfang stieg die Zahl der Passagiere damit im Jahresvergleich in jedem Monat an. Auf Jahressicht steuert der Flughafen auf einen neuen Rekordwert bei den Passagieren zu. Im August hatte der Flughafen mit den Halbjahreszahlen angekündigt, dass der Rekord von 31,5 Millionen Passagieren von 2019, dem Jahr vor der Corona-Pandemie, vermutlich übertroffen werde. Neu rechnete der Flughafen mit rund 32 Millionen Passagieren.</p>
+<p/><p>Der August ist wegen der Sommerferien traditionell einer der geschäftigsten Monate des Jahres. Besonders viele Reisende gab es am 3. August, mit 115'587 Personen. Damit konnte der bisherige Rekord vom 28. Juli 2025 um 40 Personen übertroffen werden.</p>
+<p/><p>Das Passagierwachstum wird vor allem von lokalen Fluggästen angetrieben. Deren Zahl stieg im August um satte 7,0 Prozent. Dahinter fiel das Wachstum bei den Umsteigepassagieren mit 2,0 Prozent klar schwächer aus.</p>
+<p/><p>cg/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
