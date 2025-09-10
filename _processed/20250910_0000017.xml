@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T184210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>3494</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:3494:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T184209+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T184209+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Idorsia legt neue Analysen zu Schlafmittel Daridorexant vor</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016037"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2042569978">
+<Property FormalName="FullName" Value="Idorsia Ltd" />
+
+<Property FormalName="ShortName" Value="Idorsia" />
+
+<Property FormalName="Telekurs" Value="751373" />
+
+<Property FormalName="CHNr" Value="CH-280.3.020.963-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0363463438" />
+
+<Property FormalName="Ticker" Value="IDIA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1128004079" />
+
+<Property FormalName="Ticker" Value="IDIA21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Allschwil (awp) - Das Biotechunternehmen Idorsia hat an der Fachkonferenz "World Sleep 2025" eine Reihe von neuen Analysen zu seinem Schlafmittel Daridorexant publiziert. Diese zeigten etwa, dass das unter dem Namen Quviviq vertriebene Medikament in einer Vergleichsstudie zu einer besseren Schlafqualität führen kann.</p>
+<p/><p>So habe Daridorexant bei den Versuchspersonen die sogenannte Wachliegezeit während der ganzen Nacht deutlich reduziert, teilte Idorsia am Mittwoch mit. Die Resultate hätten auch eine Verbesserung von morgendlicher Schläfrigkeit, der Wachsamkeit am Tag und der Funktionsfähigkeit gezeigt.</p>
+<p/><p>Die sogenannten Dora-Medikamente (Duale Orexin-Rezeptor-Antagonisten), zu denen das Idorsia-Medikament gehört, wiesen zudem ein deutlich geringeres Missbrauchspotenzial als andere verschreibungspflichtige und nicht-verschreibungspflichtige Schlafmittel auf, heisst es weiter.</p>
+<p/><p>Idorsia hat mit Quviviq im ersten Halbjahr einen Umsatz von 58 Millionen Franken erzielt, ein Plus von 145 Prozent.</p>
+<p/><p>tp/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
