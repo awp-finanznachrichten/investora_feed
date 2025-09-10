@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T075910+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>660</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:660:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T075910+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T075910+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>MCH Group trotz ESC mit Umsatzrückgang</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4021" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191350">
+<Property FormalName="FullName" Value="MCH Group AG" />
+
+<Property FormalName="ShortName" Value="MCH" />
+
+<Property FormalName="Telekurs" Value="64224" />
+
+<Property FormalName="CHNr" Value="CH-270.8.000.004-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0039542854" />
+
+<Property FormalName="Ticker" Value="MCHN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="NKL"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Die Basler MCH Group hat im ersten Halbjahr 2025 trotz Grossanlässen wie dem Eurovision Song Contest (ESC) und der Art Basel einen Umsatzrückgang erlitten. Unter dem Strich verblieb jedoch ein deutlich höherer Reingewinn.</p>
+<p/><p>Der Umsatz sank im Vergleich zur Vorjahresperiode um 6 Prozent auf 222,4 Millionen Franken, wie das Messeunternehmen am Mittwoch mitteilte. Der Betriebsgewinn EBITDA erreichte 18,9 Millionen nach 15,3 Millionen. Unter dem Strich resultierte ein um rund 40 Prozent höherer Reingewinn von 5,3 Millionen.</p>
+<p/><p>Die höhere Profitabilität führt das Management in der Mitteilung auf Effizienzmassnahmen und gestraffte Strukturen zurück. Damit gelingt der Gruppe zum dritten Mal in Folge ein positives Halbjahresergebnis, nachdem sie zuvor während mehreren Jahren Verluste geschrieben hatte.</p>
+<p/><h3>Hohe Kosten beim ESC</h3>
+<p/><p>Zu den Höhepunkten im ersten Halbjahr zählt das Unternehmen die Ausgaben der Kunstmesse Art Basel in Hongkong und Basel. Die Verkäufe seien in allen Segmenten stark ausgefallen und die führende Rolle im globalen Kunstmarkt gefestigt worden, heisst es.</p>
+<p/><p>Mit der Austragung des Eurovision Song Contest (ESC) im Mai habe die Gruppe zudem ihre Kompetenz bei der Organisation komplexer Grossveranstaltungen bewiesen. Aus finanzieller Sicht sei der ESC aufgrund der hohen Kosten jedoch kein Erfolg gewesen, so die Meldung.</p>
+<p/><h3>Umsatzsteigerung erwartet</h3>
+<p/><p>Für die zweite Jahreshälfte stellt das Unternehmen eine Rückkehr zu steigenden Umsätzen in Aussicht. Treiber sollen unter anderem die Saisonalität des Messegeschäfts sowie die neue Partnerschaft mit Qatar Sports Investments (QSI) sein. Zusätzlich erwartet die Gruppe einen positiven Einmaleffekt aus dem Verkauf des Expomobilia-Gebäudes in Effretikon, während sich Währungsschwankungen und insbesondere der schwächere US-Dollar negativ auswirken dürften.</p>
+<p/><p>Im kommenden Jahr 2026 will das Unternehmen in neue Formate investieren. So soll etwa mit dem im März geplanten "Health.Tech Global Summit" die Position im internationalen Erlebnismarketing weiter ausgebaut werden.</p>
+<p/><p>an/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
