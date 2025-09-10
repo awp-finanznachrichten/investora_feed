@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T141910+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>2521</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:2521:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T141910+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T141910+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SNB veröffentlicht künftig eine Art Sitzungsprotokoll</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008001"/><Subject FormalName="04019001"/><Subject FormalName="11000000"/><Subject FormalName="04008000"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3011 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197664">
+<Property FormalName="FullName" Value="Schweizerische Nationalbank" />
+
+<Property FormalName="ShortName" Value="SNB" />
+
+<Property FormalName="Telekurs" Value="22802" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.957-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001319265" />
+
+<Property FormalName="Ticker" Value="SNBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Subject" Value="CBK"/><Property FormalName="Subject" Value="MON"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="ECO"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Vezia (awp) - Die Schweizerische Nationalbank (SNB) hat bislang ein Geheimnis daraus gemacht, wie sie bei den Lagebeurteilungen zu ihren Zinsentscheiden kommt. Das soll sich nun ändern. Die einzelnen Voten im Direktorium werden aber auch künftig nicht veröffentlicht.</p>
+<p/><p>Ab der nächsten vierteljährlichen Lagebeurteilung will die Nationalbank die "geldpolitischen Diskussionen" im Direktorium in zusammengefasster Form publizieren - vier Wochen nach dem Entscheid. Veröffentlicht werden sollen die wichtigsten Punkte aus den Diskussionen in den zwei Tagen der geldpolitischen Lagebeurteilung sowie die Einschätzung zur Wirtschafts- und Währungslage.</p>
+<p/><p>Dies sagte SNB-Präsident Martin Schlegel am Mittwoch laut Redemanuskript an einem Anlass der Tessiner Bankiervereinigung. Die Kommunikation sei "ein zentrales Element für die Erfüllung unseres Mandats". Daher habe die SNB beschlossen, in Ergänzung zu den bestehenden Kommunikationsmitteln neu eine Zusammenfassung der geldpolitischen Diskussionen zu veröffentlichen.</p>
+<p/><p>Die vergangenen Jahre hätten gezeigt, wie schnell sich die wirtschaftlichen Rahmenbedingungen ändern können: Stichworte Pandemie und globale Handelspolitik. "Es ist wichtig, dass die Öffentlichkeit versteht, wie wir unser Konzept auf die aktuellen Gegebenheiten anwenden, um Preisstabilität zu gewährleisten", so Schlegel.</p>
+<p/><h3>Direktorium bleibt Kollektiv</h3>
+<p/><p>Die SNB wird aber auch in Zukunft keine Details zu einzelnen Voten geben. Das Direktorium der Notenbank sei - wie der Bundesrat und die Kantonsregierungen - eine Kollegialbehörde. Die Beratungen und der Zinsentscheid würden daher als Kollektiv dargelegt.</p>
+<p/><p>Denn es sei wichtig, dass die Währungshüter den Zinsentscheid offen diskutieren können. Die Veröffentlichung dürfe den einzelnen nicht davon abhalten, seine Meinung frei zu äussern. Jedes Direktoriumsmitglied bringe die eigenen Ansichten ein, danach solle ein gemeinsamer Entscheid gefällt und geschlossen vertreten werden.</p>
+<p/><p>Zwar stärke Transparenz die Glaubwürdigkeit der SNB und "ermöglicht es der Öffentlichkeit, unser Handeln nachzuvollziehen", so Schlegel. Mehr Transparenz sei allerdings "nicht immer besser".</p>
+<p/><h3>Internationaler Standard</h3>
+<p/><p>Mit der Veröffentlichung einer Zusammenfassung der Sitzungen folgt die SNB einem internationalen Trend. "Für Zentralbanken ist es zum Standard geworden, über ihre geldpolitischen Diskussionen zu berichten", sagte denn auch Schlegel.</p>
+<p/><p>Sowohl die US-Notenbank Fed als auch die Europäische Zentralbank EZB veröffentlichen jeweils die Protokolle ihrer Zinssitzungen. Die nächste geldpolitische Lagebeurteilung der SNB ist am 25. September.</p>
+<p/><p>ys/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
