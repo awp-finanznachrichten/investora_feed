@@ -17,7 +17,3 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
 
-> library(git2r)
-Warning message:
-package 'git2r' was built under R version 4.4.3 
-> library(DBI) 
