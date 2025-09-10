@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T070409+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>509</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:509:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T070409+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T070409+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Galenica schliesst Übernahme von Labor Team ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016030"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3027 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2042236061">
+<Property FormalName="FullName" Value="Galenica AG" />
+
+<Property FormalName="ShortName" Value="Galenica" />
+
+<Property FormalName="Telekurs" Value="748474" />
+
+<Property FormalName="CHNr" Value="CH-036.3.069.575-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0360674466" />
+
+<Property FormalName="Ticker" Value="GALE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0367206700" />
+
+<Property FormalName="Ticker" Value="GAL171" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1255924453" />
+
+<Property FormalName="Ticker" Value="GAL23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1331113634" />
+
+<Property FormalName="Ticker" Value="GAL24" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp) - Der Gesundheitskonzern Galenica hat die Übernahme des Schweizer Diagnostikdienstleisters Labor Team Gruppe abgeschlossen. Mit dem vor zwei Monaten angekündigten Zukauf steigt Galenica ins Diagnostikgeschäft ein.</p>
+<p/><p>Der Vollzug erfolgte am 9. September nach Zustimmung der Eidgenössischen Wettbewerbskommission (Weko), wie Galenica am Mittwoch mitteilte. Labor Team wird als eigenständige Geschäftseinheit "Galenica Diagnostics" im Segment Products &amp; Care geführt und weiter unter der Marke Labor Team auftreten. Das bisherige Management um CEO Alain Cahen behält die operative Verantwortung.</p>
+<p/><p>Mit der Übernahme könne man neben Medikamenten- und Produktangeboten künftig auch Labordienstleistungen aus einer Hand anbieten, teilte Galenica weiter mit. Langfristig plant der Berner Gesundheitskonzern zudem, im Rahmen regulatorischer Möglichkeiten ausgewählte diagnostische Leistungen auch in Apotheken anzubieten.</p>
+<p/><p>jl/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
