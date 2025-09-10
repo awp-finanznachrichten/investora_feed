@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T133709+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>2305</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:2305:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T133709+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T133709+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BKW unterzeichnet Abkommen für grosse Batterie in Italien</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016023"/><Subject FormalName="06000000"/><Subject FormalName="04016013"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3013 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2073005594">
+<Property FormalName="FullName" Value="BKW AG" />
+
+<Property FormalName="ShortName" Value="BKW" />
+
+<Property FormalName="Telekurs" Value="566152" />
+
+<Property FormalName="CHNr" Value="CH-036.3.050.070-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0130293662" />
+
+<Property FormalName="Ticker" Value="BKW" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0117843745" />
+
+<Property FormalName="Ticker" Value="BKW10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0435590358" />
+
+<Property FormalName="Ticker" Value="BKW018" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0487087295" />
+
+<Property FormalName="Ticker" Value="BKW019" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179184390" />
+
+<Property FormalName="Ticker" Value="BKW221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179184408" />
+
+<Property FormalName="Ticker" Value="BKW222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011192" />
+
+<Property FormalName="Ticker" Value="BKW24" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="ESG"/><Property FormalName="Subject" Value="NAT"/><Property FormalName="Subject" Value="ORD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die BKW hat ein langfristiges Abkommen zum Betrieb eines grossen Batterie-Energiespeichersystems in Norditalien abgeschlossen. Der Baubeginn ist für 2027 geplant und die Inbetriebnahme für 2028.</p>
+<p/><p>Ein langfristiger Vertrag mit Zelestra ermögliche die Umsetzung des Stromspeichers mit bis zu 2 Gigawattstunden, heisst es in einer Mitteilung des Schweizer Energiekonzerns vom Mittwoch. Zelestra stelle der BKW einen Teil der Erzeugungskapazität der Anlage zur Verfügung, um die Flexibilität am Markt zu steuern und zu optimieren. Der Langfristvertrag laufe von 2028 bis 2040, sagte eine Sprecherin auf Anfrage der Nachrichtenagentur AWP.</p>
+<p/><p>Es handelt sich laut der BKW um ein "Tolling Agreement". Eine solche sogenannte Mautvereinbarung im Strombereich ist ein Vertrag, bei dem der Eigentümer eines Batteriespeichers einem kommerziellen Betreiber die Nutzung seiner Speicherleistung für einen garantierten Betrag überlässt.</p>
+<p/><p>Die Finanzierung vieler Grossprojekte im Bereich der erneuerbaren Energien lässt sich nur durch derartige langfristige Vereinbarungen sicherstellen. Der Anlagenentwickler erhält auf diese Weise Planungssicherheit und eine stabile Einnahmequelle.</p>
+<p/><p>ys/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
