@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T120410+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>1892</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:1892:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T120410+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T120410+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Anleihe: Siegfried Holding nimmt 300 Mio Franken für sechs Jahre auf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197362">
+<Property FormalName="FullName" Value="Siegfried Holding AG" />
+
+<Property FormalName="ShortName" Value="Siegfried" />
+
+<Property FormalName="Telekurs" Value="119632" />
+
+<Property FormalName="CHNr" Value="CH-400.3.912.115-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0014284498" />
+
+<Property FormalName="Ticker" Value="SFZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1115424678" />
+
+<Property FormalName="Ticker" Value="SFZ21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1429326825" />
+
+<Property FormalName="Ticker" Value="SFZN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Siegfried Holding begibt eine Anleihe unter der Federführung der Commerzbank und ZKB zu folgenden Konditionen:</p>
+<p/><pre>Betrag:         300 Mio Fr. (mit Aufstockungsmöglichkeit)
+Coupon:         1,300%       
+Emissionspreis: 100,158%
+Laufzeit:       6 Jahre bis 08.10.2031
+Liberierung:    08.10.2025
+Yield to Mat.:  1,2725%
+Spread (MS):    +110 BP
+Spread (Govt.): +123 BP   
+ISIN:           CH1471403886
+Rating:         BBB-stb/Baa-stb (UBS/Fedafin)
+Kotierung:      SIX, ab 07.10.2025
+</pre><p/><p>cg/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
