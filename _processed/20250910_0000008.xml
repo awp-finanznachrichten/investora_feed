@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T091510+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>1237</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:1237:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T091510+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T091510+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Hypi Lenzburg qualifiziert sich für Liquiditätsprogramm der SNB</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016019"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="5600" />
+
+<Property FormalName="City" Value="3011 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197616">
+<Property FormalName="FullName" Value="Hypothekarbank Lenzburg" />
+
+<Property FormalName="ShortName" Value="Hypi Lenzburg" />
+
+<Property FormalName="Telekurs" Value="28711" />
+
+<Property FormalName="CHNr" Value="CH-400.3.903.227-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001341608" />
+
+<Property FormalName="Ticker" Value="HBLN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197664">
+<Property FormalName="FullName" Value="Schweizerische Nationalbank" />
+
+<Property FormalName="ShortName" Value="SNB" />
+
+<Property FormalName="Telekurs" Value="22802" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.957-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001319265" />
+
+<Property FormalName="Ticker" Value="SNBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lenzburg (awp) - Die Hypothekarbank Lenzburg erfüllt die Bedingungen zur Teilnahme am SNB-Programm "Liquidität gegen hypothekarische Sicherheiten" (LGHS). Damit verschafft sie sich zusätzliche Finanzierungsstabilität und mehr Effizienz in der Verarbeitung.</p>
+<p/><p>Die "Hypi" sei die erste Regionalbank der Schweiz, welche die Bedingungen für das Programm erfülle, teilte das Institut am Mittwoch mit. Das Programm ermöglicht inländischen Banken, im Krisenfall Liquidität durch die Verpfändung von Hypothekarforderungen auf Schweizer Liegenschaften zu erhalten, wenn sie sich nicht mehr am Markt refinanzieren können.</p>
+<p/><p>Das LGHS-Programm wurde im Jahr 2019 eingeführt. Es wurde 2023 bedeutend erweitert, als die SNB die LGHS-Initiative auf den gesamten Bankensektor ausweitete. Zuvor war sie hauptsächlich für systemrelevante Banken vorgesehen. Die Teilnahme ist jedoch nur möglich, wenn sich die Banken entsprechend vorbereitet haben.</p>
+<p/><p>ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
