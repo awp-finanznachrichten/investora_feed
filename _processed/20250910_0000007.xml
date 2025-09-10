@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T084309+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>1035</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:1035:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T084309+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T084309+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Baloise sieht sich mit Refokussierungsstrategie auf Kurs</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016005"/><Subject FormalName="04016015"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4002" />
+
+<Property FormalName="City" Value="9001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197153">
+<Property FormalName="FullName" Value="Baloise-Holding AG" />
+
+<Property FormalName="ShortName" Value="Baloise" />
+
+<Property FormalName="Telekurs" Value="147250" />
+
+<Property FormalName="CHNr" Value="CH-270.3.000.505-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0458097976" />
+
+<Property FormalName="Ticker" Value="BAL190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496692978" />
+
+<Property FormalName="Ticker" Value="BAL192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496692986" />
+
+<Property FormalName="Ticker" Value="BAL193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553331817" />
+
+<Property FormalName="Ticker" Value="BAL20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553331825" />
+
+<Property FormalName="Ticker" Value="BAL201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0593641068" />
+
+<Property FormalName="Ticker" Value="BAL210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1130818839" />
+
+<Property FormalName="Ticker" Value="BAL211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148728210" />
+
+<Property FormalName="Ticker" Value="BAL22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1199322350" />
+
+<Property FormalName="Ticker" Value="BAL221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367661" />
+
+<Property FormalName="Ticker" Value="BAL222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1232107180" />
+
+<Property FormalName="Ticker" Value="BAL023" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1256367199" />
+
+<Property FormalName="Ticker" Value="BAL231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614145" />
+
+<Property FormalName="Ticker" Value="BAL24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185880" />
+
+<Property FormalName="Ticker" Value="BAL25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012410517" />
+
+<Property FormalName="Ticker" Value="BALN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193865">
+<Property FormalName="FullName" Value="Helvetia Holding AG" />
+
+<Property FormalName="ShortName" Value="Helvetia" />
+
+<Property FormalName="Telekurs" Value="474438" />
+
+<Property FormalName="CHNr" Value="CH-320.3.040.603-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0466642201" />
+
+<Property FormalName="Ticker" Value="HELN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Die Baloise sieht sich für den Zusammenschluss mit der Helvetia gut vorbereitet. Die Gruppe hat die erste Jahreshälfte 2025 mit einer deutlichen Gewinnsteigerung abgeschlossen und treibt den Umbau des Geschäfts voran. Die Versicherungsgruppe ist wie versprochen rentabler geworden.</p>
+<p/><p>"Baloise hat im ersten Semester 2025 ein sehr gutes Ergebnis erzielt. Unser Kerngeschäft konnten wir weiter optimieren, den Schaden-Kosten-Satz verbessern und die Profitabilität steigern", wird Baloise-Chef Michael Müller in der Mitteilung zum Halbjahresabschluss vom Mittwoch zitiert.</p>
+<p/><p>Dabei gelang es der Baloise dank einer klar verbesserten Schaden-Kosten-Quote im Nichtlebenteil und guten Finanzergebnissen, den Gewinn um einen Viertel auf 275,9 Millionen Franken zu steigern. Und die annualisierte Eigenkapitalrendite übertraf mit 15,5 Prozent die bis 2027 angestrebte Bandbreite von 12 bis 15 Prozent.</p>
+<p/><p>Ein Jahr nach dem Start der Refokussierungsstrategie zeige sich, dass die Baloise Fortschritte erziele, so Müller weiter. In diesem Programm hat die Gruppe den Fokus auf die Entwicklung der Kerngeschäfte Versicherung, Asset Management und Bank gelegt. Die Effizienz wurde verbessert und beim Zeichnen von Neugeschäft ging die Gruppe selektiv ans Werk.</p>
+<p/><p>In allen Ländereinheiten seien im Nichtlebengeschäft positive Preiseffekte realisiert worden, hiess es. Dabei entwickelte sich das deutsche Geschäft mit einem Wachstum von 8,5 Prozent in Lokalwährung positiv. In diesem Markt hatte die Gruppe zuletzt auch Rückschläge hinnehmen müssen.</p>
+<p/><p>Im Lebengeschäft sanken derweil die Prämien, während die teilautonome Sammelstiftung Pespectiva Wachstum verbuchte. Die Baloise Bank und das Asset Management steigerten indes beide ihre Ergebnisse und es wurden Neukunden dazugewonnen. Das Insurbanking-Modell in der Schweiz bewähre sich.</p>
+<p/><p>Mit einer SST-Kapitalquote von geschätzt 215 Prozent sei die Gruppe "sehr gut kapitalisiert", hiess es weiter. Ins Jahr gestartet war man mit einer Quote von 204 Prozent. In diesem Jahr sei mit einer "starken" Barmittelgenerierung zu rechnen. Von 2024 und 2027 will die Baloise über 2 Milliarden Franken an Barmittel erwirtschaften für Ausschüttungen an die Aktionäre.</p>
+<p/><p>mk/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
