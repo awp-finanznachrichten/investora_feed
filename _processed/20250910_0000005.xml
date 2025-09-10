@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250910T075108+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250910</DateId>
+			<NewsItemId>639</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250910:639:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250910T075108+0200</FirstCreated>
+		<ThisRevisionCreated>20250910T075108+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Bioversys hat noch Barmittel von 92 Millionen Franken</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016037"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4057 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2076734224">
+<Property FormalName="FullName" Value="BioVersys AG" />
+
+<Property FormalName="ShortName" Value="Bioversys" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-400.4.030.951-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0210362643" />
+
+<Property FormalName="Ticker" Value="BIOV" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Der Börsenneuling Bioversys hat am Mittwoch erstmals Halbjahreszahlen vorgelegt. Wir zu erwarten, hat das Biotechunternehmen im ersten Semester 2025 Verluste geschrieben, da sich alle Pipelinekandidaten noch in der Forschung befinden.</p>
+<p/><p>Die Finanzprognosen für das laufende Jahr werden leicht angehoben, wie das Unternehmen zudem mitmitteilte. Entsprechend sieht sich Bioversys nach wie vor bis ins Jahr 2028 finanziert.</p>
+<p/><p>Wie aus dem Communiqué hervorgeht, generierte Bioversys operative Einnahmen in Höhe von 0,6 Millionen Franken. Das waren 100'000 mehr als im Vorjahr. Dem standen Kosten von insgesamt 9,9 Millionen gegenüber, wobei der Löwenanteil (6,2 Mio) auf Forschung und Entwicklung entfiel.</p>
+<p/><p>Dies führte zu einem Betriebsverlust von 9,4 Millionen Franken, nach einem Fehlbetrag von 10,4 Millionen im Vorjahr. Der Nettoverlust stieg leicht um 0,6 Millionen auf 11,0 Millionen Franken.</p>
+<p/><h3>Geld bis 2028</h3>
+<p/><p>Wichtiger als die eigentlichen Zahlen sind bei Unternehmen wie Bioversys aber die Cashbestände, da sie Aufschluss darüber geben, wie lange das Unternehmen seine Aktivitäten noch finanzieren kann.</p>
+<p/><p>Nicht zuletzt dank der erfolgreichen Börsengang im Februar verfügte Bioversys per Mitte 2025 über Barmittel in Höhe von 92,1 Millionen Franken. Das Unternehmen sei damit bis ins Jahr 2028 finanziert.</p>
+<p/><p>Mit Blick auf die Pipeline bekräftigt Bioversys, noch im laufenden Jahr die zulassungsrelevante Studie mit den Hoffnungsträger BV100 zur Behandlung von Spitalinfektionen mit Carbapenem-resistentem Acinetobacter baumannii (CRAB) zu starten.</p>
+<p/><p>Für den zweiten Hoffnungsträger, Alpibectir, hat das Unternehmen eine Phase-II-Studie zur Behandlung pulmonaler Tuberkulose (TB) gestartet. Erste Top-Line-Daten würden für das zweite Quartal 2026 erwartet.</p>
+<p/><h3>Prognose leicht angehoben</h3>
+<p/><p>Die Finanzprognosen für das laufende Jahr wurden leicht angehoben. Demnach rechnet Bioversys nun mit einem operativen Verlust von 29 Millionen Franken. Bis dato hatte das Unternehmen eine Spanne von 32 bis 35 Millionen genannt.</p>
+<p/><p>Die liquiden Mittel zum Jahresende würden voraussichtlich 78 Millionen Franken betragen, hiess es weiter.</p>
+<p/><p>ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
