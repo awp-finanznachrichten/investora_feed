@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250911T124510+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250911</DateId>
+			<NewsItemId>1820</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250911:1820:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250911T124510+0200</FirstCreated>
+		<ThisRevisionCreated>20250911T124510+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BLKB-Gutachten kritisiert Rolle des Bankrats bei Radicant-Debakel</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04016048"/><Subject FormalName="04016039"/><Subject FormalName="04016027"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4410" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197636">
+<Property FormalName="FullName" Value="Basellandschaftliche Kantonalbank" />
+
+<Property FormalName="ShortName" Value="BLKB" />
+
+<Property FormalName="Telekurs" Value="25889" />
+
+<Property FormalName="CHNr" Value="CH-280.8.910.265-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001473559" />
+
+<Property FormalName="Ticker" Value="BLKB" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0274314787" />
+
+<Property FormalName="Ticker" Value="BLK15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0397450724" />
+
+<Property FormalName="Ticker" Value="BLK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0407153359" />
+
+<Property FormalName="Ticker" Value="BLK182" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040784" />
+
+<Property FormalName="Ticker" Value="BLK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041147" />
+
+<Property FormalName="Ticker" Value="BLK191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239086" />
+
+<Property FormalName="Ticker" Value="BLK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158994" />
+
+<Property FormalName="Ticker" Value="BLK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159034" />
+
+<Property FormalName="Ticker" Value="BLK221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159042" />
+
+<Property FormalName="Ticker" Value="BLK222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0565650832" />
+
+<Property FormalName="Ticker" Value="BLK202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0592087230" />
+
+<Property FormalName="Ticker" Value="BLK203" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1102417735" />
+
+<Property FormalName="Ticker" Value="BLK204" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1138869784" />
+
+<Property FormalName="Ticker" Value="BLK205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1216740667" />
+
+<Property FormalName="Ticker" Value="BLK225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1217066583" />
+
+<Property FormalName="Ticker" Value="BLK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1217066591" />
+
+<Property FormalName="Ticker" Value="BLK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991301" />
+
+<Property FormalName="Ticker" Value="BLK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991327" />
+
+<Property FormalName="Ticker" Value="BLK242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991335" />
+
+<Property FormalName="Ticker" Value="BLK243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991343" />
+
+<Property FormalName="Ticker" Value="BLK244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991384" />
+
+<Property FormalName="Ticker" Value="BLK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204314" />
+
+<Property FormalName="Ticker" Value="BLK251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Liestal (awp/sda) - Das am Donnerstag veröffentlichte Gutachten zur Basellandschaftlichen Kantonalbank (BLKB) stellt Mängel bei der Gewaltenteilung fest. Beim Kauf der Firma Numarics sei der Bankrat wesentlich stärker eingebunden gewesen "als dies im Rahmen einer reinen Aufsichtsfunktion zielführend gewesen wäre", heisst es im Bericht.</p>
+<p/><p>Die nicht angemessene Gewaltenteilung sei aus seiner Sicht eine "schwerwiegende Beanstandung", sagte der interimistische Bankratspräsident Thomas Bauer vor den Medien. Bankrat und Geschäftsleitung hätten demgemäss nicht in der vorgesehenen Art zusammengearbeitet.</p>
+<p/><p>"Es gab Informations-Asymmetrien", sagte Bauer. Die einen hätten etwas gewusst, was den anderen nicht bekannt gewesen sei. Der Bericht beinhalte aber keine "Schuldzuweisung" an bestimmte Personen oder Gremien, betonte Bauer.</p>
+<p/><p>Das Gutachten des Wirtschaftsprüfers GWP nimmt die Rolle der BLKB-Spitze beim Abschreiber von 105,5 Millionen bei der Tochterfirma Radicant unter die Lupe. Der vollständige Bericht ist nicht einsehbar, doch die BLKB veröffentlichte am Donnerstag einen Auszug daraus sowie die Empfehlungen der GWP.</p>
+<p/><h3>Zukunft von Radicant bleibt offen</h3>
+<p/><p>Die Digitalbank Radicant und das auf Treuhand-Dienstleistungen spezialisierte Fintech Numarics vollzogen letztes Jahr den Zusammenschluss. Diese Übernahme sei nach seiner Einschätzung das Hauptproblem gewesen und habe zu dieser hohen Wertberechtigung geführt, sagte Bauer weiter.</p>
+<p/><p>Ob die BLKB an Radicant festhält, ist weiterhin offen. Jedenfalls löste der Bankrat in seiner neuen Zusammensetzung den Beschluss des Gremiums in der alten Besetzung vom 3. Juli auf, wie Bauer bestätigte. Dieser Beschluss hielt fest, Radicant weiterzuführen. Da dieser nun rückgängig gemacht wurde, prüfe die BLKB nun verschiedene Lösungen in Bezug auf Radicant.</p>
+<p/><p>Die GWP kommt zum Schluss, dass die Entscheidungsgrundlagen des Bankrats "nicht vollständig, transparent und ausgewogen" waren. Sie kritisiert auch die Berichterstattung gegenüber dem Eigner, dem Kanton Basel-Landschaft. "Aus unserer Sicht wäre es angezeigt gewesen, eine stufenweise Publizierung der finanziellen Lage zu prüfen", heisst es im Gutachten.</p>
+<p/><p>Eine frühere Bekanntgabe der finanziellen Schwierigkeiten hätte das Bild der Radicant den "Tatsachen entsprechend" dargestellt. Stattdessen seien die Probleme erst viel zu spät, nämlich mit der Bekanntgabe über die Wertberichtigung am 3. Juli öffentlich bekannt geworden. Diese Einschätzung im Bericht werde den Bankrat "noch intensiv beschäftigen", sagte Bauer.</p>
+<p/><h3>Rolle der Geschäftsleitung stärken</h3>
+<p/><p>Das Gutachten empfiehlt der BLKB in Bezug auf die Gewaltenteilung, ihre Governance-Vorgaben zu überprüfen. Rollen und Entscheidungsmechanismen seien klar zu definieren. Dabei solle die Rolle der Geschäftsleitung gestärkt und die Trennung zwischen strategischer Aufsicht und operativer Führung verbindlich gezogen werden.</p>
+<p/><p>Wichtige Entscheidungen sollten künftig durch eine Due Diligence-Prüfung, also eine sorgfältige Prüfung bei Transaktionen, abgesichert werden, bei Bedarf auch mit externen Beratern, wie es weiter in den Empfehlungen heisst.</p>
+<p/><p>Sein Ziel sei es, dass die Bank bis Ende Jahr die Lehren aus dem Numarics-Engagement und der Wertberichtigung abschliessend gezogen hat, sagte der Bankratspräsident zum weiteren Vorgehen nach dem Gutachten.</p>
+<p/><p>Die BLKB nahm Anfang Juli die besagte hohe Wertberichtigung vor. Daraufhin verliessen Bankratspräsident Thomas Schneider und CEO John Häfelfinger die BLKB per Ende Juli. Bei Radicant nehmen Verwaltungsratspräsident Marco Primavesi und CEO Anton Stadelmann per Ende 2025 beziehungsweise per Ende Februar 2026 den Hut.</p>
+<p/><p>Anschliessend entschied der Bankrat in Abstimmung mit dem Kanton, eine unabhängige Abklärung einzuleiten. Die dafür beauftragte Firma GWP untersuchte den Zeitraum vom September 2024 bis Juli 2025. Sie richtete ihr Augenmerk gemäss Auftrag ausschliesslich auf die Abläufe innerhalb der BLKB im Zusammenhang mit der Transaktion und den Wertberichtigungen. Im August ernannte die BLKB Thomas Bauer zum neuen Bankratspräsidenten für voraussichtlich ein Jahr.</p>
+<p/><p>mk/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
