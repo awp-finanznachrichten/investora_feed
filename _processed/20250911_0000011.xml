@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250911T103409+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250911</DateId>
+			<NewsItemId>1325</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250911:1325:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250911T103408+0200</FirstCreated>
+		<ThisRevisionCreated>20250911T103408+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sulzer schliesst fünfjährigen Liefervertrag mit Veolia</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016013"/><Subject FormalName="04016023"/><Subject FormalName="04005000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8401" />
+
+</Property>
+
+<Property FormalName="Country" Value="FR">
+<Property FormalName="City" Value="75116" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197527">
+<Property FormalName="FullName" Value="Sulzer AG" />
+
+<Property FormalName="ShortName" Value="Sulzer" />
+
+<Property FormalName="Telekurs" Value="82184" />
+
+<Property FormalName="CHNr" Value="CH-020.3.925.416-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0038388911" />
+
+<Property FormalName="Ticker" Value="SUN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0326371462" />
+
+<Property FormalName="Ticker" Value="SUL161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0561923845" />
+
+<Property FormalName="Ticker" Value="SUL20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0576402165" />
+
+<Property FormalName="Ticker" Value="SUL201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1223665063" />
+
+<Property FormalName="Ticker" Value="SUL22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910211" />
+
+<Property FormalName="Ticker" Value="SUL24" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191614">
+<Property FormalName="FullName" Value="Veolia Environnement SA" />
+
+<Property FormalName="ShortName" Value="Veolia" />
+
+<Property FormalName="Telekurs" Value="031911" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="FR0000124141" />
+
+<Property FormalName="Ticker" Value="VIE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="FR0010033381" />
+
+<Property FormalName="Ticker" Value="EU988" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ORD"/><Property FormalName="Subject" Value="JNV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Winterthur (awp) - Sulzer liefert über die nächsten fünf Jahre Wasser-, Abfall- und Energieanlagen an den französischen Konzern Veolia. Damit wird die bisherige Partnerschaft für die Stromerzeugung und kohlenstoffarme Kraftstoffe ausgebaut.</p>
+<p/><p>Der Vertrag deckt eine breite Palette von Pumpen, Mischern und Turbokompressoren ab, wie Sulzer am Donnerstag mitteilte. Er könne zudem um weitere Produkte ergänzt werden.</p>
+<p/><p>Veolia mit seinem Hauptsitz in Paris hat sich auf das Wasser-, Abfall- und Energiemanagement spezialisiert. Finanzielle Angaben zum neuen Rahmenvertrag werden in der Mitteilung keine gemacht.</p>
+<p/><p>ls/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
