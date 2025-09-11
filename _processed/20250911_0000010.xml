@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250911T101210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250911</DateId>
+			<NewsItemId>1258</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250911:1258:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250911T101209+0200</FirstCreated>
+		<ThisRevisionCreated>20250911T101209+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Israelische Firma baut Laborfleisch-Produktion in Kemptthal ZH auf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04016030"/><Subject FormalName="06000000"/><Subject FormalName="04016033"/><Subject FormalName="04002000"/><Subject FormalName="04011009"/><Subject FormalName="04007005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8005" />
+
+<Property FormalName="City" Value="1214" />
+
+<Property FormalName="City" Value="9240 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197425">
+<Property FormalName="FullName" Value="Migros-Genossenschafts-Bund" />
+
+<Property FormalName="ShortName" Value="Migros" />
+
+<Property FormalName="Telekurs" Value="106295" />
+
+<Property FormalName="CHNr" Value="CH-020.5.901.008-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002099569" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002099585" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191792">
+<Property FormalName="FullName" Value="Givaudan SA" />
+
+<Property FormalName="ShortName" Value="Givaudan" />
+
+<Property FormalName="Telekurs" Value="78786" />
+
+<Property FormalName="CHNr" Value="CH-660.0.028.929-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010645932" />
+
+<Property FormalName="Ticker" Value="GIVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0343366784" />
+
+<Property FormalName="Ticker" Value="GIV161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0572327036" />
+
+<Property FormalName="Ticker" Value="GIV20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308724" />
+
+<Property FormalName="Ticker" Value="GIV21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308732" />
+
+<Property FormalName="Ticker" Value="GIV211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714703" />
+
+<Property FormalName="Ticker" Value="GIV22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714711" />
+
+<Property FormalName="Ticker" Value="GIV220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916731" />
+
+<Property FormalName="Ticker" Value="GIV23" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2135719830">
+<Property FormalName="FullName" Value="Bühler Holding AG " />
+
+<Property FormalName="ShortName" Value="Bühler" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-320.3.001.557-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0389606077" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0389606085" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="RTS"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="NAT"/><Property FormalName="Subject" Value="PLO"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Kemptthal ZH (awp/sda) - Das israelische Unternehmen Aleph Farms baut im zürcherischen Kemptthal eine europäische Produktionsbasis für kultiviertes Fleisch aus Rinderzellen auf. Die Anlagen laufen bereits.</p>
+<p/><p>Die Zürcher Volkswirtschaftsdirektorin Carmen Walker Späh (FDP) informierte am Donnerstag anlässlich eines Medienanlasses vor Ort über die Ansiedlung des Unternehmens. Anschliessend stand eine Tour durch die Produktionsstätte auf dem Programm.</p>
+<p/><p>Dabei wurde auch die Unterzeichnung einer Absichtserklärung zwischen Aleph Farms und The Cultured Hub AG bekannt gegeben, einem Schweizer Joint-Venture von Migros Industrie, Givaudan und Bühler. Ziel des Hubs ist es, kultivierte Lebensmittel- und Non-Food-Produkt durch zelluläre Landwirtschaft zu kommerzialisieren. Am Standort Kemptthal stellt er Start-ups die nötige Infrastruktur sowie unterstützende Dienstleistungen bereit.</p>
+<p/><p>Mit dieser Unterzeichnung erreiche Aleph Farms einen "wichtigen Meilenstein" seiner internationalen Expansion und schaffe eine europäische Produktionsbasis. Damit lege das Unternehmen den Grundstein für die "lokale Herstellung der Premium-Linie kultivierten Rindfleischs", heisst es in einer gemeinsamen Medienmitteilung von Aleph Farms, The Cultured Hub und der Zürcher Volkswirtschaftsdirektion. Gleichzeitig entstehe durch die Vereinbarung ein "langfristiger Rahmen" für die Produktion im Kanton Zürich.</p>
+<p/><p>Die Ansiedlung von Aleph Farms sei ein "bedeutender Schritt" für die Region, heisst es in der Medienmitteilung. Regierungsrätin Walker Späh sagte, sie freue sich auf die vielen Innovationen im Bereich Food-Tech, die Aleph Farms im Kanton Zürich vorantreiben werde. "Die Ernährungsbranche ist ein Zukunftspfeiler einer widerstandsfähigen Volkswirtschaft", so Walker Späh.</p>
+<p/><h3>Erstes Zulassungsgesuch gestellt</h3>
+<p/><p>Das in Israel ansässige Unternehmen produziert kultivierte Steaks. Im Juli 2023 hatte es mit Unterstützung von Migros Industrie beim Bundesamt für Lebensmittelsicherheit und Veterinärwesen das erste Zulassungsgesuch für kultiviertes Rindfleisch in der Schweiz eingereicht.</p>
+<p/><p>2023 erhielt Aleph Farms auch von Israels Gesundheitsministerium die weltweit erste Zulassung für kultiviertes Rindfleisch, besser bekannt als "Laborfleisch". Seit der Gründung 2017 präsentierte das Unternehmen 2018 laut Medienmitteilung das weltweit erste kultivierte Dünnschnitt-Steak, 2021 ein Ribeye-Steak sowie 2022 kultiviertes Kollagen. Aleph Farms wird von Lebensmittelunternehmen, Finanzinstituten sowie Staatsfonds aus dem Nahen Osten und Südostasien unterstützt, wie es weiter heisst.</p>
+<p/><p>Ebenfalls in Kemptthal angesiedelt ist der Fleischersatzhersteller Planted, der 2019 als Spin-off der ETH Zürich gegründet wurde.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
