@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250911T071809+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250911</DateId>
+			<NewsItemId>520</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250911:520:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250911T071809+0200</FirstCreated>
+		<ThisRevisionCreated>20250911T071809+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Galderma stellt an Kongress neue Studiendaten vor</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016037"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2061255917">
+<Property FormalName="FullName" Value="Galderma Group AG" />
+
+<Property FormalName="ShortName" Value="Galderma" />
+
+<Property FormalName="Telekurs" Value="711366" />
+
+<Property FormalName="CHNr" Value="CH-170-3046903-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1335392721" />
+
+<Property FormalName="Ticker" Value="GALD" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904403" />
+
+<Property FormalName="Ticker" Value="GAD24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904411" />
+
+<Property FormalName="Ticker" Value="GAD241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1399999973" />
+
+<Property FormalName="Ticker" Value="GAD25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1399999981" />
+
+<Property FormalName="Ticker" Value="GAD251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Der Dermatologiekonzern Galderma wird am Kongress der Europäischen Akademie für Dermatologie und Venerologie (EADV) Neuigkeiten aus seinem Portfolio vorstellen. Darunter die Ergebnisse einer erstmals in China durchgeführten Studie des Global Sensitive Skin Faculty (GSSF).</p>
+<p/><p>Dieses zeigte die biologischen Auswirkungen moderner Lebensweisen und umweltbedingter Faktoren, teilte das Zuger Unternehmen am Donnerstag in einem Communiqué mit. Bereits am Vortag hatte Galderma mitgeteilt, dass die medizinische Hautpflegemarke Alastin nun auch in China lanciert wurde.</p>
+<p/><p>ra/pre</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>

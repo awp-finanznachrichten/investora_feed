@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250911T072308+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250911</DateId>
+			<NewsItemId>524</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250911:524:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250911T072308+0200</FirstCreated>
+		<ThisRevisionCreated>20250911T072308+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>R&amp;S Group hat Halbjahres-Gewinn mehr als verdoppelt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8808" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2014459831">
+<Property FormalName="FullName" Value="R&amp;S Group Holding AG" />
+
+<Property FormalName="ShortName" Value="R&amp;S" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-130.3.029.284-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1107979838" />
+
+<Property FormalName="Ticker" Value="RSGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Sissach (awp) - Der Baselbieter Trafohersteller R&amp;S hat im ersten Halbjahr 2025 den Gewinn mehr als verdoppelt. Sie übertraf dabei die Erwartung der Analysten. Die Profitabilität ging wie angekündigt leicht zurück wegen Portfolioeffekten aus der Übernahme der irischen Kyte Powertech.</p>
+<p/><p>Das Unternehmen wies einen Nettogewinn von 28,8 Millionen Franken aus, nach 12,1 Millionen Franken im Vorjahreszeitraum, wie das Unternehmen am Donnerstag mitteilte. Auch das operative Ergebnis legte spürbar zu: Der EBIT erreichte 40,2 Millionen Franken gegenüber 24 Millionen Franken im ersten Halbjahr 2024. Damit verbesserte sich der absolute Wert deutlich, wenngleich die EBIT-Marge leicht von 21,8 auf 19,5 Prozent zurückging.</p>
+<p/><p>Der freie Cashflow lag mit 5,2 Millionen Franken leicht unter dem Vorjahreswert. Das Management führte dies auf zusätzliche Investitionen in Produktion und Wachstum zurück. Diese sollen vor allem die steigende Nachfrage absichern, etwa durch den Ausbau von Kapazitäten im polnischen Bochnia sowie durch eine neue Transformatorenfabrik in Lodz.</p>
+<p/><p>CEO Eduardo Terzi, der seit Juni im Amt ist, sprach in der Mitteilung von einem Beweis für die erfolgreiche Umsetzung der Wachstumsstrategie. Um den profitablen Kurs fortzusetzen, wolle die Gruppe ihre Schwerpunkte künftig stärker auf ausgewählte Märkte und Kunden richten. Zudem kündigte der CEO an, Prozesse und Kosten weiter zu optimieren und die Innovation auszubauen. Mit diesen Prioritäten sehe sich das Unternehmen gut gerüstet, die anstehenden Herausforderungen zu meistern, hiess es.</p>
+<p/><p>Die restlichen Kennzahlen in der Mitteilung wurden bereits Ende Juli kommuniziert: Von Januar bis Juni verdoppelte R&amp;S den Umsatz auf 206,3 Millionen Franken und übertraf die Analystenerwartungen. Der Auftragseingang stieg auf 244,8 Millionen von 141,0 Millionen Franken. Der Auftragsbestand lag per Ende Juni bei rund 306 Millionen Franken nach 278 Millionen per Ende 2024. Treiber war neben der starken Nachfrage auch die Konsolidierung der 2024 übernommenen Kyte Powertech.</p>
+<p/><p>to/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
