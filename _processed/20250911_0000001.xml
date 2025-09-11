@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250911T070809+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250911</DateId>
+			<NewsItemId>493</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250911:493:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250911T070808+0200</FirstCreated>
+		<ThisRevisionCreated>20250911T070808+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BVZ-Gruppe schreibt im ersten Halbjahr Rekorde</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3920" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191925">
+<Property FormalName="FullName" Value="BVZ Holding AG" />
+
+<Property FormalName="ShortName" Value="BVZ" />
+
+<Property FormalName="Telekurs" Value="39473" />
+
+<Property FormalName="CHNr" Value="CH-600.3.004.792-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008207356" />
+
+<Property FormalName="Ticker" Value="BVZN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zermatt (awp) - Die Bahn- und Touristikgruppe BVZ ist im ersten Halbjahr gewachsen und hat so viele Gäste befördert wie nie zuvor. Darüber hinaus hat das Walliser Unternehmen deutlich mehr Geld verdient. Allerdings hatte im Vorjahr ein Unwetter den Betrieb bei Zermatt erheblich gestört.</p>
+<p/><p>In den Monaten Januar bis Juni 2025 stieg der Gesamtertrag um 7,6 Prozent auf rekordhohe 111,6 Millionen Franken, wie die BVZ am Donnerstag mitteilte. Die Zahl der Reisenden nahm insgesamt um 10 Prozent auf knapp 5,4 Millionen zu. Auch das ist für die ersten sechs Monate ein Rekord.</p>
+<p/><p>Der Betriebsgewinn EBITDA ging um 15 Prozent hoch auf 34,9 Millionen Franken, während unter dem Strich ein um 38 Prozent auf 13,1 Millionen verbesserter Reingewinn verblieb. Im Vorjahr hatten nicht zuletzt hohe Kosten für Bahnersatzbusse auf den Gewinn gedrückt.</p>
+<p/><h3>Grosse Nachfrage aus Asien und den USA</h3>
+<p/><p>Ohne die von der Öffentlichen Hand erhaltenen Leistungen legten die Markterlöse um 7 Prozent auf 94,2 Millionen zu. Die zwischen Andermatt und Zermatt verkehrende Matterhorn Gotthard Bahn (MGBahn) steuerte 41,3 Millionen (+4%) dazu bei. Vor allem auf der Strecke Brig-Zermatt sei die Nachfrage gross gewesen, hiess es.</p>
+<p/><p>Auf dem Weg auf das Zermatter Ausflugsziel Gornergrat erwirtschaftete die BVZ 24,3 Millionen Franken, ein Plus von 12 Prozent. Höhere Sommertarife und eine Reduktion beim Gruppenrabatt hätten zu Wachstum geführt. Zudem nahm die Gästezahl um 4 Prozent auf knapp 420'000 zu. Mit den Beteiligungen wurden 25,4 Millionen (+8%) und mit Immobilien unverändert 3,2 Millionen eingenommen.</p>
+<p/><p>"Die Besucherzahlen aus dem Heimmarkt sowie aus allen Nah- und Fernmärkten sind konstant hoch geblieben", wird VR-Präsident Patrick Z'Brun in der Mitteilung zitiert. Gäste aus den USA und aus asiatischen Märkten hätten die Schweiz auch im ersten Halbjahr in grosser Anzahl besucht.</p>
+<p/><h3>Bereit für die Zukunft</h3>
+<p/><p>Obwohl geopolitische und wirtschaftliche Unsicherheiten bleiben, sieht CEO Egon Gsponer die BVZ-Gruppe "auf ihrem Weg in die Zukunft gut aufgestellt". "Die Vorzeichen sind gut, dass wir im Geschäftsjahr 2025 an die sehr guten Zahlen des Vorjahres anknüpfen können", so Gsponer.</p>
+<p/><p>In dem bis 2028 laufenden Strategieprogramm hat die BVZ laut den Angaben eine Vielzahl von Projekten an die Hand genommen. Im Immobilienbereich etwa schreite die Planung der zweiten Etappe des Projekts Andermatt Central voran. Und auf dem Weg nach Zermatt würden die Vorbereitungen für den Bau des Mattertal-Tunnels planmässig verlaufen. Er soll die Bahn besser vor Naturgefahren schützen.</p>
+<p/><p>mk/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
