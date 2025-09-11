@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250911T100409+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250911</DateId>
+			<NewsItemId>1243</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250911:1243:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250911T100409+0200</FirstCreated>
+		<ThisRevisionCreated>20250911T100409+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Medmix und Gurit lancieren gemeinsame Klebstofflösung</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016023"/><Subject FormalName="04016030"/><Subject FormalName="04002000"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+<Property FormalName="City" Value="9630" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2017585455">
+<Property FormalName="FullName" Value="Medmix AG" />
+
+<Property FormalName="ShortName" Value="Medmix" />
+
+<Property FormalName="Telekurs" Value="890668" />
+
+<Property FormalName="CHNr" Value="CH-170.3.046.190-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1129677105" />
+
+<Property FormalName="Ticker" Value="MEDX" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197003">
+<Property FormalName="FullName" Value="Gurit Holding AG" />
+
+<Property FormalName="ShortName" Value="Gurit" />
+
+<Property FormalName="CHNr" Value="CH-320.3.024.129-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1173567111" />
+
+<Property FormalName="Ticker" Value="GURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Medmix und Gurit arbeiten im Bereich Klebstoff zusammen. Gemeinsam lancieren die beiden Unternehmen ein Lösungen für nachhaltige industrielle Klebeanwendungen.</p>
+<p/><p>Dabei wird der BondPro-Klebstoff von Gurit mit dem Mixpac-greenLine-Kartuschensystem von Medmix verbunden, wie einer Mitteilung vom Donnerstag zu entnehmen ist. Das Angebot ziele auf die Bereiche Automobil, Transport, Industrie, Bauwesen und Landwirtschaft.</p>
+<p/><p>sta/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
