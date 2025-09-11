@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250911T190611+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250911</DateId>
+			<NewsItemId>3299</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250911:3299:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250911T190611+0200</FirstCreated>
+		<ThisRevisionCreated>20250911T190611+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Villars Holding erzielt im ersten Halbjahr weniger Gewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/><Subject FormalName="04007005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1701" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196546">
+<Property FormalName="FullName" Value="Villars Holding SA" />
+
+<Property FormalName="ShortName" Value="Villars" />
+
+<Property FormalName="Telekurs" Value="260964" />
+
+<Property FormalName="CHNr" Value="CH-217.0.130.284-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002609656" />
+
+<Property FormalName="Ticker" Value="VILN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Industry" Value="RTS"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Freiburg (awp) - Das Immobilienverwaltungs- und Detailhandelsunternehmen Villars hat in den ersten sechs Monaten 2025 nicht zuletzt wegen geringer Treibstoffverkäufe einen Umsatzrückgang hinnehmen müssen. Unter dem Strich resultierte ein tieferer Halbjahresgewinn.</p>
+<p/><p>Der Umsatz verringerte sich im ersten Semester um 6,1 Prozent auf 30,1 Millionen Franken, wie dem am Donnerstag publizierten Halbjahresbericht des Westschweizer Unternehmens zu entnehmen ist. Der EBIT erhöhte sich dennoch um rund einen Drittel auf 1,8 Millionen Franken während der Reingewinn nach einer deutlich gestiegenen Steuerbelastung mit 1,2 Millionen Franken (-15%) ebenfalls unter dem Vorjahr ausfiel.</p>
+<p/><p>Der grösste Geschäftsbereich Restoshop, der Tankstellen mit Shops betreibt, litt unter tieferen Treibstoffverkäufen aufgrund gesunkener Preise wie auch einer der zunehmenden Verbreitung der Elektromobilität in der Schweiz, wie es in dem Bericht heisst.</p>
+<p/><p>Auch die Umsätze bei den Gastronomiebetrieben der Pause-Café lagen unter dem Vorjahr, nachdem im vergangenen Jahr drei defizitäre Verkaufsstellen geschlossen wurden, wie es heisst. Die Bäckereikette Suard litt derweil nicht zuletzt unter einer provisorischen Verlagerung einer Verkaufsstelle wegen Umbauarbeiten.</p>
+<p/><p>Für das gesamte Geschäftsjahr 2025 erwartet Villars ebenfalls einen Umsatzrückgang im Vergleich zum Vorjahr. Die Massnahmen zur Kostenkontrolle in Verbindung mit dem Beitrag des Immobilienbereichs sollten allerdings dazu führen, dass der Jahresgewinn über dem Vorjahr ausfallen werden, heisst es.</p>
+<p/><p>tp/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
