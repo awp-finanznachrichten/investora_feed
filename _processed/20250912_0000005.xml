@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250912T115412+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250912</DateId>
+			<NewsItemId>1386</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250912:1386:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250912T115412+0200</FirstCreated>
+		<ThisRevisionCreated>20250912T115412+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Kundenschutz eingeschränkt: Bundesrat verabschiedet Finmag-Vorlage</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="11000000"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3011 " />
+
+<Property FormalName="City" Value="3003 " />
+
+<Property FormalName="City" Value="3003" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197664">
+<Property FormalName="FullName" Value="Schweizerische Nationalbank" />
+
+<Property FormalName="ShortName" Value="SNB" />
+
+<Property FormalName="Telekurs" Value="22802" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.957-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001319265" />
+
+<Property FormalName="Ticker" Value="SNBN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2060617517">
+<Property FormalName="FullName" Value="Eidgenössische Finanzmarktaufsicht (FINMA)" />
+
+<Property FormalName="ShortName" Value="FINMA" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="000000" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2060606534">
+<Property FormalName="FullName" Value="Bundesrat" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="000000" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="POL"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp) - Die Schweiz will die internationale Zusammenarbeit der Finanzmarktaufsicht (Finma) verbessern, damit Banken und Versicherungen auch künftig ungehindert Zugang zu ausländischen Märkten haben. Der Bundesrat verabschiedete am Freitag die Botschaft dazu ans Parlament. Der Kundenschutz wird teils eingeschränkt.</p>
+<p/><p>Mit der Vorlage soll "die Reputation und globale Rolle des Finanzplatzes" gestärkt werden, schrieb der Bundesrat.</p>
+<p/><p>Konkret will die Regierung erreichen, dass die Finma in Fällen von Marktmissbrauch Kundendaten schneller an ausländische Behörden weitergeben kann. Heute sind lange Beschwerdeverfahren möglich, die aus Sicht internationaler Partner die Zusammenarbeit erschweren.</p>
+<p/><p>Neben der Einschränkung des Kundenverfahrens sieht die Vorlage weitere Neuerungen vor. So soll die Finma besser in Prüf- und Anerkennungsverfahren ausländischer Aufseher eingebunden werden können, und die direkte Datenübermittlung durch Banken wird rechtlich klarer geregelt. Auch die grenzüberschreitende Zustellung von Dokumenten sowie Prüfungen durch ausländische Behörden sollen vereinfacht werden.</p>
+<p/><p>Zudem will der Bundesrat neue Grundlagen für Fernprüfungen im Revisionswesen und für die Mitwirkung der Nationalbank an internationalen Verfahren schaffen. Die Vorlage sieht Änderungen des Finanzmarktaufsichtsgesetzes (Finmag) und weiterer Erlasse vor.</p>
+<p/><h3>Kritik in der Vernehmlassung</h3>
+<p/><p>In der Vernehmlassung wurden die Pläne laut der Botschaft mehrheitlich begrüsst, umstritten war vor allem die Frage, wie stark die Rechte von Bankkundinnen und -kunden im Amtshilfeverfahren eingeschränkt werden sollen.</p>
+<p/><p>Während einige die vollständige Abschaffung der Anhörungs- und Beschwerderechte forderten, sprach sich eine Mehrheit für eine Einschränkung nur bei Marktmissbrauchsfällen aus. Kritiker betonten, dass rechtsstaatliche Garantien wie Verhältnismässigkeit und Vertraulichkeit unbedingt gewahrt bleiben müssten.</p>
+<p/><p>Auch bei der direkten Informationsübermittlung durch Banken an ausländische Aufsichtsbehörden gab es Kritik. Mehrere Stellungnahmen verlangten klarere Regeln für den Anwendungsbereich, um die Rechtssicherheit zu stärken. Dem kam der Bundesrat nach.</p>
+<p/><p>to/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
