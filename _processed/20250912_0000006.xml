@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250912T184610+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250912</DateId>
+			<NewsItemId>2710</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250912:2710:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250912T184610+0200</FirstCreated>
+		<ThisRevisionCreated>20250912T184610+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>HT5-Aktionäre stimmen Massnahmen für finanzielle Restrukturierung zu</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016002"/><Subject FormalName="04016039"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6281" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191482">
+<Property FormalName="FullName" Value="HT5 AG" />
+
+<Property FormalName="ShortName" Value="HT5" />
+
+<Property FormalName="Telekurs" Value="74498" />
+
+<Property FormalName="CHNr" Value="CH-100.3.008.224-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024666528" />
+
+<Property FormalName="Ticker" Value="HOCN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="AGM"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Hochdorf (awp) - Die Aktionärinnen und Aktionäre der HT5 haben am Freitag an einer ausserordentlichen Generalversammlung sämtliche Anträge des Verwaltungsrats genehmigt. Die in Nachlassstundung befindliche ehemalige Hochdorf kann sich damit auf die Suche nach einem Unternehmen für einen Zusammenschluss machen.</p>
+<p/><p>Die Aktionäre stimmten insbesondere der Umsetzung der Pflichtwandlung und der damit verbundenen Schaffung neuer Aktien sowie einer Nennwertreduktion zu. Die Anleihegläubiger des Unternehmens hatten bereits im Sommer der Pflichtwandlung der Anleihentitel in Aktien gutgeheissen.</p>
+<p/><p>Die Generalversammlung genehmigte des weiteren die Einführung einer "Opting-out"-Klausel. HT5 ist auf der Suche nach einem kotierungsinteressierten Unternehmen und strebt eine Fusion an. Der mögliche Fusionspartner soll so über einen sogenannten "Reverse Takeover" an die Schweizer Börse SIX gelangen. Ein Opting-Out entbindet diese Gesellschaft von einem möglicherweise nötigen Pflichtangebot.</p>
+<p/><p>Bei HT5 handelt es sich nur noch um eine "Firmenhülle" ohne operatives Geschäft. Das Kerngeschäft der ehemaligen Milchverarbeiterin Hochdorf wurde bekanntlich vergangenen Dezember an die schweizerisch-britische AS Equity Partners verkauft.</p>
+<p/><p>tp/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
