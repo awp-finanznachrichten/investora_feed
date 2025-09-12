@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250912T072210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250912</DateId>
+			<NewsItemId>434</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250912:434:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250912T072210+0200</FirstCreated>
+		<ThisRevisionCreated>20250912T072210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Helvetia und Baloise erhalten von Weko grünes Licht für Fusion</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016027"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9001" />
+
+<Property FormalName="City" Value="4002" />
+
+<Property FormalName="City" Value="3003" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193865">
+<Property FormalName="FullName" Value="Helvetia Holding AG" />
+
+<Property FormalName="ShortName" Value="Helvetia" />
+
+<Property FormalName="Telekurs" Value="474438" />
+
+<Property FormalName="CHNr" Value="CH-320.3.040.603-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0466642201" />
+
+<Property FormalName="Ticker" Value="HELN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197153">
+<Property FormalName="FullName" Value="Baloise-Holding AG" />
+
+<Property FormalName="ShortName" Value="Baloise" />
+
+<Property FormalName="Telekurs" Value="147250" />
+
+<Property FormalName="CHNr" Value="CH-270.3.000.505-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0458097976" />
+
+<Property FormalName="Ticker" Value="BAL190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496692978" />
+
+<Property FormalName="Ticker" Value="BAL192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496692986" />
+
+<Property FormalName="Ticker" Value="BAL193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553331817" />
+
+<Property FormalName="Ticker" Value="BAL20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0553331825" />
+
+<Property FormalName="Ticker" Value="BAL201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0593641068" />
+
+<Property FormalName="Ticker" Value="BAL210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1130818839" />
+
+<Property FormalName="Ticker" Value="BAL211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148728210" />
+
+<Property FormalName="Ticker" Value="BAL22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1199322350" />
+
+<Property FormalName="Ticker" Value="BAL221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367661" />
+
+<Property FormalName="Ticker" Value="BAL222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1232107180" />
+
+<Property FormalName="Ticker" Value="BAL023" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1256367199" />
+
+<Property FormalName="Ticker" Value="BAL231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614145" />
+
+<Property FormalName="Ticker" Value="BAL24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1454185880" />
+
+<Property FormalName="Ticker" Value="BAL25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012410517" />
+
+<Property FormalName="Ticker" Value="BALN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2060618060">
+<Property FormalName="FullName" Value="Wettbewerbskommission (Weko)" />
+
+<Property FormalName="ShortName" Value="WEKO" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="000000" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel/St.Gallen/Bern (awp) - Die im April angekündigte Grossfusion der beiden Versicherer Helvetia und Baloise nimmt eine weitere wichtige Hürde. Die Schweizer Wettbewerbskommission (Weko) habe den geplanten Zusammenschluss genehmigt, teilten die beiden Konzerne am Freitag mit.</p>
+<p/><p>Zudem habe auch die Europäische Kommission die sogenannte FSR-Prüfung (Foreign Subsidies Regulation) erfolgreich abgeschlossen. Bereits Anfang August hatte die Kommission mittgeteilt, dass die Fusion aus ihrer Sicht keine wettbewerbsrechtlichen Bedenken aufwirft.</p>
+<p/><p>Neu haben Helvetia und Baloise auch das Datum zum Vollzug der Fusion festgelegt. Die Transaktion soll bis am 5. Dezember vollzogen werden, sofern bis dann alle weiteren notwendigen Freigaben vorliegen, hiess es dazu. Noch offen ist beispielsweise der Entscheid der Schweizerischen Finanzmarktaufsicht (Finma).</p>
+<p/><p>Bereits im Mai hatten die Aktionärinnen und Aktionäre beider Gesellschaften der Fusion zur neuen "Helvetia Baloise Holding" zugestimmt. Die Gruppe wird mit einem kombinierten Geschäftsvolumen von über 20 Milliarden Franken und rund 22'000 Mitarbeitenden zum zweitgrössten Versicherer der Schweiz aufsteigen und innerhalb Europas den Top-10 der Branche angehören.</p>
+<p/><p>Im neuen Konzern mit Sitz in Basel wird Helvetia-Chef Fabian Rupprecht die operative Leitung als CEO der Gesellschaft übernehmen. Das Amt des Verwaltungsratspräsidenten soll Baloise-Präsident Thomas von Planta ausüben.</p>
+<p/><p>mk/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
