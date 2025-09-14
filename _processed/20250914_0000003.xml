@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250914T160642+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250914</DateId>
+			<NewsItemId>133</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250914:133:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250914T160642+0200</FirstCreated>
+		<ThisRevisionCreated>20250914T160642+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SGS-Chefin über Wachstumschancen und gescheiterte Bureau-Veritas-Übernahme</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016039"/><Subject FormalName="04016005"/><Subject FormalName="04016015"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1203" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196254">
+<Property FormalName="FullName" Value="SGS SA" />
+
+<Property FormalName="ShortName" Value="SGS" />
+
+<Property FormalName="Telekurs" Value="759153" />
+
+<Property FormalName="CHNr" Value="CH-660.0.023.919-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1256740924" />
+
+<Property FormalName="Ticker" Value="SGSN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0279135328" />
+
+<Property FormalName="Ticker" Value="SGS151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0352595927" />
+
+<Property FormalName="Ticker" Value="SGS17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633526" />
+
+<Property FormalName="Ticker" Value="SGS181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633534" />
+
+<Property FormalName="Ticker" Value="SGS18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536892588" />
+
+<Property FormalName="Ticker" Value="SGS201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189218006" />
+
+<Property FormalName="Ticker" Value="SGS23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222558" />
+
+<Property FormalName="Ticker" Value="SGS231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222566" />
+
+<Property FormalName="Ticker" Value="SGS232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990015" />
+
+<Property FormalName="Ticker" Value="SGS25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990023" />
+
+<Property FormalName="Ticker" Value="SGS251" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="NKL"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - SGS-CEO Géraldine Picaud hat im Interview mit der "Schweiz am Wochenende" ihre Prioritäten für den Prüf- und Inspektionskonzern bekräftigt. Es gehe nicht nur um Restrukturierung, sondern um drei gleichrangige Ziele: das Wachstum beschleunigen, die Beweglichkeit und Leistung des Unternehmens erhöhen sowie das Finanzprofil stärken.</p>
+<p/><p>Eine Dividendenpolitik über die eigenen Mittel hinaus werde es unter ihrer Führung nicht mehr geben. Bei SGS könnten Aktionäre wählen, ob sie die Ausschüttung bar oder in Aktien erhalten, so die Konzernchefin.</p>
+<p/><p>Die von ihr geprüfte Fusion mit Bureau Veritas sei letztlich an der Skepsis der Finanzmärkte gescheitert. Investoren hätten befürchtet, dass eine so grosse Fusion das Management zu stark mit Integrations- und Transaktionsaufgaben beschäftigen würde - und dadurch das Tagesgeschäft und die Kundenbetreuung vernachlässigt werden könnten.</p>
+<p/><h3>Wachstumstreiber Nachhaltigkeit und Digitalisierung</h3>
+<p/><p>Wachstumschancen sieht Picaud in den Bereichen Nachhaltigkeit, Digitalisierung und der Verlagerung globaler Lieferketten - das entspricht den seit längerem kommunizierten Strategiezielen des Prüf- und Inspektionskonzerns.</p>
+<p/><p>Auch in der Übernahme des US-Konzerns ATS für 1,3 Milliarden US-Dollar sieht sie einen wichtigen Schritt für künftiges Wachstum. Es war die grösste Übernahme in der Geschichte von SGS. Damit sei das Versprechen eingelöst worden, die Akquisitionsstrategie wieder aufzunehmen, so die CEO.</p>
+<p/><p>Zur geplanten Sitzverlegung nach Zug betonte Picaud, SGS sei und bleibe ein Schweizer Unternehmen. Zudem äusserte sie sich ausführlich zum Thema Frauen in Führungspositionen und ermutigte junge Kolleginnen, Karriere und Familie zu vereinen - auch wenn dies mit finanziellen Opfern verbunden sei.</p>
+<p/><p>jl</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
