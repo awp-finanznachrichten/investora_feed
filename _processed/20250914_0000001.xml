@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250914T151656+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250914</DateId>
+			<NewsItemId>126</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250914:126:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250914T151656+0200</FirstCreated>
+		<ThisRevisionCreated>20250914T151656+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swatch-Chef Hayek: Keine Börsenabkehr - Preiserhöhungen in den USA, China bremst</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04007010"/><Subject FormalName="04016015"/><Subject FormalName="04016048"/><Subject FormalName="11000000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="2000" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196689">
+<Property FormalName="FullName" Value="The Swatch Group SA" />
+
+<Property FormalName="ShortName" Value="Swatch" />
+
+<Property FormalName="Telekurs" Value="5165" />
+
+<Property FormalName="CHNr" Value="CH-645.1.000.444-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255151" />
+
+<Property FormalName="Ticker" Value="UHR" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255144" />
+
+<Property FormalName="Ticker" Value="UHRN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="LUX"/><Property FormalName="Subject" Value="DIV"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="POL"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Swatch-Group-CEO Nick Hayek kritisiert das "defensive" Auftreten der Schweiz im Zollstreit mit den USA. In einem Interview mit der "NZZ am Sonntag" schlägt er als starkes Signal 39-prozentige Exportzölle auf Goldbarren in Richtung USA vor. "Das wäre eine klare und starke Botschaft gegenüber den USA gewesen."</p>
+<p/><p>Operativ reagiert der Konzern auf die US-Zölle mit flexibler Preis- und Margensteuerung: Je nach Marke seien in Amerika Preiserhöhungen von 5 bis 15 Prozent geplant. "Dann gibt es natürlich Produkte, die der amerikanische Konsument einfach haben will, wie die MoonSwatch Moonshine Gold, die statt 400 Dollar jetzt 450 Dollar kostet", so Hayek.</p>
+<p/><p>Die Amerikaner kauften weiter - trotz Preiserhöhungen. Das Umsatzwachstum in Lokalwährung im US-Geschäft per Ende August über alle Marken liegt laut Hayek bei rund +15 Prozent. "In den USA boomt es", sagt er.</p>
+<p/><h3>China-Einbruch belastet Konzernumsatz</h3>
+<p/><p>Weltweit bleibt der Konzern jedoch unter Vorjahr, vor allem wegen des Einbruchs in China: "Wenn ein Markt mit über 2,5 Milliarden Umsatz um 30 Prozent einbricht, dann fehlen nach Adam Riese sofort 750 Millionen", so der Swatch-Chef.</p>
+<p/><p>Nachfrageimpulse sieht er unter anderem über Kanada, Mexiko und Duty-free-Kanäle (auch Kreuzfahrten). Auch in China gebe es bei Swatch und anderen Marken erste Erholungssignale, der Immobilienmarkt belaste jedoch. Bei den Luxusmarken räumt Hayek Nachholbedarf in der Distribution ein und kündigt deutlich mehr eigene Läden in den USA an.</p>
+<p/><h3>Kein Börsenrückzug - Fokus auf Stakeholder</h3>
+<p/><p>Ein Börsenrückzug steht laut Hayek nicht zur Debatte. Ihn störe allerdings eine "bestimmte Börsenmentalität", die den Erfolg einer Firma nur auf den Kurs messe. Hayek betont, dass der Verwaltungsrat die Interessen aller Stakeholder berücksichtige - Mitarbeitende, Partner, Kunden und Aktionäre. Letztere würden über regelmässige Dividenden am Unternehmenserfolg beteiligt, betonte er.</p>
+<p/><p>Die jüngst als Reaktion auf die Trump-Zölle lancierte "What if ... Tariffs?"-Swatch versteht Hayek als "positive Provokation". In der Politik gebe es viel Heuchelei und "ein bisschen Durchschütteln" schade da nicht, so der Swatch-CEO.</p>
+<p/><p>jl</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
