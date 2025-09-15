@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250915T163203+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250915</DateId>
+			<NewsItemId>2502</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250915:2502:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250915T163202+0200</FirstCreated>
+		<ThisRevisionCreated>20250915T163202+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BUSINESSWIRE CURN: Curatis: Zweistelliges Wachstum im Kerngeschäft und</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Press Release"/>
+			<SubjectCode><Subject FormalName="04006005"/><Subject FormalName="04002006"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4410" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191868">
+<Property FormalName="FullName" Value="Curatis Holding AG" />
+
+<Property FormalName="ShortName" Value="Curatis" />
+
+<Property FormalName="CHNr" Value="	CH-550-1024576-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1330780979" />
+
+<Property FormalName="Ticker" Value="CURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="O"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="OTS"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Meilenstein bei der Entwicklung von C-PTBE-01 erreicht</p>
+<p/><p>Die Curatis Holding AG (SIX:CURN) berichtet für das erste Halbjahr 2025 einen Umsatz von CHF 5,2 Mio, was im Vergleich zum Vorjahr einem Wachstum von 14 % entspricht. Darüber hinaus hat Curatis eine wichtige Partnerschaft mit Phoenix Labs, Irland, abgeschlossen, wodurch 4 Produkte hinzugefügt wurden, die 2024 fast CHF 5 Mio generierten. Der Verlust des Berichtszeitraums belief sich auf CHF -1,2 Mio, was auf höhere Ausgaben für die Entwicklung von C-PTBE-01 (Corticorelin) zurückzuführen ist. Der Cash Flow betrug -1,0 Mio. Wie geplant hat Curatis ein Typ-B-Meeting mit der US Food and Drug Administration (FDA) am 9. September 2025 abgehalten.</p>
+<p/><p>Geschäftsentwicklung und Finanzen</p>
+<p/><p>Der Umsatz durch Verkauf von Produkten belief sich im ersten Halbjahr auf CHF 5,0 Mio und durch Dienstleistungen auf CHF 0,2 Mio. Curatis AG konnte den Umsatz im Vertrieb in den ersten sechs Monaten von CHF 4,6 Mio (H1 2024) auf CHF 5,2 Mio (H1 2025) steigern. Grund war ein starkes organisches Wachstum im bestehenden Portfolio und die Einführung neuer Produkte, wodurch eine Steigerung um 14 % erzielt werden konnte. Der Verlust der Berichtsperiode belief sich auf CHF -1,2 Mio, hauptsächlich bedingt durch erhebliche Investitionen in C-PTBE-01 als Vorbereitung auf die geplante Phase 3 des klinischen Versuchs.</p>
+<p/><p>Curatis hält trotz der gestiegenen Ausgaben für Entwicklung Barmittel in Höhe von CHF 2 Mio.</p>
+<p/><p/><p/><pre>In CHF Mio                                  30. Juni 2025  30. Juni 2024 
+
+Umsatz                                      5,243          1,979*        
+
+Betriebsergebnis                            (1,291)        (3,297)       
+
+Davon ohne Effekt auf Cash                  -              (3,029)       
+
+Verlust der Periode                         (1,165)        (3,869)       
+
+Zahlungsmittel und                          2,045          3,463         
+Zahlungsmitteläquivalente                                                
+
+
+*Die Curatis Holding AG hat die Curatis AG mit Wirkung 26. April 2024     
+erworben. Die Akquisition basiert auf den geprüften Werten der            
+Eröffnungsbilanz am 30. April 2024. Deshalb beinhalten die auf den 30.    
+Juni 2024 datierten Geschäftsergebnisse die Aktivitäten, Umsätze und      
+Kostenpositionen der Curatis AG für die Monate Mai und Juni 2024. Die     
+ersten vier Monate dieser Berichtsperiode vor der Akquisition wurden      
+nicht berücksichtigt.                                                     
+
+</pre><p/><p>Eine genauere Darstellung der Halbjahreszahlen finden Sie im entsprechenden Bericht und dem dazugehörigen Geschäftsbericht auf der Website von Curatis: www.curatis.com.</p>
+<p/><p>Corticorelin / C-PTBE-01</p>
+<p/><p>Curatis' wichtigster Arzneimittelkandidat ist C-PTBE-01 (Corticorelin) zur Behandlung von peritumoralen Gehirnödemen (Peritumoral Brain Edema - PTBE). PTBE tritt in Verbindung mit zahlreichen primären und metastatischen (sekundären) Gehirntumoren auf, oft im Kontext mit Metastasen durch Lungen-, Brust- und Darmkrebs sowie Melanomen. PTBE führt aufgrund der Ansammlung von Flüssigkeit außerhalb der Zellen um den Tumor herum zu einer Schädigung der Gehirntätigkeit. Dies kann zu Symptomen wie Kopfschmerzen, Erbrechen und neurologischen Ausfällen wie Lähmungen, Sprech- und Sehstörungen und einer Veränderung des mentalen Zustands führen. Üblicherweise wird PTBE mit Corticosteroiden behandelt, die jedoch häufig zu ernsthaften Nebenwirkungen führen, wie Myopathie, Glukosestoffwechselstörungen, Muskelschwund, starke Gewichtszunahme, Osteoporose, Gastritis, Magen-Darm-Blutungen, Bluthochdruck und Veränderungen der Persönlichkeit. Darüber hinaus können Corticosteroide auch bestimmte Krebstherapien behindern, wie Chemotherapien oder die aufkommenden Immuntherapien, die auf angemessen funktionierenden T-Zellen basieren, dem jedoch Corticosteroide entgegenwirken.</p>
+<p/><p>Corticorelin (hCRH), ein 41 endogenes Aminosäuren-Polypeptid, hat vorklinisch (in vivo) die Fähigkeit gezeigt, die Blut-Gehirnschranke nach einer Unterbrechung durch einen bösartigen Tumor positiv zu beeinflussen. Im Verlauf von zwei klinischen Studien mit PTBE-Patienten bewies Corticorelin das Potenzial, den Steroidverbrauch deutlich zu verringern oder sogar gänzlich zu ersetzen. Dadurch können die durch die Behandlung mit Glucocorticoiden bedingten schweren Nebenwirkungen verringert oder sogar beseitigt werden, was zu einer Verbesserung der Lebensqualität führt. Allein in den USA leiden mehr als 150.000 Patienten unter PTBE. Corticorelin ist ein Prüfpräparat, das innerhalb und außerhalb der USA nicht für therapeutische Zwecke zugelassen ist.</p>
+<p/><p>Curatis hat sich am 9. September 2025 mit der FDA getroffen, um sich über das Design der entscheidenden Phase 3 des klinischen Versuchs sowie nicht-klinische und Produktionsaspekte abzustimmen. Das Ergebnis des Meetings war positiv. Weitere Einzelheiten werden veröffentlicht, sobald das Protokoll dieses Treffens vorliegt. Im Q3 2025 hat Curatis Holding AG damit begonnen, Partnerschaften für C-PTBE-01 (Corticorelin) mit globalen Pharmazieunternehmen mit Schwerpunkt Onkologie auszuloten.</p>
+<p/><p>Ausblick</p>
+<p/><p>Die Curatis Group erwartet für 2025 im Vergleich zu 2024 ein Wachstum beim Umsatz aus Produkten und Dienstleistungen. Dieses wird hauptsächlich durch die Einführung neuer Produkte bedingt sein, im Wesentlichen vier neue Produkte für Schmerzbekämpfung und Urologie, die vor Kurzem mit Phoenix Labs vertraglich vereinbart wurden. Diese Produkte hatten 2024 fast CHF 5 Millionen an Umsatz generiert. Curatis Group strebt für 2026 den Break-even an, unabhängig davon, ob sich ein Partner für C-PTBE-01 findet oder nicht. Dieses Ziel würde durch einen im Vergleich zu 2025 deutlichen Anstieg des Umsatzes und eine Senkung der Kosten realisiert.</p>
+<p/><p>Über Curatis</p>
+<p/><p>Die Curatis Holding AG ist öffentliches, börsennotiertes Unternehmen (CURN.SW), das sich auf die Entwicklung in der Endphase und Vermarktung von Medikamenten für die Behandlung von seltenen Krankheiten und spezielle Behandlungen konzentriert hat. Curatis vertreibt in seinem Portfolio mehr als 40 Produkte und verfügt über eine Pipeline von neuen und Spezialmedikamenten. Mehr Informationen finden Sie auf der Website: www.curatis.com.</p>
+<p/><p>Rechtlicher Hinweis:</p>
+<p/><p>Die in dieser Pressemitteilung enthaltenen und über Links auf unsere Websites zugänglichen Informationen sind nicht für die Verwendung in Ländern oder Rechtssystemen oder durch Personen gedacht, wenn dies zu einem Verstoß gegen das Gesetz führt. Sollte dies auf Sie zutreffen, dann ist es Ihnen nicht erlaubt, auf diese Informationen zuzugreifen oder sie zu verwenden.</p>
+<p/><p>Diese Pressemitteilung enthält "zukunftsgerichtete Aussagen", die auf unseren derzeitigen Erwartungen, Annahmen, Schätzungen und Projektionen in Bezug auf uns und die Branche beruhen. Zukunftsgerichtete Aussagen umfassen uneingeschränkt alle Aussagen, die zukünftige Ergebnisse, Leistungen oder Errungenschaften vorhersagen, benennen, oder implizieren. Charakteristisch für derartige Aussagen sind Formulierungen wie "könnten", "werden", "sollten", "fortfahren", "glauben", "antizipieren", "erwarten", "schätzen", "beabsichtigen", "Projekt", "Plan", "wird voraussichtlich fortgesetzt", "wird voraussichtlich zum Ergebnis führen" oder Worte und Formulierungen ähnlicher Art. Diesen Aussagen sollte nicht uneingeschränkt Glauben geschenkt werden, denn es liegt in ihrer Natur, dass sie Risiken und Unsicherheiten bergen. Dazu gehören unter anderem: wirtschaftliche, wettbewerbsbedingte, staatliche und technologische Faktoren, die sich der Kontroll der Curatis Group entziehen. Deshalb könnten die Unternehmensstrategie oder die tatsächlichen Ergebnisse deutlich von den zukunftsgerichteten Aussagen (oder von vergangenen Ergebnissen) abweichen. Eine Erläuterung der Faktoren, die dazu führen könnten, dass die in dieser Pressemitteilung gemachten zukunftsgerichteten Aussagen deutlich von den tatsächlichen Ergebnissen abweichen könnten, findet sich in unserem Börsenprospekt in Verbindung mit der Unternehmenskombination. Die Curatis Group ist nicht verpflichtet, diese zukunftsgerichteten Aussagen öffentlich zu aktualisieren oder zu korrigieren, um Bezug auf neue Informationen, zukünftige Ereignisse oder Umstände zu nehmen. Darüber hinaus sei darauf verwiesen, dass vergangene Leistungen nicht als Maßstab für zukünftige Leistungen gelten. Personen mit Beratungsbedarf sollten sich an einen unabhängigen Berater wenden.</p>
+<p/><p>Die Informationen in dieser Pressemitteilung sind kein Angebot zum Verkauf und keine Angebotsnachfrage zum Kauf oder zur Zeichnung von Wertpapieren. Diese Pressemitteilung ist kein Prospekt im Sinne des Schweizerischen Gesetzes über Finanzdienstleistungen (Swiss Financial Services Act) oder im Sinne irgendeines anderen gültigen Gesetzes.</p>
+<p/><p>Einige der Finanzdaten in dieser Pressemitteilung wurden gerundet und deshalb können die in dieser Pressemitteilung aufgeführten ganzen Zahlen geringfügig von den arithmetisch aggregierten zugrunde liegenden Zahlen abweichen.</p>
+<p/><p>Die Ausgangssprache, in der der Originaltext veröffentlicht wird, ist die offizielle und autorisierte Version. Übersetzungen werden zur besseren Verständigung mitgeliefert. Nur die Sprachversion, die im Original veröffentlicht wurde, ist rechtsgültig. Gleichen Sie deshalb Übersetzungen mit der originalen Sprachversion der Veröffentlichung ab.</p>
+<p/><p>Originalversion auf businesswire.com ansehen: https://www.businesswire.com/news/home/20250914601518/de/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
