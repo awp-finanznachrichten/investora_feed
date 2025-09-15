@@ -53,11 +53,17 @@ picture_selection <- picture_selection %>%
 picture_name <- picture_selection$picture_name[nrow(picture_selection)]
 category <- picture_selection$category[nrow(picture_selection)]
 type <- picture_selection$type[nrow(picture_selection)]
-name <- picture_selection$name[nrow(picture_selection)]
+#name <- picture_selection$name[nrow(picture_selection)]
+
+#Get shortname company
+selection_company_shortname <- company_data %>%
+  filter(ID == picture_selection$company_id[nrow(picture_selection)])
+name <- selection_company_shortname$Kurzname
 
 name <- str_replace_all(name,"&", "&amp;")
 name <- str_replace_all(name,"<", "&lt;")
 name <- str_replace_all(name,">", "&gt;")
+name <- str_replace_all(name,"SMI","")
 
 print(paste0("Picture selected: ",picture_name))
 print(category)

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250915T140611+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250915</DateId>
+			<NewsItemId>1924</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250915:1924:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250915T140610+0200</FirstCreated>
+		<ThisRevisionCreated>20250915T140610+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Novartis erweitert Forschungs-Pipeline mit Monte-Rosa-Lizenzvertrag</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016026"/><Subject FormalName="04016030"/><Subject FormalName="04016037"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4056" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193880">
+<Property FormalName="FullName" Value="Novartis AG" />
+
+<Property FormalName="ShortName" Value="Novartis" />
+
+<Property FormalName="Telekurs" Value="500449" />
+
+<Property FormalName="CHNr" Value="CH-270.3.002.061-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012005267" />
+
+<Property FormalName="Ticker" Value="NOVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0270190991" />
+
+<Property FormalName="Ticker" Value="NOV151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0270191007" />
+
+<Property FormalName="Ticker" Value="NOV152" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1134729794" />
+
+<Property FormalName="Ticker" Value="EUF076" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1492825481" />
+
+<Property FormalName="Ticker" Value="EUF080" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1585010074" />
+
+<Property FormalName="Ticker" Value="EUF081" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1769041192" />
+
+<Property FormalName="Ticker" Value="EUF85" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1769041606" />
+
+<Property FormalName="Ticker" Value="EUF84" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2235996217" />
+
+<Property FormalName="Ticker" Value="EUF87" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257806" />
+
+<Property FormalName="Ticker" Value="NOV241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257814" />
+
+<Property FormalName="Ticker" Value="NOV242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257822" />
+
+<Property FormalName="Ticker" Value="NOV243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257830" />
+
+<Property FormalName="Ticker" Value="NOV244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257848" />
+
+<Property FormalName="Ticker" Value="NOV245" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="LIC"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Beim Pharmariesen Novartis dreht sich das Transaktions-Karussell munter weiter. Am Montag kündigte das US-Unternehmen Monte Rosa an, dass es mit dem Basler Konzern eine weitere Lizenzvereinbarung geschlossen hat, die zunächst eine Vorauszahlung von 120 Millionen US-Dollar beinhaltetet.</p>
+<p/><p>Im Mittelpunkt steht ein nicht näher kommunizierter Forschungskandidat. Zudem erhält Novartis die Option, zwei präklinische Immunologieprogramme zu lizenzieren. Bereits im vergangenen Oktober war Novartis bereits ein erstes Lizenzabkommen mit dem Biotechunternehmen aus Boston eingegangen.</p>
+<p/><p>Konkret geht es dabei um "Molecular Glue Degrader" (molekulare Klebstoff-Abbauer). Dies ist ein Medikament, das krankheitsverursachende Proteine in der Zelle abbaut, indem es ein neues künstliches Protein-Protein-Interaktions-"Klebeband" herstellt.</p>
+<p/><p>Neben der Vorauszahlung hat Monte Rosa gemäss den Vertragsbedingungen Anspruch auf Zahlungen in Höhe von bis zu 5,7 Milliarden US-Dollar, einschliesslich Vorauszahlungen, Zahlungen für präklinische Meilensteine, Zahlungen für die Ausübung der Optionen sowie Zahlungen für Entwicklungs-, Zulassungs- und Vertriebsmeilensteine für alle Programme sowie gestaffelte Lizenzgebühren auf den weltweiten Nettoumsatz im hohen einstelligen bis niedrigen zweistelligen Bereich.</p>
+<p/><p>hr/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
