@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250915T075808+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250915</DateId>
+			<NewsItemId>333</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250915:333:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250915T075808+0200</FirstCreated>
+		<ThisRevisionCreated>20250915T075808+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Curatis im ersten Halbjahr zweistellig gewachsen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002001"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4410" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191868">
+<Property FormalName="FullName" Value="Curatis Holding AG" />
+
+<Property FormalName="ShortName" Value="Curatis" />
+
+<Property FormalName="CHNr" Value="	CH-550-1024576-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1330780979" />
+
+<Property FormalName="Ticker" Value="CURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Liestal (awp) - Das Biotech-Unternehmen Curatis hat im ersten Semester 2025 den Umsatz auf vergleichbarer Basis um 14 Prozent gesteigert. Dieser kam bei 5,2 Millionen Franken zu liegen, wie es in einer Mitteilung vom Montag heisst.</p>
+<p/><p>Das Wachstum sei auf ein starkes organisches Wachstum mit dem bestehenden Portfolio und neuen Produkten zurückzuführen, so das Communiqué. Unter dem Strich resultierten wegen "erheblichen Investitionen" in das Produkt C-PTBE-01 im Vorfeld einer geplanten Phase-III-Studie gleichwohl rote Zahlen (-1,2 Mio). Die liquiden Mittel werden nun auf 2,0 Millionen beziffert.</p>
+<p/><p>Für das Gesamtjahr peilt das Unternehmen weiterhin einen Umsatz über dem Vorjahr an. Helfen solle dabei auch eine kürzlich abgeschlossene Vertriebsvereinbarung mit Phoenix Labs. 2026 soll dann die Gewinnschwelle erreicht werden - und zwar unabhängig davon, ob ein Partner für C-PTBE-01 gefunden wird.</p>
+<p/><p>Curatis ist im April 2024 aus dem finanziell angeschlagenen Biotechunternehmen Kinarus hervorgegangen.</p>
+<p/><p>rw/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
