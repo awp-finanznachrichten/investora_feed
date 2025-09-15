@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250915T185009+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250915</DateId>
+			<NewsItemId>2937</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250915:2937:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250915T185009+0200</FirstCreated>
+		<ThisRevisionCreated>20250915T185009+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Peach Property bezahlt Bond zu Teilen vorzeitig zurück</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8038" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2103849416">
+<Property FormalName="FullName" Value="Peach Property Group AG" />
+
+<Property FormalName="ShortName" Value="Peach Property" />
+
+<Property FormalName="Telekurs" Value="528360" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.910-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0118530366" />
+
+<Property FormalName="Ticker" Value="PEAN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1263282522" />
+
+<Property FormalName="Ticker" Value="PEA234" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Immobilienunternehmen Peach Property hat vorzeitig eine Teilrückzahlung eines ausstehenden Bonds mit Laufzeit bis November 2025 und einem Coupon von 4,375 Prozent vorgenommen. Insgesamt seien dabei rund 73 Millionen Euro zurückbezahlt worden, teilte das Unternehmen am Montagabend mit.</p>
+<p/><p>Die Rückzahlung sei im Zuge der geplanten Bilanztransformation erfolgt, hiess es weiter. Dabei seien bereits im Januar über ein öffentliches Rückkaufangebot rund 127 Millionen Euro dieser Anleihe vorzeitig getilgt worden. Nach dieser Teilrückzahlung beläuft sich der Nominalwert der Anleihe noch auf 100 Millionen.</p>
+<p/><p>Die Mittel für die Rückzahlung hatte sich Peach Property laut den Angaben aus einer im Juni aufgegleisten Kreditfazilität über 120 Millionen Euro beschafft. Die vollständige Ablösung des Bonds soll derweil aus einer im August gesicherten Kreditfazilität im Umfang von 410 Millionen Euro erfolgen. Dazu würden mit dem Darlehensgeber noch an der Erfüllung der Auszahlungsvoraussetzungen gearbeitet, hiess es.</p>
+<p/><p>mk/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
