@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250916T103948+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250916</DateId>
+			<NewsItemId>1364</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250916:1364:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250916T103948+0200</FirstCreated>
+		<ThisRevisionCreated>20250916T103948+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: AWP berichtet diese Woche live von der Investorenkonferenz</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Subject" Value="NEW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Morgen Mittwoch sowie am Donnerstag findet erneut die Investora, die Schweizer Kapitalmarktkonferenz für Small- und Midcaps, statt. Dort werden die Konzern- und Finanzchefs von mehr als 30 an der SIX kotierten Unternehmen ihre "Investment Story" präsentieren. AWP, die führende Schweizer Wirtschafts- und Finanznachrichten-Agentur, wird - wie schon in den Vorjahren - die Konferenz als Medienpartner begleiten und laufend vom Anlass berichten.</p>
+<p/><p>An der Investora stellen die Unternehmensvertreter ihre Gesellschaft - das Geschäftsmodell, die Strategie, Projekte und aktuelle Finanzzahlen - vor. Der Anlass richtet sich schwergewichtig an ein professionelles Anlegerpublikum. Das Programm umfasst neben den Unternehmenspräsentationen auch Keynote-Referate zu verschiedenen marktrelevanten Themen.</p>
+<p/><p>Im Rahmen der Investorenkonferenz werden sich unter anderem Implenia, Cembra Money Bank, Tecan, Interroll, Bossard, Burkhalter, Coltene, Kuros und Valiant dem Fachpublikum vorstellen.</p>
+<p/><p>Weitere Informationen finden sich unter: www.investora.ch</p>
+<p/><p>jr/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
