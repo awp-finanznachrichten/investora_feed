@@ -82,6 +82,13 @@ repeat{
     
   } else {
     print("No new news found")  
+    
+    ###Update XML-Feed###
+    source("create_XML_feed.R")
+    
+    ###Github Update
+    source("commit.R")
+    
     break  
   }
 }
