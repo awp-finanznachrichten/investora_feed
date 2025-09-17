@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T151744+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>2466</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:2466:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T151744+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T151744+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: LUKB will Geschäftsmodell weiter transformieren</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006002"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197584">
+<Property FormalName="FullName" Value="Luzerner Kantonalbank AG" />
+
+<Property FormalName="ShortName" Value="LUKB" />
+
+<Property FormalName="Telekurs" Value="26497" />
+
+<Property FormalName="CHNr" Value="CH-100.8.011.092-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1252930610" />
+
+<Property FormalName="Ticker" Value="LUKN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0119983077" />
+
+<Property FormalName="Ticker" Value="LUK101" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0120381592" />
+
+<Property FormalName="Ticker" Value="LUK102" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0120736852" />
+
+<Property FormalName="Ticker" Value="LUK103" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0125486586" />
+
+<Property FormalName="Ticker" Value="LUK11" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0138276859" />
+
+<Property FormalName="Ticker" Value="LUK111" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0189742445" />
+
+<Property FormalName="Ticker" Value="LUK12" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0337172313" />
+
+<Property FormalName="Ticker" Value="LUK161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0399611307" />
+
+<Property FormalName="Ticker" Value="LUK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040800" />
+
+<Property FormalName="Ticker" Value="LUK182" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040974" />
+
+<Property FormalName="Ticker" Value="LUK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041386" />
+
+<Property FormalName="Ticker" Value="LUK192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041576" />
+
+<Property FormalName="Ticker" Value="LUK193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071130" />
+
+<Property FormalName="Ticker" Value="LUK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071338" />
+
+<Property FormalName="Ticker" Value="LUK203" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158820" />
+
+<Property FormalName="Ticker" Value="LUK205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158986" />
+
+<Property FormalName="Ticker" Value="LUK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159000" />
+
+<Property FormalName="Ticker" Value="LUK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0565630610" />
+
+<Property FormalName="Ticker" Value="LUK202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112246744" />
+
+<Property FormalName="Ticker" Value="LUK21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1214912029" />
+
+<Property FormalName="Ticker" Value="LUK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1231094355" />
+
+<Property FormalName="Ticker" Value="LUK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1231094389" />
+
+<Property FormalName="Ticker" Value="LUK232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1231094397" />
+
+<Property FormalName="Ticker" Value="LUK233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1274703144" />
+
+<Property FormalName="Ticker" Value="LUK241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1349302914" />
+
+<Property FormalName="Ticker" Value="LUK243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472155" />
+
+<Property FormalName="Ticker" Value="LUK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1383924748" />
+
+<Property FormalName="Ticker" Value="LUK252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1424019490" />
+
+<Property FormalName="Ticker" Value="LUK254" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1452396505" />
+
+<Property FormalName="Ticker" Value="LUK255" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1452396513" />
+
+<Property FormalName="Ticker" Value="LUK25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Bei der Luzerner Kantonalbank (LUKB) nähert sich das Ende der Strategieperiode 2021 bis 2025 mit grossen Schritten. Bereits heute ist klar, dass die Ziele, die vor vier Jahren formuliert wurden, allesamt klar übertroffen werden. Konzernchef Daniel Salzmann denkt schon heute vor allem an die nächste Strategieperiode.</p>
+<p/><p>"Wir sind aktuell daran, die nächste Strategieperiode 2026 bis 2030 auszuarbeiten", sagte Salzmann am Mittwoch an der Anlegerkonferenz Investora. Präsentiert werde diese am 13. November, sagte er, daher könne er noch nicht zu sehr in die Details gehen. Nur so viel: "Wir werden das Geschäfts- und Betriebsmodell weiter transformieren."</p>
+<p/><p>Selbstverständlich werde auch das Thema der künstlichen Intelligenz eine wichtige Rolle spielen, betonte der LUKB-Chef. "Wir wollen mit KI die Effizienz erhöhen und die Kosten senken", sagte er. Dabei denke er etwa an einen datengetriebenen Vertrieb als Basis für eine passgenaue und automatisierte Bedürfnisadressierung.</p>
+<p/><p>Weitere wichtigste Fokusthemen der "Strategie 26-30" werden Salzmann zufolge der weitere Ausbau des Anlagegeschäfts sowie die Weiterentwicklung des Spezialgeschäfts bei Unternehmen und auf dem Kapitalmarkt sein.</p>
+<p/><p>Die 1850 gegründete LUKB ist mit rund 1300 Mitarbeiterinnen und Mitarbeitern die führende Bank im Kanton Luzern. Sie betreibt insgesamt 23 Geschäftsstellen und gehört zu den grössten Schweizer Kantonalbanken. Die LUKB ist seit 2001 an der SIX Swiss Exchange kotiert. 61,5 Prozent der Aktien befinden sich im Besitz des Kantons Luzern.</p>
+<p/><p>ra/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
