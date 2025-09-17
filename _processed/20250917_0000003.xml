@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T074913+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>494</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:494:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T074913+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T074913+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Die News von gestern abend und heute morgen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196839">
+<Property FormalName="FullName" Value="Nestlé SA" />
+
+<Property FormalName="ShortName" Value="Nestlé" />
+
+<Property FormalName="Telekurs" Value="213695" />
+
+<Property FormalName="CHNr" Value="CH-550.0.067.293-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0038863350" />
+
+<Property FormalName="Ticker" Value="NESN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042509" />
+
+<Property FormalName="Ticker" Value="NES181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355108" />
+
+<Property FormalName="Ticker" Value="NES22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355116" />
+
+<Property FormalName="Ticker" Value="NES221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355124" />
+
+<Property FormalName="Ticker" Value="NES222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1221150506" />
+
+<Property FormalName="Ticker" Value="NES223" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543838" />
+
+<Property FormalName="Ticker" Value="NES224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543846" />
+
+<Property FormalName="Ticker" Value="NES225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475397" />
+
+<Property FormalName="Ticker" Value="NES231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475405" />
+
+<Property FormalName="Ticker" Value="NES232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475413" />
+
+<Property FormalName="Ticker" Value="NES233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277832" />
+
+<Property FormalName="Ticker" Value="NES234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277840" />
+
+<Property FormalName="Ticker" Value="NES235" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277857" />
+
+<Property FormalName="Ticker" Value="NES236" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316745" />
+
+<Property FormalName="Ticker" Value="NES241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316752" />
+
+<Property FormalName="Ticker" Value="NES242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316760" />
+
+<Property FormalName="Ticker" Value="NES243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316778" />
+
+<Property FormalName="Ticker" Value="NES244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104335" />
+
+<Property FormalName="Ticker" Value="NES17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104343" />
+
+<Property FormalName="Ticker" Value="NES171" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="R"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="SER"/><Property FormalName="Subject" Value="NEW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Aktuell im AWP-Ticker sind folgende Nachrichten:</p>
+<p/><pre>*** Nestlé: Vorgezogener Rücktritt von VRP Paul Bulcke ***
+Nestlé-Verwaltungsratspräsident Paul Bulcke tritt vorzeitig zurück. 
+Sein Abgang folgt auf die Entlassung von Nestlé-CEO Laurent Freixe 
+von Anfang September. Der Druck auf den 71-jährigen Bulcke wurde nach 
+dem zweiten Abgang eines Nestlé-CEOs innert eines Jahres offenbar zu gross. 
+Nun wird Bulckes designierter Nachfolger Pablo Isla das Präsidium des 
+Nahrungsmittelkonzerns per 1. Oktober übernehmen.
+
+*** Meyer Burger sieht keine Chance auf Rettung ***
+Beim Solarzellenhersteller Meyer Burger gehen die Lichter endgültig aus.
+Nach der Insolvenz in Deutschland und den USA wird nun auch für die 
+Schweizer Gesellschaften einschliesslich der Muttergesellschaft die 
+stille Nachlassstundung als ordentliche provisorische Nachlassstundung 
+weitergeführt. Nach Einschätzung des Verwaltungsrats besteht aus heutiger Sicht 
+keine realistische Chance mehr für eine Rettung der gesamten Unternehmensgruppe.
+
+*** Lufthansa: Johannes Teyssen soll 2026 Aufsichtsratspräsident werden ***
+Der langjährige Chef des deutschen Energiekonzerns Eon und gegenwärtige 
+Verwaltungsratspräsident von Alpiq, Johannes Teyssen, soll künftig den 
+Aufsichtsrat des Lufthansa-Lonzerns leiten. Kontrollgremium leiten. Der Manager 
+soll bei der Lufthansa-Hauptversammlung im kommenden Mai gewählt werden.
+
+*** Indischer Kaufinteressent für Stahlsparte von Thyssenkrupp ***
+Der familiengeführte Stahlkonzern Jindal Steel International aus Indien will 
+den Stahlhersteller Thyssenkrupp Steel kaufen. Man habe ein unverbindliches 
+Angebot für das Unternehmen abgegeben, teilte Jindal Steel mit. Bekannt gemacht 
+hatte das Angebot zunächst der Thyssenkrupp-Konzern. Man werde das Angebot 
+intensiv prüfen, hiess es von dort. 
+</pre><p/><p/><p>jr/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
