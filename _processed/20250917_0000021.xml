@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T175410+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>21</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>2938</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:2938:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T175410+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T175410+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Mobilezone baut auf Wachstum des MVNO-Geschäfts</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04003007"/><Subject FormalName="04016030"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6343 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191940">
+<Property FormalName="FullName" Value="Mobilezone Holding AG" />
+
+<Property FormalName="ShortName" Value="Mobilezone" />
+
+<Property FormalName="Telekurs" Value="629512" />
+
+<Property FormalName="CHNr" Value="CH-550.0.051.372-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0276837694" />
+
+<Property FormalName="Ticker" Value="MOZN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Mobilezone will vor allem dem Geschäft mit Postpaid-Abos noch mehr Schwung verleihen. Zudem soll beim Handyverkäufer auch das Thema Nachhaltigkeit nicht zu kurz kommen.</p>
+<p/><p>Mobilezone kämpft weiterhin mit schleppenden Geschäften in Deutschland. Nach dem Durchschreiten der Talsohle sei man aber nun auf gutem Weg, die Delle des ersten Halbjahres auszugleichen, sagt Markus Bernhard, Exekutiver Delegierter des Verwaltungsrates am Mittwoch an der Anlegerkonferenz Investora in Zürich.</p>
+<p/><p>Das Geschäft mit wiederkehrenden Einnahmen als Postpaid-Aboanbieter (MVNO) läuft derweil gut. Mit einem Wachstum von 18 Prozent seit Jahresanfang dürfe man sicherlich zufrieden sein, so Bernhard. Mittelfristig will Mobilezone auch in Deutschland stärker als virtueller Netzbetreiber im MVNO-Geschäft auftreten.</p>
+<p/><p>Auch das Thema Nachhaltigkeit soll bei Mobilezone nicht zu kurz kommen. Seit 2020 verkauft das Unternehmen in der Schweiz gebrauchte Smartphones. Hier habe sich die Anzahl verkaufter Geräte 2024 mit über 16'000 Einheiten im Vergleich zum Vorjahr fast verdoppelt. In diesem Jahr sollen es rund 25'000 Geräte werden.</p>
+<p/><p>Mobilezone ist ein anbieterunabhängiger Verkäufer von Mobiltelefonen und Telekommunikationsprodukten. Das Unternehmen zählt aktuell rund 950 Mitarbeiterinnen und Mitarbeiter. Während Mobilezone in der Schweiz über 120 Läden betreibt und auch Reparaturdienstleistungen anbietet, ist das Unternehmen in Deutschland ein reiner Onlineanbieter.</p>
+<p/><p>sta/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
