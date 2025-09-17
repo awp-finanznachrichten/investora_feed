@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T180503+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>22</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>2981</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:2981:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T180503+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T180503+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: CPH hat weiter Lust auf Akquisitionen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04002000"/><Subject FormalName="04013004"/><Subject FormalName="04016005"/><Subject FormalName="04016048"/><Subject FormalName="04008033"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6035" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196241">
+<Property FormalName="FullName" Value="CPH Group AG" />
+
+<Property FormalName="ShortName" Value="CPH" />
+
+<Property FormalName="Telekurs" Value="719350" />
+
+<Property FormalName="CHNr" Value="CH-100.3.005.239-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001624714" />
+
+<Property FormalName="Ticker" Value="CPHN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Industry" Value="PAK"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="TRA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Industriegruppe CPH ist in den letzten Jahren regelmässig gewachsen. Dazu sollen nach den Worten des Konzernchefs Alois Waldburg-Zeil neben einem kontinuierlichen organischen Wachstum auch in Zukunft gezielte Akquisitionen beitragen.</p>
+<p/><p>Das Unternehmen hat in den letzten 18 Monaten gleich drei Übernahmen getätigt - in Indien, in Kanada und in Israel. "Wir haben aber weiter ein Auge auf Akquisitionen", sagte Waldburg-Zeil am Mittwoch an der Anlegerkonferenz Investora.</p>
+<p/><p>Der CPH-Chef nutzte auch die Gelegenheit, seine Kernprinzipien für einen Deal zu erläutern. Ein möglicher Kandidat muss nicht nur auf die Kernmärkte Pharmaverpackungen oder Spezialchemikalien ausgerichtet sein, er muss auch die Marktabdeckung und das Produktangebot von CPH erweitern.</p>
+<p/><p>Donald Trumps Zölle treffen auch CPH. Laut Waldburg-Zeil unterliegen rund 10 Prozent des Gruppenumsatzes nun Einfuhrzöllen in die USA. "Wir sind daran 'nivellierende' Massnahmen umzusetzen", sagte der Firmenchef.</p>
+<p/><p>Dabei gehe es nicht alleine um Preiserhöhungen. "Wir verhandeln zum Beispiel mit Kunden, ob sie gewisse Produkte nicht von einem anderen CPH-Stand beziehen könnten." Trotz allem: "Die Zölle werden mit Sicherheit Spuren bei uns hinterlassen."</p>
+<p/><p>Die CPH Group fokussiert seit 2024, nach der Abspaltung des Papier- und Immobiliengeschäfts, auf die Bereiche Chemie und Verpackung. Das Unternehmen mit Sitz in Perlen beschäftigt rund 1200 Mitarbeitende.</p>
+<p/><p>ra/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
