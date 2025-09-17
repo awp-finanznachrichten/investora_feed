@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T092350+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>1050</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:1050:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T092350+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T092350+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Implenia wird vom deutschen Infrastrukturprogramm profitieren</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004000"/><Subject FormalName="04016048"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8305 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2125829448">
+<Property FormalName="FullName" Value="Implenia AG" />
+
+<Property FormalName="ShortName" Value="Implenia" />
+
+<Property FormalName="Telekurs" Value="318935" />
+
+<Property FormalName="CHNr" Value="CH-170.3.028.842-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0023868554" />
+
+<Property FormalName="Ticker" Value="IMPN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0316994661" />
+
+<Property FormalName="Ticker" Value="IMP16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1145096173" />
+
+<Property FormalName="Ticker" Value="IMP21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316687" />
+
+<Property FormalName="Ticker" Value="IMP24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428867134" />
+
+<Property FormalName="Ticker" Value="IMP25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der grösste Schweizer Baukonzern Implenia fokussiert sich auf wachstumsstarke Märkte und Marktsegmente. Diese Märkte seien aktuell positiv und spannend, freut sich Implenia-CEO Jens Vollmar am Mittwoch an der Anlegerkonferenz Investora in Zürich.</p>
+<p/><p>Einen gewichtigen Beitrag zum künftigen Wachstum erwartet der Implenia-Chef vom Infrastrukturprogramm der neuen deutschen Regierung. Dieses dürfte die jährlichen Bauausgaben der öffentlichen Hand um rund 35 Milliarden und damit um mehr als 50 Prozent erhöhen.</p>
+<p/><p>Vollmar erwartet, dass Implenia vom deutschen Infrastrukturprogramm überdurchschnittlich profitieren könnte, da sich das Programm auf Sektoren fokussiere, in denen das Unternehmen spezialisiert und erfahren sei. "Wir gehen davon aus, dass wir ab 2027 massgebliche Einflüsse auf unsere Umsätze aus dem neuen Programm sehen werden", so der Implenia-Chef.</p>
+<p/><p>Doch Implenia will nicht nur wachsen, sondern auch die Margen erhöhen und den freien Cash Flow verbessern. Vollmar bekräftigte vor den Investoren den EBIT-Ausblick von rund 140 Millionen Franken für das laufende Jahr. "Wir sind sehr zuversichtlich, dass wir das Ziel erreichen werden", gibt sich Vollmar überzeugt. Mittelfristig soll die EBIT-Marge auf 4,5 Prozent steigen.</p>
+<p/><h3>Höhere Margen dank Value Assurance Prozess</h3>
+<p/><p>Entscheidend für die Profitabilitätsverbesserung sei die Auswahl der Projekte. Implenia stützt sich dabei auf einen spezifischen Value Assurance Prozess. Dieser sorge für eine Kontinuierliche Verbesserung der vorkalkulierten und realisierten Margen, so Vollmar weiter.</p>
+<p/><p>Neben dem organischen Wachstum will Implenia weiter auch durch Übernahmen wachsen.</p>
+<p/><p>Implenia ist ein integrierter Bau- und Immobiliendienstleiste. Hauptmärkte sind Schweiz und Deutschland. In weiteren Märkten bietet die Gruppe Tunnelbau und damit verbundene Dienstleistungen an. Implenia beschäftigt europaweit über 9000 Mitarbeitende.</p>
+<p/><p>gab/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
