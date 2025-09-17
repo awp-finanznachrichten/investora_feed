@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T160545+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>2601</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:2601:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T160545+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T160545+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Bossard spürt Zolldruck</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04007007"/><Subject FormalName="04016048"/><Subject FormalName="04016005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6301" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197481">
+<Property FormalName="FullName" Value="Bossard Holding AG" />
+
+<Property FormalName="ShortName" Value="Bossard" />
+
+<Property FormalName="Telekurs" Value="92354" />
+
+<Property FormalName="CHNr" Value="CH-170.3.005.115-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0238627142" />
+
+<Property FormalName="Ticker" Value="BOSN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0004557879" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="TRD"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die auf industrielle Verbindungs- und Montagelösungen spezialisierte Bossard-Gruppe kommt im laufenden Jahr nicht richtig in Schwung. Die globalen Handelskonflikte sowie die schwächelnden exportorientierten und zyklischen Industrien lassen laut CEO Daniel Bossard bisher keine Erholung zu.</p>
+<p/><p>Hoffnungen hegt Bossard derweil für den Markt Asien, wo sich die Nachfrage weiter erhole. Die nächsten Monate und Quartale blieben aber von Unsicherheit geprägt, sagte er. Daher sei es weiterhin wichtig, das Augenmerk auf die Gewinnung von Neukunden und -projekten zu setzen.</p>
+<p/><p>Die Kosten der US-Zölle will das Unternehmen derweil an die Kunden weitergegeben. "Die Weitergabe über Preiserhöhungen von 10 bis 30 Prozent läuft", so Bossard. Dazu gebe es leider wenig Alternativen. So sei etwa ein lokaler Einkauf aufgrund der begrenzten Kapazitäten und den bis zu dreimal höheren Preisen nicht realisierbar.</p>
+<p/><p>Und es zeige sich allmählich, dass die globalen Unsicherheiten und Marktverschiebungen auch die Nachfrage in Mexiko und Kanada belasten. Was indes China betreffe, seien die zusätzlichen Kosten vernachlässigbar und eine Lokalisierung des Einkaufs "weitgehend möglich", sagte Bossard.</p>
+<p/><p>Die Bossard Gruppe beschäftigt über 3000 Mitarbeitende in 33 Ländern. Im Geschäftsjahr 2024 erzielte das Unternehmen einen Umsatz von 986 Millionen Franken.</p>
+<p/><p>sta/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
