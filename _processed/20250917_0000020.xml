@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T171740+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>2806</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:2806:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T171740+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T171740+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Lastminute.com forciert dynamische Reisepakete</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04014000"/><Subject FormalName="04016030"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH" />
+
+<Property FormalName="Country" Value="NL" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2059785741">
+<Property FormalName="FullName" Value="lastminute.com N.V." />
+
+<Property FormalName="ShortName" Value="Lastminute" />
+
+<Property FormalName="Telekurs" Value="648209" />
+
+<Property FormalName="CHNr" Value="000000" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="NL0010733960" />
+
+<Property FormalName="Ticker" Value="LMN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="LEI"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Online-Reisebüro Lastminute treibt den strategischen Wandel vom Vermittler zur integrierten Ferienplattform mit hoher Kadenz voran. Heute steuern die sogenannten "Dynamic Packages" bereits 70 Prozent zum Konzernumsatz bei, sagte CEO Alessandro Petazzi am Mittwoch an der Anlegerkonferenz Investora.</p>
+<p/><p>Dynamische Urlaubspakete bestehen aus einer Kombination von Flug, Hotel und anderen Reiseleistungen und werden mithilfe von Echtzeit-Technologie personalisiert. Sie ermöglichen es Kunden also, ihre Reise individuell zusammenzustellen und von einer grossen Auswahl und einem flexiblen Buchungssystem zu profitieren.</p>
+<p/><p>Etwas stellt Petazzi zudem fest: Die Künstliche Intelligenz verändert die Art, wie vor allem die jüngere Generation Reisepläne schmiedet, zum Beispiel via ChatGPT. "Hier können wir also nicht unser eigenes Produkt propagieren."</p>
+<p/><p>Der Herausforderung blick er aber gelassen ins Auge: "Am Ende ist es eigentlich egal, wo du deine Inspiration für eine Reise oder ein Hotel herhast."</p>
+<p/><p>Lastminute.com mit Sitz in Chiasso hat sich auf spontane und kurzfristige Ferien- und Flugbuchungen spezialisiert, deckt heute aber das komplette Reisespektrum ab. Zu den Marken im Portfolio gehören etwa lastminute.com, Volagratis, Rumbo, Bravofly und Jetcost.</p>
+<p/><p>ra/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
