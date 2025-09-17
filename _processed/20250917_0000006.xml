@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T100943+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>1170</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:1170:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T100943+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T100943+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Arbonia-CEO sieht Bodenbildung im Wohnungsneubau in Deutschland</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004000"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9320" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197264">
+<Property FormalName="FullName" Value="Arbonia AG" />
+
+<Property FormalName="ShortName" Value="Arbonia" />
+
+<Property FormalName="Telekurs" Value="143211" />
+
+<Property FormalName="CHNr" Value="CH-440.3.001.717-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0110240600" />
+
+<Property FormalName="Ticker" Value="ARBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Bauzulieferer Arbonia zeigt sich für das zweite Halbjahr einigermassen zuversichtlich. Das Ergebnis dürfte von den bereits getroffenen Restrukturierungsmassnahmen, von allgemeinen Kostensenkungen sowie von den im ersten Halbjahr umgesetzten Preiserhöhungen profitieren.</p>
+<p/><p>"Die Situation im deutschen Wohnbaumarkt ist zwar noch immer herausfordernd, positiv ist aber, dass wir eine Bodenbildung sehen", sagte Finanzchef Uwe Schiller am Mittwoch an der Anlegerkonferenz Investora.</p>
+<p/><p>Einerseits hätten im ersten Halbjahr in Deutschland zum ersten Mal seit langem die Baubewilligungen zugenommen, andererseits gebe es eine hohe Zahl an bereits bewilligten Wohnungen, deren Bau aber noch nicht begonnen habe.</p>
+<p/><h3>Auftragsbestand sollte stützen</h3>
+<p/><p>Optimistisch stimmt Schiller zudem der Auftragsbestand, welcher per Mitte 2025 klar höher lag als noch Ende 2024.</p>
+<p/><p>Der Finanzchef bestätigte gleichzeitig die Prognose eines Umsatzwachstums von 3 bis 5 Prozent im Gesamtjahr. Dadurch sollte die EBITDA-Marge auf adjustierter Basis auf über 10 Prozent steigen. "Umsatzwachstum ist für uns klar der stärkste Margentreiber", meinte er dazu. Deshalb sei er für diese Prognose "sehr zuversichtlich".</p>
+<p/><p>Er bekräftigte darüber hinaus auch die mittelfristigen Ziele. Demnach soll der Umsatz bis 2029 auf 820 bis 850 Millionen Franken steigen und die EBITDA-Marge auf 14 bis 15 Prozent.</p>
+<p/><p>Arbonia ist ein Vollsortimenter im Bereich Innentüren aus Holz, Glas und Metall. Die Hauptproduktionsstätten befinden sich in der Schweiz, Deutschland, Polen, Spanien, Tschechien, Portugal und Frankreich. Insgesamt sind in der Arbonia Gruppe rund 3700 Mitarbeitende beschäftigt.</p>
+<p/><p>cf/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
