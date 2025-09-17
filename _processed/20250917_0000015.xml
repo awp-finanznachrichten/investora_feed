@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T153120+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>2508</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:2508:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T153120+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T153120+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Interroll sieht wieder anziehende Auftragslage</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04016048"/><Subject FormalName="04016005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6592" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193814">
+<Property FormalName="FullName" Value="Interroll Holding SA" />
+
+<Property FormalName="ShortName" Value="Interroll" />
+
+<Property FormalName="Telekurs" Value="430233" />
+
+<Property FormalName="CHNr" Value="CH-500.3.001.340-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0006372897" />
+
+<Property FormalName="Ticker" Value="INRN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Logistiktechniker Interroll rechnet weiterhin mit einer Erholung der Nachfrage nach Fördertechniklösungen. Bis anhin seien Grossaufträge zwar ausgeblieben, sagt Finanzchef Heinz Hössli am Mittwoch anlässlich der Anlegerkonferenz Investora in Zürich, es sehe aber vielversprechend aus.</p>
+<p/><p>Für eher kleinere Projekte sehe es momentan schon gut aus, mit den grossen Brocken sollte aber nicht vor dem Schlussquartal gerechnet werden, so Hössli. Zuletzt lief es vor allem in den Sparten Drives und Pallet Handling nicht rosig. Die Auftragslage sank gegenüber dem ersten Halbjahr 2024 um 8,4 bzw. 19,1 Prozent.</p>
+<p/><p>Da aber nun erste Grossprojekte von Kunden zu sehen seien, rechnet Hössli damit, dass sich die ersten grossen Aufträge in den nächsten sechs bis neun Monaten auch in den Büchern von Interroll niederschlagen. Es sei indes zu hoffen, dass die Industrie wie schon während Corona erneut "überinvestiert" und darauf die nächste Delle folgt.</p>
+<p/><p>Zudem bekräftigte der Finanzchef, dass Interroll kaum bis gar nicht von den US-Zöllen betroffen ist. Da man - "falls nötig" - auch in den USA vor Ort produzieren kann, sieht das Management da keine Probleme.</p>
+<p/><p>Die Interroll Gruppe stellt Schlüsselprodukte und Dienstleistungen für die innerbetriebliche Logistik her. Das Unternehmen beliefert Systemintegratoren und Anlagenbauer weltweit mit einem Sortiment in den Produktgruppen Förderrollen, Motoren und Antriebe, Förderer Sortierer sowie Fliesslager. Kernindustrien sind Kurier-, Express- und Postdienste.</p>
+<p/><p>sta/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
