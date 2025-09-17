@@ -1,0 +1,182 @@
+
+R version 4.4.1 (2024-06-14 ucrt) -- "Race for Your Life"
+Copyright (C) 2024 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(git2r)
+Warning message:
+package 'git2r' was built under R version 4.4.3 
+> library(DBI) 
+
+Attaching package: 'DBI'
+
+The following object is masked from 'package:git2r':
+
+    fetch
+
+> library(RMySQL)
+> library(stringr)
+> library(XML)
+> library(readr)
+> library(readxl)
+> library(dplyr)
+
+Attaching package: 'dplyr'
+
+The following object is masked from 'package:git2r':
+
+    pull
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+> library(magick)
+Linking to ImageMagick 6.9.12.98
+Enabled features: cairo, freetype, fftw, ghostscript, heic, lcms, pango, raw, rsvg, webp
+Disabled features: fontconfig, x11
+Warning message:
+package 'magick' was built under R version 4.4.3 
+> library(base64enc)
+> library(httr)
+
+Attaching package: 'httr'
+
+The following objects are masked from 'package:git2r':
+
+    config, content
+
+> library(xlsx)
+Warning message:
+package 'xlsx' was built under R version 4.4.3 
+> 
+> setwd("C:/Automatisierungen/investora_feed")
+> source("./Tools/Funktionen/Utils.R")
+> source("./functions/function_request_chatGPT.R")
+> source("./functions/functions_github.R")
+> 
+> #Path Github Token (do NOT include in Repository)
+> WD_GITHUB_TOKEN <- "C:/Github_Token/token.txt"
+> 
+> #Constants
+> INPUT_PATH_XML <- "C:/Dataserver/redsys/investora/"
+> INPUT_PATH_PICTURES <- "C:/_Picture_Input_AWP/"
+> OUTPUT_PATH_XML <- "./_processed/"
+> OUTPUT_PATH_NEWS <- "./XML_News/"
+> OUTPUT_PATH_FEED <- "./XML_Feed/"
+> 
+> #Get Company Data
+> mydb <- retry(connectDB(db_name="masterdata"),sleep=5)
+Warning message:
+package 'futile.logger' was built under R version 4.4.2 
+> rs <- dbSendQuery(mydb, "SELECT * FROM companies")
+Warning messages:
+1: In dbSendQuery(mydb, "SELECT * FROM companies") :
+  unrecognized MySQL field type 7 in column 23 imported as character
+2: In dbSendQuery(mydb, "SELECT * FROM companies") :
+  unrecognized MySQL field type 7 in column 24 imported as character
+> company_data <- retry(fetch(rs,n=-1, encoding="utf8"),sleep=5)
+> dbDisconnectAll()
+1 connection(s) closed.
+Warning message:
+Closing open result sets 
+> 
+> ISIN_Firma <- company_data %>%
++   select(Kurzname,ISINs,ID) %>%
++   filter(is.na(ISINs) == FALSE)
+> Encoding(ISIN_Firma$Kurzname) <- "UTF-8"
+> ISIN_Firma <- ISIN_Firma[,c(2,1,3)]
+> colnames(ISIN_Firma) <- c("ISINs","Kurzname","ID")
+> 
+> #Get Picture Database
+> mydb <- retry(connectDB(db_name="picture_delivery_robot"),sleep=5)
+> rs <- dbSendQuery(mydb, "SELECT * FROM picture_database WHERE awp_products = 'SwissTopNews'")
+Warning message:
+In dbSendQuery(mydb, "SELECT * FROM picture_database WHERE awp_products = 'SwissTopNews'") :
+  unrecognized MySQL field type 7 in column 16 imported as character
+> picture_database <- retry(fetch(rs,n=-1, encoding="utf8"),sleep=5)
+> dbDisconnectAll()
+1 connection(s) closed.
+Warning message:
+Closing open result sets 
+> picture_database$name <- trimws(picture_database$name)
+> picture_database$keywords <- gsub(", ?","|",picture_database$keywords)
+> 
+> #Filter Pictures not available
+> missing_pictures <- read.xlsx("./data/missing_pictures.xlsx",sheetIndex = 1)
+> missing_pictures <- paste(missing_pictures$files,collapse = "|")
+> 
+> picture_database <- picture_database %>%
++   filter(grepl(missing_pictures,picture_name) == FALSE)
+> 
+> repeat{
++   
++   files <- list.files(path=INPUT_PATH_XML)
++   
++   if (length(files)>0) {
++     Sys.sleep(2)  
++     
++     ###Get Data from XML###
++     source("get_data_from_xml.R")
++     
++     ###Select suited picture###
++     source("select_picture.R")
++     
++     ###Create new item for XML Feed with picture data##
++     source("create_XML_news.R")
++     
++     ###File löschen###
++     file.copy(paste0(INPUT_PATH_XML,files[1]),paste0(OUTPUT_PATH_XML,files[1])) 
++     file.remove(paste0(INPUT_PATH_XML,files[1]))  
++     
++     ###Update XML-Feed###
++     source("create_XML_feed.R")
++     
++     ###Github Update
++     source("commit.R")
++     
++   } else {
++     print("No new news found")  
++     
++     ###Update XML-Feed###
++     source("create_XML_feed.R")
++     
++     ###Github Update
++     source("commit.R")
++     
++     break  
++   }
++ }
+[1] "XML data extracted"
+1 connection(s) closed.
+Joining with `by = join_by(picture_name)`
+[1] "Picture selected: 271717590.jpg"
+[1] NA
+[1] "company"
+[1] "StarragTornos"
+1 connection(s) closed.
+warning: in the working copy of 'XML_Feed/XML_Feed_Investora_News.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'XML_News/20250917_0000012.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '_processed/20250917_0000012.xml', LF will be replaced by CRLF the next time Git touches it
+[master 56b0d61] commit from Rstudio
+ 3 files changed, 140 insertions(+), 1 deletion(-)
+ create mode 100644 XML_News/20250917_0000012.xml
+ create mode 100644 _processed/20250917_0000012.xml
