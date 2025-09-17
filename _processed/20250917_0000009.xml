@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T112716+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>1433</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:1433:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T112716+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T112716+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Cembra will im zweiten Halbjahr 2025 weiterhin profitabel wachsen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006002"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8048 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2062655806">
+<Property FormalName="FullName" Value="Cembra Money Bank AG" />
+
+<Property FormalName="ShortName" Value="Cembra" />
+
+<Property FormalName="Telekurs" Value="22283" />
+
+<Property FormalName="CHNr" Value="CH-020.3.034.603-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0225173167" />
+
+<Property FormalName="Ticker" Value="CMBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041352" />
+
+<Property FormalName="Ticker" Value="CMB193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041659" />
+
+<Property FormalName="Ticker" Value="CMB194" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042475" />
+
+<Property FormalName="Ticker" Value="CMB18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0486598227" />
+
+<Property FormalName="Ticker" Value="CMB19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1141700414" />
+
+<Property FormalName="Ticker" Value="CMB21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189217735" />
+
+<Property FormalName="Ticker" Value="CMB22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367554" />
+
+<Property FormalName="Ticker" Value="CMB221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1243651903" />
+
+<Property FormalName="Ticker" Value="CMB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1266847131" />
+
+<Property FormalName="Ticker" Value="CMB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222400" />
+
+<Property FormalName="Ticker" Value="CMB231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1314941472" />
+
+<Property FormalName="Ticker" Value="CMB241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990056" />
+
+<Property FormalName="Ticker" Value="CMB25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die auf Konsumkredite spezialisierte Cembra Money Bank blickt mit einiger Zuversicht auf das zweite Semester.</p>
+<p/><p>Nicht nur im Lending-Geschäft will Cembra wachsen sondern auch im Business Payment wird die Rückkehr auf den Wachstumspfad angestrebt, wie Firmenchef Holger Laubenthal am Mittwoch an der Anlegerkonferenz Investora sagte. Grundsätzlich sieht er die Nachfrage nach Konsumkrediten weiterhin intakt.</p>
+<p/><p>"Wir legen den Fokus im zweiten Halbjahr auf profitables Wachstum und auf die weitere Umsetzung unserer strategischen Massnahmen", so Laubenthal. "Mit der Umsetzung der strategischen Transformation sind wir gut unterwegs". Unter anderem hob er dabei die erweiterte Produktepalette hervor, unter anderem etwa mit Versicherungs-Produkten oder mit neuen Zahlungsarten wie "Scan2pay" oder "Click-to-pay".</p>
+<p/><p>Als einer der Hoffnungsträger für die Zukunft bezeichnet er die neue Finanzierungs-Plattform im Automobilgeschäft. Diese sei mittlerweile bei den Autohändlern aufgestartet und bringe einige Verbesserungen, unter anderem eine kürzere Verarbeitungszeit.</p>
+<p/><p>Über seine Erwartungen hinsichtlich der künftigen Zinspolitik der Schweizerischen Nationalbank wollte Laubenthal nicht spekulieren. "Wir haben aber in der Vergangenheit bewiesen, dass wir sowohl mit tieferen als auch mit höheren Zinsen umgehen können.</p>
+<p/><p>Was die kommunizierten Finanzziele für das laufende und das kommende Jahr betrifft, sieht sich der Cembra-Chef ebenfalls auf Kurs. Demnach soll 2025 der Reingewinn über dem Vorjahr zu liegen kommen, dies bei einer Rendite auf dem Eigenkapital von 14 bis 15 Prozent.</p>
+<p/><p>Cembra betreut in ihren Geschäftsbereichen Lending und Payments mehr als 2 Millionen Kunden in der Schweiz und beschäftigt mehr als 850 Mitarbeitende.</p>
+<p/><p>cf/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
