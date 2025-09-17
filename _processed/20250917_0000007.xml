@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T101904+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>1199</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:1199:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T101904+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T101904+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Cicor will Marktkonsoliderung aktiv mitgestalten und vorantreiben</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04003000"/><Subject FormalName="04016048"/><Subject FormalName="04016005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9552" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196746">
+<Property FormalName="FullName" Value="Cicor Technologies AG" />
+
+<Property FormalName="ShortName" Value="Cicor" />
+
+<Property FormalName="Telekurs" Value="891827" />
+
+<Property FormalName="CHNr" Value="CH-645.1.001.519-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008702190" />
+
+<Property FormalName="Ticker" Value="CICN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1155135838" />
+
+<Property FormalName="Ticker" Value="CIC21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Elektronik-Komponenten-Hersteller Cicor rechnet in Europa mit einer beschleunigten Konsolidierung des aktuell noch sehr fragmentierten Marktes. Cicor-Chef Alexander Hagemann will an dieser Marktkonsolidierung aktiv teilnehmen und sie mit vorantreiben, wie er an der Anlegerkonferenz Investora am Mittwoch in Zürich erklärte.</p>
+<p/><p>"Wir haben einen bewährten Übernahme-Ansatz", so der Cicor-CEO weiter. Dieser führe bei den übernommenen Unternehmen zu beschleunigtem Wachstum und erhöhter Profitabilität. Insgesamt hat Cicor seit 2021 zwölf Akquisitionen abgeschlossen. Für weitere Übernahmen stünden aktuell rund 100 Millionen Franken zur Verfügung, sagte Finanzchef Peter Neumann.</p>
+<p/><p>Der Cicor-CFO bekräftigte vor den Investoren auch die mittelfristigen Ambitionen der Gruppe. So soll der Umsatz bis 2028 auf über eine Milliarde Franken steigen. Dazu sollen neben weiteren Zukäufen ein organisches Wachstum von jährlich 7 bis 10 Prozent beitragen. Für die EBITDA-Marge stellt das Cicor-Management für das Jahr 2028 einen Wert von 10 bis 13 Prozent in Aussicht. Im ersten Semster 2025 betrug die EBITDA-Marge 9,4 Prozent.</p>
+<p/><p>Die Auszahlung von Dividenden steht für das Cicor-Management weiter nicht im Fokus.</p>
+<p/><p>Und auch die mit der Präsentation des Halbjahresergebnis erhöhten Ziele für das laufende Jahr werden bestätigt. Demnach rechnet die Gruppe für 2025 mit einem Umsatz zwischen 620 und 650 Millionen Franken und einem EBITDA inklusive aller negativen Effekte aus der Eolane-Übernahme von 62 bis 70 Millionen.</p>
+<p/><p>Cicor ist ein globaler tätiger Anbieter elektronischer Gesamtlösungen. Die Gruppe beschäftigt rund 4400 Mitarbeiterinnen und Mitarbeitern in 13 Ländern. Die Kunden von Cicor kommen aus den Bereichen Medizin, Industrie, Luft- und Raumfahrt sowie Verteidigung.</p>
+<p/><p>gab/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
