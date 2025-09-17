@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T124103+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>1726</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:1726:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T124103+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T124103+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: BCGE will weiter in neue Produkte und Technologien investieren</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006002"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1204" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197137">
+<Property FormalName="FullName" Value="Banque Cantonale de Genève" />
+
+<Property FormalName="ShortName" Value="BCGE" />
+
+<Property FormalName="Telekurs" Value="164268" />
+
+<Property FormalName="CHNr" Value="CH-660.0.018.916-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001642682" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001642708" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010760343" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0350494719" />
+
+<Property FormalName="Ticker" Value="BCGE" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Banque Cantonale de Genève (BCGE) hat zwar im ersten Halbjahr wegen des schwierigen Zinsumfelds weniger Gewinn erzielt. Sie zeigt sich aber erfreut über das anhaltende Wachstum.</p>
+<p/><p>"Für uns ist wichtig, dass wir im ersten Semester weiter gewachsen sind", sagte CEO Nicolas Krügel am Mittwoch an der Anlegerkonferenz Investora. Dazu hätten sowohl das Kreditwachstum, als auch der Anstieg der verwalteten Vermögen wie auch neue Kunden beigetragen.</p>
+<p/><p>Die verwalteten Vermögen legten insgesamt zwar nur minim um 0,4 Prozent zu, Krügel hob indes die mit 800 Millionen Franken hohen Nettoneugelder hervor.</p>
+<p/><p>Im zweiten Semester will die Bank laut dem CEO weiter in neue Produkte und Technologien, unter anderem für die digitale Transformation, investieren.</p>
+<p/><p>Krügel bestätigte die Prognose vom August, dass im Gesamtjahr 2025 angesichts des aktuellen Zinsumfelds und der schwächeren Konjunktur mit einem im Vergleich zum Vorjahr rückläufigen Ergebnis zu rechnen sei. Auf die Frage, ob der Rückgang eher im tieferen oder höheren einstelligen Prozentbereich ausfallen dürfte, meinte er, darüber wolle er nicht spekulieren.</p>
+<p/><p>Konkretere Prognosen hinsichtlich der Erwartungen mit Blick auf die Zinspolitik der Schweizerischen Nationalbank wollte er auch nicht abgeben. Sollte sich die SNB gezwungen sehen, Negativzinsen einzuführen, würde sie dies so spät wie möglich machen, so Krügel. Zumindest für das laufende Jahr erachtet er indes ein Festhalten am Zinsniveau von Null als das wahrscheinlichste Szenario.</p>
+<p/><p>Gleichzeitig betonte er, dass der Zinserfolg der BCGE sowohl bei steigenden Zinsen als auch in einem negativen Zinsumfeld wieder zunehmen dürfte. "Auch negative Zinsen bieten gewisse Opportunitäten."</p>
+<p/><p>Die 1816 gegründete BCGE ist eine Universal- und Handelsbank, deren Hauptaufgabe darin besteht, zur wirtschaftlichen Entwicklung von Genf und seiner Region beizutragen. Sie hat ihren Sitz in Genf und verfügt über Niederlassungen in Zürich, Lausanne, Basel, Paris, Lyon, Annecy, Dubai und Hongkong.</p>
+<p/><p>cf/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
