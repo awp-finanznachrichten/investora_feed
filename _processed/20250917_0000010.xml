@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T121441+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>1636</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:1636:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T121441+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T121441+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Tecan-CFO will Vertrauen der Investoren zurückgewinnen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8708" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197532">
+<Property FormalName="FullName" Value="Tecan Group AG" />
+
+<Property FormalName="ShortName" Value="Tecan" />
+
+<Property FormalName="Telekurs" Value="80580" />
+
+<Property FormalName="CHNr" Value="CH-020.3.926.126-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012100191" />
+
+<Property FormalName="Ticker" Value="TECN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1137122755" />
+
+<Property FormalName="Ticker" Value="TEC21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474857070" />
+
+<Property FormalName="Ticker" Value="TEC25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Laborausrüster Tecan strebt nach schwierigen Semestern die Rückkehr auf den Wachstumskurs an. Finanzchefin Tania Micki bekräftigte am Mittwoch an der Anlegerkonferenz Investora die Ambition, mittelfristig organische Wachstumsraten im mittleren bis hohen einstelligen Prozentbereich in Lokalwährungen bei gleichzeitiger kontinuierlicher Verbesserung der Profitabilität zu erreichen.</p>
+<p/><p>Die Tecan-Finanzchefin machte zudem klar, dass ihr Unternehmen das Vertrauen der Investoren zurückgewinnen will. Dazu gehöre nicht zuletzt, dass die gesetzten und kommunizierten Ziele erreicht werden. Die auf 2025 neu eingeführte Quartalsberichterstattung soll zudem die Transparenz erhöhen, ergänzte Kommunikations-Chef Martin Brändle.</p>
+<p/><p>Mit Blick auf die US-Zölle habe Tecan bereits verschiedene Massnahmen zur Abfederung ergriffen. Dazu gehören die vorausschauende Auffüllung der Lagerbestände in den USA, die Stärkung der lokalen Produktion wie auch die Anpassung von Lieferketten.</p>
+<p/><p>Sollten die höheren reziproken Zölle bis zum Jahresende in Kraft bleiben, veranschlagt Tecan die Bruttoauswirkungen auf das EBITDA für 2025 im niedrigen Zehner-Millionenbereich. Für das nächste Jahr rechnet die Finanzchef mit einem negativen Effekt von etwas über 20 Millionen. Die bereits ergriffenen Massnahmen dürften dem mit gegen 5 Millionen Franken entgegenwirken.</p>
+<p/><p>Tecan ist ein weltweit führender Anbieter in der Laborautomation. Das Unternehmen beschäftigt mehr als 3000 Mitarbeitende und verfügt über Produktions-, Forschungs- und Entwicklungsstätten in Europa, Nordamerika und in Asien.</p>
+<p/><p>gab/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
