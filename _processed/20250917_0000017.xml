@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T161805+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>2629</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:2629:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T161805+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T161805+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: HBM Healthcare hofft auf Ende des Dornröschenschlafs</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191333">
+<Property FormalName="FullName" Value="HBM Healthcare Investments AG" />
+
+<Property FormalName="ShortName" Value="HBM" />
+
+<Property FormalName="Telekurs" Value="116034" />
+
+<Property FormalName="CHNr" Value="CH-170.3.024.680-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012627250" />
+
+<Property FormalName="Ticker" Value="HBMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1109638499" />
+
+<Property FormalName="Ticker" Value="HBM21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="TST"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Wer im Gesundheitssektor investiert, blickt nicht selten auf eine längere Durststrecke zurück. So auch die an der Schweizer Börse kotierte Beteiligungsgesellschaft HBM Healthcare. Finanzchef Erwin Troxler hofft aber auf eine baldige Besserung.</p>
+<p/><p>"Die vergangenen vier Jahre waren eher schwierig", räumte Troxler am Mittwoch an der Anlegerkonferenz Investora ein. Auch im laufenden Geschäftsjahr arbeite HBM bis dato "etwa Break-Even", was insbesondere dem schwachen US-Dollar geschuldet sei. Für das erste Quartal 2025/26 hatte die Gesellschaft noch einen Verlust von 140 Millionen Franken ausgewiesen.</p>
+<p/><p>Die Fundamentaldaten des Gesundheitssektors seien aber weiterhin intakt, betonte Dominique Rieger, Head of Business Development &amp; Distribution bei HBM. Sie sprächen daher für eine weitere Outperformance des Sektors, wie der Blick auf die langen Zeitreihen zeige.</p>
+<p/><p>"Die Branche wächst immer noch schneller als die Weltwirtschaft", sagte Rieger. "Es gibt aber immer Phasen von drei bis vier Jahren, in denen es weniger gut läuft für die Branche und damit auch für die Investoren. Und wir hoffen, dass diese Phase nun bald hinter uns liegt." Die Branche also aus dem Dornröschenschlaf erwacht.</p>
+<p/><p>"Wir sind aktuell in einer Phase der Normalisierung", ergänzte Rieger. Vor vier Jahren noch hatten die Mittelzuflüsse in forschende Unternehmen auf einem sehr hohen Niveau gelegen und mit ihren die bezahlten Transaktionspreise. "2021 hatten wir eine regelrechte Party." Seither habe ein Bereinigungsprozess stattgefunden.</p>
+<p/><p>HBM Healthcare Investments investiert im Sektor Gesundheit. Die Gesellschaft hält und bewirtschaftet ein internationales Portfolio von Unternehmen in den Bereichen Humanmedizin, Biotechnologie, Medizinaltechnik und Diagnostik sowie verwandten Gebieten.</p>
+<p/><p>ra/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
