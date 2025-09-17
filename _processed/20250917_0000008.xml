@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250917T112222+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250917</DateId>
+			<NewsItemId>1414</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250917:1414:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250917T112222+0200</FirstCreated>
+		<ThisRevisionCreated>20250917T112222+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Meier Tobler bekräftigt aktionärsfreundliche Ausschüttungspolitik</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004000"/><Subject FormalName="04016048"/><Subject FormalName="04016015"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8603" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196804">
+<Property FormalName="FullName" Value="Meier Tobler Group AG" />
+
+<Property FormalName="ShortName" Value="Meier Tobler" />
+
+<Property FormalName="Telekurs" Value="208596" />
+
+<Property FormalName="CHNr" Value="CH-020.3.928.919-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0208062627" />
+
+<Property FormalName="Ticker" Value="MTG" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Haustechnikspezialist Meier Tobler sieht eine langsame Erholung. Der Markt wachse aktuell verhalten, erklärte CEO Roger Basler am Mittwoch an der Anlegerkonferenz Investora. Meier Tobler habe im ersten Halbjahr tendenziell Marktanteile gewonnen.</p>
+<p/><p>Eine konkrete Prognose für das laufende Jahr wagt der CEO indes weiter nicht, da es ungewiss bleibe, wann und wie stark die Trendwende eintreten werde.</p>
+<p/><p>Finanzchef Lukas Leuenberger rechnet für das zweite Halbjahr aufgrund er Saisonalität des Geschäftes mit einem höheren Umsatz als in den ersten sechs Monaten. Und auch die Profitabilität erwartet er im zweiten Semester höher.</p>
+<p/><p>Der CFO bekräftigte vor den Investoren die aktionärsfreundliche Ausschüttungspolitik des Unternehmens. "Ich sehe keine Risiken für die Dividende", so Leuenberger.</p>
+<p/><h3>Ausgang Eigenmietwertabstimmung kaum Einfluss auf Meier Tobler</h3>
+<p/><p>Vom Ausgang der Abstimmung über den Eigenmietwert sieht sich Meier Tobler aufgrund des generell hohen Sanierungsbedarfes nur sehr beschränkt betroffen. Bei einer allfälligen Abschaffung des Eigenmietwertes rechnet Unternehmenschef Basler kurzfristig mit einer Zunahme von Sanierungen. Dies könnte im Installateurgewerbe zu gewissen Engpässen führen. Meier Tobler selbst sei dank Agilität und der Resilienz in der Lieferkette bestens aufgestellt für kurzfristige Nachfragesteigerung.</p>
+<p/><p>Meier Tobler ist ein auf den Schweizer Markt fokussierter Haustechnik-Anbieter. Das Unternehmen beschäftigt rund 1300 Mitarbeitende und ist spezialisiert auf Wärmeerzeugung, Klimasysteme, Service und Wartung sowie auf den Vertrieb von Handelsprodukten für die Schweizer Haustechnikbranche.</p>
+<p/><p>gab/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
