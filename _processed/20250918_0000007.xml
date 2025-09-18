@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T121905+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>1748</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:1748:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T121904+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T121904+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Cham Swiss Properties hat ambitionierte Wachstumspläne</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004003"/><Subject FormalName="04016048"/><Subject FormalName="04016019"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6330" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2025756012">
+<Property FormalName="FullName" Value="Cham Swiss Properties AG" />
+
+<Property FormalName="ShortName" Value="Cham SP" />
+
+<Property FormalName="Telekurs" Value="845661" />
+
+<Property FormalName="CHNr" Value="CH-020.3.048.325-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0524026959" />
+
+<Property FormalName="Ticker" Value="CHAM" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das im Frühjahr neu geschaffener Immobilienunternehmen Cham Swiss Properties (CSP) hat grosse Wachstumspläne. Bis ins Jahr 2032 soll der Wert des Portfolios bekanntlich auf 3 Milliarden Franken verdoppelt werden.</p>
+<p/><p>Vorteile des Unternehmens seien die erstklassigen Standorte und die hohe Qualität der Objekte, sagte CEO Thomas Aebischer am Donnerstag an der Anlegerkonferenz Investora. Er unterstrich die Konzentration von CSP auf die wirtschaftsstärksten Metropolregionen in der Schweiz. Der geografische Schwerpunkt werde indes in der Zentralschweiz bleiben.</p>
+<p/><p>Highlights bei den Arealentwicklungen sind etwa die beiden benachbarten Areale "Papieri" und "Pavatex", beide in Cham. Auf dem Areal "Papieri" wurden von fünf Etappen zwei bereits realisiert, die dritte befindet sich im Bau und die letzten beiden in Planung. Insgesamt sollen hier rund 1000 Wohnungen entstehen, was einen Wohnanteil von etwa 75 Prozent ergäbe.</p>
+<p/><p>Im Gewerbeanteil sollen rund 1000 Arbeitsplätze entstehen. Bis zur geplanten Fertigstellung des gesamten Areals im Jahr 2032 rechnet Aebischer mit einem Soll-Mietertrag von rund 40 Millionen Franken. Per Mitte 2025 lag dieser Wert bei 10 Millionen.</p>
+<p/><p>Das Projekt "Pavatex" umfasst einen rein gewerblichen Nordteil und einen Südteil mit 300 Wohnungen und einem Schulhaus. Der Baubeginn wird allerdings erst für die Jahre 2028 oder 2029 erwartet und die Fertigstellung 2032. Der erwartete Soll-Mietertrag liegt laut dem CEO bei etwa 13,5 Millionen Franken.</p>
+<p/><p>Weitere grössere Projekte sind der Bau eines neuen Stadtquartiers direkt beim Bahnhof in Pratteln, "Bredella Ost" und "Bredella West" oder verschiedene Projekte der "Lokstadt" in Winterthur. Mit all diesen und weiteren Projekten will Aebischer die Mieteinnahmen bis 2032 auf über 100 Millionen Franken vervierfachen. Der Wohnanteil soll dannzumal bei rund 60 Prozent liegen.</p>
+<p/><p>Zur Finanzierung der zahlreichen Projekte will das Unternehmen bis 2032 ein gestaffeltes Anleihenportfolio aufbauen, wie Finanzchef Daniel Grab erklärte. Kapitalerhöhungen sind keine vorgesehen.</p>
+<p/><p>Cham Swiss Properties ging aus der Fusion der Cham Group mit Ina Invest im Frühjahr hervor. Der Wert des kombinierten Portfolios wurde Mitte Jahr auf 1,66 Milliarden beziffert, mit einem Wohnanteil von rund 60 Prozent.</p>
+<p/><p>cf/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
