@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T140238+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>2298</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:2298:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T140238+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T140238+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: LLB positiv überrascht von Resonanz auf deutschem Markt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9490" />
+
+</Property>
+
+<Property FormalName="Country" Value="LI" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147194851">
+<Property FormalName="FullName" Value="Liechtensteinische Landesbank AG" />
+
+<Property FormalName="ShortName" Value="LLB" />
+
+<Property FormalName="Telekurs" Value="588287" />
+
+<Property FormalName="CHNr" Value="FL-000.1.000.289-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="LI0355147575" />
+
+<Property FormalName="Ticker" Value="LLBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041204" />
+
+<Property FormalName="Ticker" Value="LLB19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041527" />
+
+<Property FormalName="Ticker" Value="LLB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536893255" />
+
+<Property FormalName="Ticker" Value="LLB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1306117040" />
+
+<Property FormalName="Ticker" Value="LLB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910237" />
+
+<Property FormalName="Ticker" Value="LLB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1423931596" />
+
+<Property FormalName="Ticker" Value="LLB25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="NEW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Bei der Liechtensteinischen Landesbank (LLB) ist man zufrieden mit der geschäftlichen Entwicklung in Deutschland. Dort hat sie vor rund anderthalb Jahren drei Niederlassungen eröffnet und will hauptsächlich Vermögensverwaltungskunden ansprechen.</p>
+<p/><p>"Wir sind überrascht von der Resonanz, mit der wir auf dem deutschen Markt aufgenommen wurden", sagte Christoph Reich, der interimistische CEO der LLB, am Donnerstag während einer Präsentation auf der Anlegerkonferenz Investora. Nach seinen Angaben sind für die Bank an den drei Standorten Düsseldorf, Frankfurt und München mittlerweile 25 Kundenberater tätig.</p>
+<p/><p>Als Liechtensteiner Bank habe man in Deutschland den Vorteil, dass das Fürstentum zum Europäischen Wirtschaftsraum (EWR) gehöre und man deshalb direkten Zugang zum Markt habe. Als Hauptgrund, dass die LLB bei den deutschen Kunden gut ankomme, sehe man das Angebot der Anlagediversifikation ausserhalb des deutschen Raums und das gute Kreditrating der Bank.</p>
+<p/><h3>Neueröffnung in Zürich</h3>
+<p/><p>Auf Kurs sieht sich die LLB auch in der Schweiz, wo man einst die Bank Linth übernommen hat. In einigen Wochen wird gemäss Reich wie angekündigt denn auch die neue Niederlassung in Zürich eröffnet. Die LLB zieht an einen prominenten Standort an der Bahnhofstrasse um, und zwar in das Gebäude, in dem früher das Modegeschäft Modissa angesiedelt war. Dort wird es Platz für rund 70 Arbeitsplätze geben.</p>
+<p/><p>Ein Beweggrund für die Wachstumsinitiativen in der Schweiz, Österreich und Deutschland liegen aber auch bei erwünschten Skalierungseffekten, wie Reich an der Investora ausführte. So ist die LBB in Liechtenstein systemrelevant und muss von Gesetzes wegen gewisse Dienstleistungen erbringen. Damit die getätigten Investitionen in die Digitalisierung der Prozesse sich auszahlen, sei man auf die Standbeine in Österreich und in der Schweiz angewiesen.</p>
+<p/><p>Die Liechtensteinische Landesbank (LLB) gehört mehrheitlich dem Staat Liechtenstein. Sie ist die grösste Bank des Kleinstaates, hat aber mittlerweile keine explizite Staatsgarantie mehr. Die LLB sieht sich als Universalbank in Liechtenstein und ist auch in Österreich und der Ostschweiz tätig. Neben Kunden in diesen Heimmärkten bedient sie in der Vermögensverwaltung auch Kunden aus Deutschland, Westeuropa und Zentraleuropa und ist zudem im Fondsgeschäft tätig. Momentan sucht die LLB einen Nachfolger für den bisherigen CEO Gabriel Brenna, der Anfang Dezember Chef von Raiffeisen Schweiz wird.</p>
+<p/><p>jr/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
