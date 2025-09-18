@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T090523+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>1058</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:1058:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T090523+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T090523+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Plazza sieht in Zukunft ähnliches Wachstum wie seit Börsengang</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004003"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8055" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2053805389">
+<Property FormalName="FullName" Value="Plazza AG" />
+
+<Property FormalName="ShortName" Value="Plazza" />
+
+<Property FormalName="Telekurs" Value="690873" />
+
+<Property FormalName="CHNr" Value="CH-020.3.041.787-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284142913" />
+
+<Property FormalName="Ticker" Value="PLAN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284143929" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Immobilienunternehmen Plazza sieht sich auf gutem Wachstumskurs. "Der Liegenschaftenertrag dürfte in den nächsten zehn Jahren etwa gleich stark wachsen, wie in den letzten zehn seit dem Börsengang 2015", sagte CEO und CFO Thomas Casata am Donnerstag an der Anlegerkonferenz Investora.</p>
+<p/><p>Zur Erläuterung: Im Jahr 2025 hatte das aus der ehemaligen Mischgesellschaft Conzzeta hervorgegangene Unternehmen einen Liegenschaftenertrag von 18,4 Millionen erwirtschaftet, 2024 waren es 33,0 Millionen, also eine Zunahme um rund 80 Prozent.</p>
+<p/><p>Die beiden grössten Projekte von Plazza kommen laut Casata planmässig voran. Das eine ist ein Neubauprojekt in Regensdorf, wo der Gestaltungsplan nun genehmigt ist. Den Soll-Mietertrag schätzt er auf mindestens 9 Millionen Franken, dies bei einem Investitionsvolumen von 220 bis 240 Millionen Franken. "Wir sind zuversichtlich, dass wir mit dem Bau im kommenden Jahr loslegen können."</p>
+<p/><p>Das zweite ist die Siedlung "Tiergarten" in Zürich. Diese umfasst 466 Wohnungen im Mittelstand-Segment mit einem Soll-Mietertrag von 13,5 Millionen Franken. Die Sanierung der Wohnungen in bewohntem Zustand sei im Juli begonnen worden, so der CEO.</p>
+<p/><p>Was die Leerstandsquote betrifft - diese ist im ersten Halbjahr auf 6,9 Prozent etwas angestiegen - führt dies Casata auf das Projekt in Crissier zurück. Dort seien noch nicht alle Geschäfte vermietet worden, was aber auch zu erwarten gewesen sei. Er geht davon aus, dass sich dies in den kommenden Monaten ändern wird.</p>
+<p/><p>Das Portfolio von Plazza besteht überwiegend aus Wohnliegenschaften in den Wirtschaftsräumen Zürich und Lausanne sowie aus Geschäftsliegenschaften. Rund 80 Prozent der Mieterträge stammen aus dem Bereich Wohnen, der Rest aus Geschäftsliegenschaften. Neben der Bewirtschaftung der eigenen Immobilien erbringt die Gesellschaft auch Dienstleistungen für Dritte.</p>
+<p/><p>cf/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
