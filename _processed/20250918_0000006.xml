@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T111723+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>1459</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:1459:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T111723+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T111723+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Intershop kommt bei Vermietung von "Bento Baden" voran</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004003"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8005" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197397">
+<Property FormalName="FullName" Value="Intershop Holding AG" />
+
+<Property FormalName="ShortName" Value="Intershop" />
+
+<Property FormalName="Telekurs" Value="111461" />
+
+<Property FormalName="CHNr" Value="CH-020.3.913.692-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1338987303" />
+
+<Property FormalName="Ticker" Value="ISN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1111392994" />
+
+<Property FormalName="Ticker" Value="ISH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910377" />
+
+<Property FormalName="Ticker" Value="ISH24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1414003421" />
+
+<Property FormalName="Ticker" Value="ISH25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Immobilienunternehmen Intershop hat derzeit zwei Entwicklungsobjekte im Bau, welche noch im vierten Quartal 2025 fertiggestellt werden. Das Projekt in Baden, "Bento Baden", läuft bei der Vermietung besser als dasjenige in Lausanne unter dem Namen "Bloom".</p>
+<p/><p>"Bento Baden" ist eine Neupositionierung eines Büro- und Gewerbegebäudes. Der Vermietungsstand wurde per Mitte Jahr mit gut 51 Prozent angegeben. Die Vermietung weiterer Flächen laufe hier gut, sagte CEO Simon Haus am Donnerstag an der Anlegerkonferenz Investora.</p>
+<p/><p>Schwieriger sei die Lage im Bürogebäude "Bloom" in Lausanne. Haus hofft indes, das mit der Fertigstellung im vierten Quartal das Interesse an den noch freistehenden Flächen zunehmen werde. Per Mitte Jahr lag der Vermietungsstand hier bei knapp 54 Prozent.</p>
+<p/><p>Gleichzeitig bestätigt der Unternehmens-Chef die bereits kommunizierten Investitionspläne für die nähere Zukunft. Demnach will die Immobiliengesellschaft in den nächsten Jahren insgesamt rund 525 Millionen Franken investieren. Ein grosser Teil der Projekte befindet sich allerdings erst im Status der strategischen Planung.</p>
+<p/><p>Intershop ist eine ausschliesslich in der Schweiz tätige Immobiliengesellschaft mit 64 Mitarbeitenden. Der Grossteil der Immobilien befindet sich im Grossraum Zürich, aber auch in der übrigen Schweiz verfügt das Unternehmen über Objekte. Die Rendite- und Entwicklungsliegenschaften von Intershop wurden per Mitte 2025 mit insgesamt 1,8 Milliarden Franken bewertet.</p>
+<p/><p>cf/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
