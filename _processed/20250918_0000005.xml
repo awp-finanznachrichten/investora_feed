@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T111254+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>1449</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:1449:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T111254+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T111254+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Skan bekräftigt Prognosen für Gesamtjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147195814">
+<Property FormalName="FullName" Value="SKAN Group AG" />
+
+<Property FormalName="ShortName" Value="Skan" />
+
+<Property FormalName="Telekurs" Value="135503" />
+
+<Property FormalName="CHNr" Value="CH-035.3.030.001-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0013396012" />
+
+<Property FormalName="Ticker" Value="SKAN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Isolatortechnologie-Spezialist Skan bekräftigt seine Prognosen für das Gesamtjahr 2025. Im ersten Halbjahr hatte Skan zahlreiche Projektverschiebungen hinnehmen müssen, allerdings habe das Unternehmen die Produktion nicht zurückgefahren und bereits für die zweite Jahreshälfte vorproduziert, sagte CEO Thomas Huber.</p>
+<p/><p>Auch weiterhin erwarte Skan für das laufende Jahr ein Umsatzwachstum im "mittleren Zehnerbereich" und eine EBITDA-Marge von 14 bis 16 Prozent, sagte Huber am Donnerstag an der Anlegermesse Investora 2025. Dank der Vorproduktion in der ersten Jahreshälfte würden die Kosten dann in Umsatz umgewandelt werden, stellte er in Aussicht.</p>
+<p/><p>Skan hatte im ersten Halbjahr einen Umsatzrückgang um knapp 18 Prozent hinnehmen müssen. Nicht zuletzt wurden diverse Projekte für Impfstofflinien verschoben. "In 30 Jahren bei Skan habe ich wohl noch nie so eine Häufung von Projektverschiebungen gesehen", sagte der CEO.</p>
+<p/><p>Skan hatte auch die Unsicherheit um die US-Zollpolitik zu spüren bekommen, wie Huber bestätigte: Zwischendurch sei das US-Geschäft "tot" gewesen. "Ab Juni bis in den August ist aber die Blase geplatzt und alle Bestellungen sind gekommen." Skan habe zudem während der Covid-Pandemie die Produktion in Deutschland deutlich ausgebaut und könne die Bestellungen aus seinen deutschen Werken abdecken, betonte er.</p>
+<p/><h3>Trend zu injizierbaren Medikamenten</h3>
+<p/><p>Weiterhin spielen dem Unternehmen die grundsätzlichen Treiber im Pharmamarkt in die Hände, insbesondere der Trend zu injizierbaren Medikamenten. Diese Medikamente, die gespritzt werden müssen, werden unter besonders strengen sterilen Bedingungen abgefüllt - also in Isolatoren wie beispielsweise jenen von Skan.</p>
+<p/><p>Skan habe dabei weiterhin einen Vorsprung bezüglich Technologie: "Entwicklungsmässig haben wird unser Potenzial noch keineswegs ausgeschöpft", gab sich Huber überzeugt. Das sei auch wichtig angesichts der drängenden Konkurrenz aus Ostasien: Bisher habe Skan den technologischen Vorsprung halten können.</p>
+<p/><p>Skan bietet Isolatorsysteme an, um Medikamente nach strengen Sterilitätsstandards abzufüllen. Zudem bietet das Unternehmen seinen Kunden Prozessunterstützung, Services und Verbrauchsmaterialien an. Das Unternehmen beschäftigt rund 1500 Mitarbeitende, mehr als die Hälfte davon am Hauptsitz Allschwil.</p>
+<p/><p>tp/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
