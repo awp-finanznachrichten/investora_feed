@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T143629+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>2481</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:2481:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T143628+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T143628+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: TX Group sieht sich mit Margenziele für Medienunternehmen auf Kurs</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04010000"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8021" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193909">
+<Property FormalName="FullName" Value="TX Group AG" />
+
+<Property FormalName="ShortName" Value="TX Group" />
+
+<Property FormalName="Telekurs" Value="90538" />
+
+<Property FormalName="CHNr" Value="CH-020.3.925.711-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011178255" />
+
+<Property FormalName="Ticker" Value="TXGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Margenziele, welche die TX Group seinen Medienunternehmen bis Ende des nächsten respektive übernächsten Jahres auferlegt hat, dürften erfüllt werden. In diesem Sinn äusserte sich Finanzchef Wolf-Gerrit Benkendorff am Donnerstag an der Investora.</p>
+<p/><p>Er könne mit gutem Gewissen kommunizieren, dass die Ziele erreicht würden, sagte der TX-CFO. Denn die Massnahmen, welche die besseren Margen ermöglichten, seien mittlerweile alle umgesetzt oder im Zuge der Umsetzung.</p>
+<p/><p>Hintergrund für die Margenziele sind gemäss Benkendorff unter anderem ausländische Investoren, die vorab aufgrund des Engagements der TX Group bei digitalen Markplätzen investiert seien und entsprechend Transparenz zu den übrigen Geschäftsteilen einforderten. Aus demselben Grund werde die TX Group auch den Free Cash Flow ihrer Mediensparten ausweisen.</p>
+<p/><p>Im Jahr 2026 muss 20 Minuten gemäss kommunizierten Zielvorgaben eine EBIT-Marge von 14 bis 16 Prozent erreichen und Goldbach - ohne den Aussenwerbungsbereich - eine von 18 bis 22 Prozent. Die Bezahlmedien von Tamedia müssen ein Jahr später eine EBIT-Marge von 8 bis 10 Prozent erzielen.</p>
+<p/><p>Die TX Group ist einerseits Ankeraktionärin der auf Kleinanzeigenportale spezialisierten SMG Swiss Marketplace Group, die am Freitag den Gang an die Börse wagt. Anderseits gehören Medienmarken wie "Tages-Anzeiger" und "20 Minuten", die Werbevermarkterin Goldbach, der TV-Streamer Zattoo, die Terminsoftware Doodle sowie die Jobinserateplattformen von Jobcloud zum Konzern.</p>
+<p/><p>jr/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
