@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T160926+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>2833</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:2833:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T160925+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T160925+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Valiant will mit "Einfachheit" weitere Kunden gewinnen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006002"/><Subject FormalName="04016048"/><Subject FormalName="04016015"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193802">
+<Property FormalName="FullName" Value="Valiant Holding AG" />
+
+<Property FormalName="ShortName" Value="Valiant" />
+
+<Property FormalName="Telekurs" Value="631578" />
+
+<Property FormalName="CHNr" Value="CH-035.3.003.210-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0014786500" />
+
+<Property FormalName="Ticker" Value="VATN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0391911770" />
+
+<Property FormalName="Ticker" Value="VAB17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040727" />
+
+<Property FormalName="Ticker" Value="VAB19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041337" />
+
+<Property FormalName="Ticker" Value="VAB219" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041675" />
+
+<Property FormalName="Ticker" Value="VAB319" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239029" />
+
+<Property FormalName="Ticker" Value="VAB419" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071387" />
+
+<Property FormalName="Ticker" Value="VAB421" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158879" />
+
+<Property FormalName="Ticker" Value="VAB422" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158903" />
+
+<Property FormalName="Ticker" Value="VAB423" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1270609485" />
+
+<Property FormalName="Ticker" Value="VAB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1342551046" />
+
+<Property FormalName="Ticker" Value="VAB24" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Regionalbank Valiant will in der Strategieperiode bis 2029 weiter wachsen. Der Fokus liegt dabei auf dem Thema "Einfachheit und Rentabilität", wie CFO Serge Laville am Donnerstag an der Anlegerkonferenz Investora sagte.</p>
+<p/><p>So soll die Kundenbasis mit dem Fokus auf Einfachheit verbreitert und gleichzeitig das Geschäft mit KMU-Kunden ausgebaut werden. Das Kommissions- und Dienstleistungsgeschäft soll dank einer Diversifizierung und Erweiterung der Dienstleistungspalette wachsen, unter anderem etwa mit einem Ausbau der digitalen Kanäle für KMU-Kunden.</p>
+<p/><p>Konkret strebt Valiant ein jährliches Wachstum im Kommissions- und Dienstleistungsgeschäft von über 5 Prozent an sowie ein jährliches Wachstum der Ausleihungen von über 2 Prozent.</p>
+<p/><p>Durch vereinfachte und optimierte Prozesse sowie durch einen höheren Automatisierungsgrad sollen zudem die Kosten weiter gesenkt werden. Valiant will bis 2029 die Cost-Income-Ratio auf unter 55 Prozent senken.</p>
+<p/><p>Weiter bestätigte Laville, dass die Dividende bei einer jährlichen Ausschüttungsquote von über 50 Prozent stetig weiter erhöht werden soll.</p>
+<p/><p>Die Valiant Bank ist in 15 Kantonen an 84 Standorten lokal verankert. Sie bietet Privatkundinnen und -kunden und KMU ein umfassendes Angebot an Finanzdienstleistungen. Valiant beschäftigt mehr als 1000 Mitarbeitende und hat eine Bilanzsumme von über 36 Milliarden Franken.</p>
+<p/><p>cf/sc</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
