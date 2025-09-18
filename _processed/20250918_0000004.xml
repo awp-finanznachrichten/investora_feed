@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T104009+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>1340</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:1340:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T104008+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T104008+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Coltene will Kostenbasis weiter verbessern</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04006005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9450 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2123860808">
+<Property FormalName="FullName" Value="Coltene Holding AG" />
+
+<Property FormalName="ShortName" Value="Coltene" />
+
+<Property FormalName="Telekurs" Value="332979" />
+
+<Property FormalName="CHNr" Value="CH-320.3.058.477-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0025343259" />
+
+<Property FormalName="Ticker" Value="CLTN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Dentalbedarfshersteller Coltene arbeitet nach den rückläufigen Halbjahreszahlen 2025 weiterhin an seiner Kostenbasis. Ein Wachstum über dem Markt strebt die Gruppe derweil im Geschäft mit dem Erhalt der natürlichen Zähne und somit der Vermeidung von Implantatslösungen an.</p>
+<p/><p>Das Ostschweizer Unternehmen hatte im ersten Semester 2025 die Unsicherheit um die US-Zöllen zu spüren bekommen. "Im ersten Halbjahr hatten wir ein Volumenproblem", sagte Finanzchef Markus Abderhalden am Donnerstag an der Anlegerkonferenz Investora 2025. Im ersten Halbjahr schmolz der Umsatz um 7,4 Prozent, der Reingewinn ging in der Folge um 59 Prozent zurück.</p>
+<p/><h3>Effizienzgewinne</h3>
+<p/><p>Der Fokus für 2025 liege nun darauf, die betrieblichen Prozesse zu vereinfachen , aber auch die regulatorischen Kosten dank vermehrter Digitalisierung zu optimieren. "Unser Ziel ist es, Jahr für Jahr Effizienzgewinne von 5 Prozent zu erreichen", bekräftigte der Finanzchef.</p>
+<p/><p>Die Zollsituation habe Kunden veranlasst, auf die Bremse zu treten, sagte Abderhalden. Für das zweite Halbjahr gab er sich gleichzeitig zuversichtlicher: So seien etwa die Lieferungen aus der Produktion in Kanada weitgehend von den US-Zöllen ausgenommen. Derweil habe Coltene in Europa und der Schweiz Preiserhöhungen vorgenommen: Dabei profitiere man davon, dass der Markt relativ unelastisch sei.</p>
+<p/><p>Ein Wachstum über dem Markt erhofft sich Coltene weiterhin von seinen Lösungen zum Erhalt des natürlichen Zahns. Denn in über 50 Prozent der Fälle, in denen ein Implantat platziert wird, könnte der Zahnarzt den Zahn über eine Wurzelbehandlung erhalten: Das sei aber oft sehr aufwändig, sagte Abderhalden. Coltene biete hier eine gute Lösung für Zahnärzte.</p>
+<p/><p>Die Lösung will Coltene in der Zukunft auch offensiv vermarkten. Dies geschehe nicht nur über Schulungen sondern vermehrt auch über Social Media. Dabei will Coltene vom Trend profitierten, dass immer mehr Frauen den Zahnarzt-Beruf ergreifen: Gerade Zahnärztinnen seien verstärkt über Social-Media-Kanäle ansprechbar, erklärte der Coltene-Finanzchef.</p>
+<p/><p>Coltene entwickelt, produziert und vertreibt zahnmedizinische Verbrauchsmaterialien und Kleingeräte. Das Unternehmen beschäftigt knapp 1200 Mitarbeitende und hat Produktionsstätten in den USA, Kanada, Deutschland, Frankreich und der Schweiz. Zudem verfügt das Unternehmen über eigenen Verkaufsgesellschaften in seinen wichtigen Schlüsselmarkten in Europa, Nordamerika, Japan, China und Indien.</p>
+<p/><p>tp/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
