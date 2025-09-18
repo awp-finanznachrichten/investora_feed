@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T142246+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>2396</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:2396:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T142246+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T142246+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Newron laut CEO "kurz vor dem Durchbruch nach oben"</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH" />
+
+<Property FormalName="Country" Value="IT" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2119704330">
+<Property FormalName="FullName" Value="Newron Pharmaceuticals S.p.A." />
+
+<Property FormalName="ShortName" Value="Newron" />
+
+<Property FormalName="Telekurs" Value="352389" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="IT0004147952" />
+
+<Property FormalName="Ticker" Value="NWRN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Beim italienischen Biotechunternehmen Newron soll es bald nach oben gehen. CEO Stefan Weber sieht Newron "kurz vor dem Durchbruch nach oben", wie er am Donnerstag an der Investora in Zürich sagte.</p>
+<p/><p>Im Fokus steht insbesondere der Schizophrenie-Hoffnungsträger Evenamide mit weiteren Forschungsprogrammen. Ein globale Studie der Phase III wurde bereits gestartet, mit einer zweiten Phase-III-Studie soll im Oktober losgelegt werden.</p>
+<p/><p>Weber zeigt sich bezüglich des Erfolgs von Evenamide sehr zuversichtlich. Denn es sei ein Produkt einer neuen Klasse, die erstens sehr sicher im menschlichen Körper wirke, also praktisch ohne Nebenwirkungen, und zweitens als erste das Gehirn erreiche.</p>
+<p/><p>Evenamide wird in den laufenden Studien als Zusatztherapie zur bereits angewendeten Medikation bei bisher behandlungsresistenten Patienten eingesetzt. Diese Patienten würden indes wegen der Nebenwirkungen der bereits zur Behandlung zugelassenen Medikamente die Therapien immer wieder wechseln.</p>
+<p/><p>Newron hat im ersten Halbjahr 2025 lediglich noch einen minimen Verlust von knapp 0,1 Millionen Euro ausgewiesen. Dass im Gesamtjahr ein positives Ergebnis resultieren könnte, schloss Weber indes praktisch aus. "Wegen der hohen Kosten, die wir im zweiten Semester mit der Lancierung zweier globaler Studie der Phase III haben werden, ist ein Gewinn nicht realistisch; es sei denn, es käme zum Abschluss eines weiteren Lizenzabkommens."</p>
+<p/><p>Die bei Mailand beheimatete Newron fokussiert sich auf die Entwicklung neuartiger Therapien für Patienten mit Erkrankungen des zentralen und peripheren Nervensystems.</p>
+<p/><p>cf/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
