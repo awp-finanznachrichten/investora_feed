@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T152554+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>2703</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:2703:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T152554+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T152554+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Kuros sieht sich ausreichend kapitalisiert für Wachstumspläne</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04002001"/><Subject FormalName="04016048"/><Subject FormalName="04016019"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8952" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198207">
+<Property FormalName="FullName" Value="Kuros Biosciences AG" />
+
+<Property FormalName="ShortName" Value="Kuros" />
+
+<Property FormalName="Telekurs" Value="84178" />
+
+<Property FormalName="CHNr" Value="CH-020.4.000.944-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0325814116" />
+
+<Property FormalName="Ticker" Value="KURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Kuros sieht sich ausreichend kapitalisiert für die Expansionspläne, welche das Biotechunternehmen in den USA hegt. "Wir sind vollständig finanziert für unsere Strategie des organischen Wachstums", sagte Kuros-Finanzchef Daniel Geiger an der Investorenkonferenz Investora.</p>
+<p/><p>Die Investitionen in den USA könnten gut gestemmt werden, so Geiger weiter. Kuros eröffnet voraussichtlich in der zweiten Hälfte de kommenden Jahres eine Fabrik in den USA. Momentan erziel Kuros 95 Prozent des Umsatzes in den Vereinigten Staaten. Erfolgreich ist sie dort dank einer Kooperation mit Medtronic, welcher das exklusive Vermarktungsrecht für das Knochentransplantat Magnetos in den USA zugestanden wurde.</p>
+<p/><p>Geiger legte an der Investora aber Wert darauf, dass Kuros Medtronic lediglich als Vermarktungsdienstleister nutze, Kuros ansonsten aber unabhängig operiere und beispielsweise Verträge und Verrechnung direkt mit den Kunden regle.</p>
+<p/><p>Kuros ist ein Bio-Medtech-Unternehmen, das auf Knochenheilungstechnologien spezialisiert ist. Sein erstes kommerzielles Produkt ist Magnetos, ein Knochentransplantat, das laufend auf mehr Märkten zugelassen wird. Letztes Jahr war Kuros erstmals auf Stufe EBITDA profitabel, in der ersten Jahreshälfte 2025 bereits auch auf Stufe EBIT.</p>
+<p/><p>jr/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
