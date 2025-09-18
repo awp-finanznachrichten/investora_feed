@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T152711+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>2710</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:2710:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T152710+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T152710+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Titlis-CEO zeigt sich "sehr zufrieden" mit dem Sommergeschäft</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6390" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196273">
+<Property FormalName="FullName" Value="Bergbahnen Engelberg-Trübsee-Titlis AG, BET" />
+
+<Property FormalName="ShortName" Value="Titlisbahnen" />
+
+<Property FormalName="Telekurs" Value="752496" />
+
+<Property FormalName="CHNr" Value="CH-150.3.000.064-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0214706357" />
+
+<Property FormalName="Ticker" Value="TIBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0527044959" />
+
+<Property FormalName="Ticker" Value="TIBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Titlis Bergbahnen blicken auf einen offenbar guten Sommer zurück. Konkrete Zahlen zum Sommerhalbjahr darf das Unternehmen zwar noch nicht nennen, gemäss CEO Norbert Pratt ist das Sommerhalbjahr aber nicht schlecht verlaufen. "Wir sind angesichts der Baustelle bei der Bergstation sehr zufrieden mit dem Sommer", sagte er am Donnerstag an der Investorenkonferenz Investora.</p>
+<p/><p>Für die kommenden zehn Jahre bis 2035 hat sich das Unternehmen bekanntlich ehrgeizige Ziele gesetzt. So soll die jährliche Gästefrequenz bis dann auf 1,5 Millionen im Jahr ansteigen, von zuletzt rund 1,1 Millionen. Der Umsatz soll gleichzeitig auf bis zu 120 Millionen Franken klettern, dies bei einer operativen Gewinnmarge auf Stufe EBITDA von 50 Prozent.</p>
+<p/><p>Finanzchef Marco Leu geht davon aus, dass diese Ziele mit "grösster Wahrscheinlichkeit" erreicht werden.</p>
+<p/><p>Hoffnungsträger für die Zukunft ist das "Projekt Titlis". Das Grossprojekt des Architekturbüros Herzog &amp; de Meuron umfasst unter anderem eine neue Bergstation und einen markanten Turm mit einer Aussichtsplattform, Restaurants oder Sendeanlagen und Antennen.</p>
+<p/><p>Patt bestätigte frühere Aussagen, dass mit der Fertigstellung des Turms im kommenden Jahr zu rechnen sei. Die neue Bergstation soll dann bis 2029 fertig sein.</p>
+<p/><p>Die Titlis Bergbahnen erschliessen das ganzjährig zugängliche Gletschergebiet rund um den Titlis auf gut 3000 Meter über Meer in der Zentralschweiz. Zum börsenkotierten Unternehmen gehören die Bergbahnen, zwei Hotels, das Titlis Resort und mehrere Restaurants in Engelberg.</p>
+<p/><p>cf/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
