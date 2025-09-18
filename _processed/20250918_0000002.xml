@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T091121+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>1086</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:1086:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T091120+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T091120+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Burkhalter erachtet Treiber für weitere Entwicklung als intakt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8048" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2116375139">
+<Property FormalName="FullName" Value="Burkhalter Holding AG" />
+
+<Property FormalName="ShortName" Value="Burkhalter" />
+
+<Property FormalName="Telekurs" Value="268521" />
+
+<Property FormalName="CHNr" Value="CH-020.3.023.357-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0212255803" />
+
+<Property FormalName="Ticker" Value="BRKN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401891" />
+
+<Property FormalName="Ticker" Value="BCH241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Elektroinstallateur und Gebäudetechniker Burkhalter gibt sich für das laufende Geschäftsjahr zuversichtlich. Als Treiber für die weitere Entwicklung des Unternehmens sieht das Unternehmen nicht zuletzt den Sanierungsbedarf in Bezug auf Energieeffizienz aber auch generell die durch die hohe Nettoeinwanderung getriebene Bauwirtschaft.</p>
+<p/><p>Das Ziel für 2025 sei es weiterhin, den Gewinn pro Aktie "moderat zu erhöhen", bekräftigte Finanzchef Urs Domenig am Donnerstag den Ausblick der Gruppe an der Anlegerkonferenz Investora. Weil Burkhalter vor allem über Akquisitionen wachse, erachte man den Gewinn pro Aktie als klar wichtigste Zahl für die Entwicklung des Unternehmens. Im Geschäftsjahr 2024 hatte Burkhalter diese Kennzahl um 8,9 Prozent auf 5,39 Franken erhöht.</p>
+<p/><p>Bei den von Burkhalter getätigten Übernahmen handle es sich in rund zwei Dritteln der Fälle um Nachfolgelösungen, sagte Firmenchef Zeno Böhm. Die Gruppe muss dabei nicht selbst aktiv werden: Sie werde immer wieder von übernahmewilligen Firmen angefragt, wobei das Unternehmen allerdings sehr strikte Kriterien anwende, betonte der CEO. Im laufenden Jahr habe Burkhalter bisher zwei Übernahmen getätigt, wobei die Gruppe gegen 45 Anfragen von übernahmewilligen Unternehmen erhalten habe.</p>
+<p/><p>Eine sehr wichtige Rolle spiele für Burkhalter derweil auch die Lehrlingsausbildung, betonte Böhm. Damit könne das Unternehmen dem hohen Fachkräftemangel in der Branche entgegenwirken: "Wir müssen selber für unseren Nachwuchs schauen", sagte Böhm. Derzeit bildet Burkhalter insgesamt 983 Lernende aus.</p>
+<p/><p>Keinerlei Exposition hat Burkhalter im Ausland und damit auch zur Wechselkursentwicklung, wie Böhm betonte: Die Gruppe bleibe in der Schweiz und im Fürstentum Liechtenstein tätig. "Wir wissen, wie das hier funktioniert." Der Schritt über die Grenze sei denn auch nicht vorgesehen: "Im Ausland sind die Geschäftsmodelle anders."</p>
+<p/><p>Burkhalter erbringt Dienstleistungen aus den Bereichen Heizungs- und Kälte-, Lüftungs- und Klima-, Sanitär- und Elektrotechnik in der Schweiz und im Fürstentum Liechtenstein. Das Unternehmen besteht aus 84 Gruppengesellschaften an 166 Standorten und beschäftigt über 5300 Mitarbeitende.</p>
+<p/><p>tp/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
