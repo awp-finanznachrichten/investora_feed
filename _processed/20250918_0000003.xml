@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T100248+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>1221</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:1221:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T100247+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T100247+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Mobimo mit gut gefüllter Projekte-Pipeline</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6003" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198128">
+<Property FormalName="FullName" Value="Mobimo Holding AG" />
+
+<Property FormalName="ShortName" Value="Mobimo" />
+
+<Property FormalName="Telekurs" Value="086486" />
+
+<Property FormalName="CHNr" Value="CH-100.3.023.255-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011108872" />
+
+<Property FormalName="Ticker" Value="MOBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0354836113" />
+
+<Property FormalName="Ticker" Value="MOB17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071213" />
+
+<Property FormalName="Ticker" Value="MOB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101096613" />
+
+<Property FormalName="Ticker" Value="MOB21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1239464774" />
+
+<Property FormalName="Ticker" Value="MOB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346743029" />
+
+<Property FormalName="Ticker" Value="MOB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472056" />
+
+<Property FormalName="Ticker" Value="MOB241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403787" />
+
+<Property FormalName="Ticker" Value="MOB25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Immobilienunternehmen Mobimo baut auf die drei strategischen Prioritäten "Sicherung von Entwicklungsgewinnen", "solide Bilanz" und langfristige Steigerung des Mietertrags. Mobimo sieht sich damit insgesamt auf gutem Weg, wie CEO Daniel Ducrey am Donnerstag an der Anlegerkonferenz "Investora" in Zürich sagte.</p>
+<p/><p>Als wichtige Projekte im Bereich Arealentwicklung hob der Firmenchef etwa diejenigen in Lausanne im Quartier du Flon sowie das "Rad-Areal" in Zürich hervor. Gut gefüllt ist auch die Pipeline an Anlageobjekten im Bau sowie an Projekten für Stockwerkeigentum.</p>
+<p/><p>Zum weiteren Wachstum des Mietertrags wird etwa schon bald eine Überbauung in Lausen beitragen. Dort sind in zwei Neubauten ab dem kommenden Oktober 65 Wohnungen bezugsbereit, alle sind auch schon vermietet. Der Soll-Mietertag beläuft sich hier auf 1,2 Millionen Franken.</p>
+<p/><p>Bei den Projekten im Bereich Stockwerkeigentum ist eine Überbauung in Oberägeri mit 90 Wohnungen verteilt auf 10 Häuser am weitesten fortgeschritten. Diese sollen laut dem CEO im zweiten Quartal 2026 fertiggestellt sein, bereits sind alle Einheiten verkauft worden. Der Verkaufserlös beläuft sich auf 211 Millionen Franken.</p>
+<p/><p>Weitere Projekte in Köniz, Lausanne und Merlischachen sollen 2026 und 2027 fertiggestellt werden. Auch hier besteht laut Ducrey grosses Interesse seitens der potentiellen Käuferschaft. Der grössere Teil der Wohnungen ist bereits beurkundet.</p>
+<p/><p>Weiter bestätigte Ducrey die Prognosen von Anfang August. Wegen des gesunkenen Referenzzinssatzes für Hypotheken und aufgrund von Verkäufen gingen die Mieteinnahmen im zweiten Halbjahr zwar etwas zurück. Die Übernahme der EMWE dürfte auf der anderen Seite rund eine Million Franken an zusätzlichen Mieten einspielen. Daher werde der Mietertrag insgesamt leicht steigen.</p>
+<p/><p>Zudem soll der Promotionsertrag mindestens 40 Millionen Franken betragen, während die Leerstandsquote im Gesamtjahr bei rund 4 Prozent liegen dürfte.</p>
+<p/><p>Das Anlageportfolio von Mobimo besteht aus Geschäfts-, Gewerbe- und Wohnliegenschaften, in erster Linie in den Grossregionen Zürich und am Genfersee aber auch in anderen Regionen der Schweiz. Per Mitte 2025 wurden diese mit insgesamt knapp 4 Milliarden Franken bewertet. Der Wohnanteil liegt bei rund 40 Prozent, Büro- und Geschäftsliegenschaften machen je rund 30 Prozent aus.</p>
+<p/><p>cf/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
