@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T124610+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>1885</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:1885:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T124609+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T124609+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: Aevis Victoria sieht Pipeline weiterhin gut gefüllt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006005"/><Subject FormalName="04016019"/><Subject FormalName="04016005"/><Subject FormalName="04016030"/><Subject FormalName="04016047"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700 " />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191956">
+<Property FormalName="FullName" Value="Aevis Victoria SA" />
+
+<Property FormalName="ShortName" Value="Aevis" />
+
+<Property FormalName="Telekurs" Value="38231" />
+
+<Property FormalName="CHNr" Value="CH-550.0.166.624-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012488190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0478634105" />
+
+<Property FormalName="Ticker" Value="AEVS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="PAN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Klinik- und Hotelbetreiber Aevis Victoria sieht die Pipeline für strategische Initiativen in allen Tätigkeitsbereichen gut gefüllt. Im Spitalbereich sei die Gruppe derweil immer interessiert an Gesprächen mit Kliniken in der Schweiz, betonte CEO Fabrice Zumbrunnen an der Anlegermesse Investora 2025.</p>
+<p/><p>Im Spitalbereich setze Aevis die Restrukturierungen seiner Kliniken weiter fort. So seien bei Spitälern, die rund 25 Prozent des Umsatzes generierten, die Margen mit Niveaus von 5-6 Prozent derzeit noch klar ungenügend, sagte Finanzchef Michel Keusch. Aevis habe aber viel Erfahrung mit Restrukturierungen und sei sehr zuversichtlich, auch bei diesen künftig Margen von mehr als 20 Prozent zu erreichen.</p>
+<p/><p>Prinzipiell offen zeigten sich die Aevis-Verantwortlichen für ein Engagement im Fall des angeschlagenen Spitals Wetzikon. "Wir sind offen, aber heute gibt es keine Diskussionen", sagte Präsident Antoine Hubert auf entsprechende Fragen. Aevis habe "genug zu tun mit den eigenen Spitälern". Allerdings sei Aevis in der Schweiz die einzige Organisation, die in der Lage sei, öffentliche Spitäler zu übernehmen, ergänzte CEO Zumbrunnen selbstbewusst.</p>
+<p/><p>Zuversichtlich gaben sich die Aevis-Verantwortlichen nach "guten Halbjahresresultaten" für den Hotelbereich. Der Tourismus in der Schweiz entwickle sich sehr gut, so Finanzchef Keusch. "Jedes Jahr läuft das Sommerbusiness immer besser - von diesem Trend profitieren auch wir sehr stark."</p>
+<p/><p>Aevis Victoria ist eine Beteiligungsgesellschaft, die in Spitäler und Luxushotels investiert ist. Zum Unternehmen gehören die Privatklinikgruppe Swiss Medical Network sowie die Hotelkette MRH Switzerland. Eine Minderheitsbeteiligung hat Aevis Victoria zudem an der auf Spital- und Gesundheitsinfrastruktur ausgerichteten Infracore SA.</p>
+<p/><p>tp/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
