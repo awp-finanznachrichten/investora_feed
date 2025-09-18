@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20250918T163537+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20250918</DateId>
+			<NewsItemId>2893</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20250918:2893:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20250918T163537+0200</FirstCreated>
+		<ThisRevisionCreated>20250918T163537+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 25: DocMorris sieht weitere Beschleunigung des Umsatzwachstums</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04002006"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8500" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197497">
+<Property FormalName="FullName" Value="DocMorris AG" />
+
+<Property FormalName="ShortName" Value="DocMorris" />
+
+<Property FormalName="Telekurs" Value="087210" />
+
+<Property FormalName="CHNr" Value="CH-440.3.000.262-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0042615283" />
+
+<Property FormalName="Ticker" Value="DOCM" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - DocMorris' Aufwärtskurs beim Umsatz seit der Einführung des E-Rezeptes beschleunigt sich weiter: Im dritten Quartal hat die hauptsächlich in Deutschland tätige Online-Apotheke die Quartal-zu-Quartal-Wachstumsrate erneut steigern können.</p>
+<p/><p>Das Umsatzwachstum mit rezeptpflichtigen Medikamenten wird vom zweiten zum dritten Quartal 4,6 Prozent übertreffen. Dies sagte DocMorris-Finanzchef Daniel Wüest am Donnerstag an der Investorenkonferenz Investora. "Die Wachstumsrate wird deutlich über jener von 4,6 Prozent im 2. Quartal liegen", erklärte Wüst konkret.</p>
+<p/><p>Auch beim Handel mit nicht-rezeptpflichtigen Produkten sprach Wüest von aktuell stärkeren Wachstumsraten als in der ersten Jahreshälfte. Damals verzeichnete DocMorris in diesem Bereich ein Plus von 4,4 Prozent.</p>
+<p/><p>Noch nicht quantifizieren konnte Wüest die Auswirkungen des Gerichtsentscheides in Deutschland, wonach Online-Apotheken Cashback-Bonuszahlungen an Kunden ausrichten dürfen. Man habe nach dem Entscheid Marketinggelder umgeleitet, da solche Bonuszahlungen, die Kunden nur bei erneuten Bestellungen erhalten, viel zielgerichtetere Werbung seien als beispielsweise Fernsehwerbung mit seinen grossen Streuverlusten.</p>
+<p/><p>DocMorris, die einst unter dem Namen Zur Rose firmierte und ihren Sitz im Thurgau hat, ist eine hauptsächlich in Deutschland tätige Versandapotheke. Zudem ist das Unternehmen, das rote Zahlen schreibt und im Jahr 2027 auf Cash-Flow-Basis rentabel werden will, in der Telemedizin aktiv.</p>
+<p/><p>jr/sc</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
