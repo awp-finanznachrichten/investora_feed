@@ -29,7 +29,7 @@ company_names <- unique(company_names$name)
 
 if (length(company_names) > 1 ) {
   print("Ask ChatGPT for company with the main role in text...")
-  source("company_selection_chatGPT.R")  
+  try(source("company_selection_chatGPT.R"))  
 }  
 
 
