@@ -13,6 +13,7 @@ library(xlsx)
 
 setwd("C:/Automatisierungen/investora_feed")
 source("./Tools/Funktionen/Utils.R")
+source("./tools/Funktionen/Prompting.R")
 source("./functions/function_request_chatGPT.R")
 source("./functions/functions_github.R")
 
