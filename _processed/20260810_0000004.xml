@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260810T075414+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260810</DateId>
+			<NewsItemId>473</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260810:473:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260810T075414+0200</FirstCreated>
+		<ThisRevisionCreated>20260810T075414+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Mindmaze schliesst Vereinfachung der Organisation ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04016039"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1006" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2090154710">
+<Property FormalName="FullName" Value="Mindmaze Therapeutics" />
+
+<Property FormalName="ShortName" Value="Mindmaze" />
+
+<Property FormalName="Telekurs" Value="396159" />
+
+<Property FormalName="CHNr" Value="CH-550-1106773-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US7595JP1063" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1251125998" />
+
+<Property FormalName="Ticker" Value="MMTX" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lausanne (awp) - Das Genfer Biotechunternehmen Mindmaze hat die Vereinfachung seiner Organisation abgeschlossen. Dabei hat es sich von praktisch allen verbliebenen nicht-neurologischen Aktivitäten getrennt, die durch die Fusion mit Relief Therapeutics übernommen worden waren.</p>
+<p/><p>Durch die Vereinfachung wird die Organisation vereinfacht, der Fokus auf das Kerngeschäft Neurologie geschärft und die Kostenbasis deutlich gesenkt, wie das Unternehmen am Montag mitteilte.</p>
+<p/><p>Zudem hat Mindmaze die erste Tranche einer strategischen Finanzierung mit Neuro.io über 4,0 Millionen Franken erhalten. Neuro.io hat dafür im Gegenzug Aktien von Mindmaze erhalten.</p>
+<p/><p>Die zweite Tranche von ebenfalls 4,0 Millionen Franken soll in zwei Raten im September und November 2026 fliessen. An der Komplettierung der Finanzierung werde allerdings noch gearbeitet und es sei noch nicht garantiert, dass sie auch zustande komme.</p>
+<p/><p>cf/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
