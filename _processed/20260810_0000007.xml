@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260810T230117+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260810</DateId>
+			<NewsItemId>3726</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260810:3726:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260810T230116+0200</FirstCreated>
+		<ThisRevisionCreated>20260810T230116+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Alcon wächst im zweiten Quartal weiter und erhöht Gewinnziele</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1214" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2032964554">
+<Property FormalName="FullName" Value="Alcon AG" />
+
+<Property FormalName="ShortName" Value="Alcon" />
+
+<Property FormalName="Telekurs" Value="813622" />
+
+<Property FormalName="CHNr" Value="CH-217.3.568.146-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0432492467" />
+
+<Property FormalName="Ticker" Value="ALC" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf/Fort Worth (awp) - Der Augenheilmittelkonzern Alcon hat im zweiten Quartal 2026 weiter zugelegt. Nun werden die Jahresziele für die operative Kernmarge und den Kerngewinn je Aktie angehoben.</p>
+<p/><p>Von April bis Juni erzielte das Unternehmen einen Umsatz von 2,78 Milliarden US-Dollar. Das entspricht einem Plus von 8 Prozent, wie Alcon am Montag nach US-Börsenschluss mitteilte. In Lokalwährung resultierte ein Plus von 7 Prozent nach 3 Prozent in der Vorjahresperiode.</p>
+<p/><p>Die Kernmarge als Mass für die Profitabilität stieg ebenfalls auf 20,6 Prozent von 19,1 Prozent. Unter dem Strich steht ein höherer Kerngewinn von 84 Cents pro Aktie nach 76 Cents im Vorjahr.</p>
+<p/><p>Damit hat das Unternehmen die Erwartungen im AWP-Konsens bei der Marge und dem Kerngewinn je Aktie deutlich übertroffen, während der Umsatz genau den Schätzungen im Schnitt entsprach.</p>
+<p/><h3>Gewinnausblick erhöht</h3>
+<p/><p>Die Ziele für das Gesamtjahr 2026 schraubt Alcon nun bei der Profitabilität hoch. Konkret erhöht das Management die Prognose für das Wachstum des Kerngewinns je Aktie auf 12 bis 15 Prozent (bisher: 10 bis 13 Prozent) und erwartet eine Verbesserung der operativen Kernmarge um 90 bis 190 Basispunkte (bisher: 70 bis 170 Basispunkte). Die Umsatzprognose für das laufende Jahr bestätigt der Augenheilkundespezialist mit einem Wachstum zu konstanten Wechselkursen von 5 bis 7 Prozent.</p>
+<p/><p>"Die Produkte Unity, PanOptix Pro, Tryptyr und weitere neue Lancierungen haben das Wachstum angekurbelt", wird CEO David Endicott in der Mitteilung zitiert. Damit werde die Innovationskraft des Unternehmens weiter gestärkt.</p>
+<p/><p>Ausserdem würden die Produkte im gesamten Portfolio an Bedeutung gewinnen. "Die Marktpositionen werden ausgebaut, auch im Bereich Kontaktlinsen, wo wir weiterhin Marktanteile gewinnen", so der Konzernchef.</p>
+<p/><p>ls/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
