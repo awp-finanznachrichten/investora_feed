@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260810T075314+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260810</DateId>
+			<NewsItemId>472</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260810:472:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260810T075313+0200</FirstCreated>
+		<ThisRevisionCreated>20260810T075313+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Infracore-Mehrzuteilungsoption knapp zur Hälfte ausgeübt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04009000"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2025769782">
+<Property FormalName="FullName" Value="Infracore SA" />
+
+<Property FormalName="ShortName" Value="Infracore" />
+
+<Property FormalName="Telekurs" Value="257407" />
+
+<Property FormalName="CHNr" Value="CH-660.1.064.997-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0019867685" />
+
+<Property FormalName="Ticker" Value="INFRAC" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="IPO"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Fribourg (awp) - Bei Infracore ist nach dem Börsengang die Mehrzuteilungsoption teilweise ausgeübt worden. Die beteiligten Banken hätten knapp 204'000 bestehende Aktien zum Angebotspreis von 54 Franken je Aktie übernommen, heisst es in einer Mitteilung vom Montag.</p>
+<p/><p>Das entspreche rund 48 Prozent der gesamten Mehrzuteilungsoption. Die Aktien stammen vom grössten Aktionär MPT.</p>
+<p/><p>Insgesamt wurden im Rahmen des Börsengangs damit gut 4,41 Millionen Aktien platziert. Davon entfielen 3,70 Millionen auf neue Aktien und gut 709'000 auf bestehende Aktien von MPT.</p>
+<p/><p>Das gesamte Platzierungsvolumen belief sich auf 238,3 Millionen Franken. Der Streubesitz liegt nach der teilweisen Ausübung bei rund 28,8 Prozent. Aevis Victoria hält 22,6 Prozent der Aktien, MPT 48,5 Prozent.</p>
+<p/><p>Infracore, MPT und Aevis Victoria haben zudem laut den Angaben eine Lock-up-Frist von 180 Tagen ab dem ersten Handelstag vereinbart. Sie dauert bis zum 5. Januar 2027.</p>
+<p/><p>Das auf Spital- und Gesundheitsinfrastruktur spezialisierte Schweizer Immobiliengesellschaft war vor einem Monat an die Schweizer Börse gegangen. Der Kurs bewegte sich in dieser Zeit in einer Spanne von 52,00 bis 54,49 Franken.</p>
+<p/><p>awp-robot/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
