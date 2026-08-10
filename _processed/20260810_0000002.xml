@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260810T074516+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260810</DateId>
+			<NewsItemId>458</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260810:458:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260810T074515+0200</FirstCreated>
+		<ThisRevisionCreated>20260810T074515+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Aryzta überprüft nach Absatzrückgang im Halbjahr Deutschland-Geschäft</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016039"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2104331006">
+<Property FormalName="FullName" Value="Aryzta AG" />
+
+<Property FormalName="ShortName" Value="Aryzta" />
+
+<Property FormalName="Telekurs" Value="436098" />
+
+<Property FormalName="CHNr" Value="CH-020.3.032.251-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0043238366" />
+
+<Property FormalName="Ticker" Value="ARYN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1425684714" />
+
+<Property FormalName="Ticker" Value="ARYN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Schlieren (awp) - Der Backwarenkonzern Aryzta hat im ersten Halbjahr 2026 weniger verkauft und einen Gewinnrückgang hinnehmen müssen. Hauptproblem ist das bedeutende Deutschland-Geschäft, für das nun "alle Optionen" geprüft werden. Gleichzeitig stellt Aryzta seinen Aktionären nach zehnjähriger Pause für 2027 wieder eine Kapitalrückführung in Aussicht.</p>
+<p/><p>Der Umsatz sank im ersten Halbjahr angesichts der Kaufzurückhaltung von Konsumenten um 2,1 Prozent auf 1,064 Milliarden Euro. Organisch, also bereinigt um Währungseffekte und Zu- und Verkäufe, betrug das Minus 2,7 Prozent. Dabei gingen die Verkaufsmengen um 2,1 Prozent zurück, während die Preise im Schnitt um 0,6 Prozent tiefer lagen. Damit schnitt Aryzta klar schwächer ab als erwartet.</p>
+<p/><p>Besonders schwach entwickelte sich Deutschland. Der dortige Einbruch der Konsumentenstimmung machte das Wachstum in anderen wichtigen Märkten zunichte. Deutschland steht für mehr als einen Viertel des Konzernumsatzes. Laut Aryzta belasteten dort die hohe Preissensibilität der Kunden, die fragile Konsumstimmung sowie zusätzliche Produktionskapazitäten im Backwarenmarkt.</p>
+<p/><p>Aryzta unterzieht das Deutschland-Geschäft nun einer umfassenden Überprüfung. Der Konzern will dabei "alle Optionen" prüfen.</p>
+<p/><p>Trotz der Absatzschwäche konnte Aryzta den Margenrückgang begrenzen. Der operative Gewinn auf Stufe EBITDA sank zwar um 7,0 Prozent auf 139,9 Millionen Euro. Die entsprechende Marge ging aber lediglich auf 13,2 von 13,9 Prozent zurück und lag damit ungefähr im Rahmen der Erwartungen.</p>
+<p/><h3>Marge leidet unter Kosten aus Sparprogramm</h3>
+<p/><p>Ohne einmalige Kosten von rund 5,4 Millionen Euro für das laufende Spar- und Effizienzprogramm "Project Excellence" wäre die Marge rund einen halben Prozentpunkt höher ausgefallen. Unter dem Strich sank der Reingewinn um 3,9 Prozent auf 47,2 Millionen Euro.</p>
+<p/><p>"Das erste Halbjahr war herausfordernd, doch wir haben die Massnahmen zur Kostenoptimierung beschleunigt, um die Profitabilität zu schützen", wird Verwaltungsratspräsident und Interims-CEO Urs Jordi in der Mitteilung zitiert. Zusammen mit der guten Planbarkeit der wichtigsten Inputkosten stärke dies die Zuversicht, die Profitabilitätsziele für das Gesamtjahr zu erreichen.</p>
+<p/><p>Aryzta will wie angekündigt bis 2028 jährlich netto 20 bis 30 Millionen Euro einsparen. Bereits identifiziert wurden jährliche Einsparungen von 8 bis 10 Millionen in der Produktion sowie weitere rund 10 Millionen durch eine schlankere Organisation. Die volle Wirkung soll ab 2027 sichtbar werden.</p>
+<p/><p>Für das Gesamtjahr rechnet Aryzta beim organischen Wachstum nun mit dem unteren Ende der bisherigen Zielspanne, die im niedrigen bis mittleren einstelligen Prozentbereich liegt. EBITDA und Betriebsgewinn sollen gegenüber 2025 dennoch steigen.</p>
+<p/><p>Nach der Sanierung der Bilanz rückt zudem die Ausschüttung an die Aktionäre wieder in den Vordergrund. An der Generalversammlung 2027 sollen sie über eine Kapitalrückführung abstimmen können. Möglich sind demnach eine Dividende, Aktienrückkäufe oder eine Kombination aus beidem.</p>
+<p/><p>to/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
