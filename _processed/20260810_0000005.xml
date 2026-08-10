@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260810T094400+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260810</DateId>
+			<NewsItemId>932</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260810:932:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260810T094400+0200</FirstCreated>
+		<ThisRevisionCreated>20260810T094400+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Aryzta-Aktien brechen nach Halbjahreszahlen ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04013002"/><Subject FormalName="04016048"/><Subject FormalName="04009000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2104331006">
+<Property FormalName="FullName" Value="Aryzta AG" />
+
+<Property FormalName="ShortName" Value="Aryzta" />
+
+<Property FormalName="Telekurs" Value="436098" />
+
+<Property FormalName="CHNr" Value="CH-020.3.032.251-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0043238366" />
+
+<Property FormalName="Ticker" Value="ARYN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1425684714" />
+
+<Property FormalName="Ticker" Value="ARYN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aryzta-Aktien sind am Montag nach den Halbjahreszahlen mit Abgaben in den Handel gestartet. So hatte der Backwarenkonzern vor allem beim organischen Wachstum die Erwartungen klar verfehlt. Die Wachstumsflaute geht insbesondere auf das schwache Deutschland-Geschäft zurück.</p>
+<p/><p>Bis 9.40 Uhr verlieren Arytza in einem wenig veränderten Gesamtmarkt 8,5 Prozent auf 48,20 Franken, dies bei hohen Volumen.</p>
+<p/><p>Die UBS beurteilt die Zahlen insgesamt als verhalten. Zudem sei die Umsatzprognose auf das untere Ende der bisherigen Spanne eingeengt worden, womit ein Abwärtsrisiko für die Konsensschätzungen bestehe. Positiv wird dagegen die Aussicht auf eine Kapitalrückführung nach 10-jähriger Pause über Dividenden respektive Aktienrückkäufe ab 2027 gewertet.</p>
+<p/><p>Vontobel nennt die schwache Entwicklung in Deutschland als Hauptbelastung für Aryzta. Dort gingen die Umsätze im ersten Halbjahr um rund 10 Prozent zurück, wodurch der Konzern organisch insgesamt 2,7 Prozent einbüsste. Der Umsatzrückgang sowie einmalige Restrukturierungskosten hätten auch die Marge belastet. Entscheidend sei nun, dass Aryzta rasch wieder zu organischem Wachstum zurückfinde, so der Experte.</p>
+<p/><p>an/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
