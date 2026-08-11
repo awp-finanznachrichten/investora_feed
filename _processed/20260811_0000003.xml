@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260811T074616+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260811</DateId>
+			<NewsItemId>658</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260811:658:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260811T074615+0200</FirstCreated>
+		<ThisRevisionCreated>20260811T074615+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Idorsia: US-Behörde will Beschränkungen für Schlafmittel Quviviq lockern</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016027"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2042569978">
+<Property FormalName="FullName" Value="Idorsia Ltd" />
+
+<Property FormalName="ShortName" Value="Idorsia" />
+
+<Property FormalName="Telekurs" Value="751373" />
+
+<Property FormalName="CHNr" Value="CH-280.3.020.963-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0363463438" />
+
+<Property FormalName="Ticker" Value="IDIA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1128004079" />
+
+<Property FormalName="Ticker" Value="IDIA21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Allschwil (awp) - Die US-Drogenbekämpfungsbehörde DEA will die Beschränkungen für eine Klasse von Schlafmitteln lockern, zu der auch das von Idorsia entwickelte Medikament Quviviq gehört. Das Amt schlägt vor, sogenannte duale Orexin-Rezeptor-Antagonisten (DORA) von der Kategorie Schedule IV in die weniger restriktive Kategorie Schedule V des Betäubungsmittelrechts umzustufen.</p>
+<p/><p>Die DEA begründe dies damit, dass diese Wirkstoffe keine körperliche oder psychische Abhängigkeit verursachten, teilte Idorsia am Dienstag mit. Eine Einstufung in die niedrigste Stufe für kontrollierte Substanzen könnte den Zugang für Patienten erleichtern und den administrativen Aufwand bei Verschreibung und Abgabe reduzieren.</p>
+<p/><p>Idorsia begrüsst den Vorschlag der DEA. Das Unternehmen sieht darin einen wichtigen ersten Schritt, hält nach jedoch eine vollständige Aufhebung der Einstufung als kontrollierte Substanz für gerechtfertigt. Quviviq ist in den USA zur Behandlung von Erwachsenen mit chronischer Schlaflosigkeit zugelassen.</p>
+<p/><p>Der DEA-Vorschlag kann nun für 30 Tage öffentlich kommentiert werden. Anschliessend will die Behörde über die definitive Einstufung entscheiden.</p>
+<p/><p>ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
