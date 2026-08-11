@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260811T094312+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260811</DateId>
+			<NewsItemId>1239</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260811:1239:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260811T094312+0200</FirstCreated>
+		<ThisRevisionCreated>20260811T094312+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Alcon-Aktien nach Zahlen gesucht</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016048"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1214" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2032964554">
+<Property FormalName="FullName" Value="Alcon AG" />
+
+<Property FormalName="ShortName" Value="Alcon" />
+
+<Property FormalName="Telekurs" Value="813622" />
+
+<Property FormalName="CHNr" Value="CH-217.3.568.146-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0432492467" />
+
+<Property FormalName="Ticker" Value="ALC" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Alcon sind am Dienstag mit festeren Notierungen in den regulären Handel gestartet. Die am Vorabend publizierten Zahlen zum zweiten Quartal sind vor allem gewinnseitig über den Erwartungen ausgefallen. Und nach mehreren Gewinnwarnung in der Vergangenheit hat der in der Augenheilkunde tätige Konzern diesmal mit einer Erhöhung der Prognose aufgewartet.</p>
+<p/><p>Alcon Namen steigen gegen 9.35 Uhr 3,6 Prozent auf 60,40 Franken und sind die grössten Gewinner im SMI. Damit entwickeln sie sich deutlich besser als der Gesamtmarkt: Der Leitindex notiert 0,03 Prozent höher. Auf Jahressicht liegen die Alcon-Aktien aber immer noch im Minus.</p>
+<p/><p>ZKB-Analyst Daniel Jelovcan spricht von einem starken Wachstum bei Alcon. Das Unternehmen habe im zweiten Quartal nochmal einen Gang höher geschaltet. Angesichts der Wachstumsbeschleunigung dürfte es weniger Anlass zur Sorge geben, dass die Guidance für 2026 nicht erreicht wird, ergänzt Bernstein-Analystin Susannah Ludwig.</p>
+<p/><p>Das Wachstum wurde massgeblich von den Bereichen Equipment und Ocular Health getragen. Laut Analysten hat etwa das Geschäft mit Kontaktlinsen und dem Equipment für Operationssäle positiv überrascht.</p>
+<p/><p>Gleichzeitig halten die Experten fest, dass sich der Markt für Katarakt-Operationen (Grauer Star) weiterhin schwach entwickle. Zudem habe Alcon am Vorabend angekündigt, man habe nach Auswertung neuer klinischer Studien die IOL-Programme der 2019 übernommenen US-Firma PowerVision beendet.</p>
+<p/><p>Das mündete in einem Abschreiber von 402 Millionen Dollar, was auf die nicht-bereinigten Gewinnzahlen drückte. IOL steht für Intraocular Lens, eine künstliche Linse, die bei einer Katarakt-Operation ins Auge eingesetzt wird.</p>
+<p/><p>Die Beendigung des Programms könnte die Bedenken hinsichtlich der langfristigen Wettbewerbsfähigkeit des IOL-Geschäfts bei Alcon verstärken, hält Ludwig fest. Sibylle Bischofberger von der Bank Vontobel weist aber darauf hin, dass Alcon seit Kurzem mit dem US-Unternehmen RxSight bei verstellbaren Intraokularlinsen kooperiere.</p>
+<p/><p>Alcon hat die Gewinnziele für das laufende Jahr etwas erhöht: Der Kerngewinn je Aktie und die operative Kernmarge sollen stärker als bisher versprochen steigen. Letzter Punkt dürfte aber ausschliesslich auf die erwartete Zollrückerstattung aus den USA zurückzuführen sein, schreibt Sandra Dietschy von Octavian.</p>
+<p/><p>ra/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
