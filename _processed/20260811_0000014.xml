@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260811T185017+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260811</DateId>
+			<NewsItemId>3518</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260811:3518:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260811T185017+0200</FirstCreated>
+		<ThisRevisionCreated>20260811T185017+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Anleihe: Mobimo nimmt 100 Mio Fr. bis Nov. 2029 auf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Verwendungszweck erg&#228;nzt</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/><Subject FormalName="06000000"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6003" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198128">
+<Property FormalName="FullName" Value="Mobimo Holding AG" />
+
+<Property FormalName="ShortName" Value="Mobimo" />
+
+<Property FormalName="Telekurs" Value="086486" />
+
+<Property FormalName="CHNr" Value="CH-100.3.023.255-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011108872" />
+
+<Property FormalName="Ticker" Value="MOBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071213" />
+
+<Property FormalName="Ticker" Value="MOB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101096613" />
+
+<Property FormalName="Ticker" Value="MOB21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1239464774" />
+
+<Property FormalName="Ticker" Value="MOB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346743029" />
+
+<Property FormalName="Ticker" Value="MOB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472056" />
+
+<Property FormalName="Ticker" Value="MOB241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403787" />
+
+<Property FormalName="Ticker" Value="MOB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1512676839" />
+
+<Property FormalName="Ticker" Value="MOB26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="BND"/><Property FormalName="Subject" Value="NAT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Mobimo Holding begibt unter der Federführung von BKB, LUKB und der UBS eine Greenbond-Anleihe (Senior unsecured) zu folgenden Konditionen:</p>
+<p/><pre>Betrag:          100 Mio Fr.
+Coupon:          0,995% (1. langer Coupon)
+Emissionspreis:  100,012%
+Laufzeit:        3 Jahre und 60 Tage, bis 09.11.2029
+Liberierung:     09.09.2026
+YTM:             0,9908%
+Spread (MS):     +67 BP
+Spread (Govt):   +78 BP
+Valor:           CH1593191054
+Rating:          BBB/BBB/Baa (UBS/ZKB/Fedafin)
+Kotierung:       SIX, ab 07.09.2026
+</pre><p/><p>Die Erlöse der Anleihe werden zur Finanzierung von nachhaltigen Projekten gemäss dem "Green Financing Framework 2025" von Mobimo verwendet, wie der Immobilienkonzern am Dienstag mitteilte.</p>
+<p/><p>rw/uh/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
