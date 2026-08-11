@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260811T072315+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260811</DateId>
+			<NewsItemId>575</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260811:575:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260811T072314+0200</FirstCreated>
+		<ThisRevisionCreated>20260811T072314+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Galderma erhält EU-Zulassung für Kinn-Filler Restylane Shaype</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016037"/><Subject FormalName="04016027"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2061255917">
+<Property FormalName="FullName" Value="Galderma Group AG" />
+
+<Property FormalName="ShortName" Value="Galderma" />
+
+<Property FormalName="Telekurs" Value="711366" />
+
+<Property FormalName="CHNr" Value="CH-170-3046903-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1335392721" />
+
+<Property FormalName="Ticker" Value="GALD" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904403" />
+
+<Property FormalName="Ticker" Value="GAD24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904411" />
+
+<Property FormalName="Ticker" Value="GAD241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1399999973" />
+
+<Property FormalName="Ticker" Value="GAD25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1399999981" />
+
+<Property FormalName="Ticker" Value="GAD251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1485827393" />
+
+<Property FormalName="Ticker" Value="GAD253" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Galderma hat in der Europäischen Union eine Zulassung für den Hyaluronsäure-Filler Restylane Shaype erhalten. Das Mittel ist zur vorübergehenden Vergrösserung und Formgebung der Kinnregion zugelassen und wird tief ins Gewebe direkt am Knochen injiziert, um knochennah die dazu notwendige Struktur aufzubauen.</p>
+<p/><p>Es handelt sich bei Restylane Shaype laut Galderma um den ersten Hyaluronsäure-Filler, der speziell für die strukturelle Formgebung im unteren Gesichtsbereich entwickelt wurde. In einer klinischen Studie über zwölf Monate hätten 83 Prozent der behandelten Personen nach drei Monaten eine verbesserte Struktur und Definition im Kinnbereich gezeigt, teilte der Hautpflegekonzern in einem Communiqué vom Dienstag mit.</p>
+<p/><p>84 Prozent der Patientinnen und Patienten gaben laut Galderma im Rahmen der Studie zudem an, sich erneut behandeln lassen zu wollen. Restylane Shaype ist neben der EU auch in Kanada und Brasilien zugelassen und basiert auf der Nasha-HD-Technologie auf. Die EU-Zulassung sei ein weiterer regulatorischer Meilenstein für das Restylane-Portfolio, so Galderma.</p>
+<p/><p>awp-robot/mk/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
