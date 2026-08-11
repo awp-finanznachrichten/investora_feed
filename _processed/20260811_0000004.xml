@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260811T075313+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260811</DateId>
+			<NewsItemId>675</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260811:675:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260811T075313+0200</FirstCreated>
+		<ThisRevisionCreated>20260811T075313+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Tecan bestätigt Wachstumsziele nach erstem Semester</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8708" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197532">
+<Property FormalName="FullName" Value="Tecan Group AG" />
+
+<Property FormalName="ShortName" Value="Tecan" />
+
+<Property FormalName="Telekurs" Value="80580" />
+
+<Property FormalName="CHNr" Value="CH-020.3.926.126-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012100191" />
+
+<Property FormalName="Ticker" Value="TECN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1474857070" />
+
+<Property FormalName="Ticker" Value="TEC25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Männedorf (awp) - Der Laborausrüster Tecan ist im ersten Semester 2026 zwar gewachsen. Bei der Profitabilität blieb die Gruppe aber knapp unter der eigenen Zielsetzung. An den Vorgaben für das Gesamtjahr hält das Unternehmen aus Männedorf dennoch fest.</p>
+<p/><p>Der Umsatz fiel laut Mitteilung vom Dienstag in den ersten sechs Monaten um 2,7 Prozent auf 428 Millionen Franken. In Lokalwährungen - auf die auch die Guidance lautet - erzielte Tecan dagegen ein Plus von 3,4 Prozent. Das Plus beim Auftragseingang fiel mit 3,0 Prozent in Lokalwährungen auf 444 Millionen ähnlich stark aus. Das Book-to-Bill-Verhältnis sei dabei in beiden Geschäftssegmenten über 1 gelegen.</p>
+<p/><p>Während das Geschäftssegment Life Sciences Business ein Umsatzplus von 3,1 Prozent verzeichnete, zogen die Einnahmen in der Sparte Partnering Business um 3,6 Prozent an - jeweils in Lokalwährungen.</p>
+<p/><p>Das bereinigte Betriebsergebnis (EBITDA) fiel mit 64,5 Millionen (-1,8%) etwas tiefer als im Vorjahr. Die entsprechende Marge verbesserte sich dennoch leicht auf 15,1 Prozent (VJ 15,0%). Diese Verbesserung erreichte Tecan trotz negativer Effekte durch Wechselkurse (120 Basispunkte) und Zölle (50 Basispunkte), wie es in der Mitteilung heisst.</p>
+<p/><h3>Erste Fortschritte bei "Rewired"</h3>
+<p/><p>Unter dem Strich blieben 12,3 Millionen Franken übrig, gut 32 Prozent weniger als im Vorjahr. Den Rückgang erklärt Tecan mit höheren Kosten im Zusammenhang mit dem Transformationsprogramm "Rewired" und weiteren organisatorischen Anpassungen. Was das "Rewired"-Programm betrifft, das auf Portfoliooptimierung sowie kommerzielle und operative Verbesserungen ausgerichtet ist, seien hier Fortschritte erzielt worden.</p>
+<p/><p>"Angesichts der zunehmenden Marktdynamik sind wir zuversichtlich, dass wir weiterhin schneller als der Markt wachsen werden", wird die Tecan-Chefin Monica Manotas in der Mitteilung zitiert . Nach der Umsetzung erster Massnahmen aus dem "Rewired"-Programm erwarte sie, dass diese zum Gesamtjahresergebnis beitragen und eine Grundlage für beschleunigtes Wachstum und höhere Rentabilität bilden.</p>
+<p/><p>Für das Gesamtjahr bestätigt Tecan die bisherige Umsatzprognose und erwartet eine Steigerung in Lokalwährungen im niedrigen einstelligen Prozentbereich. Bei der bereinigten EBITDA-Marge wird ein Wert zwischen 15,5 und 16,5 Prozent in Aussicht gestellt.</p>
+<p/><p>Auch den mittelfristigen Ausblick bestätigt das Unternehmen. So will der Laborausrüster bis 2028 einen Umsatz von 1 Milliarde erzielen und eine bereinigte EBITDA-Marge von 20 Prozent erreichen.</p>
+<p/><p>hr/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
