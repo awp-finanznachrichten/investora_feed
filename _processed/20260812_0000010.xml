@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260812T111417+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260812</DateId>
+			<NewsItemId>1821</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260812:1821:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260812T111416+0200</FirstCreated>
+		<ThisRevisionCreated>20260812T111416+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BKW senkt Strompreise erneut</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Ganze Meldung erg&#228;nzt und umgeschrieben. Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3013" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2073005594">
+<Property FormalName="FullName" Value="BKW AG" />
+
+<Property FormalName="ShortName" Value="BKW" />
+
+<Property FormalName="Telekurs" Value="566152" />
+
+<Property FormalName="CHNr" Value="CH-036.3.050.070-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0130293662" />
+
+<Property FormalName="Ticker" Value="BKW" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0117843745" />
+
+<Property FormalName="Ticker" Value="BKW10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0487087295" />
+
+<Property FormalName="Ticker" Value="BKW019" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179184408" />
+
+<Property FormalName="Ticker" Value="BKW222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011192" />
+
+<Property FormalName="Ticker" Value="BKW24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430866" />
+
+<Property FormalName="Ticker" Value="BKW25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1523562002" />
+
+<Property FormalName="Ticker" Value="BKW26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp/sda) - Der Berner Energiekonzern BKW senkt die Strompreise in der Grundversorgung zum wiederholten Mal. Ein typischer Vierpersonenhaushalt zahlt ab 2027 rund 7,6 Prozent weniger Stromkosten.</p>
+<p/><p>Für einen Haushalt in einer Fünfzimmerwohnung mit Elektroherd und Tumbler sowie einem Jahresverbrauch von 4500 Kilowattstunden, ein sogenanntes H4-Verbrauchsprofil, beträgt die Ersparnis in etwa 7,90 Franken pro Monat. Im Jahr macht das rund 95 Franken aus, wie die BKW am Mittwoch mitteilte. Die tatsächliche Preisanpassung hängt vom individuellen Verbrauchsverhalten ab.</p>
+<p/><p>Die Stromrechnung setzt sich aus verschiedenen Positionen zusammen. Dazu gehören etwa die Kosten für die Nutzung des Stromnetzes und die Energiekosten. Während erstere um 5,9 Prozent ansteigen, sinken die Energietarife laut BKW deutlich um rund 29 Prozent. Weitere Positionen, die die Höhe der Stromrechnung beeinflussen, sind Abgaben an die öffentliche Hand und ein Messtarif.</p>
+<p/><p>Zusammengefasst resultiert aus den einzelnen Veränderungen für das H4-Profil eine Strompreissenkung von 2,1 Rappen pro Kilowattstunde oder eben 7,6 Prozent. Der Berner Energiekonzern hat nach der europaweiten Energiekrise 2023/24 in den Folgejahren die Tarife gesenkt.</p>
+<p/><h3>Dynamischer Tarif</h3>
+<p/><p>Ab Anfang kommenden Jahres führt die BKW zudem einen dynamischen Netznutzungstarif ein. Das Produkt ist freiwillig. Es gewährt im Sommerhalbjahr an sonnigen Nachmittagen einen Rabatt. Es soll die Stromkunden animieren, dann Energie zu nutzen, wenn sie dank der wachsenden Photovoltaik-Produktion reichlich vorhanden ist. Der Rabatt beträgt bis zu 40 Prozent, wenn leichte Bewölkung angesagt ist, 20 Prozent.</p>
+<p/><p>Die Rabatthöhe wird an die regionalen Verhältnisse angepasst. In sonnenärmeren Regionen ist der Rabatt höher; in sonnenreicheren Regionen ist er tiefer, kann dafür aber an mehr Tagen bezogen werden. Ob ein Rabattfenster in den fünf Regionen geöffnet wird oder nicht, kommuniziert die BKW jeweils am Tag zuvor aufgrund der Wetterprognosen von Meteoschweiz.</p>
+<p/><p>Voraussetzung für den dynamischen Tarif ist ein digitaler, intelligenter Stromzähler, ein sogenannter Smart Meter. Unterstützend wirken können Energie-Management-Systeme. Sie empfangen das Preissignal und sorgen dafür, dass grosse Verbraucher wie E-Auto, Wärmepumpe oder Boiler innerhalb des Rabattfensters Strom beziehen. Die BKW will ihre Kunden im Herbst per Brief über die Anmeldeoptionen informieren.</p>
+<p/><p>Das revidierte Stromgesetz erlaubt in der Schweiz seit 2026 dynamische Netznutzungs- und Energietarife. Verschiedene Schweizer Energieversorger haben dynamische Tarife getestet oder eingeführt. Als erstes tat dies die Westschweizer Groupe E.</p>
+<p/><p>Das System der dynamischen Preise richtet sich meist in Echtzeit an aktuellen Marktbedingungen aus. Dies geschieht heute oft über computergesteuerte Algorithmen oder künstliche Intelligenz. Solche Systeme bringen Kundinnen und Kunden Preisvorteile, wälzen aber im Gegenzug gewisse Marktrisiken auf sie ab. Dynamische Preise kennt man etwa auch in der Tourismus- und Reisebranche oder im Onlinehandel.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
