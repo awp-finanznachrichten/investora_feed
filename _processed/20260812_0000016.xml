@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260812T165444+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260812</DateId>
+			<NewsItemId>3312</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260812:3312:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260812T165444+0200</FirstCreated>
+		<ThisRevisionCreated>20260812T165444+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Bundesrat will grossen Banken straffere Zügel anlegen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04008000"/><Subject FormalName="04006000"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3003" />
+
+<Property FormalName="City" Value="3011" />
+
+<Property FormalName="City" Value="4052" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2060617517">
+<Property FormalName="FullName" Value="Eidgenössische Finanzmarktaufsicht (FINMA)" />
+
+<Property FormalName="ShortName" Value="FINMA" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="000000" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197664">
+<Property FormalName="FullName" Value="Schweizerische Nationalbank" />
+
+<Property FormalName="ShortName" Value="SNB" />
+
+<Property FormalName="Telekurs" Value="22802" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.957-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001319265" />
+
+<Property FormalName="Ticker" Value="SNBN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193014">
+<Property FormalName="FullName" Value="Schweizerische Bankiervereinigung" />
+
+<Property FormalName="ShortName" Value="SwissBanking" />
+
+<Property FormalName="Telekurs" Value="411341" />
+
+<Property FormalName="CHNr" Value="CH-270.6.000.189-5" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Wire" Value="N"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="ECO"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="ESG"/><Property FormalName="Subject" Value="GOV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp/sda/awp) - Der Bundesrat will die Spitzen der Banken verstärkt in die Verantwortung nehmen und Risiken durch hohe Boni vermeiden. Banken sollen zudem besser auf Krisen vorbereitet sein. Verschärfte Bestimmungen im "Too big to fail"-Dispositiv stehen nun öffentlich zur Diskussion. Nachfolgend Fragen und Antworten:</p>
+<p/><h3>WAS WILL DER BUNDESRAT?</h3>
+<p/><p>Die vorgeschlagenen Änderungen im Bankengesetz und in der Liquiditätsverordnung sind ein Baustein der im Juni 2025 angekündigten Massnahmen für die Verschärfung und Ergänzung im "Too big to fail"-Dispositiv (TBTF). Die CS-Krise habe Lücken im Dispositiv gezeigt, sagte Finanzministerin Karin Keller-Sutter am Mittwoch in Bern vor den Medien. Der Bundesrat will Lehren aus dem Zusammenbruch der Grossbank CS ziehen und festgestellte Lücken im Dispositiv stopfen. Auch will er das Risiko vermindern, dass Steuerzahlende, Volkswirtschaft und Staat erneut finanzielle Risiken wie nach dem CS-Debakel tragen müssen. Die Massnahmen träfen in erster Linie systemrelevante Banken und seien damit verhältnismässig, betonte Keller-Sutter.</p>
+<p/><h3>WAS IST DAS "TOO BIG TO FAIL"-DISPOSITIV?</h3>
+<p/><p>Das "Too big to fail"-Dispositiv wurde 2012 eingeführt. Es umfasst Anforderungen zu Eigenmitteln, Liquidität sowie Stabilisierungs- und Abwicklungsplanung. Es wurde schrittweise weiterentwickelt. Ziel des TBTF ist es, staatliche Beihilfen für ins Schlingern gekommene Banken zu vermeiden und entsprechend den Staat, die Volkswirtschaft und die Steuerzahlenden von durch unkontrollierte Zusammenbrüche von Banken entstehende Risiken zu schützen.</p>
+<p/><h3>WIRD VERANTWORTUNG IN BANKEN SICHTBARER?</h3>
+<p/><p>Ja, der Bundesrat will ein Verantwortlichkeitsregime ins Gesetz schreiben, und zwar für systemrelevante Banken sowie für mittelgrosse Banken, konkret Institute mit mehr als 250 Mitarbeitenden. Kleinere Banken sind nicht betroffen. Banken müssen schriftlich festlegen, wer für welche Entscheide verantwortlich ist. Ziel dieses Regimes sei, die persönliche Verantwortung im Management zu stärken, sagte Keller-Sutter.</p>
+<p/><h3>WERDEN BONI-BEGRENZUNGEN VORGESCHLAGEN?</h3>
+<p/><p>Nein. Der Bundesrat hält es nicht für zielführend, Boni oder variable Vergütungen nach oben zu begrenzen. Als Nebeneffekte davon würden höhere Fixgehälter beobachtet, hält er gestützt auf wissenschaftliche Studien fest. Das erhöhe die Fixkosten für die Unternehmen, und diese hätten in Krisenzeiten weniger Möglichkeiten, Kosten zu senken. Umsetzen will der Bundesrat indes eine Motion von Ständerat Jakob Stark (SVP/TG). Diese verlangt, Vergütungen bei systemrelevanten Banken so zu regeln, dass die Vergütungssysteme und Ausschüttungen keine falschen Anreize setzen und insbesondere Boni nicht erfolgen, wenn der Geschäftserfolg ausbleibt.</p>
+<p/><h3>IST BEI DEN BONI ETWAS GEPLANT?</h3>
+<p/><p>Auch wenn der Bundesrat auf die Begrenzung von variablen Vergütungen nach oben verzichten will, will er Anreize für unangemessen riskantes Verhalten beseitigen, und zwar bei allen Instituten. Für die Auszahlung eines Teils der variablen Vergütungen an Spitzenleute und sehr hoch bezahlte Angestellte will er deshalb mehrjährige Sperrfristen einführen, so dass das Geld nicht ausbezahlt wird und einbehalten werden kann, wenn im Nachhinein ein Fehlverhalten festgestellt wird. Bereits überwiesene Vergütungen sollen gegebenenfalls auch zurückgefordert werden können.</p>
+<p/><h3>WAS IST FÜR DIE FINMA GEPLANT?</h3>
+<p/><p>Die Finanzmarktaufsicht (Finma) soll zusätzliche Befugnisse erhalten um schneller eingreifen und ihre verfügten Massnahmen gegenüber einer Bank besser durchsetzen können. Die Finma soll unter anderem nach einem sogenannten Enforcementverfahren die Öffentlichkeit informieren, wie es in vielen Ländern schon üblich ist. Auch soll sie Zwangsgelder verhängen und Bussen verhängen können.</p>
+<p/><h3>WAS IST EIN ZWANGSGELD?</h3>
+<p/><p>Hält sich eine Bank und nicht an eine Verfügung der Finma und setzt sie Massnahmen der Aufsicht trotz Fristen und Mahnungen nicht um, soll die Finma ein tägliches Zwangsgeld verhängen können. Es soll bewirken, dass die beaufsichtigte Bank ausgesprochene Verfügungen tatsächlich umsetzt. Der Bundesrat will es entsprechend dem Betriebsergebnis einer Bank nach oben begrenzen und es für maximal sechs Monate erlauben. Das Zwangsgeld soll eine Bank aber nicht vom Umsetzen von Finma-Massnahmen befreien.</p>
+<p/><h3>KANN DIE FINMA BUSSEN AUSSPRECHEN?</h3>
+<p/><p>Ja, eines der neu für sie vorgesehenen Instrumente sind Bussen. Diese sollen sich aber nicht gegen einzelne Personen innerhalb einer Bank richten, sondern an Geldinstitute respektive Personengesellschaften. Die Bussen sollen bis zu zehn Prozent des Betriebsergebnisses eines Jahres betragen können. Und sie würden öffentlich als ein Signal wahrgenommen, dass bei einer Bank ernsthafte Mängel bestünden. Es ist nämlich vorgesehen, Informationen über ausgesprochene Bussen zu veröffentlichen. Bussen seien international verbreitet, sagte Daniela Stoffel, Staatssekretärin für internationale Finanzfragen.</p>
+<p/><h3>WIE SOLLEN SICH BANKEN AUF KRISEN VORBEREITEN?</h3>
+<p/><p>Präziser gefasst gefasst werden sollen nach dem Willen des Bundesrates die Vorgaben für Stabilisierungs- und Abwicklungspläne für systemrelevante Banken, damit sich diese besser auf Liquiditätskrisen vorbereiten können und gegebenenfalls möglichst geordnet abgewickelt werden können. Banken sollen einen erweiterten Zugang zu flüssigen Mitteln von der Nationalbank erhalten. Für systemrelevante und mittelgrosse Banken sollen beim besicherten Liquiditätsbezug bei der Nationalbank quantitative Mindestanforderungen gelten. Kleinere Banken sind davon nicht betroffen. In Kraft treten sollen die Verordnungsbestimmungen erst, wenn die Gesetzesänderungen beschlossen und in Kraft getreten sind.</p>
+<p/><h3>WIE KOMMEN DIE PLÄNE AN?</h3>
+<p/><p>Die Schweizerische Nationalbank (SNB) und die Finma begrüssen die neuen Vorschläge. Die vorgesehenen Massnahmen seien entscheidend, um regulatorische Schwachstellen zu beheben, welche die Krise der Credit Suisse aufgezeigt habe, schrieb die SNB in einem Communiqué. Die Finma nannte die Massnahmen "zentral zur Stärkung der Bankenstabilität und des Ansehens des Schweizer Finanzplatzes". Insbesondere befürwortet die Finma die Einführung "mehrerer präventiv und disziplinierend wirkender Instrumente". Sie warnte davor, die Vorschläge im politischen Prozess zu verwässern.</p>
+<p/><p>Zurückhaltend zeigt sich die Branche. Die Bankiervereinigung hält das Massnahmenpaket für zu umfangreich und warnte vor einer "Superbehörde Finma". Der Verband unterstützt zwar gezielte Verbesserungen etwa bei der Liquiditätsversorgung oder der Abwicklungsfähigkeit systemrelevanter Banken, wie er schreibt. Die Krise einer einzelnen Bank rechtfertige aber keine pauschalen Verschärfungen für andere Banken. Auch die Kantonalbanken sind skeptisch: Das Paket sehe weitgehende zusätzliche regulatorische Verschärfungen für Institute vor, die weder Ursache noch Treiber der Credit-Suisse-Krise gewesen seien, schrieb der Verband Schweizerischer Kantonalbanken.</p>
+<p/><h3>WAS SIEHT DER FAHRPLAN AUS?</h3>
+<p/><p>Die Vernehmlassung zu den Neuerungen im Bankengesetz und in der Liquiditätsverordnung dauert bis 19. November. 2027 will der Bundesrat die Botschaft zum Bankengesetz ans Parlament überweisen. Frühestens Anfang 2029 könnten die neuen Vorgaben in Kraft treten. Andere Teile des Pakets zur Ergänzung des TBTF-Dispositivs sind bereits in Arbeit. Zum Beispiel diskutiert das Parlament zurzeit über höhere Eigenkapitalanforderungen für Auslandsbeteiligungen von systemrelevanten Banken.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
