@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260812T073516+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260812</DateId>
+			<NewsItemId>784</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260812:784:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260812T073516+0200</FirstCreated>
+		<ThisRevisionCreated>20260812T073516+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>IVF Hartmann erwirtschaftet im Halbjahr klar mehr Umsatz</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8212" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191469">
+<Property FormalName="FullName" Value="IVF Hartmann Holding AG" />
+
+<Property FormalName="ShortName" Value="IVF Hartmann" />
+
+<Property FormalName="Telekurs" Value="84591" />
+
+<Property FormalName="CHNr" Value="CH-290.3.002.788-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0187624256" />
+
+<Property FormalName="Ticker" Value="VBSN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Neuhausen am Rheinfall (awp) - Der Medizinalbedarf-Hersteller IVF Hartmann hat im ersten Halbjahr 2026 den Umsatz zweistellig gesteigert. Der Gewinn nahm im Vergleich dazu noch deutlicher zu. Die Prognose für den operativen Gewinn wird entsprechend nach oben angepasst.</p>
+<p/><p>Der Umsatz legte um 11,3 Prozent auf 85,9 Millionen Franken zu, wie das Unternehmen am Mittwoch mitteilte. Dieser Anstieg sei auf neu gewonnene Kunden, temporäre Nachfrageeffekte infolge der ökonomischen Unsicherheiten, innovative Produkte, individuell auf Kunden abgestimmte Dienstleistungen sowie digitale Lösungen zurückzuführen.</p>
+<p/><p>In der Kundengruppe stationäre und ambulante Pflege sei die Umsatzentwicklung "sehr positiv" gewesen, heisst es zudem. Aber auch im Endkonsumentengeschäft mit Apotheken und Drogerien, Detailhandel und E-Commerce sei die Dynamik aus dem Jahr 2025 ins erste Halbjahr 2026 mitgenommen worden. Insgesamt sind alle Segmente von IVF Hartmann zweistellig gewachsen, ausser der Bereich "weitere Konzernaktivitäten".</p>
+<p/><h3>Gewinn steigt um rund einen Viertel</h3>
+<p/><p>Der Gewinn entwickelte sich noch stärker als der Umsatz. Der Betriebsgewinn auf Stufe EBIT legte um 27,5 Prozent auf 12,1 Millionen Franken zu und die entsprechende Marge um 1,7 Prozentpunkte auf 14,0 Prozent. Unter dem Strich verbesserte sich der Reingewinn um 24,7 Prozent auf 10,3 Millionen Franken.</p>
+<p/><p>Begründet wird die höhere Rentabilität mit dem Umsatzanstieg, einem vorteilhaften Produktemix, Kostendisziplin und leicht positiven Wechselkurseinflüssen.</p>
+<p/><p>Für das Gesamtjahr 2026 wird wie bis anhin ein Umsatzanstieg in Aussicht gestellt. Für das zweite Halbjahr wird indes infolge der erfolgten temporären Nachfrageeffekte (Lageraufbau) mit einem schwächeren Wachstum gerechnet als im ersten. Ausserdem werde die Geschäftsentwicklung in der Produktgruppe Taktische Einsatzmedizin stark durch lange Beschaffungsprozesse beeinflusst. Die Prognose eines Umsatzanstiegs im Gesamtjahr ist um diese Volatilität bereinigt.</p>
+<p/><p>Die Prognose für den operativen Gewinn (EBIT) wird hingegen erhöht. So erwartet das Unternehmen neu einen Wert über dem Vorjahr, bisher wurde eine Seitwärtsentwicklung vorhergesagt. Die Rentabilität könnte allerdings belastet werden von sinkenden Preisniveaus im Vergleich zu den zu höheren Beschaffungskosten aufgebauten Lagerbeständen.</p>
+<p/><p>cf/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
