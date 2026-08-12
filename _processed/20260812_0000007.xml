@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260812T082715+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260812</DateId>
+			<NewsItemId>1107</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260812:1107:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260812T082714+0200</FirstCreated>
+		<ThisRevisionCreated>20260812T082714+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BLKB verbessert Halbjahresergebnisse nach Radicant-Debakel</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4410" />
+
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197636">
+<Property FormalName="FullName" Value="Basellandschaftliche Kantonalbank" />
+
+<Property FormalName="ShortName" Value="BLKB" />
+
+<Property FormalName="Telekurs" Value="25889" />
+
+<Property FormalName="CHNr" Value="CH-280.8.910.265-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001473559" />
+
+<Property FormalName="Ticker" Value="BLKB" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0274314787" />
+
+<Property FormalName="Ticker" Value="BLK15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0397450724" />
+
+<Property FormalName="Ticker" Value="BLK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040784" />
+
+<Property FormalName="Ticker" Value="BLK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041147" />
+
+<Property FormalName="Ticker" Value="BLK191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239086" />
+
+<Property FormalName="Ticker" Value="BLK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159034" />
+
+<Property FormalName="Ticker" Value="BLK221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159042" />
+
+<Property FormalName="Ticker" Value="BLK222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0565650832" />
+
+<Property FormalName="Ticker" Value="BLK202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0592087230" />
+
+<Property FormalName="Ticker" Value="BLK203" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1102417735" />
+
+<Property FormalName="Ticker" Value="BLK204" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1138869784" />
+
+<Property FormalName="Ticker" Value="BLK205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1216740667" />
+
+<Property FormalName="Ticker" Value="BLK225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1217066583" />
+
+<Property FormalName="Ticker" Value="BLK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1217066591" />
+
+<Property FormalName="Ticker" Value="BLK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991301" />
+
+<Property FormalName="Ticker" Value="BLK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991327" />
+
+<Property FormalName="Ticker" Value="BLK242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991335" />
+
+<Property FormalName="Ticker" Value="BLK243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991343" />
+
+<Property FormalName="Ticker" Value="BLK244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991384" />
+
+<Property FormalName="Ticker" Value="BLK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204314" />
+
+<Property FormalName="Ticker" Value="BLK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204322" />
+
+<Property FormalName="Ticker" Value="BLK252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204330" />
+
+<Property FormalName="Ticker" Value="BLK253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204355" />
+
+<Property FormalName="Ticker" Value="BLK26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204363" />
+
+<Property FormalName="Ticker" Value="BLK261" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2013952030">
+<Property FormalName="FullName" Value="Radicant AG" />
+
+<Property FormalName="ShortName" Value="Radicant" />
+
+<Property FormalName="CHNr" Value="CH-020-3050055-9" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Liestal (awp) - Die Basellandschaftliche Kantonalbank (BLKB) ist im ersten Halbjahr 2026 gewachsen und hat auch mehr verdient. Die Vergleichszahlen des Vorjahreszeitraums waren allerdings noch von den Turbulenzen um die inzwischen eingestellte Bankentochter Radicant geprägt gewesen.</p>
+<p/><p>Der Gewinn auf Konzernstufe lag im ersten Semester bei 96,5 Millionen Franken, wie die BLKB am Mittwoch mitteilte. Im Vorjahr hatte die Bank noch einen Halbjahresgewinn von 91,6 Millionen Franken geschrieben, dies allerdings dank einer hohen Auflösung der Reserven für allgemeine Bankrisiken.</p>
+<p/><p>Der Geschäftserfolg als Mass für das operative Geschäft lag im ersten Halbjahr bei 117,5 Millionen Franken. Im Vorjahr war das operative Ergebnis nach massiven Wertberichtigungen auf die Radicant noch auf 49,4 Millionen abgesackt. Unter Ausklammerung des Einmaleffekts rund um die Radicant-Beteiligung lag der Geschäftserfolg noch immer um 24 Prozent im Plus, wie die BLKB schreibt.</p>
+<p/><h3>Wachstum in allen Bereichen</h3>
+<p/><p>Die Kantonalbank konnte über alle Bereiche hinweg zulegen. Der Geschäftsertrag stieg insgesamt um 4,2 Prozent auf 248,9 Millionen Franken: Dazu trugen vor allem das weiter wachsende Wertschriften- und Anlagegeschäft, aber auch das Zinsengeschäft bei.</p>
+<p/><p>Im wichtigen Zinsengeschäft lag der Netto-Erfolg mit 177,0 Millionen Franken um 3,3 Prozent über der Vorjahresperiode. Im Hypothekengeschäft war die Kantonalbank derweil verhalten unterwegs: Das Nettowachstum der Hypothekarforderungen lag in den ersten sechs Monaten bei 0,7 Prozent. Man habe das Wachstum auf das regionale Geschäfts konzentriert und die nationalen Ausleihungen reduziert, betonte die Bank.</p>
+<p/><p>Der Kommissions- und Dienstleistungserfolg lag mit 49,5 Millionen Franken um 5,2 Prozent über der Vorjahresperiode. Die strategische Positionierung als Anlage- und Vorsorgebank zeige weiterhin ihre positive Wirkung, hiess es.</p>
+<p/><p>Dabei konnte die Bank von einer Zunahme der verwalteten Vermögen im Vergleich zum Stand von Ende 2025 um 4,8 Prozent auf 30,8 Milliarden Franken profitieren. Der Netto-Neugeldzufluss belief sich auf 418 Millionen Franken.</p>
+<p/><h3>Radicant-Rückbau im Gang</h3>
+<p/><p>Derweil nahmen die Kosten (+1,2% auf 135,5 Mio) moderater zu. Zurückzuführen war die Zunahme nicht zuletzt auf Investitionen in Zusammenhang mit der angekündigten Sanierung des BLKB-Hauptsitzes in Liestal, aber auch auf höhere Betriebskosten für den "allgemeinen Bankbetrieb". Der Personalaufwand nahm leicht ab. Die Cost-Income-Ratio verbesserte sich auf 54,4 Prozent von 56,0 Prozent.</p>
+<p/><p>Der Rückbau der eingestellten Online-Bank Radicant verläuft laut den Verwantwortlichen derweil "planmässig". Für alle Kundinnen und Kunden seien im Frühling 2026 Anschlusslösungen gefunden worden. Die verbliebenen Radicant-Angestellten beschäftigten sich mit den Abschlussarbeiten sowie den Vorbereitungen für die angekündigte Rückgabe der Banklizenz.</p>
+<p/><p>Positiv entwickelt sich laut den Angaben der von der BLKB Fund Management 2025 lancierte nachhaltige Immobilienfonds BLKB Sustainable Property Fund. Der Immobilienfonds mit geografischem Fokus Nordwestschweiz will jetzt das Immobilienportfolio weiter ausbauen und im zweiten Halbjahr 2026 eine Kapitalerhöhung durchführen.</p>
+<p/><h3>Zuversichtlicherer Ausblick</h3>
+<p/><p>Beim Ausblick auf das Gesamtjahr 2026 zeigt sich die Kantonalbank etwas zuversichtlicher als noch im März: Sie geht nun von einem "vergleichbaren Geschäftsgang im Vergleich zum Vorjahr ohne Einmaleffekt" aus. Bei Vorlage der Bilanzzahlen 2025 hatte sie noch einen leicht tieferen Geschäftsgang erwartet. Rückenwind sieht die BLKB nicht zuletzt von der soliden Entwicklung der Weltwirtschaft mit einer positiven Entwicklung für Anlagen wie Aktien.</p>
+<p/><p>tp/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
