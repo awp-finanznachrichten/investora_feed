@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260812T123216+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260812</DateId>
+			<NewsItemId>2232</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260812:2232:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260812T123216+0200</FirstCreated>
+		<ThisRevisionCreated>20260812T123216+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Berner Kantonalbank schreibt dank Anlagegeschäft Rekordergebnisse</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung mit Aussagen aus CEO-Gespr&#228;ch</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3011" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197635">
+<Property FormalName="FullName" Value="Berner Kantonalbank AG" />
+
+<Property FormalName="ShortName" Value="BEKB" />
+
+<Property FormalName="Telekurs" Value="25943" />
+
+<Property FormalName="CHNr" Value="CH-035.8.001.277-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009691608" />
+
+<Property FormalName="Ticker" Value="BEKN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0411478099" />
+
+<Property FormalName="Ticker" Value="BEK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041485" />
+
+<Property FormalName="Ticker" Value="BEK192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071262" />
+
+<Property FormalName="Ticker" Value="BEK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148728129" />
+
+<Property FormalName="Ticker" Value="BEK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1399569610" />
+
+<Property FormalName="Ticker" Value="BEK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1416797509" />
+
+<Property FormalName="Ticker" Value="BEK253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1416797517" />
+
+<Property FormalName="Ticker" Value="BEK511" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1516795957" />
+
+<Property FormalName="Ticker" Value="BEK26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1522256176" />
+
+<Property FormalName="Ticker" Value="BEK261" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1416797525" />
+
+<Property FormalName="Ticker" Value="BEK604" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp) - Die Berner Kantonalbank (BEKB) ist im laufenden Geschäftsjahr 2026 gut unterwegs: In einem von tiefen Zinsen belasteten Umfeld hat sie in der ersten Jahreshälfte Rekordergebnisse erzielt. Der Treiber dazu war das florierende Anlagegeschäft.</p>
+<p/><p>In den Monaten Januar bis Juni steigerte die BEKB den Geschäftserfolg, der als Mass für die operative Leistung gilt, um 12 Prozent auf 127,8 Millionen Franken. So hoch lag dieser Wert in einem Halbjahr noch nie. Auf Stufe Reingewinn gab es ein Plus von 8,3 Prozent auf 82,6 Millionen, wie die Bank am Mittwoch bekanntgab.</p>
+<p/><h3>Anlagegeschäft boomt</h3>
+<p/><p>Deutlich zulegen konnte die BEKB im Anlage- und Vermögensverwaltungsgeschäft. So stieg der Kommissions- und Dienstleistungserfolg um 12 Prozent auf 70,1 Millionen Franken. Dieser Anstieg wurde begünstigt durch ein Plus bei den Kundeneinlagen von 2,4 Prozent auf 28,8 Milliarden Franken per Mitte Jahr und einem Anstieg der gesamten verwalteten Vermögen um 4,8 Prozent auf 47,5 Milliarden.</p>
+<p/><p>"Wir haben vor zwei, drei Jahren gezielt in unser Anlagegeschäft investiert. Unter anderem ist es uns gelungen, Anlageteams einer früheren Grossbank erfolgreich bei uns zu integrieren", erklärte BEKB-Chef Armin Brun im Gespräch mit der Nachrichtenagentur AWP. Mit der früheren Grossbank ist die ehemalige Credit Suisse gemeint.</p>
+<p/><p>Der Bereich profitiert aber auch von einer grossen Nachfrage nach Anlage-, Vorsorge- und Beratungslösungen. "Im Anlagegeschäft wachsen wir breit abgestützt, sowohl bei den Privat- als auch mit vermögenden Kunden", sagte Brun. Und Finanzchefin Beatrice Kern ergänzte: "Die positive Entwicklung an den Finanzmärkten hat sicherlich auch zu diesem Wachstum beigetragen. Gleichzeitig verzeichneten wir einen erfreulichen Neugeldzufluss."</p>
+<p/><p>Rückenwind gab die gute Entwicklung an den Finanzmärkten auch dem Handelsgeschäft etwa mit Fremdwährungen oder Edelmetallen. Dort kletterte der Erfolg um 55 Prozent auf 14,2 Millionen Franken. Und der übrige Erfolg nahm auch dank eines Veräusserungsgewinns um 70 Prozent auf 23,7 Millionen kräftig zu.</p>
+<p/><h3>Zinsgeschäft unter Druck</h3>
+<p/><p>Zu kämpfen hat die BEKB im Zinsgeschäft, wo die Nullzinspolitik der Schweizerischen Nationalbank (SNB) der Branche zusetzt und auf die Margen drückt. Als Folge davon sank der Zinserfolg in der ersten Jahreshälfte um 4,2 Prozent auf 183,3 Millionen Franken.</p>
+<p/><p>Im derzeit schwierigen Zinsumfeld habe die Bank ihre Marktposition mit "massvollem Risikoappetit" ausgebaut. Die Kundenausleihungen nahmen um 2,6 Prozent auf 32,8 Milliarden Franken zu. Mit der Vergabe von Hypotheken allein wurde gar ein Wachstum von 3,2 Prozent erzielt.</p>
+<p/><p>"Im Zinsgeschäft wachsen wir dank unserem lokal verankerten Vertrieb und unserer guten Kapitalbasis weiter und gewinnen Marktanteile", sagte Brun. Auffallend sei dabei, dass sich ein immer grösserer Teil der Kundschaft für variable Hypotheken entscheide, deren Zins sich am Schweizer Referenzzinssatz SARON orientiert.</p>
+<p/><h3>Zuversichtlicher Ausblick</h3>
+<p/><p>Basierend auf der soliden finanziellen Basis mit einer Gesamtkapitalquote von 20,1 Prozent sowie dem breit abgestützten Geschäftsmodell rechnet Brun mit einer "weiterhin erfreulichen" Geschäftsentwicklung. "Wir sind sehr zuversichtlich, dass wir das Ergebnis des vergangenen Jahres erreichen oder gar übertreffen werden", sagte er mit Blick auf das Gesamtjahr 2026.</p>
+<p/><p>mk/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
