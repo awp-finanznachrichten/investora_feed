@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260812T072213+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260812</DateId>
+			<NewsItemId>689</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260812:689:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260812T072213+0200</FirstCreated>
+		<ThisRevisionCreated>20260812T072213+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SGKB steigert Halbjahresgewinn und erhöht Jahresausblick</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9000" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147192907">
+<Property FormalName="FullName" Value="St. Galler Kantonalbank AG" />
+
+<Property FormalName="ShortName" Value="SGKB" />
+
+<Property FormalName="Telekurs" Value="83114" />
+
+<Property FormalName="CHNr" Value="CH-320.8.000.310-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011484067" />
+
+<Property FormalName="Ticker" Value="SGKN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0120847899" />
+
+<Property FormalName="Ticker" Value="SGK101" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0187043820" />
+
+<Property FormalName="Ticker" Value="SGK12" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0204790759" />
+
+<Property FormalName="Ticker" Value="SGK13" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0352419615" />
+
+<Property FormalName="Ticker" Value="SGK171" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0373476123" />
+
+<Property FormalName="Ticker" Value="SGK173" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041584" />
+
+<Property FormalName="Ticker" Value="SGK191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0457723549" />
+
+<Property FormalName="Ticker" Value="SGK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158846" />
+
+<Property FormalName="Ticker" Value="SGK21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158978" />
+
+<Property FormalName="Ticker" Value="SGK022" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159091" />
+
+<Property FormalName="Ticker" Value="SGK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1280155461" />
+
+<Property FormalName="Ticker" Value="SGK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742914" />
+
+<Property FormalName="Ticker" Value="SGK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1377443846" />
+
+<Property FormalName="Ticker" Value="SGK242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1411547321" />
+
+<Property FormalName="Ticker" Value="SGK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1426717240" />
+
+<Property FormalName="Ticker" Value="SGK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455989991" />
+
+<Property FormalName="Ticker" Value="SGK26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1500439638" />
+
+<Property FormalName="Ticker" Value="SGK253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1539290069" />
+
+<Property FormalName="Ticker" Value="SGK261" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1554416714" />
+
+<Property FormalName="Ticker" Value="SGK262" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1567846147" />
+
+<Property FormalName="Ticker" Value="SGK263" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>St. Gallen (awp) - Die St. Galler Kantonalbank (SGKB) ist im ersten Halbjahr 2026 gewachsen und hat unter dem Strich deutlich mehr verdient. Nun wird das Jahresziel angehoben.</p>
+<p/><p>Der Geschäftserfolg als Mass für die operative Leistung erhöhte sich gegenüber dem Vorjahr um 5,0 Prozent auf 140,5 Millionen Franken, wie die SGKB am Mittwoch mitteilte. Unter dem Strich resultierte ein 5,1 Prozent höherer Reingewinn von 119,9 Millionen.</p>
+<p/><h3>Höherer Zinsenerfolg</h3>
+<p/><p>Insgesamt erwirtschaftete das Ostschweizer Staatsinstitut einen Geschäftsertrag von 313,9 Millionen Franken (+4,0%). Dabei resultierte im Zinsengeschäft, das rund 60 Prozent zu den Erträgen beisteuert, ein 2,8 Prozent höherer Netto-Erfolg.</p>
+<p/><p>Erneut deutlich steigern konnte die SGKB zudem ihr Ergebnis im Kommissions- und Dienstleistungsgeschäft (+7,5%). Der Handelserfolg hingegen, der in der Vorjahresperiode von der sehr hohen Börsenaktivität profitiert habe, ging um 2,9 Prozent zurück.</p>
+<p/><p>Der Geschäftsaufwand stieg im ersten Halbjahr ebenfalls deutlich an (+4,1%). Allerdings erhöhte sich nur der Personalaufwand (+6,5%), der Sachaufwand blieb konstant. Die höheren Personalkosten begründet das Institut mit der Sicherstellung des Wachstums sowie einer Optimierung des Angebots und des Risikomanagements.</p>
+<p/><h3>Verwaltete Vermögen steigen</h3>
+<p/><p>Tatsächlich ist das Institut im ersten Semester gewachsen. Die Kundenausleihungen stiegen um 1,4 Prozent auf 35,2 Milliarden Franken. Der Grossteil der neuen Kundenausleihungen stamme aus Hypotheken an Privatpersonen in den Kantonen St.Gallen und Appenzell Ausserrhoden, so das Communiqué.</p>
+<p/><p>Weiter deutlich zulegen konnte die Bank bei den verwalteten Vermögen, die sich per Ende Juni auf 76,0 Milliarden Franken (+5,9%) beliefen. Der Kantonalbank flossen dabei im Halbjahr Neugelder in Höhe von 2,1 Milliarden Franken zu.</p>
+<p/><h3>Leicht höherer Gewinn erwartet</h3>
+<p/><p>Für das Geschäftsjahr 2026 ist die Kantonalbank nun zuversichtlicher. Nachdem bislang ein Konzerngewinn auf Vorjahresniveau in Aussicht gestellt wurde, soll nun ein Wert "leicht über der Höhe des Vorjahres" erreicht werden.</p>
+<p/><p>Voraussetzung dafür sei, dass die aktuellen Zinsen stabil blieben, die Aktienmärkte sich weiter positiv entwickelten und die Schweizer Wirtschaft keine Rezessionsphase durchlaufe.</p>
+<p/><p>rw/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
