@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260812T103515+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260812</DateId>
+			<NewsItemId>1630</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260812:1630:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260812T103514+0200</FirstCreated>
+		<ThisRevisionCreated>20260812T103514+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BKW senkt Stromtarife in der Grundversorgung erneut</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3013" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2073005594">
+<Property FormalName="FullName" Value="BKW AG" />
+
+<Property FormalName="ShortName" Value="BKW" />
+
+<Property FormalName="Telekurs" Value="566152" />
+
+<Property FormalName="CHNr" Value="CH-036.3.050.070-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0130293662" />
+
+<Property FormalName="Ticker" Value="BKW" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0117843745" />
+
+<Property FormalName="Ticker" Value="BKW10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0487087295" />
+
+<Property FormalName="Ticker" Value="BKW019" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179184408" />
+
+<Property FormalName="Ticker" Value="BKW222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011192" />
+
+<Property FormalName="Ticker" Value="BKW24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430866" />
+
+<Property FormalName="Ticker" Value="BKW25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1523562002" />
+
+<Property FormalName="Ticker" Value="BKW26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp/sda) - Der Berner Energiekonzern BKW senkt die Strompreise in der Grundversorgung zum wiederholten Mal. Ein typischer Vierpersonenhaushalt zahlt ab 2027 rund 7,6 Prozent weniger Stromkosten.</p>
+<p/><p>Für einen Haushalt in einer Fünfzimmerwohnung mit Elektroherd und Tumbler sowie einem Jahresverbrauch von 4500 Kilowattstunden beträgt die Ersparnis in etwa 7,90 Franken pro Monat respektive 95 Franken pro Jahr, wie die BKW am Mittwoch mitteilte. Die tatsächliche Preisanpassung hängt vom individuellen Verbrauchsverhalten ab.</p>
+<p/><p>Ab Anfang kommenden Jahres führt die BKW zudem einen dynamischen Netznutzungstarif ein. Das Produkt ist freiwillig. Es gewährt im Sommerhalbjahr an sonnigen Nachmittagen einen Rabatt. Es soll die Stromkunden animieren, dann Energie zu nutzen, wenn sie dank der wachsenden Photovoltaik-Produktion reichlich vorhanden ist.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
