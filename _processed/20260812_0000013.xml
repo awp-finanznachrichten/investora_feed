@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260812T145814+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260812</DateId>
+			<NewsItemId>3101</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260812:3101:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260812T145813+0200</FirstCreated>
+		<ThisRevisionCreated>20260812T145813+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SGS erweitert Bioanalytik-Labor in Frankreich</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6341" />
+
+</Property>
+
+<Property FormalName="Country" Value="FR" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196254">
+<Property FormalName="FullName" Value="SGS SA" />
+
+<Property FormalName="ShortName" Value="SGS" />
+
+<Property FormalName="Telekurs" Value="759153" />
+
+<Property FormalName="CHNr" Value="CH-660.0.023.919-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1256740924" />
+
+<Property FormalName="Ticker" Value="SGSN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0279135328" />
+
+<Property FormalName="Ticker" Value="SGS151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633534" />
+
+<Property FormalName="Ticker" Value="SGS18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536892588" />
+
+<Property FormalName="Ticker" Value="SGS201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189218006" />
+
+<Property FormalName="Ticker" Value="SGS23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222558" />
+
+<Property FormalName="Ticker" Value="SGS231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222566" />
+
+<Property FormalName="Ticker" Value="SGS232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990015" />
+
+<Property FormalName="Ticker" Value="SGS25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990023" />
+
+<Property FormalName="Ticker" Value="SGS251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238488" />
+
+<Property FormalName="Ticker" Value="SGS26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238496" />
+
+<Property FormalName="Ticker" Value="SGS261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="NKL"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Baar (awp) - SGS hat sein bioanalytisches Labor im französischen Saint-Benoît bei Poitiers um 500 Quadratmeter erweitert. Zusammen mit der Renovierung bestehender Flächen umfasst der Standort nun knapp 4500 Quadratmeter modernisierte Laborfläche.</p>
+<p/><p>Mit dem Ausbau wurden Kapazitäten für bioanalytische Untersuchungen im Rahmen präklinischer und klinischer Arzneimittelentwicklungen erhöht, wie SGS am Mittwoch mitteilte. Unter anderem sollen grössere Probenvolumen und umfangreichere Studien bewältigt werden können. Finanzielle Angaben zur Investition machte SGS nicht.</p>
+<p/><p>an/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
