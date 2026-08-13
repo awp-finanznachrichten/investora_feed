@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T075017+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1106</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1106:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T075017+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T075017+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Kuros bestätigt nach starkem ersten Halbjahr Jahresziele</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8952" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198207">
+<Property FormalName="FullName" Value="Kuros Biosciences AG" />
+
+<Property FormalName="ShortName" Value="Kuros" />
+
+<Property FormalName="Telekurs" Value="84178" />
+
+<Property FormalName="CHNr" Value="CH-020.4.000.944-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0325814116" />
+
+<Property FormalName="Ticker" Value="KURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Biotechunternehmen Kuros hat ein starkes erstes Halbjahr hinter sich. So wurde der Umsatz deutlich gesteigert und auch unter dem Strich steht nun ein Gewinn. Am Ausblick hält das Unternehmen fest.</p>
+<p/><p>Konkret legte der Umsatz im ersten Semester 2026 um 45 Prozent auf 92,4 Millionen US-Dollar zu. Mit diesem Umsatzwachstum ist Kuros auf gutem Weg, das eigene Ziel für 2026 - ein Umsatzplus von mindestens 35 Prozent - zu erreichen.</p>
+<p/><p>Bei den Einnahmen profitierte das Unternehmen von Marktanteilsgewinnen im Bereich der Orthobiologika. Laut Communiqué ist MagnetOs - Kuros Hauptprodukt - mittlerweile gemessen am Umsatz in den USA die drittgrösste Marke für Knochentransplantate und gewinnt Marktanteile gegenüber Wachstumsfaktoren, peptidbasierten Produkten und zellbasierten Allotransplantaten.</p>
+<p/><h3>Erstmals schwarze Zahlen</h3>
+<p/><p>Der EBITDA stieg um 46 Prozent auf 7,4 Millionen Dollar, bereinigt um die wiederkehrenden und einmaligen aktienbasierten Vergütungen und die entsprechenden Sozialabgaben belief er sich auf 12,5 Millionen (+61%) mit einer Marge von 13,6 Prozent nach 12,3 Prozent im Vorjahr.</p>
+<p/><p>Erstmals steht auch unter dem Strich mit 4,4 Millionen ein Gewinn, nachdem im Vorjahr noch ein Verlust von 2,0 Millionen zu Buche stand.</p>
+<p/><p>Die liquiden Mittel lagen bei 9,7 Millionen nach 15,7 Millionen zum Ende des ersten Quartals.</p>
+<p/><p>Am Ausblick hält Kuros fest und erwartet neben dem bereits erwähnten Umsatzplus von mindestens 35 Prozent eine adjustierte EBITDA-Marge von etwa 14 Prozent. Auch das mittelfristige Ziel, 2028 einen Umsatz von 300 bis 330 Millionen US-Dollar und eine bereinigte EBITDA-Marge von mindestens 20 Prozent zu erreichen, bekräftigte Kuros.</p>
+<p/><h3>Pipeline und Portfolio sollen Wachstum treiben</h3>
+<p/><p>Um diese Ziele zu erreichen, treibt Kuros die Entwicklung neuer Produkte und die Erschliessung weiterer Märkte voran. Neue Varianten von MagnetOs sollen künftig mehr Flexibilität bieten, während das Unternehmen zugleich sein minimalinvasives Liefersystem weiterentwickelt und an einem neuen Knochenfüllmaterial arbeitet.</p>
+<p/><p>Gleichzeitig baut Kuros seine Präsenz in wichtigen Wachstumsfeldern wie der Fuss-, Sprunggelenk- und Extremitätenchirurgie sowie der Unfallchirurgie aus.</p>
+<p/><p>Auch die Produktionskapazitäten werden gestärkt: Mit einem neuen US-Hauptsitz und Produktionsstandort in Georgia sowie dem Ausbau des Standorts in den Niederlanden schafft das Unternehmen zusätzliche Kapazitäten und erhöht die Flexibilität und Zuverlässigkeit seiner Lieferkette.</p>
+<p/><p>dm/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
