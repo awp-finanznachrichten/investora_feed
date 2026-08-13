@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T080217+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1217</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1217:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T080217+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T080217+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Glarner Kantonalbank macht Gewinnsprung im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8750" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197530">
+<Property FormalName="FullName" Value="Glarner Kantonalbank" />
+
+<Property FormalName="ShortName" Value="GLKB" />
+
+<Property FormalName="Telekurs" Value="080849" />
+
+<Property FormalName="CHNr" Value="CH-160.8.002.640-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0189396655" />
+
+<Property FormalName="Ticker" Value="GLKBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0269699176" />
+
+<Property FormalName="Ticker" Value="GKB15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633591" />
+
+<Property FormalName="Ticker" Value="GKB182" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0485260837" />
+
+<Property FormalName="Ticker" Value="GKB19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071189" />
+
+<Property FormalName="Ticker" Value="GKB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101096514" />
+
+<Property FormalName="Ticker" Value="GKB21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1118223382" />
+
+<Property FormalName="Ticker" Value="GKB210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1271007911" />
+
+<Property FormalName="Ticker" Value="GKB230" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1503892627" />
+
+<Property FormalName="Ticker" Value="GKB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1540977142" />
+
+<Property FormalName="Ticker" Value="GKB26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1571219224" />
+
+<Property FormalName="Ticker" Value="GKB261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Glarus (awp) - Die Glarner Kantonalbank (GLKB) hat im ersten Semester 2026 den Taucher des Vorjahres wieder wettgemacht. Dies ist der deutlichen Verbesserung im wichtigen Zinsengeschäft zu verdanken. Auch das Kommissions- und Dienstleistungsgeschäft lief besser.</p>
+<p/><p>In den ersten sechs Monaten konnte die Bank die Einnahmen deutlich steigern. So erhöhte sich der Betriebsertrag um 11,2 Prozent auf 52,6 Millionen Franken, wie das Institut am Donnerstag in einem Communiqué bekannt gab. Im wichtigen Zinsengeschäft kletterte der Nettoerfolg um 24,1 Prozent auf 36,6 Millionen Franken. Dabei profitierte die Bank von einem markant tieferen Zinsaufwand, der um ein Drittel fiel.</p>
+<p/><p>Auch im Kommissions- und Dienstleistungsgeschäft verbesserte sich der Erfolg um 5,9 Prozent auf 9,4 Millionen Franken. Treiber hierfür waren das erfolgreiche Anlagegeschäft und die Erträge aus dem Credit Servicing Angebot aus dem Geschäftszweig "Bitubi", der Dienstleistungen im Bereich von Kreditgeschäften oder Software-Lizenzierung anbietet, wie die Bank weiter schrieb.</p>
+<p/><p>Dagegen tauchte der Erfolg aus dem Handelsgeschäft insbesondere aufgrund tieferer Devisenerträge um fast ein Viertel auf 4,3 Millionen Franken. Der Rückgang beim übrigen ordentlichen Ertrag steht unter anderem im Zusammenhang mit Verbuchungen rund um das Eidgenössische Schwing- und Älplerfest (ESAF) 2025 im Glarnerland.</p>
+<p/><h3>Kosten klettern weniger stark als Einnahmen</h3>
+<p/><p>Auf der anderen Seite entwickelten sich die Kosten unterproportional zu den Einnahmen. Der Geschäftsaufwand stieg um 5,6 Prozent. Dabei nahm der Personalaufwand stärker zu als der Sachaufwand. Dagegen waren die Abschreibungen und Wertberichtigungen markant tiefer als im Vorjahr.</p>
+<p/><p>Dies trieb den Geschäftserfolg als Mass für die operative Leistung um 43 Prozent auf 16,1 Millionen Franken nach oben. Das operative Ergebnis sei stark, schrieb die Bank.</p>
+<p/><p>Unter dem Strich fuhr die Bank einen Reingewinn von 13,2 Millionen Franken ein. Dies ist ein Plus von 40,2 Prozent. Damit hat die Bank die Delle aus dem Vorjahreszeitraum mehr als ausgebügelt. Und "mit dem Halbjahresergebnis 2026 wurde das Resultat des bereits guten zweiten Halbjahrs 2025 nochmals übertroffen", hiess es weiter.</p>
+<p/><h3>Zufriedenheit beim Chef</h3>
+<p/><p>GLKB-Chef Sven Wiederkehr zeigte sich zufrieden: "Das erste Halbjahr war geprägt von den Turbulenzen am Persischen Golf und der damit verbundenen Unsicherheit bezüglich Inflationserwartung und Zinsen. Umso erfreulicher ist die gute Entwicklung unseres Geschäfts und das entgegengebrachte Vertrauen unserer Kundinnen und Kunden."</p>
+<p/><p>Die Bilanzsumme der Kantonalbank wuchs im ersten Halbjahr leicht um 0,8 Prozent auf 9,2 Milliarden Franken. Die Hypothekarforderungen beliefen sich auf 6,3 Milliarden Franken, was einem Anstieg um 1,8 Prozent entsprach.</p>
+<p/><p>Einen konkreten Ausblick für das Gesamtjahr machte die GLKB in der Mitteilung erneut nicht.</p>
+<p/><p>jb/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
