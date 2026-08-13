@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T185613+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>24</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>4330</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:4330:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T185613+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T185613+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>APG und ESH Médias kooperieren in der Westschweiz</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016023"/><Subject FormalName="04016030"/><Subject FormalName="04016005"/><Subject FormalName="04010000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1207" />
+
+<Property FormalName="City" Value="1950" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191849">
+<Property FormalName="FullName" Value="APG SGA SA" />
+
+<Property FormalName="ShortName" Value="APG SGA" />
+
+<Property FormalName="Telekurs" Value="044612" />
+
+<Property FormalName="CHNr" Value="CH-660.0.738.999-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0019107025" />
+
+<Property FormalName="Ticker" Value="APGN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2005792728">
+<Property FormalName="FullName" Value="ESH Médias Editions SA" />
+
+<Property FormalName="ShortName" Value="ESH Médias" />
+
+<Property FormalName="CHNr" Value="CH-626-3000170-4" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf/Sion (awp) - Das Aussenwerbeunternehmen APG SGA startet eine Partnerschaft mit ESH Médias. Dabei führen die beiden Unternehmen ab dem 1. Januar 2027 ein neues Angebot für den Werbemarkt in der Westschweiz ein.</p>
+<p/><p>Konkret erhalte Impactmedias, die Vermarktungsorganisation der ESH-Médias-Gruppe, Zugang zum gesamten Inventar der Aussenwerbung von APG SGA in der Romandie, hiess es in einer Mitteilung vom Donnerstag. Gleichzeitig übernehme APG SGA die digitalen und analogen Werbeflächen der Plakatmarke Horizon der ESH-Médias-Gruppe.</p>
+<p/><p>Zu den finanziellen Bedinungen der Transaktion haben die Parteien Stillschweigen vereinbart. "Durch diese Kooperation bauen wir unsere Präsenz in der Westschweiz aus und erhalten mit Impactmedias eine zusätzliche, lokal verankerte Vertriebsorganisation für unser Out of Home-Medien-Portfolio in der Romandie", wird APG-CEO Markus Ehrle in der Mitteilung zitiert.</p>
+<p/><p>ls/mk</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
