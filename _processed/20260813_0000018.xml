@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T093902+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1851</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1851:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T093902+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T093902+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Komax-Papiere nach Halbjahreszahlen mit Kurssprung</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6036" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193852">
+<Property FormalName="FullName" Value="Komax Holding AG" />
+
+<Property FormalName="ShortName" Value="Komax" />
+
+<Property FormalName="Telekurs" Value="654168" />
+
+<Property FormalName="CHNr" Value="CH-100.3.019.197-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010702154" />
+
+<Property FormalName="Ticker" Value="KOMN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Komax-Aktie hat am Donnerstag trotz überwiegend enttäuschender Zahlen einen satten Kursprung hingelegt. Analysten zielen in ersten Kommentaren insbesondere auf die Trendwende bei den Auftragseingängen ab und die Börse scheint dem positiven Fingerzeig für die künftige Entwicklung zu folgen.</p>
+<p/><p>Gegen 9.30 Uhr klettern die Titel um 5,3 Prozent auf 63,80 Franken und entfernen sich damit immer deutlicher von ihrem Jahrestief Ende Juni bei 40,30 Franken. Der Gesamtmarkt gemessen am SPI steht mit 0,1 Prozent leicht im Plus.</p>
+<p/><p>Die klare Trendwende mit Auftragseingängen über den Erwartungen dominiert die Analystenkommentare. Besonders die hohe Nachfrage im Bereich von Rechenzentren habe die weiter gedämpfte Auftragslage im Automotive-Geschäft überlagert, heisst es dazu bei Vontobel.</p>
+<p/><p>Zudem sollen die Kosteneinsparungen fortgesetzt werden. Durch die Restrukturierungsmassnahmen und entsprechende Einmalkosten wurde das Ergebnis nochmals belastet. Der nun konkrete Ausblick von Komax stiess auf recht positives Echo - insbesondere ohne die Einmalkosten und dank des erwarteten Umsatzanstiegs im zweiten Halbjahr. Die UBS merkt jedoch an, dass noch eine weitere Erholung beim Auftragseingang nötig sei, um die Erwartungen des Marktes für 2027 mit Blick auf die operative Entwicklung zu erreichen.</p>
+<p/><p>dm/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
