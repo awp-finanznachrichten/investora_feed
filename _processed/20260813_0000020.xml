@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T115018+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>2448</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:2448:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T115017+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T115017+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>AMS Osram reicht Patentklagen gegen Distributor in Deutschland ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="02000000"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="AT">
+<Property FormalName="City" Value="8141" />
+
+</Property>
+
+<Property FormalName="Country" Value="CH" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198032">
+<Property FormalName="FullName" Value="AMS Osram AG" />
+
+<Property FormalName="ShortName" Value="AMS Osram" />
+
+<Property FormalName="Telekurs" Value="88734" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="AT0000A3EPA4" />
+
+<Property FormalName="Ticker" Value="AMS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="LAW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Unterpremstätten/München (awp) - AMS Osram wehrt sich gegen eine mögliche Patentverletzung. Der Sensoren- und Halbleiterhersteller hat in Deutschland zwei entsprechend Klagen gegen einen Distributor elektronischer Komponenten eingereicht.</p>
+<p/><p>Hintergrund sei der Verkauf von LED-Produkten für die Automobilindustrie, die von Refond Optoelectronics hergestellt würden, heisst es in einer Mitteilung vom Donnerstag. AMS fordere eine dauerhafte Unterlassung, Schadenersatz sowie den Rückruf und die Vernichtung der betreffenden Produkte. Angaben zur Höhe der Forderungen machte AMS nicht.</p>
+<p/><p>AMS hatte bereits 2025 im Bereich Horticulture-LEDs entsprechende Schritte zur Durchsetzung seiner Patentrechte eingeleitet und weite diese nun auf Anwendungen im Automobilbereich aus.</p>
+<p/><p>dm/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
