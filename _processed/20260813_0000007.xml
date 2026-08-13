@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T073320+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1002</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1002:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T073319+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T073319+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swissquote senkt Jahresziele wegen Krypto-Schwäche</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1196" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191819">
+<Property FormalName="FullName" Value="Swissquote Group Holding SA" />
+
+<Property FormalName="ShortName" Value="Swissquote" />
+
+<Property FormalName="Telekurs" Value="77344" />
+
+<Property FormalName="CHNr" Value="CH-550.1.000.705-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010675863" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1548235246" />
+
+<Property FormalName="Ticker" Value="SQN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Gland (awp) - Swissquote hat im ersten Semester 2026 unter der Schwäche im Markt mit Bitcoin und anderen Kryptowährungen gelitten. Die Erholung dürfte noch etwas dauern, daher senkt die Onlinebank ihre Jahresziele.</p>
+<p/><p>Der Nettoertrag stieg in der ersten Jahreshälfte um 1,7 Prozent auf 364,2 Millionen Franken und damit deutlich schwächer als erwartet. Zwar hätten die meisten Ertragsbereiche zugelegt, schreibt Swissquote in einer Mitteilung vom Donnerstag.</p>
+<p/><p>Doch der Kryptomarkt sei durch geopolitische Spannungen, höhere Zinsen und einen stärkeren US-Dollar belastet worden. Die Kurse von Bitcoin und anderen Krypto-Assets gingen stark zurück und mit ihnen die Einnahmen von Swissquote im Kryptogeschäft. Diese brachen um zwei Drittel auf noch 14,6 Millionen Franken ein.</p>
+<p/><p>Hatte das Krypto-Geschäft letztes Jahr noch knapp 12 Prozent zum Gruppenertrag beigesteuert, waren es jetzt noch 4 Prozent.</p>
+<p/><h3>Höhere Kosten wegen Yuh</h3>
+<p/><p>Der Vorsteuergewinn ging um 1,2 Prozent auf 182,9 Millionen Franken zurück, der Reingewinn um 2,9 Prozent auf 153,6 Millionen. Grund dafür waren höhere Kosten. Die Onlinebank erklärt dies zum Teil mit der Vollkonsolidierung der Tochter Yuh.</p>
+<p/><p>Yuh rutschte im ersten Halbjahr in die Verlustzone und drückte das Reinergebnis um rund eine Million Franken. Swissquote sieht Yuh aber auf Kurs, bis zum Gesamtjahr wieder die Gewinnschwelle zu erreichen.</p>
+<p/><p>Die Banking-App war im Mai 2021 als Gemeinschaftsunternehmen mit Postfinance gestartet. Sie kam im Sommer 2025 ganz in die Hände von Swissquote.</p>
+<p/><p>Auch Investitionen in Technologie trieben die Kosten auf Gruppenebene. Erste Produktivitätsvorteile erwartet die Bank weiterhin im zweiten Halbjahr 2026, wobei der Beitrag zur operativen Hebelwirkung im Laufe der Zeit steigen würde.</p>
+<p/><h3>Kräftiges Kundenwachstum</h3>
+<p/><p>Während Swissquote mit den vorgelegten Gewinnzahlen die Erwartungen der Finanzgemeinde verfehlt, kann sie mit der Kundenentwicklung glänzen: Mit Netto-Neugeldern von 5,1 Milliarden Franken hat sie die Erwartungen gemäss AWP-Konsens übertroffen. Die Kundengelder erreichten 96,3 Milliarden Franken, nach 88,7 Milliarden Ende 2025.</p>
+<p/><p>Insbesondere auch bei der Tochter Yuh gab es einen kräftigen Kundenzuwachs: Diese zählt inzwischen 423'409 Kundenkonten, nach knapp 400'000 Ende 2025.</p>
+<p/><h3>Ziele für Gesamtjahr gesenkt</h3>
+<p/><p>Für das laufende Jahr hat Swissquote seine Ziele zurückgeschraubt: Der Nettoertrag soll noch rund 730 Millionen Franken betragen. Zuvor waren 760 Millionen in Aussicht gestellt worden. Und der Vorsteuergewinn soll bei rund 365 statt 385 Millionen liegen. Die Erholung bei den Krypto-Anlagen dürfte sich aufgrund der gesamtwirtschaftlichen Bedingungen verzögern, hiess es.</p>
+<p/><p>Die wesentlichen Annahmen, die den Aussichten für 2028 zugrunde liegen würden, blieben vollumfänglich intakt und Swissquote strebe für 2028 einen Vorsteuergewinn von 500 Millionen Franken an.</p>
+<p/><p>tt/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
