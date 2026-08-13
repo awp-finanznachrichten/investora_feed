@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T073038+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>969</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:969:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T073037+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T073037+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>TKB steigert sich operativ im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8570" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197632">
+<Property FormalName="FullName" Value="Thurgauer Kantonalbank" />
+
+<Property FormalName="ShortName" Value="TKB" />
+
+<Property FormalName="Telekurs" Value="26240" />
+
+<Property FormalName="CHNr" Value="CH-440.8.003.247-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0231351104" />
+
+<Property FormalName="Ticker" Value="TKBP" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0206992270" />
+
+<Property FormalName="Ticker" Value="TGK13" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0269796212" />
+
+<Property FormalName="Ticker" Value="TGK15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0323604188" />
+
+<Property FormalName="Ticker" Value="TGK16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0353105197" />
+
+<Property FormalName="Ticker" Value="TGK17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0405985836" />
+
+<Property FormalName="Ticker" Value="TGK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0443057515" />
+
+<Property FormalName="Ticker" Value="TGK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1113135151" />
+
+<Property FormalName="Ticker" Value="TGK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1209697551" />
+
+<Property FormalName="Ticker" Value="TGK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1366517105" />
+
+<Property FormalName="Ticker" Value="TGK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1408989940" />
+
+<Property FormalName="Ticker" Value="TGK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1408989957" />
+
+<Property FormalName="Ticker" Value="TGK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1439278131" />
+
+<Property FormalName="Ticker" Value="TGK253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1475615238" />
+
+<Property FormalName="Ticker" Value="TGK254" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1585208783" />
+
+<Property FormalName="Ticker" Value="TGK261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Weinfelden (awp) - Die Thurgauer Kantonalbank (TKB) hat im ersten Halbjahr 2026 operativ deutlich besser als im Vorjahr abgeschnitten und unter dem Strich etwas mehr verdient. Das Jahresziel wird bestätigt.</p>
+<p/><p>Der Geschäftserfolg als Mass der operativen Leistung nahm um 9,2 Prozent auf 123,5 Millionen Franken zu, wie die TKB am Donnerstag mitteilte. Weil deutlich höhere Reserven für allgemeine Bankrisiken (34 Mio vs. 25 Mio) gebildet wurden, resultierte unter dem Strich aber nur ein 0,9 Prozent höherer Semestergewinn von 81,6 Millionen. Das gute Geschäftsergebnis erlaube es der Bank, ihre eigenen Mittel weiter zu stärken, wurde die höhere Reservenzuweisung begründet.</p>
+<p/><p>Insgesamt erzielte das Staatsinstitut einen 6,4 Prozent höheren Geschäftsertrag von 230,1 Millionen Franken. Alle Geschäftsbereiche legten zu - auch das wichtige Zinsengeschäft, das mehr als zwei Drittel zum Ertrag beisteuert. Hier stieg der Bruttoerfolg um 2,3 Prozent. Noch besser lief es dank starker Finanzmärkte im Kommissions- und Dienstleistungsgeschäft (+11%) und im Handelsgeschäft (+5,7%).</p>
+<p/><h3>Hypovolumen leicht höher</h3>
+<p/><p>In ihrem Kerngeschäft, der Vergabe von Hypotheken, legte die TKB leicht zu. Das Hypothekarvolumen (+1,0%) übertraf laut der Mitteilung erstmals die Marke von 26 Milliarden Franken, was die Stellung des Instituts als führende Hypothekarbank im Thurgau unterstreiche.</p>
+<p/><p>Bei einem klar höheren Nettoneugeldzufluss von rund 500 Millionen stiegen die gesamten verwalteten Kundenvermögen derweil gegenüber dem Jahresende 2025 um 4,4 Prozent auf 30,0 Milliarden Franken an.</p>
+<p/><h3>Ziel bestätigt</h3>
+<p/><p>Gestiegen ist auch der Geschäftsaufwand (+4,2%). Das Kosten/Ertrags-Verhältnis blieb mit 44,5 Prozent damit auf tiefem Niveau.</p>
+<p/><p>Bestätigt wurde die Prognose für das Gesamtjahr 2026. Die Bank rechnet weiterhin mit einem erfolgreichen Geschäftsgang, jedoch erwartet sie keinen so hohen Unternehmenserfolg mehr wie 2025.</p>
+<p/><p>rw/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
