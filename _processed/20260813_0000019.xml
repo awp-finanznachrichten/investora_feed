@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T114716+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>19</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>2431</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:2431:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T114715+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T114715+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swisscom bringt ihre Produkte in Mediamarkt-Läden</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04007005"/><Subject FormalName="04003007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3063" />
+
+<Property FormalName="City" Value="8953" />
+
+<Property FormalName="City" Value="6343" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193763">
+<Property FormalName="FullName" Value="Swisscom AG" />
+
+<Property FormalName="ShortName" Value="Swisscom" />
+
+<Property FormalName="Telekurs" Value="11346" />
+
+<Property FormalName="CHNr" Value="CH-035.8.018.212-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008742519" />
+
+<Property FormalName="Ticker" Value="SCMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0254147504" />
+
+<Property FormalName="Ticker" Value="SCM141" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0268988182" />
+
+<Property FormalName="Ticker" Value="SCM151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0317921663" />
+
+<Property FormalName="Ticker" Value="SCM16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0336352775" />
+
+<Property FormalName="Ticker" Value="SCM161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0344583783" />
+
+<Property FormalName="Ticker" Value="SCM162" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0362748359" />
+
+<Property FormalName="Ticker" Value="SCM17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0373476164" />
+
+<Property FormalName="Ticker" Value="SCM33" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040982" />
+
+<Property FormalName="Ticker" Value="SCM19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0437180935" />
+
+<Property FormalName="Ticker" Value="SCM181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0494734335" />
+
+<Property FormalName="Ticker" Value="SCM192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0515152467" />
+
+<Property FormalName="Ticker" Value="SCM20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0580291968" />
+
+<Property FormalName="Ticker" Value="SCM201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112455766" />
+
+<Property FormalName="Ticker" Value="SCM21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1248666930" />
+
+<Property FormalName="Ticker" Value="SCM23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1254751907" />
+
+<Property FormalName="Ticker" Value="SCM231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727785" />
+
+<Property FormalName="Ticker" Value="SCM24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727793" />
+
+<Property FormalName="Ticker" Value="SCM240" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727801" />
+
+<Property FormalName="Ticker" Value="SCM241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401875" />
+
+<Property FormalName="Ticker" Value="SCM242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403761" />
+
+<Property FormalName="Ticker" Value="SCM25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403779" />
+
+<Property FormalName="Ticker" Value="SCM251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238504" />
+
+<Property FormalName="Ticker" Value="SCM26" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1979258101">
+<Property FormalName="FullName" Value="Media Markt Schweiz AG" />
+
+<Property FormalName="ShortName" Value="Media Markt CH" />
+
+<Property FormalName="CHNr" Value="CH-020-3004280-3" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191940">
+<Property FormalName="FullName" Value="Mobilezone Holding AG" />
+
+<Property FormalName="ShortName" Value="Mobilezone" />
+
+<Property FormalName="Telekurs" Value="629512" />
+
+<Property FormalName="CHNr" Value="CH-550.0.051.372-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0276837694" />
+
+<Property FormalName="Ticker" Value="MOZN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="RTS"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Dietlikon ZH (awp) - Die Swisscom expandiert in Mediamarkt-Läden in der Schweiz. Neu sind damit Swisscom- und Wingo-Produkte auch in Filialen der Elektronikkette erhältlich.</p>
+<p/><p>Den Start macht am (morgigen) Freitag die Mediamarkt-Filiale in Dietlikon ZH. Insgesamt werde der Verkauf in den nächsten Wochen auf zehn Mediamarkt-Läden ausgebaut, teilte die Swisscom am Donnerstag in einem Communiqué mit. Konkret sind dies Filialen in Lyssach BE, Basel SBB, Carouge und Meyrin GE, Kriens LU, St. Gallen, Crissier VD, Dietikon ZH und Zürich Sihlcity.</p>
+<p/><p>Damit eröffnet sich die Swisscom eine weitere Ladenpräsenz neben ihren rund 120 eigenen Shops. Zudem sind Swisscom-Produkte in den Läden von Mobilezone erhältlich.</p>
+<p/><p>Der Unterschied zur Präsenz bei Mobilezone ist aber, dass der "Blaue Riese" in den Mediamarkt-Filialen eigene Flächen für ihren Verkaufsstand mietet. Dort führen dann Swisscom-Mitarbeiter die Beratung und die Verkäufe durch.</p>
+<p/><p>Eine weitere Expansion in die Läden anderer Elektronikfachhändler wie beispielsweise Interdiscount sei nicht geplant, sagte eine Swisscom-Sprecherin auf Anfrage der Nachrichtenagentur AWP.</p>
+<p/><p>jb/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
