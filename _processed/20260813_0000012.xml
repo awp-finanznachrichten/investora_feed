@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T075718+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1132</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1132:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T075717+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T075717+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Varia US findet mit Brookfield gesuchten Partner</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2044881160">
+<Property FormalName="FullName" Value="Varia US Properties AG" />
+
+<Property FormalName="ShortName" Value="Varia US" />
+
+<Property FormalName="Telekurs" Value="704032" />
+
+<Property FormalName="CHNr" Value="CH-170.3.039.996-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0305285295" />
+
+<Property FormalName="Ticker" Value="VARN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Varia US hat mit dem US-Vermögensverwalter Brookfield ein strategisches Joint Venture für einen Grossteil seiner US-Wohnliegenschaften vereinbart. Dazu wurde eine Rekapitalisierung über 13 der 17 Liegenschaften des US-Mehrfamilienhausportfolios geschlossen. Die daraus erzielten Erlöse sollen in qualitativ hochwertigere Akquisitionen reinvestiert werden.</p>
+<p/><p>Die auf US-Wohnimmobilien fokussierte Varia US bringt in das Joint Venture konkret 4112 Wohnungen mit einem Bruttovermögenswert von rund 693,9 Millionen Dollar in zwei neue Vehikel ein. Die Transaktion soll bis zu 200 Millionen Dollar an Akquisitionskapital erschliessen, wie es in einer Mitteilung vom Donnerstag heisst.</p>
+<p/><p>Brookfield übernehme im ersten Portfolio mit vier Liegenschaften und 1060 Wohnungen 90 Prozent und im zweiten Portfolio mit neun Liegenschaften und 3052 Wohnungen 40 Prozent. Varia US behält somit im ersten Portfolio 10 Prozent und im zweiten 60 Prozent und führt das operative Management.</p>
+<p/><p>Die eingebrachten 13 Objekte werden den Angaben zufolge mit einem Abschlag von 9,5 Prozent auf den IFRS-Bewertungswert per Ende des ersten Quartals 2026 eingebracht. Vier Liegenschaften mit 1162 Wohnungen und einem Bruttovermögenswert von 125,8 Millionen Dollar bleiben vollständig im Eigentum von Varia US. Zwei davon sollen binnen rund zwölf Monaten verkauft werden.</p>
+<p/><p>Der Gesellschaft fliessen beim Abschluss netto rund 48,6 Millionen Dollar zu. Nach dem geplanten Verkauf der zwei verbliebenen Objekte sollen weitere 101,9 Millionen Dollar zufliessen. Das Geld ist für künftige Zukäufe vorgesehen.</p>
+<p/><p>Nach Vollzug erwartet Varia US einen Nettoinventarwert von rund 255,4 Millionen Dollar. Das entspreche einem Aufschlag von rund 60 Prozent auf die Börsenkapitalisierung vom Mittwoch. Der Abschluss der Transaktion wird für Anfang des vierten Quartals 2026 erwartet und steht unter üblichen Vollzugsbedingungen.</p>
+<p/><p>Varia US will mit der Transaktion ältere und kapitalintensivere Liegenschaften schrittweise abbauen und das Portfolio auf neuere Objekte mit stabileren Cashflows ausrichten. Dazu hatte das Unternehmen bereits mit den Jahreszahlen im März die Suche nach einem strategischen Partner angestossen.</p>
+<p/><p>awp-robot/dm</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
