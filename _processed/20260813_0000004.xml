@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T065515+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>594</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:594:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T065514+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T065514+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Schlatter zurück in den schwarzen Zahlen - Weben unter Druck</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016039"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8952" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193887">
+<Property FormalName="FullName" Value="Schlatter Industries AG" />
+
+<Property FormalName="ShortName" Value="Schlatter" />
+
+<Property FormalName="Telekurs" Value="227731" />
+
+<Property FormalName="CHNr" Value="CH-020.3.922.935-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002277314" />
+
+<Property FormalName="Ticker" Value="STRN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Schlieren (awp) - Der Maschinenbauer Schlatter ist im ersten Halbjahr 2026 aus den roten Zahlen gekommen. Während die Bestellungen im Segment Schweissen hoch blieben, litten Webmaschinen aber weiter unter einer schwächeren Nachfrage. Massnahmen zur Senkung der Kosten wurden eingeleitet.</p>
+<p/><p>In den ersten sechs Monaten des Jahres nahm Schlatter Bestellungen im Wert von 51,8 Millionen Franken entgegen, gut 4 Prozent weniger als im Vorjahr. Der Umsatz der Gruppe sank im ersten Halbjahr auf 49,1 Millionen Franken nach zuvor 52,0 Millionen.</p>
+<p/><p>Vom Auftragseingang entfiel mit 46,3 Millionen Franken der Löwenanteil auf das Segment Schweissen. Vor allem die Nachfrage nach industriellen Gittern sei hoch geblieben, erklärte Schlatter am Donnerstag in einem Communiqué. Die Nachfrage nach Anlagen zur Herstellung von Armierungsgittern erholte sich hingegen nicht.</p>
+<p/><p>Bei Bestellungen von Webmaschinen für die Papierindustrie herrschte laut Schlatter weltweit Zurückhaltung. Entsprechend nahm die Gruppe in dem Segment nur noch Aufträge im Wert von 5,5 Millionen Franken entgegen, gut ein Drittel weniger als im ersten Halbjahr 2025. Der Nettoerlös schrumpfte hier noch auf 5,7 Millionen.</p>
+<p/><p>Im Segment Weben sind die Anlagen nicht ausreichend ausgelastet, stellte Schlatter fest. In Münster, dem Standort des Kompetenzzentrums für Weben, habe man nun Massnahmen eingeleitet. Ziel sei es, die Kosten zu senken und zu flexibilisieren.</p>
+<p/><h3>Zurück in den schwarzen Zahlen</h3>
+<p/><p>Die Kosten hatte Schlatter offenbar gut im Griff: Der operative Gewinn auf Stufe EBIT kletterte deutlich auf 1,7 Millionen Franken, nach 0,3 Millionen im Vorjahr. Unter dem Strich stand damit wieder ein Gewinn inklusive Minderheiten von 1,1 Millionen Franken nach einem Fehlbetrag von 0,8 Millionen vor einem Jahr.</p>
+<p/><p>Für das laufende Geschäftsjahr erwartet Schlatter ein positives konsolidiertes Ergebnis. Dabei seien die vorhandenen Kapazitäten im Segment Schweissen gut ausgelastet, und zwar über das laufende Jahr hinaus. Nun gelte es, den guten Auftragsbestand von 45,8 Millionen zu nutzen und die Margen zu steigern.</p>
+<p/><p>ra/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
