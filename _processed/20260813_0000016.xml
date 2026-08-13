@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T090518+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1698</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1698:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T090518+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T090518+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Angebotsmieten sinken im Juli in 15 Kantonen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008000"/><Subject FormalName="04006002"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+<Property FormalName="City" Value="8050" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2056564600">
+<Property FormalName="FullName" Value="Zürcher Kantonalbank" />
+
+<Property FormalName="ShortName" Value="ZKB" />
+
+<Property FormalName="Telekurs" Value="26338" />
+
+<Property FormalName="CHNr" Value="CH-020.8.900.022-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0182484110" />
+
+<Property FormalName="Ticker" Value="ZKB125" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0119729793" />
+
+<Property FormalName="Ticker" Value="ZKB115" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0120408122" />
+
+<Property FormalName="Ticker" Value="ZKB116" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0126662904" />
+
+<Property FormalName="Ticker" Value="ZKB120" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0130158642" />
+
+<Property FormalName="Ticker" Value="ZKB122" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0299297280" />
+
+<Property FormalName="Ticker" Value="ZKB135" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0330143188" />
+
+<Property FormalName="Ticker" Value="ZKB139" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0342587638" />
+
+<Property FormalName="Ticker" Value="ZKB140" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0373476339" />
+
+<Property FormalName="Ticker" Value="ZKB18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633799" />
+
+<Property FormalName="Ticker" Value="ZKB19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041238" />
+
+<Property FormalName="Ticker" Value="ZKB192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239045" />
+
+<Property FormalName="Ticker" Value="ZKB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071221" />
+
+<Property FormalName="Ticker" Value="ZKB202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536893321" />
+
+<Property FormalName="Ticker" Value="ZKB205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576121" />
+
+<Property FormalName="Ticker" Value="ZKB206" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0589030946" />
+
+<Property FormalName="Ticker" Value="ZKB149" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101096464" />
+
+<Property FormalName="Ticker" Value="ZKB150" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1131931342" />
+
+<Property FormalName="Ticker" Value="ZKB152" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148728111" />
+
+<Property FormalName="Ticker" Value="ZKB153" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1170565621" />
+
+<Property FormalName="Ticker" Value="ZKB154" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1170565753" />
+
+<Property FormalName="Ticker" Value="ZKB227" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189217925" />
+
+<Property FormalName="Ticker" Value="ZKB156" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367638" />
+
+<Property FormalName="Ticker" Value="ZKB157" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1239464709" />
+
+<Property FormalName="Ticker" Value="ZKB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1266847149" />
+
+<Property FormalName="Ticker" Value="ZKB231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222392" />
+
+<Property FormalName="Ticker" Value="ZKB232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222491" />
+
+<Property FormalName="Ticker" Value="ZKB233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1319968553" />
+
+<Property FormalName="Ticker" Value="ZKB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1319968561" />
+
+<Property FormalName="Ticker" Value="ZKB241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401842" />
+
+<Property FormalName="Ticker" Value="ZKB158" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1392903550" />
+
+<Property FormalName="Ticker" Value="ZKB159" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405471967" />
+
+<Property FormalName="Ticker" Value="ZKB160" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405471975" />
+
+<Property FormalName="Ticker" Value="ZKB161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472049" />
+
+<Property FormalName="Ticker" Value="ZKB251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472064" />
+
+<Property FormalName="Ticker" Value="ZKB252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1446452307" />
+
+<Property FormalName="Ticker" Value="ZKB162" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1423931653" />
+
+<Property FormalName="Ticker" Value="ZKB163" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403738" />
+
+<Property FormalName="Ticker" Value="ZKB164" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403746" />
+
+<Property FormalName="Ticker" Value="ZKB165" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403852" />
+
+<Property FormalName="Ticker" Value="ZKB250" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1498422984" />
+
+<Property FormalName="Ticker" Value="ZKB166" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1498422992" />
+
+<Property FormalName="Ticker" Value="ZKB167" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238439" />
+
+<Property FormalName="Ticker" Value="ZKB168" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238744" />
+
+<Property FormalName="Ticker" Value="ZKB169" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238751" />
+
+<Property FormalName="Ticker" Value="ZKB170" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238637" />
+
+<Property FormalName="Ticker" Value="ZKB260" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2027273265">
+<Property FormalName="FullName" Value="SMG Swiss Marketplace Group AG" />
+
+<Property FormalName="ShortName" Value="SMG" />
+
+<Property FormalName="Telekurs" Value="136692" />
+
+<Property FormalName="CHNr" Value="CH-217.0.630.902-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1484953687" />
+
+<Property FormalName="Ticker" Value="SMG" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="ECO"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - In mehr als der Hälfte der Schweizer Kantone gingen die Angebotsmieten im Juli zurück, teilweise sogar deutlich. Gesamtschweizerisch betrachtet haben sich die Mieten insgesamt aber kaum bewegt.</p>
+<p/><p>Der Homegate-Mietindex blieb im Juli gegenüber dem Vormonat unverändert bei 134 Punkten, wie der Immobilienmarktplatz Homegate am Donnerstag mitteilte. Im Vergleich zum Vorjahr lagen die Angebotsmieten schweizweit weiterhin 2,4 Prozent höher. Der Index wird von Homegate zusammen mit der Zürcher Kantonalbank (ZKB) erhoben.</p>
+<p/><h3>Deutlicher Rückgang in Nidwalden</h3>
+<p/><p>Insgesamt sanken die Angebotsmieten im Juli jedoch in 15 Kantonen. Den stärksten Rückgang verzeichnete Nidwalden mit einem Minus von 4,0 Prozent. Dahinter folgten Schwyz mit -1,9 Prozent sowie Genf und Uri mit jeweils -1,5 Prozent.</p>
+<p/><p>Auch im Kanton Zürich gingen die Mieten um 0,4 Prozent zurück. Einen Anstieg gab es dagegen unter anderem in St. Gallen (+0,7 Prozent) und im Tessin (+0,6 Prozent).</p>
+<p/><p>Im Jahresvergleich zeigt sich weiterhin ein klarer Aufwärtstrend. Besonders deutlich lagen die Angebotsmieten in Graubünden (+7,1 Prozent), Zug (+5,0 Prozent) und Luzern (+4,2 Prozent) über dem Niveau vom Juli 2025. Generell verzeichneten laut Homegate vor allem die Kantone der Zentralschweiz überdurchschnittliche Steigerungen.</p>
+<p/><h3>Lugano gegen den Trend</h3>
+<p/><p>Bei den untersuchten Städten stiegen die Angebotsmieten im Juli einzig in Lugano. Dort legten sie gegenüber dem Vormonat um 1,9 Prozent und innert Jahresfrist gar um 6,3 Prozent zu.</p>
+<p/><p>Den stärksten monatlichen Rückgang gab es dagegen in der Stadt Luzern mit einem Minus von 2,4 Prozent. Damit fiel der Rückgang doppelt so stark aus wie im gesamten Kanton Luzern (-1,2 Prozent). Im Jahresvergleich lagen die Angebotsmieten allerdings auch in den weiteren untersuchten Städten über dem Vorjahresniveau.</p>
+<p/><p>Der Homegate-Mietindex misst die qualitätsbereinigte Entwicklung der ausgeschriebenen Mietpreise für neu und wieder zu vermietende Wohnungen. Dabei werden Unterschiede bei Qualität, Lage und Grösse der Wohnungen berücksichtigt.</p>
+<p/><p>yz/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
