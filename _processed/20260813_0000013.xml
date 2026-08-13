@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T080034+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1167</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1167:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T080033+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T080033+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Komax macht zum Halbjahr etwas weniger Umsatz und schreibt erneut Verlust</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6036" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193852">
+<Property FormalName="FullName" Value="Komax Holding AG" />
+
+<Property FormalName="ShortName" Value="Komax" />
+
+<Property FormalName="Telekurs" Value="654168" />
+
+<Property FormalName="CHNr" Value="CH-100.3.019.197-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010702154" />
+
+<Property FormalName="Ticker" Value="KOMN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Komax hat das schon eine Weile schwierige Marktumfeld auch im ersten Semester 2026 zu spüren bekommen. Der Umsatz ging wegen der Währungseffekte leicht zurück und unter dem Strich blieb wegen Restrukturierungskosten erneut ein Verlust.</p>
+<p/><p>Der Umsatz reduzierte sich um 2,8 Prozent auf 272,4 Millionen Franken, wie der Hersteller von Kabelverarbeitungsmaschinen am Donnerstag mitteilte. Ohne die negativen Währungseffekte in Höhe von 4,4 Prozent ergab sich indes ein Plus von 1,6 Prozent.</p>
+<p/><p>Geholfen hat dabei die Entwicklung der Rechenzentren. Weiterhin zurückhaltend bei Investitionen zeigt sich die Automobilindustrie. Komax bezeichnet sowohl die volatile Marktsituation in Europa als auch die Überkapazitäten in China als Herausforderung. Der Umsatzanteil aus der Automobilindustrie konnte in diesem Umfeld indes um 7 Prozentpunkte auf 57 Prozent reduziert werden.</p>
+<p/><p>Der Auftragseingang zog dank des Booms der Rechenzentren in Nordamerika um gut 12 Prozent auf 311,4 Millionen Franken an. Da zahlreiche Bestellungen erst gegen Mitte des Jahres eingegangen seien, widerspiegle sich dies noch nicht im Umsatz, so Komax.</p>
+<p/><h3>Gewinn von Restrukturierungskosten belastet</h3>
+<p/><p>Der Gewinn wurde von verschiedenen eingeleiteten Massnahmen zur Anpassung von Struktur und Portfolio durch Einmalkosten in Höhe von knapp 15 Millionen Franken belastet. So fiel der Betriebsgewinn (EBIT) auf 1,6 Millionen Franken massiv zurück. Bereinigt um die Einmaleffekte ergab sich beim EBIT mehr als eine Verdoppelung auf 16,5 Millionen. Die entsprechende Marge lag bei 6,1 Prozent.</p>
+<p/><p>Dieses Ergebnis zeige, dass die Massnahmen zur Reduktion der Kosten Wirkung entfalteten. Die Kostenbasis sei gegenüber 2024 mittlerweile um über 25 Millionen Franken reduziert worden. Und der Weg der Kostensenkungen soll weitergegangen werden, konkret sollen diese ab 2027 noch einmal 10 Millionen tiefer liegen.</p>
+<p/><p>Unter dem Strich stieg der Reinverlust wegen der Einmaleffekte auf 5,0 nach 3,5 Millionen Franken im Vorjahr. Komax geht indes davon aus, dass im zweiten Semester keine nennenswerten Einmaleffekte mehr anfallen.</p>
+<p/><p>Erstmals macht Komax Angaben zu den Erwartungen für das Gesamtjahr 2026. Demnach soll ein Umsatz zwischen 580 und 600 Millionen Franken erreicht werden (2025: 581 Mio) sowie ein EBIT (inkl. Einmaleffekte) zwischen 16 und 20 Millionen.</p>
+<p/><p>Die sinkende Kostenbasis sowie die Fortschritte bei der Neuausrichtung würden zuversichtlich stimmen, heisst es im Ausblick weiter. Das Marktumfeld bleibe gleichzeitig anspruchsvoll. Das weltweit rückläufige Fahrzeugproduktionsvolumen sowie anhaltende geopolitische Unsicherheiten blieben Herausforderungen.</p>
+<p/><h3>Neuer CEO soll noch im dritten Quartal präsentiert werden</h3>
+<p/><p>Unter welcher Führung diese gemeistert werden sollen, ist noch immer offen. Die Funktion des CEO wird seit der im April angekündigten sofortigen Trennung von Matijas Meyer interimistisch vom VR-Präsidenten Andreas Häberli ausgeübt. Den Posten des Finanzchefs hält derzeit noch interimistisch Andreas Weibel inne, nachdem der frühere CFO Christian Mäder im Januar seinen Abgang per Juni 2026 angekündigt hatte.</p>
+<p/><p>Die Suche nach einem neuen CEO und einem neuen CFO verlaufe planmässig, schreibt Komax dazu. Voraussichtlich noch im dritten Quartal sollte der neue CEO bekannt sein. Dessen Meinung sei dann auch bei der Ernennung des Finanzchefs gefragt.</p>
+<p/><p>cf/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
