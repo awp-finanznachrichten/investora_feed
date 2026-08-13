@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T063020+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>484</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:484:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T063019+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T063019+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Leclanché erhält weitere Fristverlängerung für Geschäftsbericht 2025</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="04009000"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1401" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197378">
+<Property FormalName="FullName" Value="Leclanché SA" />
+
+<Property FormalName="ShortName" Value="Leclanché" />
+
+<Property FormalName="Telekurs" Value="114692" />
+
+<Property FormalName="CHNr" Value="CH-550.0.085.092-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0110303119" />
+
+<Property FormalName="Ticker" Value="LECN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Yverdon-les-Bains (awp) - Leclanché hat von der SIX Exchange Regulation eine neuerliche Verlängerung für die Veröffentlichung des Geschäftsberichts 2025 bis spätestens 31. August 2026 erhalten. Die Handelsaussetzung der Leclanché-Aktien bleibt bis zur Publikation des Berichts bestehen.</p>
+<p/><p>Grund für die erneute Fristverlängerung ist, dass das Westschweizer Unternehmen derzeit nicht nachweisen kann, mindestens bis Juni 2027 als fortgeführtes Unternehmen zu gelten, wie das Unternehmen in einem Communiqué vom Donnerstag schrieb. Leclanché wolle seine Bemühungen fortsetzen und sei zuversichtlich, die Anforderungen zu erfüllen um als fortgeführtes Unternehmen behandelt und angesehen zu werden.</p>
+<p/><p>Die Aktien von Leclanché sind seit dem 1. Juni 2026 vorübergehend vom Handel an der SIX Swiss Exchange ausgesetzt. Das Westschweizer Unternehmen befindet sich in fortgeschrittenen Gesprächen mit einem strategischen Partner über eine zusätzliche Finanzierung.</p>
+<p/><p>awp-robot/dm/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
