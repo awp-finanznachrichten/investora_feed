@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T063014+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>479</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:479:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T063014+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T063014+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Zürcher Nachtruhe-Initiative wird zurückgezogen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04016027"/><Subject FormalName="04008000"/><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="ECO"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp/sda) - Die Zürcher Nachtruhe-Initiative für mehr Schutz vor Fluglärm wird zurückgezogen. Innerhalb des Initiativkomitees herrscht darüber allerdings Uneinigkeit. Die Bürgerorganisation Fluglärmsolidarität kritisiert den Entscheid scharf und distanziert sich davon.</p>
+<p/><p>Die drei Vertreter von Fair in Air hätten die beiden Mitglieder der Fluglärmsolidarität im Initiativkomitee überstimmt, teilte die Organisation am späten Mittwochabend mit. Sie beurteilt den Rückzug der Initiative zugunsten des Gegenvorschlags als "Versagen".</p>
+<p/><p>Fair in Air hatte den Rückzug bereits im März in Aussicht gestellt, sofern der Zürcher Kantonsrat den Gegenvorschlag annimmt und dagegen kein Referendum ergriffen wird. Der Verein hatte diesen als "tragfähigen Kompromiss" bezeichnet, der die zentralen Anliegen der Initiative aufnehme.</p>
+<p/><p>Die Fluglärmsolidarität widerspricht dieser Einschätzung. Der Gegenvorschlag bringe keine ernsthafte Lösung für die nächtliche Fluglärmbelastung. Die Organisation kritisiert zudem, dass die Bevölkerung wegen des Rückzugs nicht über die Initiative abstimmen könne.</p>
+<p/><p>Die 2023 lancierte Initiative verlangte eine siebenstündige Nachtruhe am Flughafen Zürich und definierte Ausnahmen für Nachtflüge. Der Gegenvorschlag sieht unter anderem progressive Gebühren für Flüge zwischen 23.00 und 23.30 Uhr sowie eine jährliche Debatte des Kantonsrats über die Entwicklung der Fluglärmbelastung vor.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
