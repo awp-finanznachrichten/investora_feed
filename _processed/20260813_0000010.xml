@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T075520+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1122</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1122:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T075519+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T075519+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Montana Aerospace steigert Umsatz und Gewinn im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04011001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="5734" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2019382311">
+<Property FormalName="FullName" Value="Montana Aerospace AG" />
+
+<Property FormalName="ShortName" Value="Montana Aerospace" />
+
+<Property FormalName="CHNr" Value="CH-400.3.446.646-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1110425654" />
+
+<Property FormalName="Ticker" Value="AERO" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="AIR"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Reinach (awp) - Der Luftfahrtzulieferer Montana Aerospace hat im ersten Halbjahr 2026 im fortgeführten Geschäft mehr umgesetzt und verdient. Den Ausblick für das Gesamtjahr bestätigte das Unternehmen.</p>
+<p/><p>Der Umsatz stieg in den ersten sechs Monaten auf 518,4 Millionen Euro, wie Montana Aerospace am Donnerstag mitteilte. Im Vorjahreszeitraum hatte der Konzern zwar noch 820,6 Millionen umgesetzt, darin war jedoch das inzwischen veräusserte Energiegeschäft enthalten. Auf vergleichbarer Basis ergibt sich damit ein Wachstum von 11,7 Prozent.</p>
+<p/><h3>Profitabilität steigt</h3>
+<p/><p>Der bereinigte Betriebsgewinn vor Abschreibungen und Amortisationen (EBITDA) belief sich auf 87,1 Millionen Euro, gut 12 Prozent mehr als im Vorjahr auf vergleichbarer Basis. Die entsprechende Marge verbesserte sich auf 16,8 Prozent nach 12,4 Prozent.</p>
+<p/><p>Unter dem Strich resultierte ein Reingewinn im fortgeführten Geschäft von 29,7 Millionen Euro, nach 6,4 Millionen im Vorjahreszeitraum.</p>
+<p/><p>Mit den Zahlen hat das Unternehmen die Erwartung der Analysten sowohl in Sachen Umsatz als auch beim EBITDA und Reingewinn leicht übertroffen. Ausgeblieben ist jedoch das von Analysten erwartete Update zur Unternehmensführung: Montana hat seit Ende April keinen CEO mehr. In der Mitteilung zu den Halbjahreszahlen heisst es lediglich, dass ein Update zur Führungsstruktur im dritten Quartal 2026 folgen soll.</p>
+<p/><h3>Ausblick bestätigt</h3>
+<p/><p>Für das Gesamtjahr erwartet Montana Aerospace weiterhin einen Umsatz von über einer Milliarde Euro sowie einen bereinigten operativen Gewinn (EBITDA) von über 185 Millionen. Ausserdem geht das Unternehmen unverändert von einem positiven Reinergebnis, Free Cashflow sowie einer Netto-Cash-Position aus.</p>
+<p/><p>Auch die Ziele für 2027 wurden bestätigt. Das Unternehmen erwartet einen Nettoumsatz von über 1,1 Milliarden Euro, und das bereinigte EBITDA soll bei über 210 Millionen zu liegen kommen. Ausserdem wird dann ein Free Cash Flow im hohen zweistelligen Millionenbereich in Aussicht gestellt.</p>
+<p/><p>yz/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
