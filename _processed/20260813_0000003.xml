@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T065500+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>592</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:592:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T065500+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T065500+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>MSCI Small Cap Index: LLB kommen rein, Bystronic und Vetropack fallen raus</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04006002"/><Subject FormalName="04011009"/><Subject FormalName="04013004"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9490" />
+
+<Property FormalName="City" Value="8570" />
+
+<Property FormalName="City" Value="8045" />
+
+<Property FormalName="City" Value="1162" />
+
+<Property FormalName="City" Value="6965" />
+
+</Property>
+
+<Property FormalName="Country" Value="LI" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147194851">
+<Property FormalName="FullName" Value="Liechtensteinische Landesbank AG" />
+
+<Property FormalName="ShortName" Value="LLB" />
+
+<Property FormalName="Telekurs" Value="588287" />
+
+<Property FormalName="CHNr" Value="FL-000.1.000.289-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="LI0355147575" />
+
+<Property FormalName="Ticker" Value="LLBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041527" />
+
+<Property FormalName="Ticker" Value="LLB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536893255" />
+
+<Property FormalName="Ticker" Value="LLB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1306117040" />
+
+<Property FormalName="Ticker" Value="LLB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910237" />
+
+<Property FormalName="Ticker" Value="LLB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1423931596" />
+
+<Property FormalName="Ticker" Value="LLB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1487332095" />
+
+<Property FormalName="Ticker" Value="LLB251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238538" />
+
+<Property FormalName="Ticker" Value="LLB26" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197632">
+<Property FormalName="FullName" Value="Thurgauer Kantonalbank" />
+
+<Property FormalName="ShortName" Value="TKB" />
+
+<Property FormalName="Telekurs" Value="26240" />
+
+<Property FormalName="CHNr" Value="CH-440.8.003.247-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0231351104" />
+
+<Property FormalName="Ticker" Value="TKBP" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0206992270" />
+
+<Property FormalName="Ticker" Value="TGK13" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0269796212" />
+
+<Property FormalName="Ticker" Value="TGK15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0323604188" />
+
+<Property FormalName="Ticker" Value="TGK16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0353105197" />
+
+<Property FormalName="Ticker" Value="TGK17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0405985836" />
+
+<Property FormalName="Ticker" Value="TGK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0443057515" />
+
+<Property FormalName="Ticker" Value="TGK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1113135151" />
+
+<Property FormalName="Ticker" Value="TGK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1209697551" />
+
+<Property FormalName="Ticker" Value="TGK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1366517105" />
+
+<Property FormalName="Ticker" Value="TGK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1408989940" />
+
+<Property FormalName="Ticker" Value="TGK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1408989957" />
+
+<Property FormalName="Ticker" Value="TGK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1439278131" />
+
+<Property FormalName="Ticker" Value="TGK253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1475615238" />
+
+<Property FormalName="Ticker" Value="TGK254" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1585208783" />
+
+<Property FormalName="Ticker" Value="TGK261" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191826">
+<Property FormalName="FullName" Value="Bystronic AG" />
+
+<Property FormalName="ShortName" Value="Bystronic" />
+
+<Property FormalName="Telekurs" Value="59999" />
+
+<Property FormalName="CHNr" Value="CH-020.3.929.587-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002657978" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0244017502" />
+
+<Property FormalName="Ticker" Value="BYS" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196548">
+<Property FormalName="FullName" Value="Vetropack Holding AG" />
+
+<Property FormalName="ShortName" Value="Vetropack" />
+
+<Property FormalName="Telekurs" Value="260643" />
+
+<Property FormalName="CHNr" Value="CH-550.0.080.952-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0530235594" />
+
+<Property FormalName="Ticker" Value="VETN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0530235602" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191482">
+<Property FormalName="FullName" Value="Centiel AG" />
+
+<Property FormalName="ShortName" Value="Centiel" />
+
+<Property FormalName="Telekurs" Value="74498" />
+
+<Property FormalName="CHNr" Value="CH-100.3.008.224-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024666528" />
+
+<Property FormalName="Ticker" Value="CNTL" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="PAK"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Von der nächsten Anpassung in den MSCI-Aktienindizes sind auch einige Schweizer Unternehmen betroffen. Gemäss Angaben auf der Homepage des Indexbetreibers vom Donnerstag werden die Aktien der Liechtensteinischen Landesbank (LLB) in den MSCI Global Small Cap Index aufgenommen.</p>
+<p/><p>Hingegen müssen Bystronic und Vetropack diesen Index verlassen. Sie rutschen in den MSCI Global Micro Cap Index ab. Neu in diesen Index werden zudem Centiel und die Thurgauer Kantonalbank aufgenommen. Die Anpassungen werden am 31. August nach Börsenschluss umgesetzt und gelten somit per 1. September.</p>
+<p/><p>Die Aufnahme bzw. der Ausschluss einer Aktie aus einem Index kann sich massgeblich auf deren Kurs auswirken, weil es viele Indexprodukte gibt, in denen die Papiere enthalten sind. Zudem messen sich zahlreiche grössere Anleger mit entsprechenden Indizes oder orientieren sich an ihnen. Die Zusammensetzung wird vierteljährlich überprüft.</p>
+<p/><p>dm/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
