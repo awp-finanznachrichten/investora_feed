@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T074614+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1088</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1088:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T074614+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T074614+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BKB verbessert Gewinn im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4051" />
+
+<Property FormalName="City" Value="4052" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197637">
+<Property FormalName="FullName" Value="Basler Kantonalbank" />
+
+<Property FormalName="ShortName" Value="BKB" />
+
+<Property FormalName="Telekurs" Value="25839" />
+
+<Property FormalName="CHNr" Value="CH-270.8.000.002-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009236461" />
+
+<Property FormalName="Ticker" Value="BSKP" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0118095667" />
+
+<Property FormalName="Ticker" Value="BSK10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0119153663" />
+
+<Property FormalName="Ticker" Value="BSK102" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0149549575" />
+
+<Property FormalName="Ticker" Value="BSK12" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0353574319" />
+
+<Property FormalName="Ticker" Value="BSK176" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041006" />
+
+<Property FormalName="Ticker" Value="BSK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041410" />
+
+<Property FormalName="Ticker" Value="BSK191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239037" />
+
+<Property FormalName="Ticker" Value="BKS192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071395" />
+
+<Property FormalName="Ticker" Value="BSK21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0545754688" />
+
+<Property FormalName="Ticker" Value="BKS200" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1193213076" />
+
+<Property FormalName="Ticker" Value="BSK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1193213142" />
+
+<Property FormalName="Ticker" Value="BSK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890801" />
+
+<Property FormalName="Ticker" Value="BSK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890827" />
+
+<Property FormalName="Ticker" Value="BSK241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890942" />
+
+<Property FormalName="Ticker" Value="BSK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265891056" />
+
+<Property FormalName="Ticker" Value="BSK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1480163711" />
+
+<Property FormalName="Ticker" Value="BSK26" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193330">
+<Property FormalName="FullName" Value="Bank Cler AG" />
+
+<Property FormalName="ShortName" Value="Bank Cler" />
+
+<Property FormalName="Telekurs" Value="359894" />
+
+<Property FormalName="CHNr" Value="CH-270.3.001.135-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041139" />
+
+<Property FormalName="Ticker" Value="BCA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265891098" />
+
+<Property FormalName="Ticker" Value="BCA25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Die Basler Kantonalbank (BKB) hat im ersten Semester 2026 den Gewinn deutlich verbessert. Neben einem höheren Zinserfolg trugen dabei das weitere Wachstum im Vermögensverwaltungsgeschäft aber auch ein unterdurchschnittlicher Kostenanstieg bei.</p>
+<p/><p>Der Geschäftserfolg als Mass für das operative Ergebnis stieg gegenüber dem Vorjahr um 13,8 Prozent auf 158,3 Millionen Franken, wie das Nordwestschweizer Staatsinstitut am Donnerstag mitteilte. Der Reingewinn der Bankengruppe, zu der neben dem BKB-Stammhaus auch die Bank Cler gehört, legte nach einer höheren Bildung von Bankreserven um 10,6 Prozent auf 94,8 Millionen Franken zu.</p>
+<p/><h3>Hypotheken leicht tiefer</h3>
+<p/><p>Im wichtigsten Geschäft, dem Zinsengeschäft, konnte die Kantonalbank den Netto-Erfolg trotz des weiterhin tiefen Zinsniveaus um 5,8 Prozent auf 245,5 Millionen Franken steigern. Das Wachstum basiere auf einem "vorausschauenden" Bilanzmanagement, einer aktiven Liquiditätssteuerung und der hohen Qualität im Kreditportfolio, schreibt die BKB. </p>
+<p/><p>Allerdings war die Kantonalbank bei den Ausleihungen zurückhaltend unterwegs. Zwar stiegen die Kundenausleihungen in den ersten sechs Monaten um 1,4 Prozent auf 37,0 Milliarden Franken. Die Hypothekarforderungen bildeten sich dabei allerdings mit einem Minus von 0,2 Prozent leicht zurück.</p>
+<p/><h3>Wachstum bei Anlagelösungen</h3>
+<p/><p>Im Kommissions- und Dienstleistungsgeschäft profitierte die BKB von der Vermögensverwaltung und einem gestiegenen Volumen bei den Anlagelösungen. Der Kommissions- und Dienstleistungserfolg erhöhte sich um 10,7 Prozent auf 77,1 Millionen Franken.</p>
+<p/><p>Rückläufig entwickelte sich dagegen der Handelserfolg (-9,1 Prozent auf 25,6 Millionen Franken). Die Kantonalbank verweist auf das "herausfordernde Umfeld im Zinshandel" sowie auf einen geringeren Absicherungsbedarf ihrer Kundinnen und Kunden.</p>
+<p/><p>Der Geschäftsaufwand (+0,8 Prozent auf 185,1 Millionen) stieg deutlich langsamer an als die Erträge. Neben einer anhaltenden Kostendisziplin hätten dazu auch Prozessoptimierungen beigetragen, heisst es. Das Kosten-Ertrags-Verhältnis verbesserte sich in der Folge auf 53,2 Prozent (Vorjahr 55,0 Prozent).</p>
+<p/><h3>Höheres Jahresergebnis erwartet</h3>
+<p/><p>Auch im Stammhaus BKB legten die Gewinnzahlen deutlich zu: Unter dem Strich lag der Halbjahresgewinn mit 86,6 Millionen Franken um 10,0 Prozent über dem Vorjahreswert.</p>
+<p/><p>In Bezug auf den weiteren Jahresverlauf gibt sich die Bank optimistisch, dies trotz einem weiterhin herausfordernden wirtschaftlichen und geopolitischen Umfeld. Dank einem wirksamem Kostenmanagement und einem klaren Fokus auf eine stabile Refinanzierung werde die Bank "aller Voraussicht nach das Ergebnis des Vorjahres im 2026 übertreffen können.</p>
+<p/><p>tp/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
