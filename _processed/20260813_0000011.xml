@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T075520+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1123</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1123:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T075519+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T075519+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Polypeptide bestätigt für das Halbjahr vorgemeldete Zahlen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016048"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2018468860">
+<Property FormalName="FullName" Value="Polypeptide Group AG" />
+
+<Property FormalName="ShortName" Value="Polypeptide" />
+
+<Property FormalName="Telekurs" Value="875908" />
+
+<Property FormalName="CHNr" Value="CH-170.3.045.696-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1110760852" />
+
+<Property FormalName="Ticker" Value="PPGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zur (awp) - Der Pharmazulieferer Polypeptide hat geliefert wie versprochen. Die am Donnerstag vorgelegten Halbjahreszahlen 2026 entsprechen den bereits vor wenigen Wochen kommunizierten Werten, als ein Übernahmeangebot durch Samsung Biologics angekündigt wurde. Auf die Transaktion geht der Konzern in dem Communiqué zu den Zahlen indes nicht ein.</p>
+<p/><p>Demnach gilt weiterhin: Polypeptide hat im ersten Halbjahr 2026 den Umsatz um knapp 42 Prozent auf 236,6 Millionen Euro gesteigert. Das EBITDA erhöhte sich auf 49,1 Millionen Euro nach 4,4 Millionen im Vorjahreszeitraum, womit die EBITDA-Marge auf 20,7 von 2,7 Prozent stieg.</p>
+<p/><p>Der Reingewinn belief sich auf 9,1 Millionen Euro nach einem Verlust von 26,5 Millionen Euro im ersten Halbjahr 2025. Treiber waren vor allem die um 73 Prozent höheren Erlöse mit Therapien für Stoffwechselkrankheiten sowie die hohe Auslastung einer neuen Grossanlage in Braine-l'Alleud.</p>
+<p/><p>Für 2026 erwartet die Peptidherstellerin nun ein Umsatzwachstum von 25 bis 30 Prozent gegenüber 2025 zu konstanten Wechselkursen. Bisher war das Unternehmen von 20 bis 25 Prozent ausgegangen. Die EBITDA-Marge soll im Gesamtjahr im hohen Zehnerprozentbereich liegen, während die Investitionen unverändert 15 bis 20 Prozent des Umsatzes erreichen sollen.</p>
+<p/><p>Zur Erinnerung: Samsung Biologics offeriert 44,31 Franken in bar je Polypeptide-Aktie. Der Verwaltungsrat empfiehlt, das Angebot der Südkoreaner anzunehmen. Die Angebotsunterlagen sollen früheren Angaben zufolge bis spätestens 31. August veröffentlicht werden, der Abschluss ist gegen Ende 2026 geplant.</p>
+<p/><p>Der Grossaktionär Draupnir Holding, er hält fast 56 Prozent der Polypeptide Anteile, hat bereits zugesagt, seine Aktien anzudienen. Die von Samsung Biologics genannte Mindestannahmequote liegt bei 66 Prozent.</p>
+<p/><p>ra/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
