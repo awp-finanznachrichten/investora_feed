@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260813T093716+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260813</DateId>
+			<NewsItemId>1849</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260813:1849:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260813T093716+0200</FirstCreated>
+		<ThisRevisionCreated>20260813T093716+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swissquote-Aktien auf Talfahrt nach Senkung der Jahresziele</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1196" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191819">
+<Property FormalName="FullName" Value="Swissquote Group Holding SA" />
+
+<Property FormalName="ShortName" Value="Swissquote" />
+
+<Property FormalName="Telekurs" Value="77344" />
+
+<Property FormalName="CHNr" Value="CH-550.1.000.705-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010675863" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1548235246" />
+
+<Property FormalName="Ticker" Value="SQN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Swissquote-Aktien verbuchen am Donnerstagmorgen happige Verluste. Die Onlinebank hat mit den Halbjahreszahlen die Erwartungen enttäuscht und dazu auch noch die Ziele fürs Gesamtjahr zurückgestutzt.</p>
+<p/><p>Die Swissquote-Titel verlieren um 9.30 Uhr 11 Prozent auf 38,24 Franken, während der Gesamtmarkt gemessen am SPI um 0,1 Prozent im Plus steht. Seit Anfang Jahr haben die Swissquote-Papiere bereits über 12 Prozent nachgegeben.</p>
+<p/><p>Die Onlinebank hat insbesondere mit den Erträgen und den Gewinnzahlen die Erwartungen der Finanzgemeinde verfehlt. Zudem senkte sie die Jahresziele. Die Kryptoschwäche schlug stärker zu Buche als viele Analysten im Vorfeld erwartet hatten.</p>
+<p/><p>Die Konsenserwartungen seien bezüglich Kryptoerträgen aber auch sehr hoch gewesen, kommentiert die ZKB, die als einzige einen tieferen Nettoertrag erwartet hatte. Auch andere Banken räumen ein, dass Investoren angesichts ähnlicher Resultate der Konkurrenz die Delle hätten kommen sehen können.</p>
+<p/><p>Nun dürften wohl einige Analysehäuser über die Bücher gehen und ihre Schätzungen für 2026 zusammenstreichen. Laut Vontobel liegt der Konsens aktuell 8 Prozent über der neuen Guidance für den Vorsteuergewinn 2026 sowie 3 Prozent über dem unveränderten Ausblick für 2028.</p>
+<p/><p>Die negative Kursreaktion überrascht vor diesem Hintergrund nicht, auch wenn sich in den Swissquote-Zahlen durchaus auch Lichtblicke finden. Dass das Nettoneugeld an das aussergewöhnlich starke erste Halbjahr 2025 anknüpfen könne, sei sehr erfreulich, hält etwa die ZKB fest. Zudem sei sogar der Zinserfolg gegenüber dem Vorjahr gestiegen.</p>
+<p/><p>tt/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
