@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260814T080315+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260814</DateId>
+			<NewsItemId>789</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260814:789:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260814T080315+0200</FirstCreated>
+		<ThisRevisionCreated>20260814T080315+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>DKSH: Romiplate erhält in Südkorea erweiterte Kostenerstattung bei Anämie</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016027"/><Subject FormalName="04007007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196699">
+<Property FormalName="FullName" Value="DKSH Holding AG" />
+
+<Property FormalName="ShortName" Value="DKSH" />
+
+<Property FormalName="Telekurs" Value="2384" />
+
+<Property FormalName="CHNr" Value="CH-020.3.924.096-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0126673539" />
+
+<Property FormalName="Ticker" Value="DKSH" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRD"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - DKSH hat die erweiterte Kostenerstattung für Romiplate als Erstlinientherapie bei schwerer aplastischer Anämie bekanntgegeben. Die Zulassung durch das südkoreanische Gesundheitsministerium gilt seit dem 1. August 2026 und ermöglicht den Einsatz von Romiplate in Kombination mit Standard-Immuntherapie bei therapienaiven Patienten.</p>
+<p/><p>Damit soll der frühzeitige Zugang zu geeigneten Behandlungen verbessert und das Therapiespektrum für Betroffene erweitert werden, wie der auf Expansionsdienstleistungen spezialisierte Konzern am Freitag mitteilte. Bisher wurde Romiplate nur eingesetzt, wenn eine erste Behandlung mit einer immunsuppressiven Therapie nicht wirkte oder nicht möglich war.</p>
+<p/><p>Romiplate enthält den Wirkstoff Romiplostim, der die Bildung von Blutplättchen im Knochenmark anregt. Bei einer schweren aplastischen Anämie produziert das Knochenmark dagegen zu wenige Blutzellen, was zu Blutarmut, einem erhöhten Infektionsrisiko und einer erhöhten Blutungsgefahr führen kann.</p>
+<p/><p>awp-robot/hr/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
