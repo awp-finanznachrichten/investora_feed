@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260814T072116+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260814</DateId>
+			<NewsItemId>646</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260814:646:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260814T072116+0200</FirstCreated>
+		<ThisRevisionCreated>20260814T072116+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>VZ Gruppe steigert Gewinn im ersten Halbjahr erneut deutlich</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016015"/><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2121907151">
+<Property FormalName="FullName" Value="VZ Holding AG" />
+
+<Property FormalName="ShortName" Value="VZ Holding" />
+
+<Property FormalName="Telekurs" Value="370663" />
+
+<Property FormalName="CHNr" Value="CH-020.3.002.986-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0528751586" />
+
+<Property FormalName="Ticker" Value="VZN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die VZ Gruppe ist im ersten Halbjahr 2026 auf ihrem Wachstumskurs geblieben. Das Finanzunternehmen verzeichnete erneut eine hohe Nachfrage nach seinen Beratungsdienstleistungen und konnte die Zuflüsse von neuen Kundengeldern deutlich steigern.</p>
+<p/><p>Insgesamt erhöhte sich der Betriebsertrag um rund 14 Prozent auf 316,5 Millionen Franken, wie die Gruppe am Freitag mitteilte. Unter dem Strich resultierte ein Reingewinn von 131,9 Millionen Franken, was einem Anstieg um 17,7 Prozent gegenüber der Vorjahresperiode entsprach.</p>
+<p/><p>Die Nachfrage nach fundierter Beratung sei ungebrochen hoch, was in einem weiteren Anstieg des Honorarertrags resultiert habe, schreibt die VZ in der Mitteilung. Im Anschluss hätten rund 5100 neue Kundinnen und Kunden die Ergebnisse der Beratung auf einer der Plattformen der VZ Gruppe umgesetzt.</p>
+<p/><p>Der Netto-Neugeldzufluss kletterte gegenüber dem Vorjahreswert um rund 10 Prozent auf 3,3 Milliarden Franken. Die verwalteten Vermögen (Assets under Management AuM) legten bis zur Jahresmitte auf 67,7 Milliarden Franken zu, nachdem sie Ende 2025 noch bei 61,8 Milliarden lagen. Zusätzlichen Schub erhielten die verwalteten Vermögen von der starken Börsenentwicklung, die 2,6 Milliarden Franken zum Anstieg beisteuerte.</p>
+<p/><p>Mit den Resultaten hat die Gruppe die Erwartungen der Analysten übertroffen: Diese hatten den Reingewinn bei rund 127 Millionen und die Neugelder bei 3,1 Milliarden Franken erwartet.</p>
+<p/><h3>Ausbau in Grossbritannien</h3>
+<p/><p>Ins erste Halbjahr fielen zudem die vollständigen Übernahmen der britischen Lumin Group und deren Tochter Davidson Deem. VZ erwarb im Mai beziehungsweise Juni die noch ausstehenden Minderheitsanteile für insgesamt rund 30,3 Millionen Franken. Da beide Gesellschaften bereits zuvor konsolidiert wurden, hatten die Transaktionen keinen direkten Einfluss auf den ausgewiesenen Reingewinn der Gruppe; sie wurden als Eigenkapitaltransaktionen verbucht.</p>
+<p/><p>Die bisherigen Minderheitsanteile von 6,2 Millionen Franken wurden dabei den Aktionären der VZ Holding zugerechnet. Künftig stehen damit die Gewinne beider Gesellschaften vollständig den VZ-Aktionären zu.</p>
+<p/><p>Gleichzeitig will VZ das Geschäft in Grossbritannien weiter ausbauen: In den kommenden fünf Jahren sollen jährlich vier bis acht kleinere Finanzberater übernommen und in die Lumin-Gruppe integriert werden, sodass das Geschäft mittelfristig einen wachsenden Beitrag zum Konzern leisten soll.</p>
+<p/><h3>Höhere Dividende erwartet</h3>
+<p/><p>Für das zweite Halbjahr erwartet das VZ-Management ähnliche Wachstumsraten wie im ersten, vorausgesetzt die Stabilität der Finanzmärkte bleibt bestehen.</p>
+<p/><p>Die Aktionärinnen und Aktionäre dürfen laut Mitteilung davon ausgehen, dass die Dividende erneut im Rahmen des Gewinnwachstums steigt.</p>
+<p/><p>yz/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
