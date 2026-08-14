@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260814T071518+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260814</DateId>
+			<NewsItemId>625</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260814:625:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260814T071518+0200</FirstCreated>
+		<ThisRevisionCreated>20260814T071518+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Mobilezone mit mehr Umsatz im Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016015"/><Subject FormalName="04003007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6343" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191940">
+<Property FormalName="FullName" Value="Mobilezone Holding AG" />
+
+<Property FormalName="ShortName" Value="Mobilezone" />
+
+<Property FormalName="Telekurs" Value="629512" />
+
+<Property FormalName="CHNr" Value="CH-550.0.051.372-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0276837694" />
+
+<Property FormalName="Ticker" Value="MOZN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Rotkreuz ZG (awp) - Mobilezone hat im ersten Halbjahr 2026 wieder mehr Umsatz erzielt. Dazu trug einerseits der Kauf der AK Group mit den Firmen Apfelkiste und Marein bei. Auch das Geschäft mit den Abos der der virtuellen Mobilfunkbetreiber Talktalk und Digital Republic wuchs.</p>
+<p/><p>Insgesamt hat Mobilezone in den ersten sechs Monaten einen Umsatz von 127,2 Millionen Franken eingefahren. Das ist ein Plus von 4,2 Prozent gegenüber dem Vorjahressemester, wie das Unternehmen am Freitag bekannt gab. In den Zahlen ist das Deutschland-Geschäft nicht mehr enthalten, das Mobilezone Ende Dezember verkauft hatte und bis dahin rund 70 Prozent des Gesamtumsatzes ausgemacht hatte.</p>
+<p/><p>Seit Anfang Jahr konzentriert sich Mobilezone nur noch auf das viel profitablere Schweizer Geschäft. Der Verkauf des Deutschland-Geschäfts und Steuerkosten schlugen allerdings mit Sondereffekten auf den Gewinn. So sank der Betriebsgewinn EBIT um 13,9 Prozent von 13,5 Millionen Franken. Die operative Marge verschlechterte sich auf 10,6 Prozent und der Reingewinn sank um gut ein Fünftel auf 10,9 Millionen Franken.</p>
+<p/><p>Ohne die Sondereffekte wäre der EBIT mit 15,7 Millionen Franken praktisch stabil geblieben und die EBIT-Marge hätte sich auf 12,3 Prozent nach 12,8 Prozent im Vorjahr belaufen, rechnete Mobilezone vor. Der leichte Margenrückgang sei hauptsächlich auf zusätzliche Amortisationen von 0,5 Millionen auf immaterielle Vermögenswerte der AK Group wie Kundenbeziehungen, Marke oder Technologie zurückzuführen, hiess es weiter. Der Reingewinn hätte ohne Sondereffekte 12,8 Millionen Franken betragen.</p>
+<p/><h3>Mehr Umsatz durch AK Group</h3>
+<p/><p>Mobilezone erhielt beim Wachstum Rückenwind durch die Übernahme der der AK Group mit der Onlinehandelsplattform Apfelkiste und des Detailhandelsmarken-Spezialisten Marein. Das Geschäft von Apfelkiste und Marein, das deutlich profitabler ist als das von Mobilezone, ist seit Juni in den Büchern enthalten und brachte einen Umsatz von 8,8 Millionen ein.</p>
+<p/><p>Auch das eigene Telekomgeschäft habe sich sehr erfreulich entwickelt: Der Umsatz der Mobilfunkanbieter Talktalk und Digital Republic stieg um 9,8 Prozent auf 24,1 Millionen Franken. Die Zahl der Abos kletterte um 10,6 Prozent. Das Reparatur- und Wiederaufbereitungsgeschäft von gebrauchten Smartphones sei weiterhin dynamisch unterwegs.</p>
+<p/><p>Dagegen harzte der Verkauf in den 124 eigenen Shops. Die Nachfrage sei verhalten gewesen, hiess es. In der Folge lag das Absatzvolumen bei Verträgen und Zubehörverkäufen sowie die Profitabilität spürbar unter dem Vorjahresniveau.</p>
+<p/><p>Positiv entwickelte sich dagegen die Sortimentserweiterung mit Apfelkisten-Produkten. Weiterhin positiv verlief auch das Geschäft mit Unternehmenskunden.</p>
+<p/><h3>Ziele bestätigt</h3>
+<p/><p>An den bisherigen Aussichten hielt Mobilezone fest: Mit dem Kauf von Apfelkiste und Marein hatte der Detailhändler die Ziele für das Gesamtjahr 2026 nach oben geschraubt. Diese bestätigt der Konzern jetzt: Für 2026 wird ein operativer Gewinn von 50 bis 57 Millionen Franken erwartet.</p>
+<p/><p>Für das Geschäftsjahr 2028 bestätigt Mobilezone das mittelfristige EBITDA-Ziel von 70 Millionen Franken. Ab nächstem Jahr sollen durch die Übernahme der AK Group Synergien in Höhe eines mittleren einstelligen Millionenbetrags beim EBITDA erzielt werden. Das wären also 4 bis 6 Millionen mehr.</p>
+<p/><p>Die Dividendenpolitik soll fortgeführt werden: Bis 2028 plant Mobilezone eine Ausschüttung von mindestens 0,90 Franken je Aktie.</p>
+<p/><p>jb/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
