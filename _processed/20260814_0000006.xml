@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260814T091913+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260814</DateId>
+			<NewsItemId>1173</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260814:1173:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260814T091913+0200</FirstCreated>
+		<ThisRevisionCreated>20260814T091913+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Stadler Rail investiert 33 Millionen Franken in Stahlgiesserei Biel</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="09000000"/><Subject FormalName="04016030"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9565" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191533">
+<Property FormalName="FullName" Value="Stadler Rail AG" />
+
+<Property FormalName="ShortName" Value="Stadler Rail" />
+
+<Property FormalName="Telekurs" Value="067816" />
+
+<Property FormalName="CHNr" Value="CH-440.3.002.481-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002178181" />
+
+<Property FormalName="Ticker" Value="SRAIL" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238864" />
+
+<Property FormalName="Ticker" Value="SRA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852651" />
+
+<Property FormalName="Ticker" Value="SRA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852669" />
+
+<Property FormalName="Ticker" Value="SRA241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934708" />
+
+<Property FormalName="Ticker" Value="SRA26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934716" />
+
+<Property FormalName="Ticker" Value="SRA261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="LAB"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bussnang (awp) - Stadler Rail will 33 Millionen Franken in die Modernisierung und Erweiterung der Stahlgiesserei in Biel investieren. Damit will der Zughersteller die langfristige Wettbewerbsfähigkeit des Standorts stärken, über 100 Arbeitsplätze sichern und weniger Energie verbrauchen.</p>
+<p/><p>Stadler plane eine neue Speditionshalle und die Erweiterung des bestehenden Gebäudes, teilte das Ostschweizer Unternehmen am Freitag in einem Communiqué mit. Das Baugesuch habe man im letzten Monat eingereicht. Die neue Infrastruktur solle 2028 in Betrieb gehen.</p>
+<p/><p>Die Stahlgiesserei Biel gehöre zu den führenden Stahlgiessereien Europas für hand- und maschinengeformten Stahlguss. Die hier gefertigten Komponenten kämen in Schienenfahrzeugen auf der ganzen Welt zum Einsatz, hiess es. Die bestehenden Anlagen entsprächen langfristig aber nicht mehr den Anforderungen an eine moderne und nachhaltige Produktion.</p>
+<p/><p>Mit dem Bau einer Photovoltaikanlage und weiteren Massnahmen will Stadler den Energieverbrauch um rund 15 Prozent reduzieren. Auch die Menge an Produktionsabfällen solle deutlich sinken. Nach dem Umbau können beispielsweise beim Giessprozess verwendete Materialien wie Formsand viel effizienter wiederverwendet werden. Der daraus entstandene Abfall werde damit um rund 80 Prozent zurückgehen.</p>
+<p/><p>Gleichzeitig würden mit den Investitionen die bestehenden 115 Arbeitsplätze langfristig gesichert. Und der Personalbestand solle um fünf Prozent ausgebaut werden, teilte das Unternehmen weiter mit.</p>
+<p/><p>jb/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
