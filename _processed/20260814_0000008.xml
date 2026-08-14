@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260814T102215+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260814</DateId>
+			<NewsItemId>1361</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260814:1361:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260814T102215+0200</FirstCreated>
+		<ThisRevisionCreated>20260814T102215+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>VZ-Aktien nach Halbjahreszahlen im Steigflug</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016048"/><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2121907151">
+<Property FormalName="FullName" Value="VZ Holding AG" />
+
+<Property FormalName="ShortName" Value="VZ Holding" />
+
+<Property FormalName="Telekurs" Value="370663" />
+
+<Property FormalName="CHNr" Value="CH-020.3.002.986-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0528751586" />
+
+<Property FormalName="Ticker" Value="VZN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien der VZ Gruppe legen am Freitag im frühen Handel stark zu. Das Beratungs- und Finanzunternehmen hat am Morgen seine Ergebnisse zum ersten Semester vorgelegt, die zusammen mit den optimistischen Aussagen für den weiteren Jahresverlauf im Markt sehr gut aufgenommen werden.</p>
+<p/><p>Um 10.00 Uhr gewinnen die VZ-Titel in einem leicht schwächeren Gesamtmarkt 6,9 Prozent auf 174,00 Franken, das Tages- bzw. neue Jahreshoch steht bei 175,20 Franken. Die Volumen sind sehr hoch, bereits ist fast ein durchschnittliches Tagesvolumen der letzten Wochen erreicht.</p>
+<p/><p>Anfang Juni hatten die VZ-Papiere noch bei lediglich gut 140 Franken notiert, haben seither also fast ein Viertel zugelegt. Langsam kommt damit auch das Allzeithoch von 182,60 Franken, das ziemlich genau ein Jahr alt ist, wieder in Reichweite.</p>
+<p/><p>Analysten zeigen sich von den Semesterzahlen sehr angetan. "Erwartungen auf allen Ebenen übertroffen", titelt etwa die ZKB ihren Kommentar. Die Aussagen des Managements seien ausserdem optimistisch und schienen entsprechend eine bessere Entwicklung als derzeit geschätzt zu implizieren. So erwarte VZ für das laufende zweite Halbjahr unter der Voraussetzung stabiler Finanzmärkte ähnliche Wachstumsraten wie im ersten Halbjahr, während Analysten in ihren Schätzungen eine gewisse Abschwächung unterstellen würden.</p>
+<p/><p>Auch die Bank Vontobel äussert sich optimistisch. Die verwalteten Vermögen (AuM) seien im Vergleich zum Vorjahreszeitraum um 20 Prozent gestiegen, getragen von einem starken bzw. mit 3,3 Milliarden Franken rekordhohen Netto-Neugeldzufluss, heisst es da etwa. Der operative Hebel habe sich entsprechend positiv ausgewirkt. Aktuell wird der VZ-Titel bei Vontobel noch mit 'Hold' und Kursziel 170 Franken eingestuft. Die ZKB ist optimistischer mit dem Rating 'Übergewichten' und einem Fair Value von 190 Franken.</p>
+<p/><p>uh/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
