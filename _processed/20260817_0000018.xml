@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T162812+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>2804</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:2804:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T162812+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T162812+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Thurgauer Parlament wird beim Spital Wetzikon nicht mitentscheiden</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04016007"/><Subject FormalName="04016019"/><Subject FormalName="04006005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700" />
+
+<Property FormalName="City" Value="8620" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191956">
+<Property FormalName="FullName" Value="Aevis Victoria SA" />
+
+<Property FormalName="ShortName" Value="Aevis" />
+
+<Property FormalName="Telekurs" Value="38231" />
+
+<Property FormalName="CHNr" Value="CH-550.0.166.624-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012488190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0478634105" />
+
+<Property FormalName="Ticker" Value="AEVS" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1999098719">
+<Property FormalName="FullName" Value="GZO AG" />
+
+<Property FormalName="ShortName" Value="GZO" />
+
+<Property FormalName="CHNr" Value="CH-020-8000006-0" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197684">
+<Property FormalName="FullName" Value="Kanton Thurgau" />
+
+<Property FormalName="Telekurs" Value="017100" />
+
+<Property FormalName="Instrument" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="BCY"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Frauenfeld (awp/sda) - Die Thurgauer Regierung will dem Parlament keine Mitsprache bei der Entscheidung einräumen, ob sich die Dachorganisation der Thurgauer Spitäler (Thurmed) am finanziell angeschlagenen Spital Wetzikon ZH beteiligen soll. Eine Beteiligung gebe es nur, wenn die Thurgauer Spitäler wirtschaftlich profitierten.</p>
+<p/><p>Eine Entscheidung über eine Beteiligung sei noch nicht getroffen worden, hielt die Thurgauer Regierung in den ersten Abschnitten einer kürzlich veröffentlichten Antwort auf eine dringliche Interpellation fest. Darin hatten Kantonsräte von SP, Grüne, SVP, Mitte und GLP die geplante Beteiligung der Thurmed AG am finanziell angeschlagenen Spital Wetzikon ZH hinterfragt. Vom Regierungsrat hatten sie insbesondere ein Mitspracherecht für das Parlament gefordert.</p>
+<p/><p>Die Politikerinnen und Politiker stellten sich auf den Standpunkt, dass das Kantonsparlament bei dieser finanziellen Beteiligung mitentscheiden müsse. Der Regierungsrat argumentierte in seiner schriftlichen Antwort, dass dem Parlament gemäss der Verfassung vor allem "umfassende Auskunftsrechte" gewährt werden. Das Recht, über strategische Entscheide mitzubestimmen, sei mit wenigen Ausnahmen auch in den Gesetzen nicht vorgesehen. Die Politik mache Vorgaben und Verwaltungsrat sowie Geschäftsleitung treffen unternehmerische Entscheide.</p>
+<p/><p>Sowohl der Regierungsrat als auch das Parlament hätten bei Beteiligungen, insbesondere an privatrechtlichen Aktiengesellschaften, nur punktuell Entscheidungsbefugnisse. "Dieses Spannungsfeld gilt es auszuhalten", so der Regierungsrat. Anpassungen brauche es nicht.</p>
+<p/><h3>Kanton Zürich lehnt Hilfe ab</h3>
+<p/><p>Mitte Juli wurde bekannt, dass die Thurmed dem Spital Wetzikon (GZO AG) ein Angebot für eine strategische Beteiligung unterbreitet hat. Das Regionalspital geriet in finanzielle Schieflage, weil es eine Anleihe in der Höhe von 170 Millionen Franken nicht zurückzahlen konnte. Das Geld wurde im Jahr 2014 für die Realisierung des geplanten Neubaus aufgenommen. Der Kanton Zürich lehnte jegliche Hilfe ab, weil das Spital Wetzikon nicht unverzichtbar sei.</p>
+<p/><p>Die Interpellanten verwiesen auf den "sehr schwierigen und komplexen" Spitalmarkt im Kanton Zürich und die hohe Spitaldichte im Zürcher Oberland. "Sollte die Zürcher Regierung das Spital Wetzikon nicht mehr auf der Spitalliste aufführen, so wären neue erhebliche finanzielle Einbussen zu erwarten." Die Beteiligung am Spital mit den grössten finanziellen Problemen sei auch deshalb ein Wagnis.</p>
+<p/><p>Die Regierung ihrerseits verwies darauf, dass das Spital Wetzikon operativ mittlerweile wieder "gut unterwegs" und das operative Ergebnis positiv sei. Noch sei es aber zu früh zu sagen, ob eine Beteiligung ein finanzielles Risiko darstelle oder nicht. Die Thurmed nehme eine "sehr umfassende" Prüfung vor. Nur wenn das Spital Wetzikon "wirtschaftlich einwandfrei" betrieben werden könne, werde die Geschäftsleitung beim Verwaltungsrat eine Beteiligung beantragen.</p>
+<p/><p>Weiter hiess es: Der Regierungsrat werde einer Beteiligung nur zustimmen, wenn für die Thurmed "klare wirtschaftliche Vorteile" resultieren, stabile Erträge mit "grösstmöglicher Wahrscheinlichkeit" zu erwarten sind und die Thurmed auch im Verwaltungsrat des Spitals Wetzikon die Stimmmehrheit hat.</p>
+<p/><h3>Der Thurgau ist zu klein</h3>
+<p/><p>Grundsätzlich sieht die Regierung in einer Beteiligung grosse Chancen. Der wichtigste Vorteil liege bei den Kosten. In einem grösseren Spitalverbund liessen sich etwa Ausgaben für die Digitalisierung besser aufteilen. Mit rund 30'000 Patientinnen und Patienten sei der Thurgau nach Einschätzung der Thurmed zudem dauerhaft zu klein, um die heutige Kosteneffizienz aufrechtzuerhalten.</p>
+<p/><p>Zum Verbund der Thurmed gehören die Spitäler in Frauenfeld und Münsterlingen, die Psychiatrie Münsterlingen, die Rehaklinik Diessenhofen sowie mehrere Radiologiestandorte und eine Spitalapotheke. Die Thurmed AG und die Tochtergesellschaft Spital Thurgau AG befinden sich im Alleineigentum des Kantons.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
