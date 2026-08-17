@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T193613+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>24</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>3214</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:3214:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T193613+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T193613+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ascend Sport Technology könnte Evonext-Börsenmantel übernehmen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Ausf&#252;hrliche Fassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016019"/><Subject FormalName="04016030"/><Subject FormalName="04016048"/><Subject FormalName="04002006"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4153" />
+
+<Property FormalName="City" Value="6010" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2134540694">
+<Property FormalName="FullName" Value="EvoNext Holdings" />
+
+<Property FormalName="ShortName" Value="EvoNext" />
+
+<Property FormalName="Telekurs" Value="231748" />
+
+<Property FormalName="CHNr" Value="CH-280.3.000.550-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0021218067" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1262055788" />
+
+<Property FormalName="Ticker" Value="EVE" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1973800116">
+<Property FormalName="FullName" Value="Ascend Sport Technology AG" />
+
+<Property FormalName="ShortName" Value="Ascend" />
+
+<Property FormalName="CHNr" Value="CH-100-3792667-4" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="IPO"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Kriens/Reinach (awp) - Die Luzerner Sport-Technologie-Firma Ascend Sport Technology denkt über einen Gang an die Schweizer Börse SIX nach. Für diesen Zweck könnte sie den Börsenmantel von Evonext (ehemals Evolva) übernehmen.</p>
+<p/><p>Evonext bestätigte am Montagabend "fortgeschrittene Gespräche über eine Reverse-Merger-Transaktion" mit der Firma. Davor hatte die Nachrichtenagentur Bloomberg mit Verweis auf Insider darüber berichtet.</p>
+<p/><p>Für die bisherigen Evonext-Aktionäre sei eine Bewertung von 2,50 Franken je Aktie vorgesehen. Die Evonext-Aktie hatte am Montag um knapp ein Drittel zugelegt und bei 2,65 Franken geschlossen.</p>
+<p/><p>Ein verbindlicher Vertrag liege noch nicht vor, hiess es allerdings. Evonext werde den Markt über wesentliche Entwicklungen informieren.</p>
+<p/><h3>Umsatzschätzung: 40 bis 50 Millionen</h3>
+<p/><p>Ascend ist laut den Angaben ein profitables Schweizer Sporttechnologie-Unternehmen mit KI-gestützten Hardware-, Software- und Datenlösungen für Rechteinhaber, Sponsoren und Broadcaster. Laut Bloomberg ist das in Kriens ansässige Unternehmen konkret auf Sportmarketing und digitale Werbung an Stadionumrandungen spezialisiert.</p>
+<p/><p>Wie die "Finanz und Wirtschaft" kürzlich schrieb, hat das Unternehmen sämtliche Werbebanden für die Stadien der Fussball-Weltmeisterschaft geliefert. Sie sei dafür verantwortlich gewesen, dass die Botschaften von Coca-Cola, Visa und Adidas störungsfrei über die LED-Bildschirme am Spielfeldrand flackerten. Der Umsatz des Unternehmens wurde im Bericht auf 40 bis 50 Millionen Franken geschätzt.</p>
+<p/><p>Im Bericht vom Juli war zudem bereits ein möglicher Börsengang an der SIX ein Thema. Gründer und CEO Bernard de Roos sagte dazu: "Mit Schweizer Wurzeln und internationaler Tätigkeit ist die Schweizer Börse ein naheliegender Referenzpunkt."</p>
+<p/><p>Das Unternehmen ist laut der "FuW" mehrheitlich im Besitz der Gründer. Daneben hielten die Beteiligungsboutique Arven, das deutsche Family Office Lennertz &amp; Co. sowie der Private-Equity-Arm der Genfer Kantonalbank Anteile.</p>
+<p/><p>Evolva respektive Evonext ist seit längerem auf der Suche nach einer Firma für einen Reverse Takeover. 2025 seien mehrere Transaktionen geprüft worden, hiess es im April.</p>
+<p/><p>ls/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
