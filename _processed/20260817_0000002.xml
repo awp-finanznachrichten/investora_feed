@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T065215+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>366</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:366:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T065215+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T065215+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Hiag vedient im ersten Halbjahr deutlich mehr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4052" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2059673511">
+<Property FormalName="FullName" Value="Hiag Immobilien Holding AG" />
+
+<Property FormalName="ShortName" Value="Hiag" />
+
+<Property FormalName="Telekurs" Value="394848" />
+
+<Property FormalName="CHNr" Value="CH-270.3.002.729-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0239518779" />
+
+<Property FormalName="Ticker" Value="HIAG" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112011585" />
+
+<Property FormalName="Ticker" Value="HIA21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1172972825" />
+
+<Property FormalName="Ticker" Value="HIA22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1243933566" />
+
+<Property FormalName="Ticker" Value="HIA23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1381197107" />
+
+<Property FormalName="Ticker" Value="HIA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1499437247" />
+
+<Property FormalName="Ticker" Value="HIA26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Die Immobiliengesellschaft Hiag hat im ersten Halbjahr 2026 mit ihrem Liegenschaftenbestand weniger Ertrag generiert. Dank diverser Verkäufe nahm der Gewinn jedoch markant zu. Für das Gesamtjahr zeigt sich das Management optimistisch.</p>
+<p/><p>Der Liegenschaftsertrag sank leicht um 3,3 Prozent auf 38 Millionen Franken, wie das Unternehmen am Montag mitteilte. Positive Beiträge aus Neuvermietungen und Projektabschlüssen hätten den Ertragsrückgang aus diverseren Liegenschaftsverkäufen nicht kompensiert. Auf Like-for-like Basis sind die Erträge hingegen um 3,8 Prozent gestiegen.</p>
+<p/><p>Die Leerstandsquote lag per Ende Juni bei 2,8 Prozent und damit unter dem Stand von Ende 2025 von 3,2 Prozent.</p>
+<p/><h3>Neubewertungen treiben Gewinn</h3>
+<p/><p>Der Neubewertungseffekt auf dem Gesamtportfolio lag bei 53,4 Millionen Franken und war damit mehr als doppelt so hoch wie im Vorjahr. Die Netto-Aufwertung des Entwicklungsportfolios trug dazu 39,7 Millionen bei und die Aufwertung des Bestandportfolios 13,6 Millionen. Insgesamt wurde das Portfolio von Hiag per Mitte Jahr mit rund 2,1 Milliarden Franken bewertet.</p>
+<p/><p>Der Betriebsgewinn (EBIT) stieg um 92 Prozent auf 105 Millionen Franken. Neben dem Neubewertungseffekt habe vorwiegend der Vermarktungserfolg der Eigentumswohnungen der zweiten Etappe des Projekts "Chama" dazu beigetragen.  </p>
+<p/><p>Unter dem Strich kletterte der Reingewinn um 90 Prozent in die Höhe auf 85 Millionen. Auch ohne Neubewertungseffekt lag der Gewinn mit 36,9 Millionen gut 80 Prozent über dem Vorjahreswert.</p>
+<p/><p>Für das Gesamtjahr 2026 zeigt sich Hiag zuversichtlich. Die Mieterträge sollen ohne Akquisitionen leicht steigen, auf vergleichbarer Basis wird ein Plus von rund 8 Prozent erwartet; die Leerstandsquote soll Ende Jahr bei etwa 3 Prozent liegen. Für Entwicklungsprojekte sind Investitionen von rund 120 Millionen Franken vorgesehen. Aus den Wohnungsverkäufen der zweiten "Chama"-Etappe erwartet Hiag 2026 einen Ergebnisbeitrag von rund 35 Millionen.</p>
+<p/><p>yz/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
