@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T104613+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>1167</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:1167:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T104613+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T104613+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Presse: Nestlé droht Verlust des Russland-Geschäfts</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="11000000"/><Subject FormalName="04008000"/><Subject FormalName="04016030"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1800" />
+
+</Property>
+
+<Property FormalName="Country" Value="RU" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196839">
+<Property FormalName="FullName" Value="Nestlé SA" />
+
+<Property FormalName="ShortName" Value="Nestlé" />
+
+<Property FormalName="Telekurs" Value="213695" />
+
+<Property FormalName="CHNr" Value="CH-550.0.067.293-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0038863350" />
+
+<Property FormalName="Ticker" Value="NESN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419042509" />
+
+<Property FormalName="Ticker" Value="NES181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355116" />
+
+<Property FormalName="Ticker" Value="NES221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1194355124" />
+
+<Property FormalName="Ticker" Value="NES222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543838" />
+
+<Property FormalName="Ticker" Value="NES224" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543846" />
+
+<Property FormalName="Ticker" Value="NES225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475397" />
+
+<Property FormalName="Ticker" Value="NES231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475405" />
+
+<Property FormalName="Ticker" Value="NES232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1273475413" />
+
+<Property FormalName="Ticker" Value="NES233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277832" />
+
+<Property FormalName="Ticker" Value="NES234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277840" />
+
+<Property FormalName="Ticker" Value="NES235" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277857" />
+
+<Property FormalName="Ticker" Value="NES236" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316745" />
+
+<Property FormalName="Ticker" Value="NES241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316752" />
+
+<Property FormalName="Ticker" Value="NES242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316760" />
+
+<Property FormalName="Ticker" Value="NES243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316778" />
+
+<Property FormalName="Ticker" Value="NES244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104335" />
+
+<Property FormalName="Ticker" Value="NES17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0383104343" />
+
+<Property FormalName="Ticker" Value="NES171" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="ECO"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Vevey (awp) - Nestlé könnte in Russland die Kontrolle über sein dortiges Geschäft verlieren. Das russische Unternehmen KS Logistika hat Präsident Wladimir Putin aufgefordert, fünf russische Nestlé-Gesellschaften unter eine vorübergehende Verwaltung zu stellen, wie die russische Wirtschaftszeitung "Kommersant" am Montag berichtete.</p>
+<p/><p>Eine solche Massnahme könnte laut der Zeitung ein erster Schritt zu einem späteren Eigentümerwechsel sein. Die russische Regierung will die Forderung bis Ende Jahr prüfen. KS Logistika begründet den Vorstoss demnach unter anderem damit, dass Nestlé seine Produktionskapazitäten nicht ausbaue und keine in Russland hergestellten Waren mehr exportiere.</p>
+<p/><p>Die Berichte über eine mögliche Zwangsverwaltung belasteten am Montag die Nestlé-Aktie. Der Titel verlor am Vormittag 1,6 Prozent auf 79,70 Franken und war damit der schwächste Blue Chip im Schweizer Leitindex SMI.</p>
+<p/><h3>Nestlé: Erfüllen unsere Verpflichtungen</h3>
+<p/><p>Nestlé ist bislang nicht von staatlichen Stellen in dieser Sache kontaktiert worden, sagte ein Nestlé-Sprecher der Nachrichtenagentur AWP auf Anfrage. Die Fabriken und Büros arbeiteten weiter und der Konzern erfülle seine Verpflichtungen. Ein Rückzug aus dem Land sei derzeit kein Thema.</p>
+<p/><p>Nestlé erwirtschaftet laut dem Sprecher in Russland rund 2 Prozent des Konzernumsatzes. Das Unternehmen betreibt sechs Produktionsstandorte in Russland und stellt dort unter anderem Kaffee, Süsswaren, Babynahrung und Tierfutter her.</p>
+<p/><p>Russland verschärfte in den vergangenen Jahren die Rahmenbedingung für ausländische Unternehmen. Unter anderem schuf das Regime Instrumente, um mehr Einfluss auf Firmen nehmen zu können.</p>
+<p/><p>Nestlé hatte nach dem russischen Angriff auf die Ukraine 2022 entschieden, sein Geschäft in Russland nicht vollständig einzustellen. Der Konzern begründete dies damals damit, dass als Lebensmittelhersteller auch in Konfliktregionen die Bevölkerung weiterhin mit grundlegenden Nahrungsmitteln versorgen wolle. Auch andere westliche Konsumgüterkonzerne sind weiterhin in Russland tätig. Dazu zählen Barry Callebaut, L'Oréal und Beiersdorf.</p>
+<p/><h3>Konkurrent Danone zog sich zurück</h3>
+<p/><p>Die Analysten der US-Bank JPMorgan halten einen Verlust des Russland-Geschäfts inzwischen für möglich. Sollte Nestlé zu einem Verkauf gezwungen werden und dabei kaum einen Erlös erzielen, könnte dies den Gewinn je Aktie um rund 3 bis 4 Prozent schmälern.</p>
+<p/><p>JPMorgan erwartet zudem, dass die Entwicklung den Druck auf Nestlé erhöhen dürfte, sich ganz aus Russland zurückzuziehen. Der Fall wäre kein Novum: Der französische Lebensmittelkonzern Danone verlor 2023 die Kontrolle über sein Russland-Geschäft, nachdem die Behörden es unter vorübergehende staatliche Verwaltung gestellt hatten. Danone verkaufte das Geschäft 2024 schliesslich für rund 180 Millionen Euro und verbuchte insgesamt einen Verlust von 1,2 Milliarden Euro.</p>
+<p/><p>Ähnlich erging es dem dänischen Brauereikonzern Carlsberg. Dessen Russland-Geschäft wurde ebenfalls 2023 unter staatliche Verwaltung gestellt. Ende 2024 schloss Carlsberg den Rückzug mit einem Management-Buyout über 320 Millionen Dollar ab. Heineken wiederum gab seine russische Tochter für den symbolischen Preis von einem Euro ab und verbuchte einen Verlust von insgesamt 300 Millionen Euro.</p>
+<p/><p>to/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
