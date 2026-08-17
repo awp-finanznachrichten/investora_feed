@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T105815+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>1211</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:1211:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T105815+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T105815+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swissquote schliesst 600 Konten von in der Schweiz lebenden Russen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1196" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191819">
+<Property FormalName="FullName" Value="Swissquote Group Holding SA" />
+
+<Property FormalName="ShortName" Value="Swissquote" />
+
+<Property FormalName="Telekurs" Value="77344" />
+
+<Property FormalName="CHNr" Value="CH-550.1.000.705-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010675863" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1548235246" />
+
+<Property FormalName="Ticker" Value="SQN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Die Onlinebank Swissquote will rund 600 Konten von russischen Staatsangehörigen mit Wohnsitz in der Schweiz schliessen. Ausschlaggebend sind laut der Bank vor allem wirtschaftliche Gründe.</p>
+<p/><p>"Bei der grossen Mehrheit handelt es sich um Kunden der App Yuh", sagte Swissquote-Chef Marc Bürki gegenüber der Nachrichtenagentur AWP und bestätigte damit einen Bericht des Finanzportals "Inside Paradeplatz". Die Konten seien noch nicht geschlossen worden, die Kunden seien aber über die bevorstehende Schliessung informiert worden.</p>
+<p/><p>Russische Kunden verursachten einen erheblichen zusätzlichen Überwachungsaufwand, etwa bei der Prüfung der Mittelherkunft und von Transaktionen sowie bei Abklärungen im Zusammenhang mit Sanktionen, erklärte Bürki. Bei einem Yuh-Konto seien die Erträge dagegen vergleichsweise gering. "Damit lässt sich die Kundenbeziehung angesichts des zusätzlichen Aufwands schlicht nicht rentabel betreiben", sagte er.</p>
+<p/><p>Grundsätzlich könne jedes Bankinstitut eine Vertragsbeziehung jederzeit beenden, so Bürki weiter.</p>
+<p/><p>Swissquote führt laut eigenen Angaben Gespräche mit den betroffenen Kunden, um Fälle zu identifizieren, in denen die Geschäftsbeziehung fortgesetzt werden kann. Dies könne etwa bei Doppelbürgern oder bei Kunden der Fall sein, die genügend Erträge für die Bank generierten.</p>
+<p/><p>Mitte August hatte das Staatssekretariat für Wirtschaft (Seco) im Zusammenhang mit dem russischen Krieg gegen die Ukraine weitere Sanktionen gegen Russland übernommen. Dabei wurden neun natürliche Personen und 45 Organisationen neu auf die Schweizer Sanktionsliste gesetzt.</p>
+<p/><p>ib/vj/yz</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
