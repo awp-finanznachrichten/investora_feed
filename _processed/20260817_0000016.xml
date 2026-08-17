@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T143810+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>2353</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:2353:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T143810+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T143810+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Zürcher Staatsanwalt fordert lange Freiheitsstrafe für Hacker</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="02000000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9565" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191533">
+<Property FormalName="FullName" Value="Stadler Rail AG" />
+
+<Property FormalName="ShortName" Value="Stadler Rail" />
+
+<Property FormalName="Telekurs" Value="067816" />
+
+<Property FormalName="CHNr" Value="CH-440.3.002.481-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002178181" />
+
+<Property FormalName="Ticker" Value="SRAIL" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238864" />
+
+<Property FormalName="Ticker" Value="SRA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852651" />
+
+<Property FormalName="Ticker" Value="SRA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852669" />
+
+<Property FormalName="Ticker" Value="SRA241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934708" />
+
+<Property FormalName="Ticker" Value="SRA26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934716" />
+
+<Property FormalName="Ticker" Value="SRA261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="LAW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp/sda) - Ein mutmasslicher Hacker hat am Montag vor dem Bezirksgericht Zürich alle Vorwürfe bestritten. Dem 52-jährigen Ukrainer wird vorgeworfen, Erpressersoftware entwickelt und damit Cyberangriffe auf Unternehmen wie den Zugbauer Stadler Rail ermöglicht zu haben. Der Staatsanwalt fordert zwölf Jahre Freiheitsstrafe.</p>
+<p/><p>Er habe nie Schadsoftware entwickelt oder sich an Angriffen beteiligt, sagte der Beschuldigte am Montag vor Gericht. Der Quellcode für solche Programme auf seinen Geräten stamme von einem Auftraggeber aus der IT-Sicherheit, für den er als Berater tätig gewesen sei.</p>
+<p/><p>Die Zürcher Staatsanwaltschaft fordert für den ukrainischen Softwareentwickler eine Freiheitsstrafe von zwölf Jahren sowie eine ebenso lange Landesverweisung. Ihm wird vorgeworfen, zentraler Entwickler krimineller Erpressersoftware wie "Lockergoga" gewesen zu sein. Zu den betroffenen Opfern in der Schweiz gehören unter anderem Stadler Rail, Meier Tobler und Crealogix. Die Anklage listet weitere Firmen im Ausland auf, die ebenfalls betroffen waren.</p>
+<p/><h3>Verteidigung rügt Beweise</h3>
+<p/><p>Die Verteidigung forderte den Beizug weiterer Akten aus anderen Verfahren und stellte die Verwertbarkeit der digitalen Beweismittel infrage. Es fehle an einer lückenlosen Dokumentation der gesicherten Rohdaten.</p>
+<p/><p>Den betroffenen Firmen entstanden durch die Verschlüsselungen und Betriebsunterbrüche Schäden in Millionenhöhe. Der Beschuldigte befindet sich bereits seit Oktober 2021 in Haft.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
