@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T093915+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>926</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:926:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T093914+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T093914+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SIG-Aktien brechen nach erneutem Chefwechsel ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016028"/><Subject FormalName="04011009"/><Subject FormalName="04013004"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8212" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196361">
+<Property FormalName="FullName" Value="SIG Group AG" />
+
+<Property FormalName="ShortName" Value="SIG" />
+
+<Property FormalName="Telekurs" Value="806240" />
+
+<Property FormalName="CHNr" Value="CH-290.3.019.795-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0114592188" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0435377954" />
+
+<Property FormalName="Ticker" Value="SIGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="PAK"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der neuerliche Wechsel an der Spitze von SIG kommt an der Börse gar nicht gut an. Beim Schaffhauser Verpackungsspezialisten kommt es innerhalb eines Jahres zum zweiten abrupten Wechsel auf der CEO-Position. Nun muss das Management am Investorentag liefern.</p>
+<p/><p>Die SIG-Aktien sacken in der ersten halben Handelsstunde bei sehr hohen Volumen um satte 16 Prozent auf 12,89 Franken ab, das Tagestief wurde sogar bei 11,25 Franken notiert. Damit ist die bisherigen Jahresperformance mehr oder dahin. Der Gesamtmarkt präsentiert sich derweil nur leicht schwächer (SPI -0,02%).</p>
+<p/><p>Als der nun nach nur fünfeinhalb Monaten gefeuerte Mikko Keto im November 2025 ernannt worden war, notierte die Aktie noch bei rund 8 Franken und stieg in seiner Amtszeit fast auf den doppelten Wert. Die Börse hatte nach einer Einschätzung von Octavian darauf gehofft, dass Ketos Ideen zu einer deutlich höheren Profitabilität führen.</p>
+<p/><p>Im Urteil des Octavian-Analysten Alessandro Foletti hat SIG "schlicht und einfach" eine Fehlbesetzung getätigt. Das sollte eigentlich nicht vorkommen, passiere aber ab und zu - auch bei anderen Unternehmen. So betrachtet sei es wichtig, das schnell reagiert wurde.</p>
+<p/><p>In diesem Kontext gewinne der Investorentag von Ende Oktober noch mehr an Bedeutung, ergänzt Manuel Lang von der Bank Vontobel. Das Management müsse eine "klare und glaubwürdige" Erklärung für den Führungswechsel liefern sowie die strategische Roadmap und die Finanzziele bekräftigen. Die Firmenspitze müsse zeigen, dass das Transformationsprogramm trotz des Wechsels fest auf Kurs sei.</p>
+<p/><p>ra/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
