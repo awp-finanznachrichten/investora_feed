@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T070914+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>397</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:397:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T070913+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T070913+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Hacker steht nach Attacke auf Stadler Rail und andere Firmen vor Gericht</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="02000000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9565" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191533">
+<Property FormalName="FullName" Value="Stadler Rail AG" />
+
+<Property FormalName="ShortName" Value="Stadler Rail" />
+
+<Property FormalName="Telekurs" Value="067816" />
+
+<Property FormalName="CHNr" Value="CH-440.3.002.481-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002178181" />
+
+<Property FormalName="Ticker" Value="SRAIL" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238864" />
+
+<Property FormalName="Ticker" Value="SRA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852651" />
+
+<Property FormalName="Ticker" Value="SRA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852669" />
+
+<Property FormalName="Ticker" Value="SRA241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934708" />
+
+<Property FormalName="Ticker" Value="SRA26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934716" />
+
+<Property FormalName="Ticker" Value="SRA261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="LAW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp/sda) - Ein 52-jähriger ukrainischer Softwareentwickler steht heute Montag wegen Erpressung vor dem Bezirksgericht Zürich. Er soll an der Erpressung von Stadler Rail und weiteren Firmen beteiligt gewesen und die dafür benutzte Software mitentwickelt haben.</p>
+<p/><p>Die Zürcher Staatsanwaltschaft wirft dem zuletzt im Kanton Baselland wohnhaften Mann Erpressung vor, weil er an der Entwicklung und dem Einsatz von sogenannter Ransomware beteiligt gewesen sei. Dabei dringen Hackergruppen in Firmennetzwerke ein und installieren Schadsoftware. Die Software verschlüsselt daraufhin die vorhandenen Daten, so dass die Firmen selber nicht mehr darauf zugreifen können. Für die Entschlüsselung werden dann hohe Summen verlangt.</p>
+<p/><p>Die Staatsanwaltschaft fordert für den Beschuldigten eine Freiheitsstrafe von zwölf Jahren. Er befindet sich bereits seit Oktober 2021 in Haft. Ihm werden unter anderem gewerbsmässige Erpressung, mehrfache schwere Datenbeschädigung, schwere Geldwäscherei sowie der Besitz von Kinderpornografie zur Last gelegt. Neben der Freiheitsstrafe verlangt die Anklagebehörde eine zwölfjährige Landesverweisung.</p>
+<p/><p>Der Beschuldigte soll als zentraler Entwickler und Organisator internationaler Cyberangriffe agiert haben. Über mehrere Jahre hinweg drang eine kriminelle Gruppierung unter seiner Mitwirkung in Unternehmensnetzwerke ein. In der Schweiz zählten Firmen wie der Schienenfahrzeugbauer Stadler Rail, der Haustechnikspezialist Meier Tobler und Crealogix zu den Opfern. Den betroffenen Unternehmen entstanden durch Betriebsunterbrüche, Datenverluste und Sanierungen Schäden in Millionenhöhe.</p>
+<p/><p>Bei den Erpressungsversuchen gingen die Täter gezielt vor. Sie verschafften sich Zugang zu den Systemen, schalteten Überwachungsprozesse ab und verschlüsselten anschliessend Server sowie Arbeitsplatzrechner. Beim Angriff auf Stadler Rail entwendete der Beschuldigte zudem rund 500 Gigabyte an vertraulichen Daten. Mit der Androhung, diese Daten im Internet zu veröffentlichen, sollte der Druck auf das Unternehmen erhöht werden. Trotz der Erpressung verweigerten Firmen wie Stadler Rail und Meier Tobler die geforderten Lösegeldzahlungen.</p>
+<p/><h3>Entwicklung gefährlicher Erpressersoftware</h3>
+<p/><p>Laut Anklageschrift entwickelte der Informatiker die Erpressersoftware "Lockergoga" weitgehend selbstständig im Auftrag eines Mitbeschuldigten aus Moskau. Später wirkte er an der Entstehung der Schadsoftware "Megacortex" mit. Die von ihm programmierten Werkzeuge waren darauf ausgelegt, Daten auf fremden Systemen unbrauchbar zu machen und Lösegelder in Millionenhöhe zu erpressen. Ausserdem übernahm der Mann bei der Entwicklung eines weiteren Werkzeugs namens "RMS" eine führende Rolle als Projektleiter.</p>
+<p/><p>Für seine Tatbeiträge erhielt der Beschuldigte erhebliche Beträge in Kryptowährungen. Die Staatsanwaltschaft wirft ihm vor, diese kriminellen Erlöse systematisch gewaschen zu haben. Um die Herkunft der Gelder im Umfang von mindestens 490'000 Franken zu verschleiern, nutzte er spezialisierte Krypto-Mixer, führte Hunderte verdeckte Transaktionen durch und tauschte Digitalwährungen über verschiedene Handelsplattformen. Ein Teil des Geldes floss schliesslich auf Schweizer Bankkonten, um den Lebensunterhalt zu finanzieren.</p>
+<p/><p>Als Ersatzforderung für den unrechtmässig erlangten Vermögensvorteil fordert die Staatsanwaltschaft die Ablieferung verschiedener Kryptocoins oder eine Zahlung von 1,8 Millionen Franken. Zudem sollen beschlagnahmte Bargeldbestände sowie gesperrte Bankguthaben des Beschuldigten zur Deckung der Verfahrenskosten herangezogen oder als Deliktserlös eingezogen werden.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
