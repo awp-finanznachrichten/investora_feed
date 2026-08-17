@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T104412+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>1153</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:1153:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T104412+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T104412+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Bajaj-Tochter KTM ernennt David Bauer zum Vize Controlling &amp; Transformation</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04011002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="AT" />
+
+<Property FormalName="Country" Value="CH" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2045330958">
+<Property FormalName="FullName" Value="Bajaj Mobility AG" />
+
+<Property FormalName="ShortName" Value="Bajaj Mobility" />
+
+<Property FormalName="Telekurs" Value="28891" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="AT0000KTMI02" />
+
+<Property FormalName="Ticker" Value="BMAG" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="AUT"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Mattighofen (awp) - Der österreichische Motorrad-Hersteller KTM hat eine Schlüsselposition im Finanzbereich besetzt. David Bauer wird Vice President Controlling &amp; Transformation.</p>
+<p/><p>Bauer hat die Position laut einer Mitteilung vom Montag per sofort übernommen und verantwortet künftig die betriebswirtschaftliche Steuerung der KTM AG und ihrer Marken KTM, Husqvarna und Gasgas. Er war den Angaben nach zuvor Finanzchef und Vorstandsmitglied der Mavoco AG.</p>
+<p/><p>sta/hr</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
