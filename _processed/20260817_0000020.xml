@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T183613+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>3150</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:3150:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T183613+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T183613+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Evonext bestätigt Gespräche über Fusion mit Ascend Sport Technology</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4153" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2134540694">
+<Property FormalName="FullName" Value="EvoNext Holdings" />
+
+<Property FormalName="ShortName" Value="EvoNext" />
+
+<Property FormalName="Telekurs" Value="231748" />
+
+<Property FormalName="CHNr" Value="CH-280.3.000.550-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0021218067" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1262055788" />
+
+<Property FormalName="Ticker" Value="EVE" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Reinach (awp) - Die an der SIX kotierte Evonext Holdings bestätigt in Reaktion auf Medienberichte fortgeschrittene Gespräche über eine Reverse-Merger-Transaktion mit Ascend Sport Technology. Ascend soll dadurch an die SIX Swiss Exchange kommen, wie das Unternehmen am Montag mitteilte.</p>
+<p/><p>Für die bisherigen Evonext-Aktionäre sei eine Bewertung von 2,50 Franken je Aktie vorgesehen. Ascend ist laut den Angaben ein profitables Schweizer Sporttechnologie-Unternehmen mit KI-gestützten Hardware-, Software- und Datenlösungen für Rechteinhaber, Sponsoren und Broadcaster.</p>
+<p/><p>Ein verbindlicher Vertrag liege noch nicht vor, heisst es weiter. Evonext werde den Markt über wesentliche Entwicklungen informieren.</p>
+<p/><p>awp-robot/ls/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
