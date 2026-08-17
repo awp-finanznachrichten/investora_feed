@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T184712+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>23</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>3169</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:3169:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T184712+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T184712+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Dormakaba übernimmt Azure Access und Apollo Security in den USA</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016030"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8153" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193326">
+<Property FormalName="FullName" Value="Dormakaba Holding AG" />
+
+<Property FormalName="ShortName" Value="Dormakaba" />
+
+<Property FormalName="Telekurs" Value="376745" />
+
+<Property FormalName="CHNr" Value="CH-020.3.902.576-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011795959" />
+
+<Property FormalName="Ticker" Value="DOKA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367497" />
+
+<Property FormalName="Ticker" Value="DOR22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1446452356" />
+
+<Property FormalName="Ticker" Value="DOR25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1486524122" />
+
+<Property FormalName="Ticker" Value="DOKA" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Rümlang (awp) - Dormakaba hat die operativen Geschäfte von Azure Access Technology und Adme mit der Marke Apollo Security übernommen. Die Transaktion wurde am 14. August unterzeichnet und vollzogen, wie das Unternehmen am Montag mitteilte.</p>
+<p/><p>Damit stärke der Schliesstechnikkonzern seine Position im US-Markt für Zutrittskontrolllösungen. Über die finanziellen Konditionen und Einzelheiten sei Stillschweigen vereinbart worden.</p>
+<p/><p>Azure Access entwickelt laut den Angaben elektronische Zutrittskontroll-Hardware. Apollo Security stellt Zutrittskontroll- und integrierte Sicherheitssysteme her. Beide Unternehmen haben ihren Sitz in Newport Beach in Kalifornien und beschäftigen zusammen rund 30 Mitarbeitende. Die Firmen belieferten Zutrittskontrollunternehmen weltweit.</p>
+<p/><p>Mit der Übernahme will Dormakaba das eigene Angebot an offenen Komponenten wie Schlössern, Lesern und Controllern für OEM-Partner in den USA ausbauen.</p>
+<p/><p>awp-robot/ls/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
