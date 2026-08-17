@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260817T183915+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>22</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260817</DateId>
+			<NewsItemId>3157</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260817:3157:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260817T183914+0200</FirstCreated>
+		<ThisRevisionCreated>20260817T183914+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Leonteq: Raiffeisen-Paket-Verkauf abgeschlossen - aoGV am 21. September</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016002"/><Subject FormalName="04016047"/><Subject FormalName="04016028"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8004" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2068292521">
+<Property FormalName="FullName" Value="Leonteq AG" />
+
+<Property FormalName="ShortName" Value="Leonteq" />
+
+<Property FormalName="Telekurs" Value="464882" />
+
+<Property FormalName="CHNr" Value="CH-020.3.031.723-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0190891181" />
+
+<Property FormalName="Ticker" Value="LEON" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="AGM"/><Property FormalName="Subject" Value="PAN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Bei Leonteq ist der im März angekündigte Verkauf eines grossen Aktienpakets, das bisher im Besitz von Raiffeisen war, abgeschlossen worden. Der 22,7-Prozent-Anteil sei wie geplant an H21 Macro Limited und vier private Investoren gegangen, hiess es in einer Mitteilung vom Montagabend. Rainer-Marc Frey halte nun indirekt über H21 Macro Limited 23,3 Prozent der Aktien.</p>
+<p/><p>Raiffeisen besitzt laut den Angaben noch 7,0 Prozent. Nach Abschluss der Transaktion sei die dafür gebildete Aktionärsgruppe aufgelöst worden, so das Communiqué weiter.</p>
+<p/><p>Ausserdem kündigte Leonteq für den 21. September eine ausserordentliche Generalversammlung an. Die Einladung mit den Traktanden werde "in Kürze" veröffentlicht.</p>
+<p/><p>An der ordentlichen Generalversammlung im April wurde - nicht wie ursprünglich geplant - über den Wechsel im Verwaltungsratspräsidium abgestimmt. Laut den Plänen hätte eigentlich Felix Oegerli das Amt übernehmen sollen. Dieser ist jedoch Teil der Aktionärsgruppe, die das Raiffeisen-Paket kaufte.</p>
+<p/><p>Bis zum Erhalt der Genehmigungen und zum Abschluss der Transaktion wollte sich dieser noch nicht zur Wahl stellen. Daher stellte sich der bisherige Präsident Christopher Chambers im April für die Übergangszeit zur Wiederwahl.</p>
+<p/><p>An der Generalversammlung war zusätzlich ein Antrag zur Entlastung von Verwaltungsrat und Geschäftsleitung kurz vor Beginn der Versammlung zurückgezogen worden. Grund waren noch laufende aufsichtsrechtliche Überprüfungen, die erst Anfang 2026 gestartet wurden. Stimmrechtsberater und die Aktionärsstiftung Ethos hatten eine Entlastung als verfrüht kritisiert.</p>
+<p/><p>rw/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
