@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T095412+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>19</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>1647</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:1647:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T095412+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T095412+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>EFG International verkauft Harris Allday an Canaccord Wealth</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Meldung um Details, Analystenkommentar und Aktienkurs erweitert</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2126815525">
+<Property FormalName="FullName" Value="EFG International AG" />
+
+<Property FormalName="ShortName" Value="EFG International" />
+
+<Property FormalName="Telekurs" Value="303585" />
+
+<Property FormalName="CHNr" Value="CH-020.3.028.719-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0022268228" />
+
+<Property FormalName="Ticker" Value="EFGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - EFG International verkauft das Harris-Allday-Geschäft an Canaccord Wealth. Die Privatbank hat eine Vereinbarung unterzeichnet, wonach Canaccord Wealth die Frontoffice-Teams und die Kundenvermögen von Harris Allday übernimmt, wie EFG International am Mittwoch bekanntgab. Zum Verkaufspreis wurden keine Angaben gemacht.</p>
+<p/><p>EFG erwartet den Abschluss der Transaktion für das vierte Quartal 2026. Zudem soll der Verkauf einen positiven Einfluss in Höhe von rund 20 Millionen Franken auf den Vorsteuergewinn in der zweiten Jahreshälfte haben und die Kernkapitalquote (CET1) um etwa 30 Basispunkte erhöhen. Harris Allday erwirtschaftete im vergangenen Jahr mit verwalteten Vermögen in Höhe von rund 3,1 Milliarden britischen Pfund einen Ertrag von 20,3 Millionen Pfund und zählt 77 Vollzeitstellen.</p>
+<p/><p>EFG will sich künftig in Grossbritannien auf das Kerngeschäft in den Bereichen Vermögensverwaltung und Private Banking konzentrieren. Der Fokus liege dabei auf vermögenden und sehr vermögenden Kunden. Das UK-Geschäft bleibe mit verwalteten Vermögen von über 20 Milliarden Pfund ein Eckpfeiler der Strategie. Damit steuert es weiter gut 10 Prozent zu den verwalteten Vermögen der Gruppe bei.</p>
+<p/><h3>Aktie leicht freundlich</h3>
+<p/><p>An der Börse wird die Nachricht leicht positiv zur Kenntnis genommen. In einem kaum veränderten Gesamtmarkt stehen die Titel kurz nach Handelsstart mit 0,5 Prozent im Plus.</p>
+<p/><p>Für die Analysten der ZKB liest sich die Transaktion als "klassische Portfoliobereinigung" und sei wohl definitiv kein Rückzug aus Grossbritannien, sondern eine Schärfung des Kundenfokus. EFG trenne sich von einem Randgeschäft, das offenbar nicht mehr zur Kernstrategie passe. Der positive Einmaleffekt auf Gewinn und Kernkapitalquote deute auf einen Verkaufspreis über dem Buchwert hin, so die Experten weiter. Auch wenn der Kapitalpuffer-Zugewinn überschaubar sei, sei er dennoch in einem "regulatorisch sensiblen Umfeld" willkommen.</p>
+<p/><p>dm/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
