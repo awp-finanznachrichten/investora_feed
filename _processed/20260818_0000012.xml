@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T125213+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>2010</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:2010:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T125212+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T125212+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Lonza hat 3,5 Tonnen Quecksilber aus Oberwalliser Böden entfernt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191882">
+<Property FormalName="FullName" Value="Lonza Group AG" />
+
+<Property FormalName="ShortName" Value="Lonza" />
+
+<Property FormalName="Telekurs" Value="52506" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.634-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0013841017" />
+
+<Property FormalName="Ticker" Value="LONN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0564642061" />
+
+<Property FormalName="Ticker" Value="LON201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1243651994" />
+
+<Property FormalName="Ticker" Value="LON23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277881" />
+
+<Property FormalName="Ticker" Value="LON232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1300277899" />
+
+<Property FormalName="Ticker" Value="LON233" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="POL"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Raron VS (awp/sda) - Zehn Jahre nach ihrem Beginn werden Ende August die wichtigsten Arbeiten zur Sanierung der vom Pharmazulieferer Lonza verursachten Quecksilberverschmutzung zwischen Raron, Niedergesteln und Visp im Oberwallis abgeschlossen. Insgesamt sind auf rund 170'000 Quadratmetern 3,5 Tonnen Quecksilber aus den Böden entfernt worden.</p>
+<p/><p>Die Verschmutzung war 2010 beim Bau der Autobahn A9 entdeckt worden. In der Folge wurden die Böden zwischen Visp und Niedergesteln systematisch untersucht und die betroffenen Parzellen erfasst, wie es an einer Medienkonferenz des Walliser Departements für Mobilität, Raumentwicklung und Umwelt am Dienstag in Raron hiess.</p>
+<p/><p>Die Lonza hatte während Jahrzehnten quecksilberhaltige Abwässer über den Grossgrundkanal in die Rhone geleitet. Belastete Sedimente aus dem Kanal gelangten später auch auf Gärten und Landwirtschaftsflächen.</p>
+<p/><h3>Durch sauberen Boden ersetzt</h3>
+<p/><p>Nach Pilotversuchen 2016 begann 2017 die systematische Sanierung der Wohngebiete. Böden mit mehr als zwei Milligramm Quecksilber pro Kilogramm wurden ausgehoben und durch sauberen Boden ersetzt. Insgesamt wurden im Siedlungsgebiet mehr als 100'000 Quadratmeter und 174 Parzellen saniert.</p>
+<p/><p>Eine zweite Etappe betraf rund 60'000 Quadratmeter Landwirtschaftsflächen mit mehr als sieben Milligramm Quecksilber pro Kilogramm Boden. Die grossflächigen Arbeiten begannen 2023. Anschliessend wurden die Flächen während zwei Jahren speziell bewirtschaftet, um Bodenstruktur und Fruchtbarkeit zu sichern.</p>
+<p/><h3>Lonza trägt Grossteil der Kosten</h3>
+<p/><p>Insgesamt wurden rund 160'000 Tonnen belastetes Erdmaterial ausgehoben, behandelt und entsorgt. Ein grosser Teil konnte wiederverwertet werden.</p>
+<p/><p>Die Arbeiten kosteten rund 51 Millionen Franken. Davon übernahm die Lonza nach eigenen Angaben 93,5 Prozent oder rund 47,5 Millionen Franken. Der Kanton Wallis zahlte zwei Millionen Franken, die betroffenen Gemeinden 1,5 Millionen Franken.</p>
+<p/><p>Die Organisationen Ärzte für Umweltschutz (AefU) und WWF, die sich früh für eine Sanierung eingesetzt hatten, sprechen von einem grossen Erfolg für Umwelt und Gesundheit. Die Quecksilberbelastung habe für Menschen und Tiere eine stete Gefahr dargestellt, schreiben sie in einem Communiqué.</p>
+<p/><h3>Grossgrundkanal und Gamsenried folgen</h3>
+<p/><p>Weitere Altlasten bleiben bestehen: Beim Grossgrundkanal laufen Untersuchungen zu den Auswirkungen der Quecksilberbelastung. Die Sanierung der ehemaligen Lonza-Deponie Gamsenried soll Ende 2026 oder Anfang 2027 beginnen.</p>
+<p/><p>ra/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
