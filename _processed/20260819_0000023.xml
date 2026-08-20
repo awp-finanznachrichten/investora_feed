@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T114813+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>23</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>2101</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:2101:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T114813+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T114813+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Geberit mit beschleunigtem Wachstum unterwegs</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8640" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191959">
+<Property FormalName="FullName" Value="Geberit AG" />
+
+<Property FormalName="ShortName" Value="Geberit" />
+
+<Property FormalName="Telekurs" Value="35632" />
+
+<Property FormalName="CHNr" Value="CH-320.3.046.277-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030170408" />
+
+<Property FormalName="Ticker" Value="GEBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041063" />
+
+<Property FormalName="Ticker" Value="GEB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1168499817" />
+
+<Property FormalName="Ticker" Value="GEB227" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367380" />
+
+<Property FormalName="Ticker" Value="GEB22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367398" />
+
+<Property FormalName="Ticker" Value="GEB221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1249416087" />
+
+<Property FormalName="Ticker" Value="GEB232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401883" />
+
+<Property FormalName="Ticker" Value="GEB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430700" />
+
+<Property FormalName="Ticker" Value="GEB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934625" />
+
+<Property FormalName="Ticker" Value="GEB26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Geberit hat im ersten Halbjahr 2026 ein Umsatzwachstum am oberen Ende des Langfristziels hingelegt. Die operative Gewinnmarge konnte dank Effizienzgewinnen trotz der deutlich gestiegenen Materialkosten auf hohem Niveau gehalten werden. Der Ausblick auf das Gesamtjahr scheint zuversichtlich.</p>
+<p/><p>Der Nettoumsatz legte im ersten Semester um 2,8 Prozent auf 1,71 Milliarden Franken zu, wie das Unternehmen am Mittwoch mitteilte. Werden die negativen Währungseffekte ausgeklammert, ergibt sich ein Plus in Lokalwährungen von 5,9 Prozent. Dabei hat das Unternehmen im zweiten Quartal noch einen Zacken zugelegt und mit einem organischen Wachstum von 8,8 Prozent positiv überrascht.</p>
+<p/><p>Das Wachstum im Halbjahr wurde sowohl auf Preiserhöhungen als auch auf mehr verkaufte Artikel zurückgeführt. Dabei ergab sich in der Hauptregion Europa eine Umsatzzunahme um insgesamt 5,6 Prozent, während das organische Wachstum in der Schweiz bei beinahe 10 Prozent lag.</p>
+<p/><p>In diesem Tempo dürfte es indes nicht weitergehen. "Wir erwarten eine Verlangsamung des Volumenwachstums im zweiten Halbjahr im Vergleich zum ersten", sagte CEO Christian Buhl an einer Telefonkonferenz. Dies sei unter anderem dem Basiseffekt wegen des starken zweiten Semesters 2025 geschuldet.</p>
+<p/><p>Geberit stellt für das Gesamtjahr 2026 ein organisches Wachstum zwischen 5 und 6 Prozent in Aussicht. Davon entfallen laut dem Management rund 2,5 Prozent auf die Preiserhöhungen vom ersten Halbjahr, der Rest soll durch die höheren Volumina hinzukommen.</p>
+<p/><h3>Baugenehmigungen in Europa nehmen zu</h3>
+<p/><p>Mit Blick nach vorn erwartet der Konzern für Europa im laufenden Jahr "insgesamt ein leichtes Marktwachstum, jedoch noch keine breite Markterholung". Im Wohnungsneubau sei dabei weiterhin von einer positiven Entwicklung auszugehen. Darauf deute die Trendumkehr bei den Baugenehmigungen hin.</p>
+<p/><p>Der Nahost-Krieg hatte derweil bislang keine Auswirkungen auf die Nachfrage der Kunden. Der CEO bekräftigte damit seine Einschätzungen vom Mai. Ausser den steigenden Preisen für Energie und Rohmaterialien spüre Geberit den Konflikt kaum.</p>
+<p/><p>Der Betriebsgewinn vor Abschreibungen und Amortisationen (EBITDA) zog um 3,0 Prozent auf 529 Millionen Franken an, womit die entsprechende Marge im Vergleich zum Vorjahr stabil bei 30,9 Prozent blieb. Der Reingewinn erhöhte sich dabei um 7,4 Prozent auf 364 Millionen Franken.</p>
+<p/><h3>Höhere Kosten durch Effizienz und Wachstum ausgeglichen</h3>
+<p/><p>Die direkten Materialkosten seien zwar erheblich gestiegen, dank der hohen Verfügbarkeit und effizienten Abläufen in Produktion und Logistik habe sich aber vor allem das Volumenwachstum positiv auf die Margen ausgewirkt, heisst es weiter. Darüber hinaus sind beim operativen Gewinn Einmalkosten aus dem Vorjahr weggefallen.</p>
+<p/><p>Zur Jahreshälfte machte Geberit wie gewohnt erste konkretere Angaben zu den Erwartungen im Gesamtjahr. Nebst der bereits erwähnten Umsatzprognose wird eine EBITDA-Marge auf vergleichbarem Niveau wie 2025 (29,4 Prozent) in Aussicht gestellt.</p>
+<p/><p>Bei den zuletzt stark gestiegenen Rohmaterialpreisen dürfte die Spitze laut Buhl zumindest vorerst erreicht sein. Buhl rechnet im dritten Quartal mit höheren Preisen als im Vorjahresquartal, aber mit einer Seitwärtstendenz im Vergleich zum zweiten Quartal 2026.</p>
+<p/><p>cf/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
