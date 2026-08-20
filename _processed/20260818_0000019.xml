@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T200612+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>19</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>3472</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:3472:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T200612+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T200612+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Anleihe: Hiag nimmt 100 Mio Fr. für 6 Jahre auf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Meldung mit Verwendungszweck erg&#228;nzt</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4052" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2059673511">
+<Property FormalName="FullName" Value="Hiag Immobilien Holding AG" />
+
+<Property FormalName="ShortName" Value="Hiag" />
+
+<Property FormalName="Telekurs" Value="394848" />
+
+<Property FormalName="CHNr" Value="CH-270.3.002.729-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0239518779" />
+
+<Property FormalName="Ticker" Value="HIAG" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112011585" />
+
+<Property FormalName="Ticker" Value="HIA21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1172972825" />
+
+<Property FormalName="Ticker" Value="HIA22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1243933566" />
+
+<Property FormalName="Ticker" Value="HIA23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1381197107" />
+
+<Property FormalName="Ticker" Value="HIA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1499437247" />
+
+<Property FormalName="Ticker" Value="HIA26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Hiag Immobilien Holding AG emittiert unter Federführung von ZKB, Safra Sarasom imd Raiffeisen Schweiz eine Anleihe (Greenbond, Senior unsecured) zu folgenden Konditionen:</p>
+<p/><pre>Betrag:          100 Mio Fr. (WNG)
+Coupon:          1,30%
+Emissionspreis:  100,00%
+Laufzeit:        6 Jahre, bis 15.09.2032
+Liberierung:     15.09.2026
+Spread (MS):     +82 BP
+Spread (Govt.):  +102,1 BP
+ISIN:            CH1581468209
+Rating:          BBB/Baa (ZKB/Fedafin)
+Kotierung:       SIX, ab 14.09.2026
+</pre><p/><p>Die Emissionserlöse werden laut einer Mitteilung des Unternehmens vom Dienstagabend zur Finanzierung und Refinanzierung von nachhaltigen Gebäuden und Projekten gemäss dem firmeneigenen "Green Financing Framework" verwendet. Mit der Emission setze Hiag ausserden die nachhaltige Finanzierungsstrategie fort: Der dritte Green Bond trage zu einem ausgewogenen Fälligkeitsprofil bei und ermöglicht es dem Kozern, das aktuell attraktive Zinsniveau längerfristig zu sichern. </p>
+<p/><p>uh/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
