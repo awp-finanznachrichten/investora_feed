@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T114517+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>22</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>2091</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:2091:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T114517+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T114517+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Anleihe: GLKB nimmt 100 Mio Fr. für 5,5 Jahre auf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>T</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8750" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197530">
+<Property FormalName="FullName" Value="Glarner Kantonalbank" />
+
+<Property FormalName="ShortName" Value="GLKB" />
+
+<Property FormalName="Telekurs" Value="080849" />
+
+<Property FormalName="CHNr" Value="CH-160.8.002.640-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0189396655" />
+
+<Property FormalName="Ticker" Value="GLKBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0269699176" />
+
+<Property FormalName="Ticker" Value="GKB15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633591" />
+
+<Property FormalName="Ticker" Value="GKB182" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0485260837" />
+
+<Property FormalName="Ticker" Value="GKB19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071189" />
+
+<Property FormalName="Ticker" Value="GKB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101096514" />
+
+<Property FormalName="Ticker" Value="GKB21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1118223382" />
+
+<Property FormalName="Ticker" Value="GKB210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1271007911" />
+
+<Property FormalName="Ticker" Value="GKB230" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1503892627" />
+
+<Property FormalName="Ticker" Value="GKB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1540977142" />
+
+<Property FormalName="Ticker" Value="GKB26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1571219224" />
+
+<Property FormalName="Ticker" Value="GKB261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Glarner Kantonalbank (GLKB, mit Garantie Kt. Glarus) emittiert in Eigenregie und unter Federführung von Raiffeisen und UBS eine Anleihe (Senior unsecured) zu folgenden Konditionen:</p>
+<p/><pre>Betrag:          100 Mio Fr.
+Coupon:          0,84%
+Emissionspreis:  100,021%
+Laufzeit:        5,5 Jahre, bis 17.03.2032
+Liberierung:     17.09.2026
+YTM:             0,836%
+Spread (MS):     +40 BP
+Spread (Govt.):  +56 BP
+ISIN:            CH1593191104
+Rating:          AA (S&amp;P)
+Kotierung:       SIX, ab 15.09.2026
+</pre><p/><p>uh/tt/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
