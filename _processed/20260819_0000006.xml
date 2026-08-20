@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T072518+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>870</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:870:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T072518+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T072518+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Elma rutscht im ersten Halbjahr wegen Sonderkosten in die roten Zahlen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8620" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193851">
+<Property FormalName="FullName" Value="Elma Electronic AG" />
+
+<Property FormalName="ShortName" Value="Elma" />
+
+<Property FormalName="Telekurs" Value="548447" />
+
+<Property FormalName="CHNr" Value="CH-020.3.907.649-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0005319162" />
+
+<Property FormalName="Ticker" Value="ELMN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Wetzikon (awp) - Der Elektronikkomponenten-Hersteller Elma Electronic hat im ersten Semester 2026 einen deutlichen Umsatzrückgang erlitten. Wegen der Kosten für die eingeleitete Restrukturierung resultierte gar ein Verlust. Eine konkrete Prognose für das Gesamtjahr gibt es nicht, der Umsatz sollte sich aber im Vergleich zum ersten Halbjahr wieder erholen.</p>
+<p/><p>Der Umsatz fiel um 15,8 Prozent auf 77,7 Millionen Franken zurück, wie das Unternehmen am Mittwoch mitteilte. Währungsbereinigt lag das Minus bei 11,7 Prozent. Die wesentlichen Gründe für diese Entwicklung seien ein zu Jahresbeginn niedriger Auftragsbestand sowie geopolitisch bedingte Verzögerungen in Lieferketten für kritische Halbleiter-Bauteile.</p>
+<p/><p>Der Auftragseingang erhöhte sich hingegen um 39,4 Prozent auf 118,7 Millionen Franken. Währungsbereinigt hätte das Plus sogar gut 46 Prozent betragen. Elma führt diesen Anstieg auf die hohe Nachfrage nach Systemlösungen im Verteidigungsbereich in allen Regionen zurück.</p>
+<p/><p>Dank des "ausgezeichneten" Bestellungseinganges und dem Auftragsbestand in Höhe von 174,4 Millionen erwartet das Unternehmen eine Erholung des Umsatzes im zweiten Semester.</p>
+<p/><h3>Rote Zahlen wegen Transformations-Kosten</h3>
+<p/><p>Der operative Gewinn (EBIT) fiel mit -0,8 Millionen Franken negativ aus, nachdem im Vorjahr noch ein Gewinn von 5,7 Millionen resultiert hatte. Die im Berichtszeitraum eingeleiteten Restrukturierungsmassnahmen zur Beschleunigung der Transformation hätten wie erwartet die Profitabilität belastet, heisst es dazu. Unter dem Strich resultierte ein Reinverlust von 1,8 Millionen.</p>
+<p/><p>Die Transformationskosten haben zu einem nicht-wiederkehrenden Aufwand von 2,8 Millionen Franken geführt. Nach vollständiger Umsetzung des Effizienzsteigerungsprogramms wird der operative Aufwand allerdings bereits für das laufende Geschäftsjahr um rund 4 Millionen gesenkt.</p>
+<p/><p>Mit Blick nach vorne gibt Elma wie üblich keine konkrete Prognose ab. Man starte aber mit einem erfreulichen Auftragsbestand in die zweite Jahreshälfte 2026. Die Umsätze sollten sich daher erholen. Die Transformations-Aktivitäten befänden sich auf Kurs.</p>
+<p/><p>cf/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
