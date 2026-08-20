@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T074114+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>956</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:956:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T074114+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T074114+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Straumann ernennt Christopher Norbye zum neuen CEO</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193710">
+<Property FormalName="FullName" Value="Straumann Holding AG" />
+
+<Property FormalName="ShortName" Value="Straumann" />
+
+<Property FormalName="Telekurs" Value="850848" />
+
+<Property FormalName="CHNr" Value="CH-280.3.917.651-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1175448666" />
+
+<Property FormalName="Ticker" Value="STMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0551990689" />
+
+<Property FormalName="Ticker" Value="STM201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430833" />
+
+<Property FormalName="Ticker" Value="STM25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Bei Straumann kommt es zu einem Wechsel an der operativen Spitze. Der langjährige CEO Guillaume Daniellot tritt auf Ende November hin zurück. Ab 1. Dezember übernimmt der Schwede Christopher Norbye die Führung.</p>
+<p/><p>Der neue operative Straumann-Chef kommt vom Kältetechnikkonzern Beijer Ref, wo er zuletzt CEO war. Zuvor leitete er bei Assa Abloy die Division Entrance Systems mit einem Umsatz von 4 Milliarden Euro.</p>
+<p/><p>Der 1973 geborene Norbye stösst bereits im Oktober zu Straumann, um den Führungswechsel vorzubereiten. Die Ernennung erfolge im Rahmen eines geplanten Führungswechsels, schreibt Straumann am Mittwoch in einer Mitteilung.</p>
+<p/><p>Mit Christopher Norbye stelle Straumann die Weichen für die nächste Wachstumsphase. Aufbauend auf der starken Marktposition treibe die Gruppe profitables Wachstum konsequent voran, um nachhaltig Wert zu schaffen, so die Mitteilung. "Ich freue mich sehr darauf, in einer wichtigen Phase der Unternehmensentwicklung zur Straumann Group zu stossen," lässt sich der designierte Konzernleiter zitieren.</p>
+<p/><h3>Grosser Dank an Guillaume Daniellot</h3>
+<p/><p>Der Verwaltungsrat dankt dem abtretenden CEO Guillaume Daniellot für seinen "ausserordentlichen Beitrag und sein grosses Engagement für Straumann". Unter seiner Führung habe die Gruppe ihre Marktposition deutlich ausgebaut und erhebliche Marktanteilsgewinne erzielt. Dabei sei Innovation stets im Zentrum der Strategie gestanden, sagt VR-Präsidentin Petra Rumpf.</p>
+<p/><p>Guillaume Daniellot arbeitete fast 20 Jahre für Straumann, die vergangenen sieben Jahre als CEO.</p>
+<p/><p>gab/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
