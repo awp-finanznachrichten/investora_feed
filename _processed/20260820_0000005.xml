@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T072311+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>809</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:809:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T072310+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T072310+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Landis+Gyr kündigt neues Aktienrückkaufprogramm über bis zu 37 Mio USD an</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016019"/><Subject FormalName="04009000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6301" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2040739062">
+<Property FormalName="FullName" Value="Landis+Gyr Group AG" />
+
+<Property FormalName="ShortName" Value="Landis+Gyr" />
+
+<Property FormalName="Telekurs" Value="759506" />
+
+<Property FormalName="CHNr" Value="CH-170.3.035.932-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0371153492" />
+
+<Property FormalName="Ticker" Value="LAND" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Landis+Gyr hat ein neues Aktienrückkaufprogramm angekündigt. Damit will der Stromzählerhersteller den Nettoerlös aus dem Verkauf des EMEA-Geschäfts abschliessend an die Aktionäre zurückführen, wie das Unternehmen am Donnerstag mitteilte.</p>
+<p/><p>Der Verwaltungsrat habe ein Rückkaufprogramm im Umfang von bis zu 37 Millionen US-Dollar genehmigt, hiess es weiter. Dabei sollen maximal 2,09 Prozent der ausgegebenen Namenaktien zurückgekauft werden.</p>
+<p/><p>Die Aktien werden über die ordentliche Handelslinie der SIX Swiss Exchange zurückgekauft. Finanziert wird der Rückkauf aus den Kapitaleinlagereserven. Das Programm soll am 21. August 2026 beginnen und spätestens am 27. Oktober 2028 enden.</p>
+<p/><p>hr/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
