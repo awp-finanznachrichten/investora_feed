@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T071712+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>783</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:783:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T071712+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T071712+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SPS steigert Erträge im ersten Halbjahr - Ausblick bestätigt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4601" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191847">
+<Property FormalName="FullName" Value="Swiss Prime Site AG" />
+
+<Property FormalName="ShortName" Value="SPS" />
+
+<Property FormalName="Telekurs" Value="34147" />
+
+<Property FormalName="CHNr" Value="CH-249.3.003.278-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008038389" />
+
+<Property FormalName="Ticker" Value="SPSN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040990" />
+
+<Property FormalName="Ticker" Value="SPS19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0488506681" />
+
+<Property FormalName="Ticker" Value="SPS192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0581947733" />
+
+<Property FormalName="Ticker" Value="SPS200" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0581947816" />
+
+<Property FormalName="Ticker" Value="SPS21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561533" />
+
+<Property FormalName="Ticker" Value="SPS22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222335" />
+
+<Property FormalName="Ticker" Value="SPS23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1319968496" />
+
+<Property FormalName="Ticker" Value="SPS24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852693" />
+
+<Property FormalName="Ticker" Value="SPS241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405471983" />
+
+<Property FormalName="Ticker" Value="SPS25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1498422919" />
+
+<Property FormalName="Ticker" Value="SPS251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1533071135" />
+
+<Property FormalName="Ticker" Value="SPS26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934724" />
+
+<Property FormalName="Ticker" Value="SPS262" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1533150970" />
+
+<Property FormalName="Ticker" Value="SPS265" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der grösste Schweizer Immobilienkonzern Swiss Prime Site hat im ersten Halbjahr 2026 höhere Mieterträge erzielt und auch dank erneut hoher Neubewertungen den Gewinn gesteigert. Auch das Asset Management entwickelte sich weiter dynamisch. Am Ausblick hält SPS fest.</p>
+<p/><p>Im Immobiliensegment stieg der Mietertrag in den ersten sechs Monaten um 2,2 Prozent auf 230,6 Millionen Franken, wie SPS am Donnerstag mitteilte. Die Neubewertungen beliefen sich noch auf 148,0 Millionen nach hohen 216,9 Millionen im Vorjahr.</p>
+<p/><p>Der Reingewinn inklusive Neubewertungen kletterte um gut 17 Prozent auf 192,5 Millionen Franken. Bereinigt um diese stieg der Gewinn um 6,0 Prozent auf 165,7 Millionen. Das für SPS wichtige zahlungswirksame Ergebnis (Funds from Operations, FFO I) lag bei 2,15 Franken je Aktie nach 2,10 Franken im Vorjahr.</p>
+<p/><p>Der Wert des eigenen Immobilienportfolios stieg um 0,6 Prozent auf 14 Milliarden Franken, die Leerstandsquote lag bei unverändert 3,7 Prozent.</p>
+<p/><h3>Asset Management und Ausblick</h3>
+<p/><p>Das zweite Standbein, das Asset Management Swiss Prime Site Solutions, steigerte die Erträge um 5,2 Prozent auf 40,0 Millionen. SPS zog Neugelder in Höhe von 0,95 Milliarden an und damit kletterte das verwaltete Vermögen im Vergleich zum Ende 2025 um 3,5 Prozent auf 14,8 Milliarden.</p>
+<p/><p>Am Ausblick für das Gesamtjahr 2026 hält SPS fest. So soll der Mietertrag gesteigert werden, während der Leerstand weiter sinken dürfte. Im Asset Management wird unverändert mit einem Neugeldwachstum von rund 1 Milliarde Franken gerechnet. Der FFO I soll am oberen Ende der Spanne von 4,25 und 4,30 Franken je Aktie zu liegen kommen.</p>
+<p/><p>dm/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
