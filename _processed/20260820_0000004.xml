@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T072210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>806</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:806:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T072210+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T072210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Zug Estates steigert bereinigten Gewinn und erhöht Prognose</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2070752474">
+<Property FormalName="FullName" Value="Zug Estates Holding AG" />
+
+<Property FormalName="ShortName" Value="Zug Estates" />
+
+<Property FormalName="Telekurs" Value="595488" />
+
+<Property FormalName="CHNr" Value="CH-170.3.036.645-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0148052118" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0148052126" />
+
+<Property FormalName="Ticker" Value="ZUGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Das Immobilienunternehmen Zug Estates hat im ersten Halbjahr 2026 unter Ausklammerung von Neubewertungen und Sondereffekten deutlich mehr Gewinn erzielt. Nun wird die Jahresprognose für die Kennzahl leicht erhöht.</p>
+<p/><p>Der Reingewinn inklusive Neubewertungen fiel zwar um 33 Prozent auf 42,9 Millionen Franken, wie das auf den Wirtschaftsraum Zug fokussierte Unternehmen am Donnerstag mitteilte. Grund dafür war allerdings ein tieferer Neubewertungsgewinn: Dieser sank auf 24,6 Millionen Franken von 50,1 Millionen in der Vorjahresperiode.</p>
+<p/><p>Unter Ausklammerung der Neubewertungen und Sondereffekte erhöhte sich der Reingewinn um 6,6 Prozent auf 21,2 Millionen Franken. "Die Nachfrage institutioneller Investoren nach zentral gelegenen Liegenschaften an wirtschaftlich attraktiven Standorten blieb im ersten Halbjahr 2026 hoch", schreibt das Unternehmen.</p>
+<p/><h3>Stabiler Ertrag bei Immobilien</h3>
+<p/><p>Der Liegenschaftsertrag im Segment Immobilien blieb mit 35,8 Millionen Franken nahezu stabil. Negative Effekte aus den beiden Referenzzinssatzsenkungen im Jahr 2025 konnten laut den Angaben durch Indexanpassungen bei gewerblichen Mietverträgen und eine Entschädigungszahlung für eine vorzeitige Mietvertragsauflösung kompensiert werden. Die betroffene Fläche sei ohne Leerstand weitervermietet worden.</p>
+<p/><p>Die Leerstandsquote stieg zwar etwas an, sie lag mit 1,2 Prozent nach 0,7 Prozent per Ende 2025 aber immer noch auf "sehr tiefem Niveau".</p>
+<p/><p>Der Ertrag im Segment Hotel &amp; Gastronomie stieg derweil um 2,5 Prozent auf 8,0 Millionen Franken. Grund dafür waren eine höhere Auslastung in der Beherbergung sowie eine "konstant gute Nachfrage" in der Gastronomie.</p>
+<p/><h3>Gewinnausblick erhöht</h3>
+<p/><p>Der Marktwert des gesamten Portfolios legte aufgrund von Investitionen und Neubewertungseffekten im Vergleich zum Stand von Ende 2025 um 2,4 Prozent auf 1,98 Milliarden Franken zu, wie es weiter heisst.</p>
+<p/><p>Für 2026 erwartet Zug Estates neu einen leicht höheren Reingewinn ohne Neubewertungen und Sondereffekte (bisher: auf Vorjahresniveau), während der Liegenschaftsertrag weiterhin leicht unter dem Vorjahreswert liegen soll.</p>
+<p/><p>Gleichzeitig wird jedoch ein tieferer Liegenschaftenaufwand erwartet, womit die Ertragsreduktion kompensiert werden soll. Im Segment Hotel &amp; Gastronomie sollen die Umsätze stabil bleiben bei einem leicht tieferen Gross Operating Profit (GOP).</p>
+<p/><p>ls/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
