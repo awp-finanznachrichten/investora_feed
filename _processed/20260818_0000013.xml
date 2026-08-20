@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T135645+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>2270</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:2270:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T135645+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T135645+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Preise für Gaming-Hardware steigen wegen Chip-Knappheit</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Ausf&#252;hrliche Fassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016048"/><Subject FormalName="04007000"/><Subject FormalName="04003000"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1143" />
+
+</Property>
+
+<Property FormalName="Country" Value="DE" />
+
+<Property FormalName="Country" Value="JP">
+<Property FormalName="City" Value="0001" />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147194942">
+<Property FormalName="FullName" Value="Sony Corp" />
+
+<Property FormalName="ShortName" Value="Sony" />
+
+<Property FormalName="Telekurs" Value="760342" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="JP3435000009" />
+
+<Property FormalName="Ticker" Value="675800" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147194029">
+<Property FormalName="FullName" Value="Microsoft Corp" />
+
+<Property FormalName="ShortName" Value="Microsoft" />
+
+<Property FormalName="Telekurs" Value="951692" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US5949181045" />
+
+<Property FormalName="Ticker" Value="MSFT" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1001749289" />
+
+<Property FormalName="Ticker" Value="EU3235" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196587">
+<Property FormalName="FullName" Value="Logitech International S.A." />
+
+<Property FormalName="ShortName" Value="Logitech" />
+
+<Property FormalName="Telekurs" Value="256567" />
+
+<Property FormalName="CHNr" Value="CH-550.1.007.197-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0025751329" />
+
+<Property FormalName="Ticker" Value="LOGN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147194908">
+<Property FormalName="FullName" Value="Nintendo Co Ltd" />
+
+<Property FormalName="Telekurs" Value="762921" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="JP3756600007" />
+
+<Property FormalName="Ticker" Value="797400" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1999177799">
+<Property FormalName="FullName" Value="Dell TEchnologies Inc" />
+
+<Property FormalName="ShortName" Value="Dell" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US24703L2025" />
+
+<Property FormalName="Ticker" Value="DELL" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CSM"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>KÖLN (awp international) - Hohe Preise machen den Computerspielern zu schaffen. Wie aus einer Marktanalyse des Branchenverbandes Game hervorgeht, sorgten sie für eine Kaufzurückhaltung bei den Konsumenten: Die Ausgaben für Games-Hardware sanken im ersten Halbjahr 2026 im Vergleich zum Vorjahreszeitraum um acht Prozent auf 1,3 Milliarden Euro.</p>
+<p/><p>Das liege an der Knappheit von Computerchips und gestiegenen Preisen, die eine Folge der hohen Chip-Nachfrage für Künstliche-Intelligenz-Rechenzentren sei, sagte der Geschäftsführer des Branchenverbandes Game, Felix Falk. "Mit gesteigerten Preisen bei der Hardware geht auch ein verminderter Umsatz bei den Käufen einher."</p>
+<p/><p>Die Gaming-Branche spreche schon von "RAMageddon", so Falk. Gemeint ist eine ironisch zugespitzte Wortschöpfung aus Arbeitsspeicher (RAM/Random Access Memory) und Armageddon, also dem Weltuntergang. Bei Gaming-PCs schlügen die hohen Speicherpreise besonders stark durch, erklärte der Branchenfachmann. "Wann es vorbei ist mit dem RAMageddon, das wüsste ich auch gern: Das ist sehr stark abhängig von der Entwicklung der KI." Wenn so viele Rechenzentren geplant und gebaut werden, werde es schwer für die Chip-Produktion, Schritt zu halten.</p>
+<p/><p>Der Umsatzeinbruch beim Hardware-Geschäft liegt allerdings nicht nur an höheren Preisen, sondern auch an normalen Marktzyklen. Im Frühjahr kam die Spielekonsole Nintendo Switch 2 auf den Markt, weswegen viele Fans die Geldbörse zückten. Auch deswegen zog der Hardware-Umsatz im ersten Halbjahr 2025 an, nun geht es wieder bergab. "Diejenigen, die sich vor kurzer Zeit eingedeckt haben mit einer neuen Konsole, die sagen sich, "jetzt warte ich mal ab"", so Falk.</p>
+<p/><p>Der Gaming-Umsatz in Deutschland sank den Angaben zufolge im ersten Halbjahr um drei Prozent auf rund 4,2 Milliarden Euro. Hierbei inbegriffen ist der Verkauf von Spielen - dieses Marktsegment sank um ein Prozent auf 2,3 Milliarden Euro. Online-Gaming-Dienste wiederum, bei denen Cloud-Dienste drin sind, kletterten um drei Prozent auf 0,6 Milliarden Euro.</p>
+<p/><h3>Massen-Event Gamescom steht vor der Tür</h3>
+<p/><p>Verbandsvertreter Falk warf zudem einen Blick auf die weltgrösste Computer- und Videospiele-Messe Gamescom, die nächste Woche in Köln stattfindet. Bei dem Branchenevent stehen die Zeichen auf Wachstum: Erwartet werden mehr als 1600 Aussteller und damit so viele wie noch nie. Im bisherigen Rekordjahr 2025 waren es 1.568 gewesen. Gut zwei Drittel der Aussteller kommen in diesem Jahr aus dem Ausland.</p>
+<p/><p>Man setze den Rekordkurs fort, sagte der Chef der Koelnmesse, Gerald Böse. Die Koelnmesse ist zusammen mit dem Verband Game Veranstalter. "Die Gamescom 2026 steht für Wachstum, internationale Relevanz und eine starke Community." Die Ausstellungsfläche der Messe für Computer- und Videospiele liegt unverändert bei 233.000 Quadratmetern - dies inklusive von Fluren und Freiflächen, auf denen keine Messestände sind.</p>
+<p/><h3>Es wird wieder voll in den Messehallen</h3>
+<p/><p>2025 waren 357.000 Besucherinnen und Besucher in die Messehallen geströmt, viele von ihnen kreativ und bunt gekleidet als Cosplayer. Er sei zuversichtlich, dass die letztjährige Besucherzahl wieder erreicht werde, sagte Böse. Der Besucher-Höchstwert war 2019 mit 373.000 erreicht worden, damals war das Gedränge in den Kölner Messehallen besonders intensiv und es sorgte bei manchen Besuchern für schlechte Laune. Auch deshalb werde dieser Allzeit-Höchstwert gar nicht mehr angepeilt, heisst es von den Veranstaltern. Viel wichtiger als die Besucherzahlen sei die digitale Reichweite, die sich seit Jahren deutlich erhöht habe - also die Online-Klicks bei Gamescom-Formaten.</p>
+<p/><p>Die Gamescom ist die weltgrösste Messe für Computer- und Videospiele. Firmen wie die Konsolen-Hersteller Nintendo ("Super Mario") und Microsoft Xbox ("Age of Empires") sowie die Publisher Tencent Games ("Dune: Awakening") und Ubisoft ("Anno 1800", "Anno 117") präsentieren sich den Fans und Fachleuten. Das Leitthema der Gamescom lautet dieses Jahr "Games machen Lust auf Zukunft". Es gehe bei der Gamescom nicht nur um die Spiele von morgen, sagt Veranstalter Falk. "Es geht genauso um die Lust, Unternehmen zu gründen, um Innovation und um die Begeisterung für die neuesten Technologien."/wdw/DP/mis</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
