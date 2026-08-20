@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T140044+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>2316</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:2316:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T140043+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T140043+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ausblick Geberit: Gelingt Wachstumsbeschleunigung im zweiten Quartal?</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Forecast"/>
+			<SubjectCode><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8640" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191959">
+<Property FormalName="FullName" Value="Geberit AG" />
+
+<Property FormalName="ShortName" Value="Geberit" />
+
+<Property FormalName="Telekurs" Value="35632" />
+
+<Property FormalName="CHNr" Value="CH-320.3.046.277-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030170408" />
+
+<Property FormalName="Ticker" Value="GEBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041063" />
+
+<Property FormalName="Ticker" Value="GEB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1168499817" />
+
+<Property FormalName="Ticker" Value="GEB227" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367380" />
+
+<Property FormalName="Ticker" Value="GEB22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367398" />
+
+<Property FormalName="Ticker" Value="GEB221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1249416087" />
+
+<Property FormalName="Ticker" Value="GEB232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401883" />
+
+<Property FormalName="Ticker" Value="GEB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430700" />
+
+<Property FormalName="Ticker" Value="GEB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934625" />
+
+<Property FormalName="Ticker" Value="GEB26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="OUT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Rapperswil-Jona (awp) - Geberit dürfte auf ein weiteres solides Semesterergebnis ohne allzu grosse Überraschungen zurückblicken.</p>
+<p/><p>Der Sanitärtechnik-Konzern veröffentlicht am Mittwoch, 19. August, die Ergebnisse zum ersten Semester 2026. Insgesamt haben zehn Analysten zum AWP-Konsens beigetragen.</p>
+<p/><pre>H1 2026
+(in Mio Fr.)           AWP-Konsens  H1 2025  
+
+Umsatz                    1'685     1'665
+- Wachstum in LW (%)        4,9       3,9
+EBITDA                      521       514
+- Marge (in %)             30,9      30,9
+Reingewinn                  350       339
+
+</pre><p/><h3>Wie stark fällt das Wachstum aus?</h3>
+<p/><p>Geberit ist im ersten Quartal organisch um 3,4 Prozent gewachsen. Da das Unternehmen schon hatte durchblicken lassen, dass der Umsatz im April im mittleren einstelligen Prozentbereich zugenommen habe und gleichzeitig ausserordentliche Preiserhöhungen wegen der steigenden Inputkosten für Juni angekündigt hatte, rechnen die Analysten durchschnittlich mit einer Beschleunigung der organischen Wachstums im Vergleich zum ersten Quartal. Denn die angekündigten Preiserhöhungen dürften wie meist bei den Grosshändlern zu vorgezogenen Bestellungen geführt haben.</p>
+<p/><h3>Sinkt die Profitabilität?</h3>
+<p/><p>Wegen der höheren Kosten für Energie und Rohmaterialien könnte allenfalls die operative Gewinnmarge auf hohem Niveau leicht zurückgegangen sein. Im Durchschnitt wird zwar eine konstante Marge erwartet, die vorsichtigeren Einschätzungen einzelner werden vor allem mit dem verzögerten Effekt begründet, den nach oben angepasste Preise auf die Rentabilität haben.</p>
+<p/><h3>Was erwartet das Unternehmen?</h3>
+<p/><p>Einen konkreten Ausblick für das Gesamtjahr hatte Geberit mit den Quartalszahlen im Mai wie üblich noch nicht gegeben. Die Einschätzungen für 2026 hätten sich indes seit der Veröffentlichung der Jahreszahlen im März nicht verändert.</p>
+<p/><p>Demnach erwartet Geberit für das Gesamtjahr 2026 in Europa - wo rund 90 Prozent des Umsatzes herkommt - ein insgesamt leichtes Marktwachstum, jedoch keine Erholung. Für das Geschäft mit Neubauten geht das Management von einer stabilen und für das Renovationsgeschäft - das rund 60 Prozent zum Umsatz beiträgt - von einer leicht positiven Entwicklung aus.</p>
+<p/><h3>Was macht die Aktie?</h3>
+<p/><p>Nach dem schönen Plus von gut 20 Prozent im vergangenen Jahr 2025 müssen die Geberit-Aktionäre im laufenden Jahr kleinere Brötchen backen. Nach einem noch guten Start ins laufende Jahr ging es im März um über 100 Franken nach unten. Von diesem Rückschlag hat sich der Titel in den folgenden Monaten nie mehr richtig erholt. Zuletzt ging es wieder über mehrere Tage Talwärts, womit derzeit eine Jahresperformance von rund -13 Prozent resultiert. Innerhalb des SMI gehören Geberit damit zu den Schlusslichtern im Jahresrennen.</p>
+<p/><p>Website: www.geberit.com</p>
+<p/><p>ab/an/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
