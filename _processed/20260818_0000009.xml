@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T094500+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>1178</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:1178:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T094500+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T094500+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Huber+Suhner-Aktien brechen nach unerwartet schwachen Zahlen ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016048"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9100" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197401">
+<Property FormalName="FullName" Value="Huber+Suhner AG" />
+
+<Property FormalName="ShortName" Value="Huber+Suhner" />
+
+<Property FormalName="Telekurs" Value="110693" />
+
+<Property FormalName="CHNr" Value="CH-300.3.010.076-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030380734" />
+
+<Property FormalName="Ticker" Value="HUBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Huber+Suhner (H+S) stehen am Dienstag im frühen Geschäft unter starkem Abgabedruck. Ausser beim Bestellungseingang hat das Unternehmen mit den Halbjahreszahlen die Erwartungen der Analysten verfehlt. Vor allem der Gewinn lag deutlich unter den Prognosen, was auf den Ausbau der Kapazitäten für Optical Circuit Switches (OCS) zurückzuführen ist. In Marktkreisen kommt die negative Reaktion der Aktie auf hohem Niveau nicht überraschend, die Analysten zeigen sich insgesamt wenig beunruhigt.</p>
+<p/><p>Bis um 09.30 Uhr fallen Huber+Suhner um 11 Prozent auf 181,20 Franken zurück, dies bei hohem Handelsvolumen. Allerdings notierte die Aktie per Schlussstand vom Montag trotz des markanten Rückschlags seit Anfang Juni noch immer 40 Prozent über dem Schlusskurs von Ende 2025. Das Abwärtspotential bei einer auch nur leisen Enttäuschung ist also noch immer gross.</p>
+<p/><p>Eine negative Marktreaktion käme angesichts der klar unter den Erwartungen ausgefallenen Gewinnmarge nicht überraschend, heisst es in einer ersten Einschätzung der UBS. Allerdings sei die Marge wegen der Investitionen aus richtigem Grund hinter den Prognosen zurückgeblieben. Und dass die Margenprognose für das Gesamtjahr bestätigt worden sei, lasse auf eine starke Verbesserung im zweiten Semester schliessen.</p>
+<p/><p>Für die Zürcher Kantonalbank hat H+S die Erwartungen ebenfalls vor allem wegen der Vorlaufkosten für die neue Fertigung von optischen Switches in Polen, aber auch wegen der schwachen Auslastung im Bereich Kommunikation verfehlt. Dafür sei im zweiten Halbjahr mit dem stärksten Zuwachs in der Division Kommunikation wegen der steigenden OCS-Lieferungen auszugehen. Die enttäuschenden Halbjahreszahlen sind gemäss der ZKB lediglich eine Delle. Die Aktie sieht die Bank angesichts des zu erwartenden grossen Wachstums der kommenden Jahre noch immer attraktiv bewertet.</p>
+<p/><p>Die Bank Vontobel schlägt ähnlich versöhnliche Töne an. Sehe man von den Investitionen für das künftige Wachstum der OCS ab, sei das Resultat insgesamt solid. Baader Euro wiederum erachtet die Prognosen von H+S angesichts des schwachen ersten Halbjahres als ambitiös.</p>
+<p/><p>cf/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
