@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T223913+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>4199</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:4199:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T223913+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T223913+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Holcim kauft Fermacell für 840 Millionen Euro</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016048"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197403">
+<Property FormalName="FullName" Value="Holcim AG" />
+
+<Property FormalName="ShortName" Value="Holcim" />
+
+<Property FormalName="Telekurs" Value="110323" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.050-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012214059" />
+
+<Property FormalName="Ticker" Value="HOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561525" />
+
+<Property FormalName="Ticker" Value="LAH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263973" />
+
+<Property FormalName="Ticker" Value="LAH210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263981" />
+
+<Property FormalName="Ticker" Value="LAH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887132" />
+
+<Property FormalName="Ticker" Value="LAH22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887140" />
+
+<Property FormalName="Ticker" Value="LAH220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1159841357" />
+
+<Property FormalName="Ticker" Value="LAH221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1564488646" />
+
+<Property FormalName="Ticker" Value="LAH26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1564488653" />
+
+<Property FormalName="Ticker" Value="LAH261" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1564488661" />
+
+<Property FormalName="Ticker" Value="LAH262" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Holcim will das europäische Baustoffunternehmen Fermacell von James Hardie Industries übernehmen. Der Kaufpreis liegt bei 840 Millionen Euro, wie das Unternehmen in einem Communiqué vom Donnerstag schrieb.</p>
+<p/><p>Fermacell stellt Wand-, Boden- und Brandschutzlösungen her und erwartet 2026 einen Umsatz von rund 430 Millionen Euro. Das Unternehmen mit Sitz in Düsseldorf beschäftigt mehr als 1000 Mitarbeitende, ist in 13 europäischen Märkten aktiv und betreibt sechs Produktionsstandorte.</p>
+<p/><p>Holcim rechnet ab dem dritten Jahr mit EBITDA-Synergien von rund 22 Millionen Euro jährlich. Die Übernahme soll den Gewinn je Aktie ab dem ersten Jahr erhöhen.</p>
+<p/><p>Der Abschluss wird in der ersten Hälfte 2027 erwartet. Die Transaktion steht unter dem Vorbehalt üblicher Bedingungen und behördlicher Genehmigungen.</p>
+<p/><p>awp-robot/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
