@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T201315+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>35</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>3894</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:3894:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T201315+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T201315+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sika platziert Hybridanleihe über 1 Milliarde Euro am Markt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04008027"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6341" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197361">
+<Property FormalName="FullName" Value="Sika AG" />
+
+<Property FormalName="ShortName" Value="Sika" />
+
+<Property FormalName="Telekurs" Value="119658" />
+
+<Property FormalName="CHNr" Value="CH-170.3.000.608-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0000587979" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0418792922" />
+
+<Property FormalName="Ticker" Value="SIKA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406990835" />
+
+<Property FormalName="Ticker" Value="SIK182" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0425766513" />
+
+<Property FormalName="Ticker" Value="SIK184" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0425766521" />
+
+<Property FormalName="Ticker" Value="SIK186" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543853" />
+
+<Property FormalName="Ticker" Value="SIK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543861" />
+
+<Property FormalName="Ticker" Value="SIK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1226543879" />
+
+<Property FormalName="Ticker" Value="SIK28" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1253456060" />
+
+<Property FormalName="Ticker" Value="SIK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1253456078" />
+
+<Property FormalName="Ticker" Value="SIK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1253456086" />
+
+<Property FormalName="Ticker" Value="SIK232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614129" />
+
+<Property FormalName="Ticker" Value="SIK240" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614137" />
+
+<Property FormalName="Ticker" Value="SIK241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Baar (awp) - Sika hat eine Hybridanleihe im Gesamtvolumen von 1 Milliarde Euro bei institutionellen Anlegern platziert. Die Emission erfolgte in zwei Tranchen zu je 500 Millionen Euro bis jährlichen Coupons von 4,375 und 4,875 Prozent.</p>
+<p/><p>Der Nettoerlös dient allgemeinen Unternehmenszwecken, wie der Bauchemiehersteller am Mittwoch mitteilte. Dazu zähle die Finanzierung von ergänzenden Akquisitionen sowie der Refinanzierung von bestehenden finanziellen Verbindlichkeiten.</p>
+<p/><p>Die beiden Papiere haben laut den Angaben erste Kündigungstermine 2032 und 2035. Die Transaktion sei zudem so strukturiert, dass sie von S&amp;P eine 50%-Eigenkapitalanrechnung erhalte. S&amp;P habe den Ausblick für Sika eben erst von 'negativ' auf 'stabil' angehoben, so das Communiqué.</p>
+<p/><p>awp-robot/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
