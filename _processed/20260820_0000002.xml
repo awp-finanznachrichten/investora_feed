@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T070017+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>619</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:619:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T070017+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T070017+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Asmallworld steigert Betriebsgewinn im ersten Semester bei tieferen Einnahmen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2037196273">
+<Property FormalName="FullName" Value="Asmallworld AG" />
+
+<Property FormalName="ShortName" Value="Asmallworld" />
+
+<Property FormalName="Telekurs" Value="785627" />
+
+<Property FormalName="CHNr" Value="CH-020.3.038.423-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0404880129" />
+
+<Property FormalName="Ticker" Value="ASWN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Asmallworld hat im ersten Halbjahr 2026 bei einem tieferen Umsatz einen höheren EBITDA erwirtschaftet. Der Fokus auf das Kerngeschäft mit Mitgliedschaften schreite unterdessen voran.</p>
+<p/><p>Konkret sank der Umsatz deutlich auf 5,6 Millionen Franken von 8,8 Millionen im Vorjahreszeitraum, wie das soziale Reise- und Erlebnisnetzwerk für Reiche am Donnerstag mitteilte. Den Rückgang erklärt das Unternehmen damit, dass es nicht-strategische Aktivitäten, darunter Hospitality-Projekte und bestimmte Veranstaltungsaktivitäten, eingestellt hat. Zudem habe es sich stärker auf das Kerngeschäft und margenstärkere Dienstleistungen fokussiert.</p>
+<p/><p>Darüber hinaus verzeichnete die Gruppe tiefere Umsätze mit Mitgliedschaftsprodukten im Zusammenhang mit Emirates Skywards. Dazu trugen unter anderem die Auswirkungen des Konflikts im Nahen Osten und die damit verbundenen Beeinträchtigungen des regionalen Reiseverkehrs bei, heisst es in der Mitteilung weiter.</p>
+<p/><p>Im Rahmen ihrer strategischen Transformation habe die Gruppe zudem ihre Personal- und Technologiestrukturen überprüft. "Die daraus resultierenden Massnahmen führten zu Kosteneinsparungen von mehr als 20 Prozent", heisst es weiter.</p>
+<p/><p>Trotz der tieferen Einnahmen gelang es der Gruppe, ihre Mitgliederbasis gegenüber dem Vorjahr um 23 Prozent zu erhöhen.</p>
+<p/><p>Der Betriebsgewinn (EBITDA) erhöhte Asmallworld denn auch um 11 Prozent auf 0,47 Millionen Franken. Als Gründe dafür nennt das Unternehmen die Kostenmassnahmen, darunter tiefere Personal- und Technologieaufwendungen, sowie die zunehmende Verlagerung des Umsatzmixes hin zu margenstärkeren Dienstleistungen.</p>
+<p/><p>hr/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
