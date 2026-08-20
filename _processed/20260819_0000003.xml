@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T071313+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>841</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:841:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T071313+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T071313+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>LLB steigert Halbjahresgewinn kräftig</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9490" />
+
+</Property>
+
+<Property FormalName="Country" Value="LI" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147194851">
+<Property FormalName="FullName" Value="Liechtensteinische Landesbank AG" />
+
+<Property FormalName="ShortName" Value="LLB" />
+
+<Property FormalName="Telekurs" Value="588287" />
+
+<Property FormalName="CHNr" Value="FL-000.1.000.289-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="LI0355147575" />
+
+<Property FormalName="Ticker" Value="LLBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041527" />
+
+<Property FormalName="Ticker" Value="LLB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536893255" />
+
+<Property FormalName="Ticker" Value="LLB20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1306117040" />
+
+<Property FormalName="Ticker" Value="LLB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910237" />
+
+<Property FormalName="Ticker" Value="LLB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1423931596" />
+
+<Property FormalName="Ticker" Value="LLB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1487332095" />
+
+<Property FormalName="Ticker" Value="LLB251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238538" />
+
+<Property FormalName="Ticker" Value="LLB26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Vaduz (awp) - Die Liechtensteinische Landesbank (LLB) hat im ersten Halbjahr 2026 deutlich mehr verdient. Bei leicht höheren Erträgen profitierte die Bank vor allem von gesunkenen Kosten. Zudem nahmen die verwalteten Vermögen und die Neugeldzuflüsse deutlich zu.</p>
+<p/><p>Der Geschäftsertrag stieg in den ersten sechs Monaten um 0,9 Prozent auf 315,5 Millionen Franken, wie die LLB am Mittwoch mitteilte. Unter dem Strich erhöhte sich der Konzerngewinn aber um 15,3 Prozent auf 105,0 Millionen Franken.</p>
+<p/><p>Zum Ertragswachstum habe insbesondere das Dienstleistungs- und Kommissionsgeschäft beigetragen, heisst es weiter. Dieses legte dank höherer Volumina um 5,9 Prozent zu. Zusätzlich habe eine zeitweise höhere Handelsaktivität im Zuge der geopolitischen Spannungen für Unterstützung gesorgt. Belastend habe sich dagegen das weiterhin tiefe Zinsniveau im Schweizer Franken auf das Zinsengeschäft ausgewirkt.</p>
+<p/><h3>Kosten sinken</h3>
+<p/><p>Der Geschäftsaufwand nahm um 6,8 Prozent auf 190,6 Millionen Franken ab. Im Vorjahr hätten noch Integrationskosten für die Übernahme der ehemaligen ZKB Österreich belastet, wie es heisst. Zudem sei der Personalaufwand dank realisierter Synergien gesunken.</p>
+<p/><p>Damit verbesserte sich auch das Kosten/Ertrags-Verhältnis (Cost-Income-Ratio) deutlich auf 59,5 Prozent von 67,0 Prozent im 2025. Die strategische Zielmarke von höchstens 65 Prozent sei damit klar erreicht worden, heisst es im Bericht.</p>
+<p/><h3>Mehr Neugeld</h3>
+<p/><p>Auch im Kundengeschäft legte die LLB zu. Das Geschäftsvolumen lag mit 132,1 Milliarden Franken 5,0 Prozent über dem Stand von Ende 2025. Die Kundenvermögen stiegen um 5,6 Prozent auf den Rekordwert von 115,0 Milliarden Franken.</p>
+<p/><p>Die Netto-Neugeldzuflüsse erreichten 2,23 Milliarden Franken nach 1,39 Milliarden im Vorjahressemester, was einer annualisierten Wachstumsrate von 4,1 Prozent entspricht. Die Netto-Neukredite beliefen sich auf 211 Millionen Franken nach einem Minus von 239 Millionen im Vorjahr.</p>
+<p/><h3>Ausblick bestätigt</h3>
+<p/><p>Für das Gesamtjahr bleibt die LLB bei ihrer bisherigen Prognose. Angesichts der anhaltenden geopolitischen und wirtschaftlichen Unsicherheiten erwartet die Bank weiterhin ein "solides Ergebnis".</p>
+<p/><p>Die laufende Strategie ACT-26 befinde sich derweil in der Schlussphase, so die LBB. Sämtliche strategischen Zielsetzungen seien erreicht und die Nachfolgestrategie soll am 22. September vorgestellt werden.</p>
+<p/><p>an/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
