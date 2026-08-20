@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T065012+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>589</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:589:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T065011+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T065011+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BCV steigert Halbjahresgewinn trotz tiefer Zinsen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1003" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197582">
+<Property FormalName="FullName" Value="Banque Cantonale Vaudoise" />
+
+<Property FormalName="ShortName" Value="BCV" />
+
+<Property FormalName="Telekurs" Value="26588" />
+
+<Property FormalName="CHNr" Value="CH-550.1.000.040-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0015251710" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0531751755" />
+
+<Property FormalName="Ticker" Value="BCVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0015356667" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lausanne (awp) - Die Waadtländer Kantonalbank (BCV) hat im ersten Halbjahr 2026 trotz Tiefzinsumfelds mehr verdient. Das Finanzinstitut profitierte vor allem vom sonst guten Marktumfeld und damit höheren Kommissions- und Handelserträgen.</p>
+<p/><p>Der Geschäftserfolg als Mass für die operative Leistung stieg laut Mitteilung vom Donnerstag um 5 Prozent auf 263 Millionen Franken, der Reingewinn in derselben Grössenordnung auf 225 Mio Franken. Die Zahlen lagen leicht über den Erwartungen von Analysten.</p>
+<p/><p>Auch beim Geschäftsertrag konnte sich die grösste Westschweizer Kantonalbank steigern, und zwar um 2 Prozent auf 593 Millionen Franken. Der Nettoerfolg aus dem Zinsgeschäft als nach wie vor grösstem Geschäftsfeld blieb dabei mit 268 Millionen Franken unverändert. Die Auswirkungen des Niedrigzinsumfelds seien durch das höhere Kreditvolumen ausgeglichen worden, heisst es dazu.</p>
+<p/><p>Das Hypothekargeschäft wuchs demnach im ersten Semester "in einem nach wie vor dynamischen Immobilienmarkt" um 2 Prozent auf 36,3 Milliarden Franken per Mitte Jahr. Die übrigen Kredite legten mit 3 Prozent auf 6,6 Milliarden gar noch etwas deutlicher zu. Auf der Passivseite nahmen die Kundeneinlagen um 3 Prozent auf 39,4 Milliarden zu.</p>
+<p/><h3>Hoher Neugeldzufluss</h3>
+<p/><p>Der Erfolg aus dem Kommissionsgeschäft, dem zweitwichtigsten Pfeiler der BCV, erhöhte sich derweil um 5 Prozent auf 206 Millionen Franken; dies insbesondere dank dem Vermögensverwaltungsgeschäft, das vom positiven Marktumfeld profitiert habe.</p>
+<p/><p>Hilfreich war auch der Nettoneugeldzufluss von 2,4 Milliarden Franken, der laut Mitteilung sowohl aus dem Retail- und Private-Banking wie auch von institutionellen Kunden stammt. Die verwalteten Vermögen der BCV-Gruppe erhöhten sich um 6 Prozent auf 141,8 Milliarden (+6%).</p>
+<p/><p>Der Erfolg aus dem Handelsgeschäft schliesslich wuchs um 3 Prozent auf 102 Millionen Franken, was unter anderem auf den "erfreulichen Geschäftsgang" bei den strukturierten Produkten zurückzuführen sei. Der übrige ordentliche Erfolg blieb mit 17 Millionen Franken (+1%) mehr oder weniger stabil.</p>
+<p/><h3>Kosten steigen weniger als Erträge</h3>
+<p/><p>Auf der Kostenseite war die Zunahme geringer als auf der Ertragsseite. Der Geschäftsaufwand sei mit 287 Millionen Franken bzw. einem Plus von 2 Prozent "fest unter Kontrolle", schreibt die Bank dazu. Beim Personalaufwand betrug das Plus 1 Prozent, beim Sachaufwand 3 Prozent.</p>
+<p/><p>Einen Ausblick auf das Gesamtjahr gibt die Bank wie üblich nicht. Sie betont in der Mitteilung lediglich, dass Eigenkapital in Höhe von 3,8 Milliarden Franken und die harte Kernkapitalquote (CET1-Quote) von 17,6 Prozent von einer soliden Kapitalbasis der Bank zeugten. Des Weiteren hätten Ratingagenturen zuletzt auch erneut die guten Bonitätsnoten bestätigt.</p>
+<p/><p>uh/dm</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
