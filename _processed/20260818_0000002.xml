@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T071213+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>625</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:625:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T071212+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T071212+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>DSM-Firmenich schlägt Ridinger als neuen VR-Präsidenten vor</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4303" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196377">
+<Property FormalName="FullName" Value="DSM-Firmenich AG" />
+
+<Property FormalName="ShortName" Value="DSM-Firmenich" />
+
+<Property FormalName="Telekurs" Value="635433" />
+
+<Property FormalName="CHNr" Value="CH-400-3451111-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1216478797" />
+
+<Property FormalName="Ticker" Value="DSFIR" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Kaiseraugst (awp) - Thomas Leysen tritt bei DSM-Firmenich als Präsident des Verwaltungsrats zurück. Nachfolger soll Richard Ridinger werden.</p>
+<p/><p>Der schweizerisch-niederländische Konzern schlägt ihn den Aktionären für eine ausserordentliche Generalversammlung am 19. Oktober 2026 zur Wahl vor, wie DSM-Firmenich am Dienstag bekanntgab. Leysen bleibt Verwaltungsrat und Präsident bis zur Wahl seines Nachfolgers.</p>
+<p/><p>Er zieht sich zurück, weil die Integration nach der Fusion abgeschlossen und die strategische Ausrichtung festgelegt sei. Zudem wolle er mehr Zeit für andere Mandate aufwenden.</p>
+<p/><p>Ridinger sitzt seit 2023 im Verwaltungsrat von DSM-Firmenich. Zuvor war er von 2016 bis 2023 Verwaltungsrat bei Firmenich. Der frühere Lonza-Chef ist derzeit unter anderem Verwaltungsratspräsident von Brenntag und Recipharm.</p>
+<p/><p>awp-robot/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
