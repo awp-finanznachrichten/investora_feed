@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T074111+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>722</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:722:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T074109+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T074109+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Huber+Suhner macht wegen des Ausbaus der Kapazitäten weniger Gewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9100" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197401">
+<Property FormalName="FullName" Value="Huber+Suhner AG" />
+
+<Property FormalName="ShortName" Value="Huber+Suhner" />
+
+<Property FormalName="Telekurs" Value="110693" />
+
+<Property FormalName="CHNr" Value="CH-300.3.010.076-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030380734" />
+
+<Property FormalName="Ticker" Value="HUBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Herisau (awp) - Der Industriekonzern Huber+Suhner (H+S) hat im ersten Halbjahr 2026 Umsatz und Auftragseingang gesteigert. Der operative Gewinn und die Marge gingen hingegen wegen Investitionen in den Ausbau der Kapazitäten zurück. An den Prognosen für das Gesamtjahr hält das Unternehmen fest.</p>
+<p/><p>Der Umsatz legte um 2,6 Prozent auf 457,4 Millionen Franken zu und der Auftragseingang um 5,1 Prozent auf 542,8 Millionen, wie der Spezialist für elektrische und optische Verbindungstechnik am Dienstag mitteilte. Organisch, das heisst bereinigt um Währungs-, Kupferpreis- und Portfolioeffekte, ergab sich beim Umsatz ein Plus von 6,0 Prozent.</p>
+<p/><p>Das erste Halbjahr habe ein differenziertes Marktbild gezeigt, heisst es dazu. In einem weiterhin anspruchsvollen Umfeld sei die Investitionstätigkeit in einzelnen Bereichen verhalten ausgefallen. Eine starke Nachfrage habe es hingegen insbesondere im Industriesegment gegeben.</p>
+<p/><h3>Marge sinkt wegen Vorleistungen</h3>
+<p/><p>Der operative Gewinn lag trotz des höheren Umsatzes unter dem Vorjahressemester. Dazu haben "bedeutende" Vorinvestitionen in den Ausbau der Entwicklungs- und Produktionskapazitäten für Optical Circuit Switches (OCS) geführt, für die bereits 2025 signifikante Aufträge eingegangen seien.</p>
+<p/><p>In der Folge ging der EBIT um 8,4 Prozent auf 41,2 Millionen Franken zurück und die entsprechende Marge um 1,1 Prozentpunkte auf 9,0 Prozent. Die Marge lag damit am unteren Ende des Zielbandes von 9 bis 12 Prozent.</p>
+<p/><p>Der Reingewinn lag mit 34,9 Millionen um 4,6 Prozent unter dem Vorjahreswert. Die Schätzungen der Analysten wurden damit mehrheitlich verfehlt, einzig der Auftragseingang war besser als gedacht.</p>
+<p/><p>Für den weiteren Jahresverlauf gibt sich das Unternehmen zuversichtlich. Nebst den anhaltenden Megatrends bilde auch der Auftragsbestand in Höhe von 516,7 Millionen Franken per Ende Juni eine "aussichtsreiche Grundlage" für den weiteren Jahresverlauf und darüber hinaus.</p>
+<p/><p>Eine weiterhin robuste Nachfrage sieht Huber+Suhner im Industriesegment, vor allem in den Teilbereichen Luft-, Raumfahrt und Wehrtechnik sowie Prüf- und Messtechnik. Im Kommunikationssegment hingegen dürften die Bedingungen in den Endmärkten Festnetz und Mobilfunk zunächst anspruchsvoll bleiben.</p>
+<p/><h3>"Deutlich besseres" zweites Semester erwartet</h3>
+<p/><p>Auf Basis des bestehenden OCS-Auftragsbestands sowie der getätigten Vorinvestitionen verspricht sich das Unternehmen im Bereich Rechenzentren einen "deutlichen Mehrumsatz" im zweiten Halbjahr.</p>
+<p/><p>Insgesamt werden die bisherigen Prognosen für das Gesamtjahr 2025 bestätigt. Demnach wird eine Betriebsergebnismarge in der oberen Hälfte des Zielbands von 9 bis 12 Prozent angestrebt sowie ein Umsatzplus gegenüber dem Vorjahr von mindestens 10 Prozent. Das zweite Semester dürfte entsprechend "deutlich besser" ausfallen als das erste.</p>
+<p/><p>cf/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
