@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T075617+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>1005</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:1005:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T075617+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T075617+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>DocMorris macht weitere Fortschritte auf dem Weg zum Breakeven</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8500" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197497">
+<Property FormalName="FullName" Value="DocMorris AG" />
+
+<Property FormalName="ShortName" Value="DocMorris" />
+
+<Property FormalName="Telekurs" Value="087210" />
+
+<Property FormalName="CHNr" Value="CH-440.3.000.262-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0042615283" />
+
+<Property FormalName="Ticker" Value="DOCM" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Steckborn (awp) - DocMorris hat im ersten Halbjahr 2026 den operativen Verlust deutlich eingedämmt. Damit sieht sich die Versandapotheke weiterhin auf Kurs, noch im laufenden Jahr die operative Gewinnschwelle zu überschreiten. Zudem wurden die Jahresziele angehoben.</p>
+<p/><p>Der bereinigte EBITDA lag bei -10,9 Millionen nach -28,8 Millionen Franken im Vorjahreszeitraum, wie das Unternehmen mit Sitz im Thurgau am Mittwoch mitteilte. Unter dem Strich resultierte ein Verlust von 53,1 Millionen Franken (VJ -61,6 Mio). Die Erwartungen der Analysten wurden damit nur knapp erfüllt.</p>
+<p/><p>Umsatzzahlen hatte DocMorris bereits Mitte Juli vorgelegt. Der Aussenumsatz stieg im ersten Halbjahr um knapp 10 Prozent auf 628 Millionen Franken. Das Geschäft mit verschreibungspflichtigen Medikamenten zog gar um 35 Prozent an.</p>
+<p/><h3>Turnaround kommt voran</h3>
+<p/><p>Dabei näherte sich DocMorris im zweiten Quartal der Gewinnschwelle beim bereinigten EBITDA weiter an. So verbesserte sich der bereinigte EBITDA vom ersten zum zweiten Quartal von -6,3 Millionen auf -4,6 Millionen Franken. Dazu beigetragen hätten eine höhere Marketingeffizienz im Rezeptgeschäft und gestiegene Ergebnisbeiträge der vergleichsweise margenstarken Digital Services.</p>
+<p/><p>Im ausgewiesenen EBITDA-Verlust von 20,0 Millionen Franken sind einmalige ausserordentliche Kosten von 7,6 Millionen enthalten. Diese fielen unter anderem für die Umsetzung der "AI-First"-Strategie und die Schliessung des Standorts Ludwigshafen an. Im zweiten Halbjahr sollen sie durch die daraus resultierenden Kosteneinsparungen weitgehend kompensiert werden.</p>
+<p/><p>Am Ziel, die operative Gewinnschwelle bald zu erreichen, hält das Management fest. Das Halbjahresergebnis sowie die ersten Wochen des dritten Quartals gäben zusätzlichen Komfort, den EBITDA-Breakeven in der zweiten Jahreshälfte 2026 zu erreichen, wird Finanzchef Daniel Wüest zitiert.</p>
+<p/><p>Beim freien Cashflow erwartet das Management weiterhin, im Laufe von 2027 in positives Terrain vorzudringen.</p>
+<p/><h3>Jahresziele angehoben</h3>
+<p/><p>Für das Gesamtjahr 2026 wird beim bereinigten EBITDA neu ein Verlust zwischen 10 und 17,5 Millionen Franken erwartet. Davor hatte das Unternehmen ein Minus von 10 bis 25 Millionen in Aussicht gestellt.</p>
+<p/><p>Der Aussenumsatz soll in Lokalwährungen neu um 9 bis 13 Prozent wachsen. Zuvor war das Management von einem Wachstum im mittleren einstelligen bis unteren zweistelligen Prozentbereich ausgegangen.</p>
+<p/><p>Die Mittelfristziele wurden bestätigt: jährliche Wachstumsraten beim Umsatz von rund 15 Prozent und eine EBITDA-Marge von rund 8 Prozent.</p>
+<p/><p>jl/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
