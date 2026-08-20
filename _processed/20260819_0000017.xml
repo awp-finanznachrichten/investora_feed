@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T092817+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>1585</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:1585:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T092817+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T092817+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Geberit-Aktien von starken Halbjahreszahlen beflügelt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8640" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191959">
+<Property FormalName="FullName" Value="Geberit AG" />
+
+<Property FormalName="ShortName" Value="Geberit" />
+
+<Property FormalName="Telekurs" Value="35632" />
+
+<Property FormalName="CHNr" Value="CH-320.3.046.277-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030170408" />
+
+<Property FormalName="Ticker" Value="GEBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041063" />
+
+<Property FormalName="Ticker" Value="GEB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1168499817" />
+
+<Property FormalName="Ticker" Value="GEB227" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367380" />
+
+<Property FormalName="Ticker" Value="GEB22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367398" />
+
+<Property FormalName="Ticker" Value="GEB221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1249416087" />
+
+<Property FormalName="Ticker" Value="GEB232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401883" />
+
+<Property FormalName="Ticker" Value="GEB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430700" />
+
+<Property FormalName="Ticker" Value="GEB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934625" />
+
+<Property FormalName="Ticker" Value="GEB26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Geberit sind am Mittwoch im frühen Handel die klaren Gewinner im SMI. Die am Morgen vorgelegten Zahlen zum ersten Halbjahr 2026 lagen mehrheitlich am oberen Rand der Erwartungen. Positiv gesehen wird zudem die optimistischer als erwartet ausgefallene Prognose für das Umsatzwachstum im Gesamtjahr.</p>
+<p/><p>Gegen 09.20 Uhr springen Geberit in einem freundlichen Gesamtmarkt um 7,4 Prozent auf 565,80 Franken hoch. Allerdings haben die Aktien auch grosses Aufholpotenzial: Bis zum Vorabend hatten die Titel im bisherigen Jahresverlauf um fast 15 Prozent an Wert verloren und gehören damit zu den schwächsten Blue Chips.</p>
+<p/><p>"Geberit gelang im zweiten Quartal 2026 eine überraschend starke Umsatzdynamik", hält die ZKB fest. Zudem habe der EBITDA den Konsens klar und der Ausblick die Erwartungen leicht übertroffen.</p>
+<p/><p>Auch die Zuständigen von Vontobel und der UBS zeigen sich vom erstmals formulierten Umsatzausblick positiv überrascht. Was die Margenguidance betrifft, so liegt diese laut der UBS in etwa im Rahmen der Erwartungen.</p>
+<p/><p>Die Experten von Jefferies loben das Zahlenset ebenfalls. Bezüglich des starken organischen Wachstums im zweiten Quartal stellt das Institut insbesondere die Frage, inwieweit dies auf Vorzieheffekte aufgrund der ausserordentlichen Preiserhöhungen im Juni zurückzuführen ist. Allerdings könne die Nachhaltigkeit der Trends gegeben sein, da Geberit in der Hauptregion Europa eine leichte Verbesserung der Marktbedingungen in Aussicht stelle.</p>
+<p/><p>ls/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
