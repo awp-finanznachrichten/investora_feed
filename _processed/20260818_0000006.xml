@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T080013+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>772</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:772:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T080012+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T080012+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Phoenix Mecano mit Ergebniserholung im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8260" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196816">
+<Property FormalName="FullName" Value="Phoenix Mecano AG" />
+
+<Property FormalName="ShortName" Value="Phoenix Mecano" />
+
+<Property FormalName="Telekurs" Value="218766" />
+
+<Property FormalName="CHNr" Value="CH-290.3.003.640-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1261338102" />
+
+<Property FormalName="Ticker" Value="PMN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Stein am Rhein (awp) - Phoenix Mecano hat mit Blick auf den Umsatz und die Auftragslage ein leicht positives erstes Halbjahr hinter sich. Dafür erholte sich das operative Ergebnis deutlich. Getragen wurde die Entwicklung von der Sparte Industrial Components. Beim Ausblick bleibt das Unternehmen unkonkret.</p>
+<p/><p>Der Bruttoumsatz der Gruppe stieg im ersten Semester 2026 um 2,3 Prozent auf 389,2 Millionen Euro, wie der Komponenten- und Gehäusehersteller am Dienstag mitteilte. Organisch und in Lokalwährungen ergab sich ein Plus von 3,9 Prozent. Im ersten Quartal hatte das Plus 2,2 Prozent betragen.</p>
+<p/><p>Beim Auftragseingang verbuchte Phoenix Mecano einen Anstieg um 2,0 Prozent auf 383,2 Millionen Euro. Die Book-to-bill Ration lag mit 0,98 weiter knapp unter 1. Im Vorjahr war insbesondere die Sparte DewertOkin Technology Group (DOT) durch den Zollkonflikt belastet worden.</p>
+<p/><p>Der Betriebsgewinn auf Stufe EBIT erholte sich nach dem Vorjahrestaucher nun um kräftige 23,5 Prozent auf 26,3 Millionen Euro. Unter dem Strich verdiente Phoenix Mecano mit 14,7 Millionen 2,0 Prozent mehr als im Vorjahr.</p>
+<p/><h3>Industrial Components stark, DOT hinkt weiter</h3>
+<p/><p>Mit Blick auf die Sparten glänzte Industrial Components mit einem Plus beim Bruttoumsatz von knapp 8 Prozent auf 96 Millionen Euro. Das Betriebsergebnis vervielfachte sich auf 8,5 Millionen von zuvor 2,4 Millionen. Zu verdanken sei dies der dynamischen Entwicklung im Geschäftsbereich Measuring Technology sowie der verbesserten Auslastung im Geschäftsbereich Electrotechnical Components.</p>
+<p/><p>Die etwas grössere Sparte Enclosure Systems steigerte den Umsatz um knapp 3 Prozent auf 110,0 Millionen Euro, das Betriebsergebis verbesserte sich auf 16,9 Millionen (VJ 15,2 Mio). Dank entsprechender Lagerhaltung habe die Sparte ihre Kunden im Nahen Osten trotz des Irankonflikts gut versorgen können, so Phoenix Mecano.</p>
+<p/><p>Hingegen sank der Umsatz bei DewertOkin (DOT) um 1,7 Prozent auf 166,8 Millionen Euro, das Betriebsergebnis verringerte sich auf 3,9 Millionen von 5,6 Millionen. Gebremst wurde der Geschäftsgang von der schwachen Verfassung der internationalen Möbelmärkte und Engpässen in der Lieferkette von elektronischen Komponenten, verbunden mit entsprechenden Materialpreiserhöhungen.</p>
+<p/><p>Die Kostenstrukturen in Europa und Asien seien angepasst worden, was allerdings das Ergebnis im ersten Halbjahr belastete. Weitere Massnahmen zur Steigerung der Profitabilität ab 2027 würden geprüft. Zum möglichen Teil-IPO der Sparte DOT gab es keine Neuigkeiten.</p>
+<p/><h3>Ausblick bleibt vage</h3>
+<p/><p>Beim Ausblick hält das Unternehmen an seiner Formulierung ohne konkrete Ziele fest. Die Auswirkungen des Konflikts im Nahen Osten entlang der globalen Lieferketten seien im zweiten Quartal zunehmend spürbar geworden. Trotz dieser Unsicherheiten zeichne sich bei den Industriekunden eine allmähliche Erholung der Investitionsbereitschaft ab.</p>
+<p/><p>Bei DOT dürften die anhaltend hohen Kosten sowie die gedämpfte Investitionsneigung vieler Endkunden die Ertragsentwicklung auch im zweiten Halbjahr belasten. Insgesamt erwartet die Gruppe weiterhin eine Steigerung des Betriebsergebnisses. Zudem bleibe der Fokus auf dem Kostenmanagement.</p>
+<p/><p>dm/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
