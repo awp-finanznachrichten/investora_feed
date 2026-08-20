@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T123416+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>25</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>2369</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:2369:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T123416+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T123416+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Kommission stimmt Erhöhung der Grimselstaumauer zu</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04016027"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3862" />
+
+<Property FormalName="City" Value="3013" />
+
+<Property FormalName="City" Value="8050" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197416">
+<Property FormalName="FullName" Value="Kraftwerke Oberhasli AG" />
+
+<Property FormalName="Telekurs" Value="107387" />
+
+<Property FormalName="CHNr" Value="CH-092.3.002.363-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001982609" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0200044805" />
+
+<Property FormalName="Ticker" Value="OBE13" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0350030422" />
+
+<Property FormalName="Ticker" Value="OBE17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0593093211" />
+
+<Property FormalName="Ticker" Value="OBE21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257939" />
+
+<Property FormalName="Ticker" Value="OBE24" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2073005594">
+<Property FormalName="FullName" Value="BKW AG" />
+
+<Property FormalName="ShortName" Value="BKW" />
+
+<Property FormalName="Telekurs" Value="566152" />
+
+<Property FormalName="CHNr" Value="CH-036.3.050.070-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0130293662" />
+
+<Property FormalName="Ticker" Value="BKW" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0117843745" />
+
+<Property FormalName="Ticker" Value="BKW10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0487087295" />
+
+<Property FormalName="Ticker" Value="BKW019" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179184408" />
+
+<Property FormalName="Ticker" Value="BKW222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011192" />
+
+<Property FormalName="Ticker" Value="BKW24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430866" />
+
+<Property FormalName="Ticker" Value="BKW25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1523562002" />
+
+<Property FormalName="Ticker" Value="BKW26" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2091691271">
+<Property FormalName="FullName" Value="Elektrizitätswerk der Stadt Zürich" />
+
+<Property FormalName="ShortName" Value="EWZ" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-020.8.000.027-8" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp/sda) - Die Bau-, Verkehrs-, Energie- und Raumplanungskommission des Berner Kantonsparlaments unterstützt die beantragte Konzessionsänderung zur Erhöhung der Staumauer des Grimselsees. Sie stützt damit einen Kompromiss zwischen der Stromwirtschaft, Umweltverbänden, der Region und weiteren Beteiligten.</p>
+<p/><p>Die Kommission erachtet die Vereinbarung als ausgewogenen Ausgleich zwischen wirtschaftlichen und ökologischen Interessen, wie die Kommission am Mittwoch mitteilte. Mit der Anhebung des maximalen Wasserspiegels um 23 Meter lässt sich das Energiepotenzial des Stausees von derzeit 270 auf 510 Gigawattstunden steigern.</p>
+<p/><p>Das entspricht dem Jahresverbrauch von rund 53'300 Haushalten und soll vor allem die Schweizer Stromversorgung im Winter stärken. Dazu sollen die Talsperren "Spitallamm" und "Seeuferegg" erhöht werden.</p>
+<p/><p>Da das Vorhaben geschützte Lebensräume tangiert, vereinbarten die Kraftwerke Oberhasli und Umweltverbände umfangreiche Schutz-, Wiederherstellungs- und Ersatzmassnahmen.</p>
+<p/><p>Die Massnahmen sind in den betroffenen Gebieten jedoch teilweise umstritten. Das Berner Kantonsparlament wird das Geschäft in seiner Septembersession beraten.</p>
+<p/><h3>Abwägung Ökonomie und Ökologie</h3>
+<p/><p>Der Grosse Rat hatte einer Erhöhung der Staumauern bereits 2012 zugestimmt. Das Bundesgericht hob den Beschluss jedoch 2020 nach jahrelangem Rechtsstreit auf und wies die Sache zur Neubeurteilung an den Regierungsrat zurück.</p>
+<p/><p>Das Bundesgericht hielt in seinem Urteil damals fest, angesichts der Bedeutung der Erhöhung der Staumauer und damit der Vergrösserung des Stausees, bedürfe es einer Grundlage im kantonalen Richtplan. Auf dieser Planungsebene müssten die Interessen an einer Kapazitätserhöhung und jene des Natur- und Landschaftsschutzes gegeneinander abgewogen werden. Eine solche vollständige Auseinandersetzung habe nicht stattgefunden.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
