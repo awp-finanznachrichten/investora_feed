@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T080414+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>1109</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:1109:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T080414+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T080414+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Burckhardt Compression kündigt erneuten Stellenabbau an</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="09000000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8404" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2122036321">
+<Property FormalName="FullName" Value="Burckhardt Compression Holding Ltd" />
+
+<Property FormalName="ShortName" Value="Burckhardt" />
+
+<Property FormalName="Telekurs" Value="333358" />
+
+<Property FormalName="CHNr" Value="CH-170.3.025.236-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0025536027" />
+
+<Property FormalName="Ticker" Value="BCHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401891" />
+
+<Property FormalName="Ticker" Value="BCH241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="LAB"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Winterthur (awp) - Burckhardt Compression kündigt angesichts einer geringeren Auslastung einen Stellenabbau sowie eine Änderung in der Organisationsstruktur an. Betroffen sind bis zu 220 Stellen, davon bis zu 150 am Standort Winterthur und 70 an internationalen Standorten.</p>
+<p/><p>Neben dem Stellenabbau sollen auch die Organisationsstruktur vereinfacht, ausgewählte Funktionen gebündelt und Geschäftsprozesse optimiert werden, wie der Kompressorenhersteller am Mittwoch mitteilte. Zudem soll die Organisation in Indien weiter gestärkt werden.</p>
+<p/><p>Insgesamt beschäftigt Burckhardt derzeit gut 3300 Mitarbeitende, am Hauptsitz in Winterthur sind es etwas über 1000. Bereits im November hatte das Unternehmen Stellen abgebaut, im Januar war die Zahl der damals betroffenen Stellen in Winterthur auf 68 konkretisiert worden.</p>
+<p/><p>"Die heute angekündigten Massnahmen sind notwendig, um die Wettbewerbsfähigkeit und den nachhaltigen Erfolg von Burckhardt Compression sicherzustellen", wird CEO Fabrice Billard zitiert. Burckhardt sei sich bewusst, dass dies für die potenziell betroffenen Mitarbeitenden Unsicherheit bedeute. Daher werde der Konsultationsprozess "offen und konstruktiv" geführt und die Vorschläge der Arbeitnehmervertretung würden "sorgfältig geprüft".</p>
+<p/><p>Die Konsultationsphase läuft bis zum 9. September, das Ergebnis soll dann Mitte September bekannt gegeben werden, wie ein Sprecher auf Anfrage von AWP sagte.</p>
+<p/><h3>Einmalkosten, Einsparungen und Ausblick</h3>
+<p/><p>Für die Umsetzung rechnet Burckhardt im ersten Halbjahr des laufenden Geschäftsjahres 2026/27 mit einmaligen Restrukturierungsaufwendungen von rund 3 Millionen Franken. Nach der vollständigen Umsetzung der Massnahmen werden jährliche Kosteneinsparungen von rund 20 Millionen Franken erwartet.</p>
+<p/><p>Zudem bestätigte Burckhardt die Guidance für das Gesamtjahr. Anfang Juni hatte der Konzern für 2026/27 einen Umsatz zwischen 900 Millionen und einer Milliarde Franken bei einer EBIT-Marge von rund 12 Prozent in Aussicht gestellt.</p>
+<p/><p>dm/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
