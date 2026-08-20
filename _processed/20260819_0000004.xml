@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T071500+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>844</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:844:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T071500+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T071500+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Landis+Gyr schliesst Aktienrückkauf über 50 Mio Fr. ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04009000"/><Subject FormalName="04016019"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6301" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2040739062">
+<Property FormalName="FullName" Value="Landis+Gyr Group AG" />
+
+<Property FormalName="ShortName" Value="Landis+Gyr" />
+
+<Property FormalName="Telekurs" Value="759506" />
+
+<Property FormalName="CHNr" Value="CH-170.3.035.932-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0371153492" />
+
+<Property FormalName="Ticker" Value="LAND" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="BRF"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Landis+Gyr hat das Ergebnis seines Aktienrückkaufs zu einem Festpreis von 50,00 Franken je Aktie veröffentlicht. Im Rahmen des Angebots wurden 4'106'869 Namenaktien angedient, wie Landis+Gyr am Mittwoch bekanntgab.</p>
+<p/><p>Da das Angebot auf 1'000'000 Aktien beziehungsweise 50 Millionen Franken begrenzt war, erfolgt die Annahme anteilig mit einer Quote von 24,35 Prozent. Die Auszahlung und Lieferung der Aktien sind für Freitag, 21. August 2026, vorgesehen.</p>
+<p/><p>Nach Abschluss des Angebots hält Landis+Gyr 2'285'464 eigene Aktien. Das entspricht 7,91 Prozent des ausstehenden Aktienkapitals.</p>
+<p/><p>Für den verbleibenden Teil der bereits angekündigten Kapitalrückführung von 175 Millionen US-Dollar aus dem Verkauf des Emea-Geschäfts will das Unternehmen ein neues Aktienrückkaufprogramm starten.</p>
+<p/><p>awp-robot/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
