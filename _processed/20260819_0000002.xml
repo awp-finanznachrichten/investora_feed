@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T070719+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>806</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:806:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T070718+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T070718+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Geberit macht im ersten Halbjahr mehr Umsatz</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8640" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191959">
+<Property FormalName="FullName" Value="Geberit AG" />
+
+<Property FormalName="ShortName" Value="Geberit" />
+
+<Property FormalName="Telekurs" Value="35632" />
+
+<Property FormalName="CHNr" Value="CH-320.3.046.277-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030170408" />
+
+<Property FormalName="Ticker" Value="GEBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041063" />
+
+<Property FormalName="Ticker" Value="GEB191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1168499817" />
+
+<Property FormalName="Ticker" Value="GEB227" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367380" />
+
+<Property FormalName="Ticker" Value="GEB22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367398" />
+
+<Property FormalName="Ticker" Value="GEB221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1249416087" />
+
+<Property FormalName="Ticker" Value="GEB232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401883" />
+
+<Property FormalName="Ticker" Value="GEB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430700" />
+
+<Property FormalName="Ticker" Value="GEB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934625" />
+
+<Property FormalName="Ticker" Value="GEB26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Jona (awp) - Geberit hat im ersten Halbjahr 2026 mehr umgesetzt. Dabei hat sich das Wachstumstempo im zweiten Quartal gegenüber dem ersten beschleunigt. Die Gewinnmarge blieb auf hohem Niveau stabil.</p>
+<p/><p>Der Nettoumsatz legte im ersten Semester um 2,8 Prozent auf 1,71 Milliarden Franken zu, wie der Sanitärtechnikkonzern am Mittwoch mitteilte. Darin enthalten sind negative Währungseffekte in der Höhe von 53 Millionen Franken. Werden diese ausgeklammert, ergibt sich ein Plus in Lokalwährungen von 5,9 Prozent.</p>
+<p/><p>Im Vergleich zum organischen Plus von 3,4 Prozent im ersten Quartal hat die Dynamik im zweiten Quartal (+6,6 Prozent in LW) damit klar zugenommen.</p>
+<p/><p>Das Umsatzwachstum im ersten Semester sei vor allem auf ein deutliches Volumenwachstum sowie auf positive Preiseffekte zurückzuführen, heisst es zum Geschäftsverlauf. Einerseits habe sich das Marktumfeld in Europa verbessert, andererseits sei aber auch in den meisten übrigen Regionen und in allen drei Produktbereichen die Nachfrage stark gewesen.</p>
+<p/><h3>Marge von Einmalkosten belastet</h3>
+<p/><p>Der Betriebsgewinn vor Abschreibungen und Amortisationen (EBITDA) zog um 3,0 Prozent auf 529 Millionen Franken an, womit die entsprechende Marge im Vergleich zum Vorjahr stabil bei 30,9 Prozent blieb. Die direkten Materialkosten seien zwar erheblich gestiegen, dank der hohen Verfügbarkeit und effizienten Abläufen in Produktion und Logistik habe sich indes vor allem das Volumenwachstum positiv auf die Margen ausgewirkt.</p>
+<p/><p>Der Reingewinn erhöhte sich dabei um 7,4 Prozent auf 364 Millionen Franken. Mit den vorgelegten Zahlen hat Geberit die Erwartungen der Analysten insgesamt leicht übertroffen.</p>
+<p/><p>Zur Jahreshälfte macht Geberit wie gewohnt erste konkretere Angaben zu den Erwartungen im Gesamtjahr: Demnach erwartet der Bauzulieferer 2026 ein Nettoumsatzwachstum in lokalen Währungen von 5 bis 6 Prozent sowie eine EBITDA-Marge "in etwa auf Vorjahresniveau" (2025: 29,4%).</p>
+<p/><p>cf/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
