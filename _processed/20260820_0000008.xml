@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T114313+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>1975</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:1975:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T114313+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T114313+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SPS steigert die Erträge im Halbjahr und sieht gute Nachfrage</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4601" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191847">
+<Property FormalName="FullName" Value="Swiss Prime Site AG" />
+
+<Property FormalName="ShortName" Value="SPS" />
+
+<Property FormalName="Telekurs" Value="34147" />
+
+<Property FormalName="CHNr" Value="CH-249.3.003.278-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008038389" />
+
+<Property FormalName="Ticker" Value="SPSN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040990" />
+
+<Property FormalName="Ticker" Value="SPS19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0488506681" />
+
+<Property FormalName="Ticker" Value="SPS192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0581947733" />
+
+<Property FormalName="Ticker" Value="SPS200" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0581947816" />
+
+<Property FormalName="Ticker" Value="SPS21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561533" />
+
+<Property FormalName="Ticker" Value="SPS22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222335" />
+
+<Property FormalName="Ticker" Value="SPS23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1319968496" />
+
+<Property FormalName="Ticker" Value="SPS24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852693" />
+
+<Property FormalName="Ticker" Value="SPS241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405471983" />
+
+<Property FormalName="Ticker" Value="SPS25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1498422919" />
+
+<Property FormalName="Ticker" Value="SPS251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1533071135" />
+
+<Property FormalName="Ticker" Value="SPS26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934724" />
+
+<Property FormalName="Ticker" Value="SPS262" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1533150970" />
+
+<Property FormalName="Ticker" Value="SPS265" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der grösste Schweizer Immobilienkonzern SPS hat im ersten Halbjahr 2026 seine Erträge sowohl durch Vermietung als auch im Asset Management weiter gesteigert. Anhaltend positive Neubewertungen trieben zudem den Gewinn zusätzlich nach oben. Am Ausblick hält das Unternehmen fest.</p>
+<p/><p>Zudem hat SPS keine Probleme, neue Mieter zu finden. "Gerade in den Innenstadtlagen und den modernen Gebäuden, in denen wir präsent sind, ist die Nachfrage sehr hoch", sagte CEO Marcel Kucher am Donnerstag im Gespräch mit der Nachrichtenagentur AWP. So sei bei Tech- und KI-Firmen in Zürich fast eine Übernachfrage festzustellen.</p>
+<p/><p>Zudem gehe bei kleineren Flächen die Tendenz mittlerweile hin zu sogenannten Managed Offices. "Es wird mittlerweile verstärkt ein Rund-um-Service gewünscht", sagte Kucher. "Die Firmen wollen die Büros nicht mehr selbst ausstatten. Diese Entwicklung hat sich bereits in den letzten Jahren in London, Paris oder New York gezeigt und findet nun auch den Weg in die Schweiz."</p>
+<p/><h3>Erträge steigen</h3>
+<p/><p>In beiden Segmenten verzeichnete SPS steigende Erträge. So legten die Mieterträge im Immobiliensegment um 2,2 Prozent auf 230,6 Millionen Franken zu. Die Neubewertungen, die CEO Kucher als nachhaltig und nicht rein marktgetrieben ansieht, beliefen sich noch auf 148,0 Millionen nach hohen 216,9 Millionen im Vorjahr. Der Wert des eigenen Immobilienportfolios stieg um 0,6 Prozent auf 14 Milliarden Franken, die Leerstandsquote lag unverändert bei 3,7 Prozent.</p>
+<p/><p>Das zweite Standbein, das Asset Management SPS Solutions, steigerte die Erträge um 5,2 Prozent auf 40,0 Millionen. SPS zog Neugelder in Höhe von 0,95 Milliarden an und damit kletterte das verwaltete Vermögen im Vergleich zum Ende 2025 um 3,5 Prozent auf 14,8 Milliarden.</p>
+<p/><h3>Gewinnentwicklung und Projekte</h3>
+<p/><p>Auch operativ verdiente das Unternehmen mehr. Das für SPS wichtige zahlungswirksame Ergebnis (Funds from Operations, FFO I) lag bei 2,15 Franken je Aktie nach 2,10 Franken im Vorjahr. Der vergleichbare EBITDA ohne Jelmoli-Aktivitäten stieg um 4,4 Prozent auf 207,9 Millionen Franken. Der Reingewinn inklusive Neubewertungen kletterte um gut 17 Prozent auf 192,5 Millionen. Bereinigt um diese stieg der Gewinn um 6,0 Prozent auf 165,7 Millionen.</p>
+<p/><p>SPS ist mit zahlreichen Entwicklungsprojekten unterwegs. Ein Meilenstein sei auf dem Campus Otelfingen erreicht worden. Der Energietechnikkonzern Hitachi Energy habe das Areal als zentralen Produktionsstandort gewählt. Mitte August wurde der entsprechende Kaufvertrag unterzeichnet. Das Areal soll nach Vorliegen der Baubewilligung voraussichtlich Ende 2027 an Hitachi verkauft werden.</p>
+<p/><p>Stark im Blick der Öffentlichkeit steht auch die Neupositionierung des Anfang 2025 geschlossenen traditionsreichen Warenhauses Jelmoli in Zürich. Soweit verlaufe alles nach Plan, erklärte Kucher. Von der Art der Umnutzung könne das Projekt durchaus als Vorlage für andere grosse Warenhäuser, die in dieser Form nicht mehr ganz zukunftsfähig seien, dienen. "Allerdings weist das Jelmoli-Haus durch seine lange Geschichte eine doch hohe Komplexität auf, die man nicht für jedes Objekt haben muss", sagte der CEO.</p>
+<p/><h3>Ausblick bestätigt</h3>
+<p/><p>Am Ausblick für das Gesamtjahr 2026 hält SPS fest. So soll der Mietertrag gesteigert werden, während der Leerstand weiter sinken dürfte. Im Asset Management wird unverändert mit einem Neugeldwachstum von rund 1 Milliarde Franken gerechnet. Bereits im ersten Halbjahr ist SPS mit 0,95 Milliarden an Neugeldern dem Jahresziel mit Blick auf das organische Wachstum sehr nahe gekommen. "Vielleicht können wir hier dann sogar im Gesamtjahr noch eine Schippe drauflegen", so der CEO.</p>
+<p/><p>Der FFO I soll am oberen Ende der Spanne von 4,25 und 4,30 Franken je Aktie zu liegen kommen. Am Kapitalmarkttag im Oktober will SPS dann die Strategie mit den zwei Standbeinen Immobilien und Asset Management vertieft erläutern und auch mittelfristige Finanzziele ausgeben.</p>
+<p/><p>dm/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
