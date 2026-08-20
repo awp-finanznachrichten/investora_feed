@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T065813+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>543</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:543:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T065813+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T065813+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Skan mit deutlichem Umsatz- und Gewinnsprung</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147195814">
+<Property FormalName="FullName" Value="SKAN Group AG" />
+
+<Property FormalName="ShortName" Value="Skan" />
+
+<Property FormalName="Telekurs" Value="135503" />
+
+<Property FormalName="CHNr" Value="CH-035.3.030.001-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0013396012" />
+
+<Property FormalName="Ticker" Value="SKAN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Allschwil (awp) - Bei der Baselbieter Skan Group hat eine geringere Zahl an Projektverschiebungen zu einem deutlichen Anstieg von Umsatz und Gewinn geführt. Geholfen hat auch die erstmalig vollzeitige Konsolidierung der Zukäufe Metronik und ABC Transfer. Daher werden die Ziele für das laufende Jahr bestätigt.</p>
+<p/><p>Der Hersteller von Anlagen für die sterile Abfüllung von Medikamenten verbuchte laut einer Mitteilung vom Dienstag ein Umsatzwachstum um 22,2 Prozent auf 164,5 Millionen Franken. Nach der aussergewöhnlich starken Wachstumsphase während der Covid-Pandemie befinde sich der Markt insgesamt aber in einer Phase der Normalisierung.</p>
+<p/><p>Gleichzeitig kletterte der Auftragseingang um 16,3 Prozent auf 247,6 Millionen Franken, erklärte das Unternehmen. Er umfasse etwa mehrere bedeutende Projekte mit Laufzeiten bis ins Jahr 2028. Der Auftragsbestand liegt bei 442,3 Millionen Franken, das sind fast 28 Prozent mehr als per Ende 2025.</p>
+<p/><p>Der Betriebsgewinn auf Stufe EBITDA lag den Angaben zufolge bei 15,3 Millionen Franken, im Vorjahr hatten gerade einmal 0,9 Millionen herausgeschaut. 2025 hatte Skan vor allem im ersten Semester unter Projektverschiebungen gelitten.</p>
+<p/><p>Die entsprechende Marge sprang damit auf 9,3 Prozent von 0,7 Prozent im Jahr zuvor. Das Unternehmen habe im Berichtszeitraum mehr Projekte in wertschöpfungsintensiven Phasen bearbeitet, hiess es.</p>
+<p/><p>Unter dem Strich schrieb Skan einen Gewinn von 5,4 Millionen Franken, nach einem Fehlbetrag von 8,3 Millionen im Vorjahr.</p>
+<p/><h3>Guidance bestätigt</h3>
+<p/><p>Für das Gesamtjahr 2026 bestätigt Skan die Guidance. Angesichts des aktuellen Geschäftsverlaufs sei die Gruppe zuversichtlich, ihre Jahresziele zu erreichen. Entscheidend hierfür sei eine konsequente Umsetzung im weiteren Jahresverlauf. Für das Gesamtjahr wird eine Steigerung des Nettoumsatzes im oberen Zehnprozentbereich und eine EBITDA-Marge zwischen 13 und 15 Prozent erwartet.</p>
+<p/><p>Der Aufbau der sogenannten "Pre-Approved-Services" wurde weitergeführt, hiess es weiter. Ziel sei es, die Zulassung von Swissmedic im laufenden Jahr zu erhalten. Der Bereich soll dereinst das dritte Standbein von Skan werden.</p>
+<p/><p>Das Kerngeschäft von Skan umfasst die Entwicklung, Herstellung und den Vertrieb von Anlagen und Produkten der Reinraumtechnik und Isolatorentechnik für die Pharmaindustrie. Diese finden auch Anwendung in der Uhren- und der Nahrungsmittelindustrie sowie in Spitälern und Apotheken.</p>
+<p/><p>ra/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
