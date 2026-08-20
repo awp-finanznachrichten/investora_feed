@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T181516+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>33</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>3718</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:3718:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T181516+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T181516+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>System-Teilausfall am Flughafen Zürich behoben</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Titel und Lead nach Behebung des Teilausfalls umgeschrieben, Meldung ausgebaut</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp/sda) - Am Flughafen Zürich wurde ein Teilausfall eines Systems am Mittwochnachmittag wieder behoben. Ab 17.00 Uhr lief der Betrieb wieder normal. Zuvor kam es seit Dienstag zu Verspätungen.</p>
+<p/><p>Die 26 Verspätungen dauerten zwischen drei und 45 Minuten, wie die Flughafen Zürich AG am Mittwochnachmittag mitteilte. Folgeverspätungen im Verlaufe des Abends seien möglich.</p>
+<p/><p>Die konkrete Ursache für den Ausfall werde derzeit noch abgeklärt, hiess es weiter. Ein Cyberangriff könne aber ausgeschlossen werden.</p>
+<p/><p>Der Flughafen bot zusätzliches Personal auf, um die Auswirkungen so gering wie möglich zu halten, wie es am Mittwochvormittag zunächst auf Anfrage von Keystone-SDA hiess. Der Freizeitflugverkehr wurde vorübergehend weitgehend ausgesetzt, um den regulären Flugbetrieb zu priorisieren.</p>
+<p/><h3>Mehr "händische Arbeit"</h3>
+<p/><p>Das betroffene "Apron-Control-System" ist laut Flughafen zuständig für die Abflugsplanung, für die elektronische Koordination mit Skyguide, Eurocontrol und der Standplatzplanung.</p>
+<p/><p>Aufgrund des Ausfalls wurde ein vorbereitetes und trainiertes Verfahren angewendet, schrieb ein Flughafensprecher. Dieses basiere jedoch auf deutlich mehr "händischer Arbeit" und ermögliche daher nicht die gleiche Kapazität wie das System.</p>
+<p/><h3>Einschränkungen bereits am Dienstag</h3>
+<p/><p>Der Teilausfall hatte bereits am Dienstag zu Verspätungen und einzelnen Annullationen geführt, so der Flughafensprecher weiter. Aufgrund des Systemausfalls war es am Dienstag zu acht Landungen ausserhalb der Betriebszeiten nach 23.30 Uhr gekommen. Die letzte Landung erfolgte um 23.55 Uhr.</p>
+<p/><p>Aufgrund der reduzierten Kapazität müsse auch heute Mittwoch mit Verspätungen gerechnet werden. Die Passagiere würden von ihren Airlines über allfällige Verspätungen oder Änderungen zu ihrem Flug informiert.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
