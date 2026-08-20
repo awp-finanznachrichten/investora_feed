@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T134916+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>27</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>2765</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:2765:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T134915+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T134915+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Starke Zahlen, überraschender Wechsel: Straumann vor neuem Kapitel</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193710">
+<Property FormalName="FullName" Value="Straumann Holding AG" />
+
+<Property FormalName="ShortName" Value="Straumann" />
+
+<Property FormalName="Telekurs" Value="850848" />
+
+<Property FormalName="CHNr" Value="CH-280.3.917.651-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1175448666" />
+
+<Property FormalName="Ticker" Value="STMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0551990689" />
+
+<Property FormalName="Ticker" Value="STM201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430833" />
+
+<Property FormalName="Ticker" Value="STM25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Straumann ist in den ersten sechs Monaten weiter gewachsen. Dabei hat der Zahnimplantatehersteller sein Wachstum im zweiten Quartal nochmals beschleunigt gegenüber dem Auftakt. Allerdings rücken die Zahlen angesichts des überraschend angekündigten Chef-Wechsels etwas in den Hintergrund.</p>
+<p/><p>So tritt der langjährige Straumann-Chef Guillaume Daniellot auf Ende November hin zurück. Ab 1. Dezember übernimmt der Schwede Christopher Norbye die Führung, teilte der Konzern am Mittwoch mit. Daniellot begründet seinen Abgang im Gespräch mit AWP vor allem mit dem aus seiner Sicht günstigen Zeitpunkt für einen geordneten Übergang.</p>
+<p/><p>"Straumann befindet sich in einer sehr starken finanziellen Situation, die Strategie liefert die erwarteten Ergebnisse - der Wechsel erfolgt also aus einer Position der Stärke heraus." Die Entscheidung habe er bereits "vor einiger Zeit" getroffen und dem Verwaltungsrat mitgeteilt, dass Dezember 2026 für ihn der richtige Zeitpunkt sei. "Nach 20 Jahren bei Straumann, davon sieben als CEO, war es Zeit für frische Augen."</p>
+<p/><p>Wie sehr Daniellot von den Investoren und Analysten geschätzt wird, zeigt die Kursreaktion: Zum Handelsstart wurden die Papiere zunächst bis auf 90,60 Franken durchgereicht. Mittlerweile gehen sie zu 94,22 Franken (-5,5%) um. Und tatsächlich zeigen sich die Analysten mehrheitlich überrascht über die Nachricht. Der Wechsel stelle einen gewissen Unsicherheitsfaktor dar, heisst es in einem Kommentar.</p>
+<p/><h3>Wachstum zieht im Q2 weiter an</h3>
+<p/><p>Anders sieht es mit den vorgelegten Zahlen aus. Hier ist es Straumann gelungen, zum Teil weiter stark zu wachsen. Die Einnahmen kletterten im ersten Halbjahr auf 1,4 Milliarden Franken, ein Plus von 2,3 Prozent. Organisch, also ohne Akquisitionen und Währungseffekte, betrug das Wachstum 7,8 Prozent (VJ 10,2 %). Dabei hat Straumann nach einem Plus von 7,1 Prozent im ersten Quartal das organische Wachstumstempo im zweiten auf 8,5 Prozent nochmals deutlich beschleunigt.</p>
+<p/><p>Zu dem Wachstum trugen zwar alle Regionen bei, vor allem die USA und China standen aber zuletzt verstärkt im Fokus. In den USA sei die Konsumentenstimmung zwar weiter vorsichtig, der Patientenzulauf aber stabil. "Die Region entwickelte sich weiterhin besser als der zugrunde liegende Implantologiemarkt", heisst es dazu.</p>
+<p/><p>In China wartet Straumann weiterhin auf die nächste Preisreform (VBP 2.0). Diese könnte nun möglicherweise in der zweiten Jahreshälfte beginnen und bereits zu Beginn des Jahres 2027 operativ umgesetzt werden. Allerdings bereitet dies dem scheidenden Chef keine Sorgen: "Wir haben uns rechtzeitig darauf vorbereitet", sagte er AWP.</p>
+<p/><p>Der Betriebsgewinn (EBIT) verbesserte sich auf 351 Millionen Franken von 330 Millionen. Unter dem Strich stieg der Reingewinn auf 251 Millionen (VJ 238 Mio).</p>
+<p/><p>Der vom Straumann-Management in den Vordergrundgrund gestellte operative Kerngewinn ging dagegen leicht auf 355 Millionen Franken zurück (VJ 358 Mio). Die entsprechende Marge lag damit bei 25,7 Prozent nach 26,6 Prozent in der Vorjahresperiode. Das Kernergebnis klammert gewisse Sonderposten aus.</p>
+<p/><h3>Ausblick bestätigt</h3>
+<p/><p>Für das laufende Jahr hatte Straumann bereits im Juni die Margenprognose angehoben. So soll sich die Kern-EBIT-Marge 2026 um 140 bis 170 Basispunkte verbessern. Für den Umsatz peilt Straumann unverändert ein organisches Wachstum im hohen einstelligen Prozentbereich an.</p>
+<p/><p>hr/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
