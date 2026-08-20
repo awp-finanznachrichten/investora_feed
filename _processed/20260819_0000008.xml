@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T072715+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>881</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:881:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T072714+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T072714+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Straumann nach erstem Semester auf Kurs - Bekommt neuen CEO</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193710">
+<Property FormalName="FullName" Value="Straumann Holding AG" />
+
+<Property FormalName="ShortName" Value="Straumann" />
+
+<Property FormalName="Telekurs" Value="850848" />
+
+<Property FormalName="CHNr" Value="CH-280.3.917.651-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1175448666" />
+
+<Property FormalName="Ticker" Value="STMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0551990689" />
+
+<Property FormalName="Ticker" Value="STM201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430833" />
+
+<Property FormalName="Ticker" Value="STM25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Straumann ist in den ersten sechs Monaten deutlich gewachsen. Gut lief das Geschäft dabei vor allem in den Regionen EMEA und Nordamerika. Das Management sieht sich auf gutem Weg, die eigenen Ziele für das Gesamtjahr zu erfüllen. Für Überraschung sorgt derweil der angekündigte Chef-Wechsel.</p>
+<p/><p>Den Umsatz beziffert der Zahnimplantatehersteller in einem Communiqué vom Mittwoch auf 1,38 Milliarden Franken, ein Plus von 2,3 Prozent. Organisch, also ohne Akquisitionen und Währungseffekte, betrug das Wachstum 7,8 Prozent (VJ 10,2 %).</p>
+<p/><h3>Alle Regionen wachsen</h3>
+<p/><p>Nach wie vor entwickeln sich die einzelnen Regionen sehr unterschiedlich: So legten die Umsätze in der wichtigsten Region Europa, Naher Osten &amp; Afrika nach sechs Monaten organisch um 8,2 Prozent auf gut 573 Millionen zu. In Nordamerika kletterten die Einnahmen um 8,1 Prozent während Straumann in Asien um 4,2 Prozent und in Lateinamerika gar zweistellig um 15,4 Prozent wuchs.</p>
+<p/><p>Vor allem die USA und China standen zuletzt verstärkt im Fokus. In den USA sei die Konsumentenstimmung zwar weiter vorsichtig, der Patientenzulauf aber stabil. "Die Region entwickelte sich weiterhin besser als der zugrunde liegende Implantologiemarkt", heisst es dazu.</p>
+<p/><p>In China wartet Straumann weiterhin auf die nächste Preisreform (VBP 2.0). Diese könnte nun möglicherweise in der zweiten Jahreshälfte beginnen und bereits zu Beginn des Jahres 2027 operativ umgesetzt werden.</p>
+<p/><p>Der Betriebsgewinn (EBIT) verbesserte sich auf 351 Millionen Franken von 330 Millionen. Unter dem Strich stieg der Reingewinn auf 251 Millionen (VJ 238Mio).</p>
+<p/><p>Der vom Straumann-Management in den Vordergrundgrund gestellte operative Kerngewinn ging dagegen leicht auf 355 Millionen Franken zurück (VJ 358 Mio). Die entsprechende Marge lag damit bei 25,7 Prozent nach 26,6 Prozent in der Vorjahresperiode. Das Kernergebnis klammert gewisse Sonderposten aus.</p>
+<p/><p>Insgesamt hat Straumann etwas über den Erwartungen der Analysten abgeschnitten.</p>
+<p/><h3>Ausblick bestätigt</h3>
+<p/><p>Für das laufende Jahr hatte Straumann bereits im Juni die Margenprognose angehoben. So soll sich die Kern-EBIT-Marge 2026 um 140 bis 170 Basispunkte verbessern. Für den Umsatz peilt Straumann unverändert ein organisches Wachstum im hohen einstelligen Prozentbereich an.</p>
+<p/><p>Für Gesprächsstoff sorgt derweil die neue CEO-Besetzung. Straumann hat Christopher Norbye per 1. Dezember 2026 zum neuen operativen Leiter ernannt. Er folgt auf Guillaume Daniellot, der nach fast 20 Jahren im Unternehmen und sieben Jahren als CEO zurücktritt.</p>
+<p/><p>hr/gab</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
