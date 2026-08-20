@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T073310+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>698</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:698:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T073310+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T073310+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>PSP Swiss Property im ersten Halbjahr mit deutlichem Gewinnsprung</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191827">
+<Property FormalName="FullName" Value="PSP Swiss Property AG" />
+
+<Property FormalName="ShortName" Value="PSP Swiss Property" />
+
+<Property FormalName="Telekurs" Value="65443" />
+
+<Property FormalName="CHNr" Value="CH-170.3.023.076-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0018294154" />
+
+<Property FormalName="Ticker" Value="PSPN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633807" />
+
+<Property FormalName="Ticker" Value="PSP19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041220" />
+
+<Property FormalName="Ticker" Value="PSP192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239060" />
+
+<Property FormalName="Ticker" Value="PSP200" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0488506665" />
+
+<Property FormalName="Ticker" Value="PSP194" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071361" />
+
+<Property FormalName="Ticker" Value="PSP204" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0515152475" />
+
+<Property FormalName="Ticker" Value="PSP205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1239464816" />
+
+<Property FormalName="Ticker" Value="PSP231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916830" />
+
+<Property FormalName="Ticker" Value="PSP232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1306117131" />
+
+<Property FormalName="Ticker" Value="PSP24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1337248962" />
+
+<Property FormalName="Ticker" Value="PSP242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904353" />
+
+<Property FormalName="Ticker" Value="PSP243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904361" />
+
+<Property FormalName="Ticker" Value="PSP244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1446452323" />
+
+<Property FormalName="Ticker" Value="PSP25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990171" />
+
+<Property FormalName="Ticker" Value="PSP251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1537606811" />
+
+<Property FormalName="Ticker" Value="PSP262" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - PSP Swiss Property hat im ersten Halbjahr 2026 den Gewinn deutlich gesteigert. Dazu beigetragen hat insbesondere der Verkauf des Richtiparks in Wallisellen. Für das Gesamtjahr bestätigt die Immobiliengesellschaft die Ende Juni angehobene Prognose.</p>
+<p/><p>Der Liegenschaftsertrag von PSP verharrte im ersten Halbjahr mit 174,0 Millionen Franken mehr oder weniger auf dem Vorjahreswert, wie es am Dienstag in einer Mitteilung heisst. Der Betriebsgewinn (EBITDA ohne Liegenschaftserfolge) stieg derweil um 26 Prozent auf 187,4 Millionen Franken. Positiv wirkte sich primär der Verkauf des Entwicklungsprojekts Richtipark in Wallisellen aus. Die Liegenschaften wurden für 150 Millionen verkauft.</p>
+<p/><p>Die Neubewertungen erreichten 111,9 Millionen Franken und waren damit leicht tiefer als im Vorjahr. Unter dem Strich blieb ein 22 Prozent höherer Reingewinn von 236,5 Millionen Franken. Beim Gewinn ohne Liegenschaftserfolge war das Plus mit gut 40 Prozent noch etwas höher.</p>
+<p/><p>Damit hat PSP die Erwartungen der Analysten beim EBITDA vor Neubewertungen und beim Reingewinn deutlich übertroffen, beim Liegenschaftsertrag hingegen knapp verfehlt.</p>
+<p/><p>Ende Juni lag der Leerstand im 10,2 Milliarden Franken schweren Immobilienportfolio bei 4,0 Prozent nach 3,5 Prozent Ende 2025. Der vorübergehende Anstieg hängt laut PSP vor allem damit zusammen, dass das fertiggestellte Entwicklungsprojekt "Hôtel des Postes" in Lausanne neu zum Anlageportfolio zählt.</p>
+<p/><h3>Jahresprognose bestätigt</h3>
+<p/><p>Für das Gesamtjahr 2026 hatte PSP infolge des Richtipark-Verkaufs Ende Juni die Guidance erhöht, was nun bestätigt wurde. Das Unternehmen rechnet weiterhin mit einem EBITDA ohne Liegenschaftserfolge von 335 Millionen Franken sowie mit einer Leerstandsquote von 3,5 Prozent.</p>
+<p/><p>Für den Schweizer Immobilienmarkt erwartet PSP im laufenden Jahr weiterhin eine positive Entwicklung. Insbesondere die Nachfrage nach hochwertigen Büro- und Geschäftsflächen an zentralen Standorten dürfte robust bleiben.</p>
+<p/><p>Das Management sieht sich laut Mitteilung gut positioniert für ein "solides" Geschäftsergebnis und will an der bisherigen Dividendenpolitik festhalten. Am Transaktionsmarkt will PSP weiterhin selektiv vorgehen. Im Fokus stünden hochwertige Liegenschaften an erstklassigen Standorten mit mittel- bis langfristigem Wertsteigerungspotenzial. Das Angebot an Objekten, die den eigenen Qualitätsanforderungen entsprechen, sei allerdings begrenzt, heisst es.</p>
+<p/><p>yz/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
