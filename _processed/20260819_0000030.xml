@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T154115+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>30</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>3322</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:3322:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T154114+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T154114+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Novavest steigert Gewinn im ersten Halbjahr deutlich</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2063839092">
+<Property FormalName="FullName" Value="Novavest Real Estate AG" />
+
+<Property FormalName="ShortName" Value="Novavest" />
+
+<Property FormalName="Telekurs" Value="619641" />
+
+<Property FormalName="CHNr" Value="CH-020.3.038.425-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0212186248" />
+
+<Property FormalName="Ticker" Value="NREN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="NAV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Immobilienfirma Novavest hat im ersten Halbjahr 2026 den Gewinn deutlich gesteigert. Für das zweite Semester ist das Unternehmen optimistisch.</p>
+<p/><p>Der Gewinn inklusive Neubewertungserfolg kletterte laut der Mitteilung vom Mittwochnachmittag um ein Viertel auf 20,1 Millionen Franken. Ohne Neubewertungserfolg, der sich im ersten Semester auf 6,0 Millionen belief, verbesserte sich das Ergebnis um knapp ein Fünftel auf 15,2 Millionen.</p>
+<p/><p>Der Mietertrag fiel auf 20,7 Millionen Franken von 21,2 Millionen im Vorjahreszeitraum. Auf vergleichbarer Basis legten die Mieterträge der weiterhin gehaltenen Liegenschaften allerdings um 3,1 Prozent zu, wie es im Communiqué heisst. Dabei half die leicht tiefere Leerstandsquote von 1,9 Prozent; per Ende 2025 hatte sie noch bei 2,0 Prozent gelegen.</p>
+<p/><p>Aus dem Verkauf von sieben Liegenschaften erzielte Novavest zudem einen Gewinn von 3,6 Millionen Franken. Der Wert des Immobilienportfolios sank per Ende Juni auf 946,1 Millionen Franken nach gut 1,0 Milliarden Ende 2025.</p>
+<p/><p>Novavest weist zudem einen Net Asset Value (NAV) von 43,74 Franken pro Aktie aus (Ende 2025: 43,22 Fr.). Zudem wurde die Fremdbelehnungsquote auf 48,8 von 51,8 Prozent reduziert.</p>
+<p/><h3>Positive Lage</h3>
+<p/><p>Für das zweite Halbjahr 2026 geht Novavest von einer weiterhin positiven Lage im Schweizer Immobilienmarkt aus. Die Strategie mit Fokus auf "Wohnen für Jung und Alt" soll es der Gesellschaft ermöglichen, von der anhaltend hohen Nachfrage nach Wohnraum und der demografischen Entwicklung zu profitieren, heisst es in der Mitteilung.</p>
+<p/><p>Das bestehende Portfolio beinhalte zudem Entwicklungsreserven, die weiteres organisches Wachstum und Ertragsverbesserungen ermöglichten. Gleichzeitig sollen Liegenschaften weiterhin gezielt und selektiv veräussert werden, wenn deren Ertrags- und Wertentwicklung ihren Zenit erreicht habe oder sie mittel- bis langfristig nicht mehr zur Strategie passten.</p>
+<p/><p>hr/yz/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
