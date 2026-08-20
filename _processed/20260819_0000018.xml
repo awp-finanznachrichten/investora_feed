@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T094317+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>1625</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:1625:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T094317+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T094317+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Straumann-Aktien sacken mit überraschendem CEO-Wechsel ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193710">
+<Property FormalName="FullName" Value="Straumann Holding AG" />
+
+<Property FormalName="ShortName" Value="Straumann" />
+
+<Property FormalName="Telekurs" Value="850848" />
+
+<Property FormalName="CHNr" Value="CH-280.3.917.651-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1175448666" />
+
+<Property FormalName="Ticker" Value="STMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0551990689" />
+
+<Property FormalName="Ticker" Value="STM201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430833" />
+
+<Property FormalName="Ticker" Value="STM25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Straumann sind am Mittwoch zum Handelsstart regelrecht abgesackt, haben sich mittlerweile aber wieder etwas gefangen. Während die Halbjahreszahlen des Dentalimplantateherstellers als solide empfunden werden, sorgt der überraschende Chef-Wechsel für lange Gesichter bei den Analysten.</p>
+<p/><p>Gegen 9.35 Uhr liegen die Titel noch um 6,2 Prozent tiefer bei 93,50 Franken. Zum Handelsstart waren sie bis auf 90,60 Franken abgesackt. Der SMIM der mittelgrossen Werte verliert zeitgleich 0,29 Prozent.</p>
+<p/><p>In ihren Kommentaren ähneln sich die Analysten, indem sie den Zahlen diverse positive Aspekte und ermutigende Signale abringen können. Dagegen bedauern sie einstimmig den Abgang des bisherigen Straumann-Chefs Guillaume Daniellot per Ende November. Wie der zuständige UBS-Experte schreibt, habe Daniellot bei Investoren ein hohes Ansehen genossen. Für Bernstein steigt damit zunächst die Unsicherheit. Bei der ZKB moniert der zuständige Experte, dass Straumann den Wechsel als geplant darstelle, er dies allerdings zum ersten Mal höre.</p>
+<p/><p>Derweil werten die Experten die Zahlen als gut. Dabei habe vor allem die Geschäftsentwicklung in Nordamerika positiv überrascht und auch Asien-Pazifik hätte ohne China stark abgeschnitten. In China sei aber immerhin eine sequenzielle Verbesserung auszumachen, ergänzt die Bernstein-Expertin beim Blick auf das erste und zweite Quartal.</p>
+<p/><p>hr/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
