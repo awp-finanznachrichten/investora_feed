@@ -420,3 +420,21 @@ warning: in the working copy of 'XML_News/20260818_0000014.xml', LF will be repl
  4 files changed, 204 insertions(+), 18 deletions(-)
  create mode 100644 XML_News/20260818_0000014.xml
  create mode 100644 _processed/20260818_0000014.xml
+To https://github.com/awp-finanznachrichten/investora_feed.git
+   6893f2eaf..ae888544f  master -> master
+[1] "XML data extracted"
+1 connection(s) closed.
+Joining with `by = join_by(picture_name)`
+[1] "Picture selected: 88387857.jpg"
+[1] NA
+[1] "company"
+[1] "Geberit"
+1 connection(s) closed.
+warning: in the working copy of 'MAIN_PROCESS.Rout', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'XML_Feed/XML_Feed_Investora_News.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'XML_News/20260818_0000014.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'XML_News/20260818_0000015.xml', LF will be replaced by CRLF the next time Git touches it
+[master 53ec098c8] commit from Rstudio
+ 4 files changed, 263 insertions(+), 22 deletions(-)
+ create mode 100644 XML_News/20260818_0000015.xml
+ create mode 100644 _processed/20260818_0000015.xml
