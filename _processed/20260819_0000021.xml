@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T113856+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>21</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>868</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:868:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T113856+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T113856+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Korr: Emmi steigert Absatz und Profitabilität - USA bleiben Sorgenkind</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Korrigiert im 5. Abschnitt nach dem Lead: Umsatzanteil Heimmarkt Schweiz knapp 40 Prozent statt rund die H&#228;lfte; Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>C</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6005" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198196">
+<Property FormalName="FullName" Value="Emmi AG" />
+
+<Property FormalName="ShortName" Value="Emmi" />
+
+<Property FormalName="Telekurs" Value="123722" />
+
+<Property FormalName="CHNr" Value="CH-100.3.020.084-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012829898" />
+
+<Property FormalName="Ticker" Value="EMMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0368697758" />
+
+<Property FormalName="Ticker" Value="EMF171" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1146382481" />
+
+<Property FormalName="Ticker" Value="EMF21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1289657111" />
+
+<Property FormalName="Ticker" Value="EMF23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011283" />
+
+<Property FormalName="Ticker" Value="EMF24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011291" />
+
+<Property FormalName="Ticker" Value="EMF241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011309" />
+
+<Property FormalName="Ticker" Value="EMF242" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Luzern (awp) - Emmi hat im ersten Halbjahr dank höherer Absatzmengen stärker zugelegt als erwartet und die Profitabilität gesteigert. Die Strategie mit höherwertigen Produkten zahlt sich zunehmend aus. Doch das schwache US-Geschäft, höhere Kosten und bremsende Sondereffekte im zweiten Halbjahr trüben das Bild.</p>
+<p/><p>Der Umsatz des Milchverarbeiters stieg um 2,2 Prozent auf 2,32 Milliarden Franken. Die starke Schweizer Währung kostete Emmi 2,1 Prozentpunkte Wachstum. Organisch - also ohne Währungs- und Übernahmeeffekte - betrug das Plus gar 3,6 Prozent und fiel damit klar höher aus als erwartet.</p>
+<p/><p>Bemerkenswert ist vor allem, wie das Wachstum zustande kam: Die verkauften Mengen beziehungsweise der Produktmix legten um satte 4,1 Prozent zu. Die Preise gingen wegen tieferer Milchpreise dagegen um 0,5 Prozent zurück.</p>
+<p/><h3>Neuer Fertigdrink Matcha Latte ist ein Hit</h3>
+<p/><p>Damit scheint die Strategie mit höherwertigen Produkten zunehmend aufzugehen. Die vier Nischen Nutrition+, trinkfertiger Kaffee, Premium-Desserts und Spezialitätenkäse machen inzwischen rund 40 Prozent des Umsatzes aus und wuchsen überdurchschnittlich. Besonders Protein- und funktionale Milchprodukte legten zweistellig zu.</p>
+<p/><p>Auch der neu auf den Markt gebrachte gekühlte Fertigdrink Matcha Latte setzte Wachstumsimpulse. Er zählt nach Angaben von Konzernchefin Ricarda Demarmels zu Emmis stärksten Innovationen.</p>
+<p/><p>Geografisch ist das Bild unterschiedlich. Besonders gut liefen die Schweiz sowie Brasilien, Chile und Mexiko. Im wichtigen Heimmarkt Schweiz mit knapp 40 Prozent des Gesamtumsatzes wuchs Emmi organisch genau im Konzernschnitt, dies allerdings trotz eines ab Februar um 4 Rappen tieferen Milchpreises, den Emmi jeweils an die Konsumenten weitergibt.</p>
+<p/><p>Schwachpunkt blieb dagegen der US-Markt. Dort waren die Volumen gar rückläufig. Grund war die allgemeine Konsumflaute im Land. Zudem belasteten Zölle und Währungseffekte das Geschäft mit importiertem Schweizer Käse.</p>
+<p/><p>Gute Geschäfte in Lateinamerika konnten die US-Probleme indes auffangen. In den USA will Emmi laut Aussagen von Konzernchefin Ricarda Demarmels im zweiten Halbjahr wieder auf den Wachstumspfad zurückkehren.</p>
+<p/><p>In Europa legte Emmi organisch mit 2,7 Prozent unterdurchschnittlich zu. Desserts und Ziegenmilchpulver in den Niederlanden liefen gut. Caffè Latte blieb dagegen in mehreren Ländern trotz der erfolgreichen Lancierung des Matcha Latte hinter den Erwartungen zurück.</p>
+<p/><p>Besonders stark wuchs die vom Gesamtumsatz her weniger wichtige Division Global Trade mit einem organischen Plus von 10,1 Prozent. Treiber waren höhere Entlastungsexporte von Butter und Magermilchpulver sowie eine steigende Nachfrage nach Emmi-Joghurts aus Schweizer Milch in Asien.</p>
+<p/><h3>Höhere Kosten bremsen</h3>
+<p/><p>Insgesamt konnte Emmi auch die Profitabilität verbessern. Das Unternehmen verdankt sie vor allem dem wachsenden Anteil höherwertiger Produkte sowie Produktivitäts- und Beschaffungsverbesserungen. Höhere Personal- und Logistikkosten zehrten einen Teil dieser Fortschritte allerdings wieder auf.</p>
+<p/><p>Der Betriebsgewinn auf Stufe EBIT stieg um 4,8 Prozent auf 152,3 Millionen Franken, die Marge auf 6,6 von 6,4 Prozent.</p>
+<p/><p>Unter dem Strich blieb Emmi etwas weniger vom Gewinnwachstum: Der Reingewinn stieg um 3,7 Prozent auf 100,9 Millionen Franken. Grund waren höhere Gewinnanteile, die an Mitaktionäre der gut laufenden Gesellschaften in Lateinamerika gingen.</p>
+<p/><h3>Aktie taucht</h3>
+<p/><p>Für das Gesamtjahr wird Emmi beim Umsatz etwas zuversichtlicher und erwartet nun 2 bis 3 Prozent organisches Wachstum statt 1 bis 3 Prozent. Dagegen bleiben die Ziele für den EBIT und die Reingewinnmarge unverändert.</p>
+<p/><p>Im zweiten Halbjahr wird sich das ausgewiesene Wachstum klar verlangsamen. Ein befristeter Schweizer Grossauftrag fällt weg und der tiefere Milchpreis schlägt stärker auf den Umsatz durch. Ohne diese temporären Effekte sieht Emmi die zugrunde liegende Wachstumsdynamik aber als solide an.</p>
+<p/><p>Bei den Analysten kam vor allem das starke Volumenwachstum gut an. Gleichzeitig sorgten die nur bestätigten Gewinnziele und die erwartete Verlangsamung im zweiten Halbjahr für Zurückhaltung. Die Emmi-Aktien verloren in einem positiven Gesamtmarkt am Morgen zeitweise über 2 Prozent.</p>
+<p/><p>to/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
