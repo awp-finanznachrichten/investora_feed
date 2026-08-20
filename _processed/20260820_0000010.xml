@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T183312+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>3718</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:3718:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T183312+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T183312+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Hypothekarbank Lenzburg steigert Gewinn im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="5600" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197616">
+<Property FormalName="FullName" Value="Hypothekarbank Lenzburg" />
+
+<Property FormalName="ShortName" Value="Hypi Lenzburg" />
+
+<Property FormalName="Telekurs" Value="28711" />
+
+<Property FormalName="CHNr" Value="CH-400.3.903.227-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001341608" />
+
+<Property FormalName="Ticker" Value="HBLN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lenzburg (awp) - Die Hypothekarbank Lenzburg hat im ersten Halbjahr 2026 den Gewinn gesteigert. Trotz eines rückläufigen Zinsengeschäfts profitierte die Bank von höheren Erträgen im Anlagegeschäft und einer tieferen Kostenbasis.</p>
+<p/><p>Der Geschäftsertrag stieg um 2,2 Prozent auf 69,5 Millionen Franken, wie die Bank am Donnerstag nach Börsenschluss mitteilte. Der Geschäftserfolg als Mass für die operative Entwicklung sprang gar um 37 Prozent auf 10,3 Millionen. Unter dem Strich nahm der Konzerngewinn um 16 Prozent auf 9,1 Millionen Franken zu.</p>
+<p/><p>Im Zinsengeschäft musste die Bank dagegen Einbussen hinnehmen. Der Netto-Erfolg ging um 6,1 Prozent auf 37,8 Millionen Franken zurück. Das Institut verwies auf ein anspruchsvolles Umfeld mit einem SNB-Leitzins bei 0 Prozent.</p>
+<p/><p>Bei den Hypothekarforderungen legte die Hypi leicht zu. Diese stiegen gegenüber Ende 2025 um 0,2 Prozent auf 4,93 Milliarden Franken. Die Kundeneinlagen gingen dagegen um 0,7 Prozent auf 6,51 Milliarden zurück.</p>
+<p/><p>Grund dafür war laut Bank die gezielte Reduktion von Geldern institutioneller Kunden. Bei Privatkonten und Spareinlagen wurden hingegen Zuflüsse von 4,1 beziehungsweise 2,9 Prozent verzeichnet.</p>
+<p/><p>Das Ergebnis im Kommissions- und Dienstleistungsgeschäft verbesserte sich um 3,4 Prozent auf knapp 14,0 Millionen Franken. Besonders deutlich legten die Erträge aus dem Wertschriften- und Anlagegeschäft zu. Der Erfolg aus dem Handelsgeschäft blieb mit 6,3 Millionen Franken dagegen praktisch stabil.</p>
+<p/><p>Der Geschäftsaufwand sank unterdessen um 4,3 Prozent auf 50,5 Millionen Franken. Während der Personalaufwand um 6,0 Prozent auf 34,1 Millionen zunahm, ging der Sachaufwand um gut 20 Prozent auf 16,4 Millionen zurück.</p>
+<p/><p>Für das zweite Halbjahr erwartet die Bank weiter steigende Erträge im Anlagegeschäft. Zusätzliche Impulse sollen aus dem Vorsorgegeschäft kommen, nachdem die bankeigenen Vorsorgestiftungen für Säule-3a- und Freizügigkeitsgelder den Betrieb aufgenommen haben.</p>
+<p/><p>Im Finanzierungsgeschäft rechnet die Bank dagegen weiterhin mit einem anspruchsvollen Umfeld. Bei der Vergabe von Hypothekarkrediten werde ein moderates Wachstum angestrebt.</p>
+<p/><p>yz/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
