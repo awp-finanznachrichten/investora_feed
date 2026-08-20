@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T073512+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>707</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:707:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T073511+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T073511+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Medartis erhöht nach dynamischem Halbjahr Umsatzprognose</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4057" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2120618822">
+<Property FormalName="FullName" Value="Medartis Holding AG" />
+
+<Property FormalName="ShortName" Value="Medartis" />
+
+<Property FormalName="Telekurs" Value="785248" />
+
+<Property FormalName="CHNr" Value="CH-270.3.011.921-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0386200239" />
+
+<Property FormalName="Ticker" Value="MED" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Medartis ist in den ersten sechs Monaten 2026 schwungvoll gewachsen. Für 2026 erhöht das Orthopädieunternehmen seine bisherige Zielsetzung für das Umsatzwachstum.</p>
+<p/><p>Der Kernumsatz zog in den ersten sechs Monaten auf gut 160 Millionen Franken an. Dies entspricht zu konstanten Wechselkursen einem organischen Plus von 17,0 Prozent gegenüber dem Vorjahr, wie das Unternehmen am Dienstag mitteilte. In der Berichtswährung Franken wäre das Plus mit 13,7 Prozent etwas kleiner ausgefallen.</p>
+<p/><p>Medartis orientiert sich seit mehr als einem Jahr an diesen alternativen Leistungskennzahlen. Sie schliessen einmalige Effekte und Abschreibungen auf immaterielle Vermögenswerte aus M&amp;A-Projekten aus.</p>
+<p/><p>Mit Blick auf die Regionen, wuchs das Geschäft in den USA und der grössten Region EMEA besonders dynamisch. Dabei war in der EMEA-Region das erste Quartal besonders stark, als strenge Winterbedingungen zu einem Anstieg der Unfallzahlen in der DACH-Region und in Polen führten.</p>
+<p/><h3>Daumenprothese besser als erwartet</h3>
+<p/><p>Es ist aber vor allem das US-Wachstum, das mit einem organischen Umsatzplus von 27,4 Prozent auf gute 30 Millionen Franken besonders stark ausfiel - und dies obwohl der schwache US-Dollar den Umsatz um 11 Prozentpunkte schmälerte. Dabei hat sich die Daumenprothese 'Touch' als wichtigster Wachstumsfaktoren in den USA erwiesen. "Angesichts der seit Jahresbeginn verzeichneten Dynamik hat das Management seine ursprüngliche Stückzahlprognose für 2026 von 1200 auf 1800 Touch-Einheiten angehoben", heisst es in der Mitteilung.</p>
+<p/><p>Auf Gewinnseite weist Medartis beim Kern-EBITDA 28,8 Millionen Franken aus, ein Anstieg um 7 Millionen Franken. Die entsprechende Marge liegt bei 18,0 Prozent (VJ 17,8%). Unter dem Strich resultierte ein Kern-Gewinn von 6,8 Millionen Franken, nachdem im Vorjahr ein Verlust von 0,4 Millionen zu Buche stand. Die gesteigerte Profitabilität sei unter anderem auch dem vorteilhaften Produktmix zu verdanken gewesen.</p>
+<p/><p>Für den weiteren Geschäftsverlauf zeigt sich das Management um CEO Matthias Schupp noch etwas zuversichtlicher als bislang. So soll im laufenden Jahr der Kernumsatz neu um 17 bis 19 Prozent wachsen nach zuvor erwarteten 16 bis 18 Prozent. Die Kern-EBITDA-Marge soll weiterhin im hohen zehnprozentigen Bereich liegen.</p>
+<p/><p>hr/dm</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
