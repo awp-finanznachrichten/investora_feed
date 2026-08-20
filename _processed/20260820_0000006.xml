@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T075416+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>977</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:977:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T075415+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T075415+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Centiel wächst im ersten Semester kräftig</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6965" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191482">
+<Property FormalName="FullName" Value="Centiel AG" />
+
+<Property FormalName="ShortName" Value="Centiel" />
+
+<Property FormalName="Telekurs" Value="74498" />
+
+<Property FormalName="CHNr" Value="CH-100.3.008.224-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024666528" />
+
+<Property FormalName="Ticker" Value="CNTL" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Cadro (awp) - Centiel hat im ersten Halbjahr 2026 den Umsatz im Vergleich zur Vorjahresperiode kräftig gesteigert. Der Reingewinn hat sich dabei mehr als verdoppelt. Für das Gesamtjahr zeigt sich das Unternehmen zuversichtlich, unter anderem dank dem ersten Grossauftrag aus den USA.</p>
+<p/><p>Der Umsatz kletterte um mehr als ein Drittel auf 25,2 Millionen Franken, wie der Spezialist für unterbrechungsfreie Stromversorgung am Donnerstag mitteilte. Dieser Anstieg sei auf eine hohe Nachfrage aus allen Kundensegmenten zurückzuführen sowie auf die erfolgreiche Expansion des Geschäfts.</p>
+<p/><p>Der bereinigte operative Gewinn (EBIT) nahm gleichzeitig um 78 Prozent auf 5,25 Millionen Franken massiv zu. Die entsprechende Marge verbesserte sich um 4,8 Prozentpunkte auf 20,9 Prozent ebenfalls deutlich. Der Reingewinn hat sich dabei auf 4,6 Millionen Franken mehr als verdoppelt.</p>
+<p/><p>Die Gewinnzahlen sind um einmalige Kosten für die Fusion mit HT5 und für den im April erfolgten Börsengang von insgesamt 2,8 Millionen Franken bereinigt.</p>
+<p/><h3>Erneut markant steigender Umsatz im H2 erwartet</h3>
+<p/><p>Für das Gesamtjahr 2026 stellt das Unternehmen einen Umsatz von rund 65 Millionen Franken in Aussicht sowie eine EBIT-Marge von über 20 Prozent.</p>
+<p/><p>Damit dürfte sich der Umsatz im Gesamtjahr im Vergleich zum ersten Semester klar mehr als verdoppeln. Die entsprechende Zuversicht stützt sich auf den im Juli bereits gemeldeten ersten Grossauftrag aus den USA, wo das Unternehmen bekanntlich expandieren will. Dieser unter einem im Juni abgeschlossenen Rahmenvertrag mit Neo Critical Power erhaltene Auftrag hat einen Umfang von 8,7 Millionen US-Dollar.</p>
+<p/><p>Aus diesem Rahmenvertrag verspricht sich Centiel im laufenden Jahr Umsätze im tiefen zweistelligen Millionen-Bereich, sieht für die kommenden Jahre aber substantielles Steigerungspotential.</p>
+<p/><p>Das im Tessin beheimatete Unternehmen Centiel ist erst seit der Mitte April abgeschlossenen Fusion mit HT5 an der Börse kotiert. HT5 wiederum war der übrig gebliebene Börsenmantel nach dem Konkurs des Milchverarbeiters Hochdorf.</p>
+<p/><p>cf/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
