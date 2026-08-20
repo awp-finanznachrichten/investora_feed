@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T100715+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>1237</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:1237:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T100713+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T100713+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Basilea-Aktien nach Zahlen und erhöhtem Ausblick gesucht</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2135420126">
+<Property FormalName="FullName" Value="Basilea Pharmaceutica AG" />
+
+<Property FormalName="ShortName" Value="Basilea" />
+
+<Property FormalName="Telekurs" Value="102052" />
+
+<Property FormalName="CHNr" Value="CH-270.3.012.640-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011432447" />
+
+<Property FormalName="Ticker" Value="BSLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0554992062" />
+
+<Property FormalName="Ticker" Value="BSL20" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Basilea-Aktien zählen am Dienstag nach Halbjahreszahlen zu den gefragtesten Werten am Schweizer Aktienmarkt. Das Biopharmaunternehmen hat in den ersten sechs Monaten stark abgeschnitten und zeigt sich auch für das Gesamtjahr zuversichtlicher als bisher.</p>
+<p/><p>Gegen 9.45 Uhr gewinnen die Aktien 7,8 Prozent hinzu auf 58,40 Franken. Das bisherige Jahreshoch von 59,20 Franken vom Februar ist damit nur noch einen Wimpernschlag entfernt. Der SPI tritt zeitgleich mit -0,07 Prozent in etwa auf der Stelle.</p>
+<p/><p>In ihren ersten Kommentaren finden Analysten durchweg lobende Worte. So habe Basilea mit den vorgelegten Umsatzzahlen klar besser als erwartet abgeschnitten, heisst es einstimmig von der ZKB und von Octavian. Dies sei durch stärker als erwartete Lizenzgebühren und Produktverkäufe, vor allem durch Distributoren im Rest der Welt, beeinflusst worden, schreibt hierzu die ZKB.</p>
+<p/><p>Bei Octavian wiederum hebt der zuständige Analyst unter anderem die Zahl der US-Spitäler hervor, die das kürzlich lancierte Zevtera bestellen. Die Zahl der Spitäler steige, obwohl sich die Markteinführung noch in einem frühen Stadium befinde.</p>
+<p/><p>hr/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
