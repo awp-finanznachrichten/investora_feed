@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T072915+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>887</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:887:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T072915+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T072915+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sunrise mit weniger Umsatz und Betriebsgewinn im zweiten Quartal</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8152" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2055222019">
+<Property FormalName="FullName" Value="Sunrise Communications AG" />
+
+<Property FormalName="ShortName" Value="Sunrise" />
+
+<Property FormalName="Telekurs" Value="677481" />
+
+<Property FormalName="CHNr" Value="CH-020-3054260-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1386220409" />
+
+<Property FormalName="Ticker" Value="SUNN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679751045" />
+
+<Property FormalName="Ticker" Value="SNRE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679752035" />
+
+<Property FormalName="Ticker" Value="SNRBY" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Glattbrugg (awp) - Sunrise hat im zweiten Quartal 2026 weniger Umsatz und operativen Gewinn erzielt. Dennoch hält das Management an seinen Finanzzielen für das Gesamtjahr fest.</p>
+<p/><p>Der Umsatz sank in den Monaten April bis Ende Juni um 2,6 Prozent auf 712,9 Millionen Franken, wie der zweitgrösste Telekomkonzern am Mittwoch bekannt gab. Einerseits sei der Effekt der Preisanpassung aus dem Jahr 2025 bei den Mobile- und Breitband-Abos weggefallen. Andererseits habe sich das schwächere Kundenwachstum vorangehender Quartale ausgewirkt. Weniger Umsatz machte Sunrise mit den Privatkunden, während das Geschäftskunden- und Grosshandelsgeschäft ganz leicht wuchs.</p>
+<p/><p>Der bereinigte Betriebsgewinn vor Abschreibungen und Amortisationen nach Abzug der Leasingzahlungen (EBITDAaL) schrumpfte um 3,8 Prozent auf 244,4 Millionen Franken. Hier schlugen die Effekte des Umsatzrückgangs durch, wie Sunrise weiter schrieb. Auf der anderen Seite hat der Konzern die Kosten optimiert. Dabei seien vor allem externe IT- und Beratungskosten eingespart worden. Zudem hat Sunrise einen Abbau von 147 Stellen angekündigt.</p>
+<p/><p>Unter dem Strich sank der Nettoverlust deutlich auf 22,4 Millionen Franken. Das sind knapp 60 Prozent weniger als vor einem Jahr. Sunrise erklärt dies hauptsächlich mit Veränderungen bei den Finanzerträgen und Finanzaufwendungen infolge von Wechselkursgewinnen und -verlusten.</p>
+<p/><p>Mit seinen Zahlen hat Sunrise die Erwartungen der Finanzgemeinde knapp erreicht. Analysten hatten im Schnitt gemäss AWP-Konsens mit einem Umsatz von 715 Millionen und einem bereinigten EBITDAaL von 245 Millionen Franken gerechnet.</p>
+<p/><h3>Mehr Abo-Kunden</h3>
+<p/><p>Bei der Entwicklung der Kunden konnte Sunrise zulegen. So stieg die Zahl der Mobil-Abos netto um 21'000. Die Zahl der Internet-Abos kletterte um 3000. Gestützt wurde das Wachstum durch eine gesteigerte Kundentreue bei der Hauptmarke Sunrise wie auch durch das Neukundengeschäft im Geschäftskundenbereich und Kundengewinne bei den Nebenmarken.</p>
+<p/><p>Ende Juni hatte Sunrise 3,18 Millionen Mobilfunkkunden, 1,29 Millionen Breitbandkunden und 0,96 Millionen Kunden für das erweiterte TV-Angebot.</p>
+<p/><h3>Prognose bestätigt</h3>
+<p/><p>An den Zielen für das laufende Jahr hält das Management fest. So soll der Umsatz "weitgehend stabil" bleiben. Der Betriebsgewinn (EBITDAaL) soll rund 1 Milliarde Franken erreichen und damit in etwa das Vorjahresniveau.</p>
+<p/><p>Gleichzeitig will Sunrise die Investitionen auf unter 15 Prozent des Umsatzes senken. Der bereinigte Free Cash Flow soll bei 380 bis 400 Millionen Franken liegen. Bei einem Erreichen dieser Ziele stellt das Management eine Steigerung der Dividende je A-Aktie auf 3,49 Franken und 0,35 Franken pro B-Aktie in Aussicht.</p>
+<p/><p>jb/tt</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
