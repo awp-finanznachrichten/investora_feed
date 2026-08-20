@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260818T080811+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260818</DateId>
+			<NewsItemId>884</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260818:884:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260818T080811+0200</FirstCreated>
+		<ThisRevisionCreated>20260818T080811+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Basilea schraubt nach erstem Semester Ziele hoch</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016037"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2135420126">
+<Property FormalName="FullName" Value="Basilea Pharmaceutica AG" />
+
+<Property FormalName="ShortName" Value="Basilea" />
+
+<Property FormalName="Telekurs" Value="102052" />
+
+<Property FormalName="CHNr" Value="CH-270.3.012.640-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011432447" />
+
+<Property FormalName="Ticker" Value="BSLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0554992062" />
+
+<Property FormalName="Ticker" Value="BSL20" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Das Biopharmaunternehmen Basilea schaut auf ein starkes erstes Semester 2026 zurück. Für das Gesamtjahr hat das Basler Unternehmen die eigenen Ziele nach oben geschraubt.</p>
+<p/><p>In den ersten sechs Monaten setzte Basilea laut Communiqué vom Dienstag 119 Millionen Franken um, ein Plus von 14,0 Prozent gegenüber dem Vorjahreszeitraum. Hierzu steuerten die beiden vermarkteten Produkte Cresemba zur Behandlung von Pilzinfektionen und das Antibiotikum Zevtera den Löwenanteil bei.</p>
+<p/><p>Die Lizenzeinnahmen stiegen im Vergleich zum Vorjahr um knapp 11 Prozent auf annähernd 58 Millionen Franken. Getragen wurde dies hauptsächlich von der weiterhin starken Nachfrageentwicklung für Cresemba in wichtigen Märkten. Der Produktumsatz belief sich auf 30 Millionen, was um knapp 2 Millionen unter dem Vorjahreswert liegt.</p>
+<p/><p>Dem standen Kosten von insgesamt gut 87 Millionen gegenüber, ein Anstieg um 7,5 Millionen. Mit 54 Millionen entfiel der grösste Anteil davon auf Ausgaben für Forschung und Entwicklung.</p>
+<p/><p>Die Zunahme begründet Basilea mit den zwei laufenden zulassungsrelevanten Studien mit Fosmanogepix bei invasiven Hefe- und Schimmelpilzinfektionen. Darin enthalten sind laut Mitteilung aber auch Aufwendungen im Zusammenhang mit den Vorbereitungen des geplanten Phase-III- Programms mit Ceftibuten-Ledaborbactam bei komplizierten Harnwegsinfektionen, dessen Start für Mitte des kommenden Jahres vorgesehen ist.</p>
+<p/><h3>Ausblick angehoben</h3>
+<p/><p>Der Betriebsgewinn kam bei annähernd 32 Millionen Franken zu liegen, nach 24 Millionen im Vorjahr. Unter dem Strich kletterte der Gewinn gar um 77 Prozent auf 30 Millionen.</p>
+<p/><p>Für 2026 hat sich das Biopharmaunternehmen nun neue Ziele gesetzt. Beim Umsatz peilt Basilea neu ein Wachstum von etwa 15 Prozent an, nach zuvor etwa 10 Prozent. Noch zuversichtlicher ist die Unternehmensführung beim Betriebsgewinn, für den ein Plus von etwa 40 Prozent in Aussicht gestellt wird, nach zuvor etwa 20 Prozent. Derweil werden die Ausgaben für Forschung und Entwicklung unverändert um etwa 20 Prozent höher erwartet.</p>
+<p/><p>hr/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
