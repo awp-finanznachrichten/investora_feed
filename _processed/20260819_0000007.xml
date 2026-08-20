@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T072533+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>871</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:871:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T072533+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T072533+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sensirion erhöht Umsatzprognose nach starkem Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003004"/><Subject FormalName="04016028"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8712" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2037641451">
+<Property FormalName="FullName" Value="Sensirion Holding AG" />
+
+<Property FormalName="ShortName" Value="Sensirion" />
+
+<Property FormalName="Telekurs" Value="84955" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.193-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011051163" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011051189" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406705126" />
+
+<Property FormalName="Ticker" Value="SENS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ELE"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Stäfa (awp) - Sensirion hat im ersten Halbjahr 2026 zwar wie erwartet weniger Umsatz gemacht, den Reingewinn aber deutlich gesteigert. Nun hebt das Management die Jahresprognose für den Umsatz an.</p>
+<p/><p>Die Verkäufe sanken in den ersten sechs Monaten um 3,0 Prozent auf 179,0 Millionen Franken. Zu konstanten Währungen ergab sich allerdings ein Plus von 6,9 Prozent, wie das Unternehmen am Mittwoch mitteilte.</p>
+<p/><p>Das Wachstum wurde laut den Angaben von allen vier Endmärkten getragen. In der Vorjahresperiode hatte zudem noch die Lancierung der A2L-Sensoren im US-Klimamarkt für aussergewöhnlich hohe Umsätze gesorgt.</p>
+<p/><h3>Marge in etwa gehalten</h3>
+<p/><p>Das operative Ergebnis auf Stufe EBITDA belief sich auf 34,9 Millionen Franken bei einer Marge von 19,5 Prozent. Im Vorjahr waren es 36,5 Millionen Franken gewesen, was einer Marge von 19,8 Prozent entsprach. Zur relativ stabilen Entwicklung haben laut Sensirion Effizienzsteigerungen, Preisanpassungen sowie "eine fortschreitende Internationalisierung aller Aktivitäten" beigetragen.</p>
+<p/><p>Der Reingewinn stieg derweil deutlich auf 18,9 Millionen Franken (VJ: 10,4 Mio). Grund dafür war ein verbessertes Finanzergebnis. Mit den Zahlen hat Sensirion bei allen Kennzahlen die Analystenerwartungen übertroffen.</p>
+<p/><h3>Umsatzerwartung erhöht</h3>
+<p/><p>Für das Gesamtjahr schraubt das Management die Guidance für den Umsatz auf 345 bis 365 Millionen Franken hoch, nach einer bisherigen Spanne von 335 bis 360 Millionen. Bereinigt um Währungsentwicklungen entspricht dies einem Wachstum von 8 bis 14 Prozent (bisher: 5-12%). Basis für die Erhöhung sei das solide Halbjahresresultat und die weiterhin positive Entwicklung, heisst es.</p>
+<p/><p>Die EBITDA-Marge wird neu in der oberen Hälfte der prognostizierten Spanne eines mittleren bis hohen Zehnerbereichs erwartet (VJ: 18,5%).</p>
+<p/><h3>Führungsstruktur erweitert</h3>
+<p/><p>Um die "ambitionierte Wachstumsstrategie konsequent umzusetzen", passt Sensirion zudem die Führungsstruktur an. Konkret sollen die Verantwortlichkeiten noch gezielter an den Anforderungen des Geschäfts ausgerichtet werden.</p>
+<p/><p>Die Aktivitäten mit Sensorlösungen werden künftig unter der Bezeichnung "Market Solutions" organisatorisch gebündelt. Gleichzeitig wird die Führung der Komponentenaktivitäten verstärkt: Auf Ebene der Geschäftsleitung übernimmt Johannes Schumm, bisher VP Research &amp; Development, per 1. Oktober 2026 die Führung der Komponentenaktivitäten. Simon Sonderfeld, bisher VP Marketing &amp; Sales, wird ab dann den Bereich Market Solutions verantworten.</p>
+<p/><p>ls/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
