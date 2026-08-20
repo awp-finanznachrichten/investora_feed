@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T063814+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>456</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:456:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T063814+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T063814+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Implenia steigert Profitabilität im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8305" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2125829448">
+<Property FormalName="FullName" Value="Implenia AG" />
+
+<Property FormalName="ShortName" Value="Implenia" />
+
+<Property FormalName="Telekurs" Value="318935" />
+
+<Property FormalName="CHNr" Value="CH-170.3.028.842-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0023868554" />
+
+<Property FormalName="Ticker" Value="IMPN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316687" />
+
+<Property FormalName="Ticker" Value="IMP24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428867134" />
+
+<Property FormalName="Ticker" Value="IMP25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1485827047" />
+
+<Property FormalName="Ticker" Value="IMP26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Implenia hat im ersten Halbjahr zwar weniger Umsatz erzielt, die Profitabilität aber klar gesteigert. Zudem zog der der Baukonzern mehr Aufträge an Land und bestätigte den Ausblick.</p>
+<p/><p>Von Januar bis Juni ging der Umsatz um 4,8 Prozent auf 1,77 Milliarden Franken zurück, wie Implenia am Mittwoch bekannt gab. Der Betriebsgewinn (EBIT) kletterte dennoch um knapp 6 Prozent auf 60,4 Millionen. Der Fokus auf attraktive Marktsegmente in spezialisierten und margenstarken Bereichen sowie die konsequente Digitalisierung zahlten sich aus, hiess es zur Begründung.</p>
+<p/><p>Die Betriebsgewinnmarge verbesserte sich in der Folge auf 3,4 Prozent von 3,1 Prozent im Vorjahressemester. Unter dem Strich stand beim Konzerngewinn ein Plus von knapp 7 Prozent auf 35,6 Millionen zu Buche.</p>
+<p/><p>Der Auftragsbestand kletterte derweil um 9,6 Prozent auf 8,52 Milliarden und die wichtige vorkalkulierte Projektmarge im Auftragsbestand verbesserte sich auf 7,9 von 7,5 Prozent im Vorjahr.</p>
+<p/><p>Mit den Zahlen hat Implenia die Erwartungen der Analysten gemäss AWP-Konsens beim Umsatz knapp erfüllt, beim EBIT und der entsprechenden Marge indes klar übertroffen.</p>
+<p/><h3>Sparten schneiden unterschiedlich ab</h3>
+<p/><p>Die einzelnen Sparten schnitten unterschiedlich ab. Die Division Buildings, welche Spezialhochbauten wie Rechenzentren erstellt und die Immobiliensparte umfasst, erzielte mit 37,5 Millionen Franken einen etwas tieferen EBIT (VJ 41,5 Mio).</p>
+<p/><p>Die Division Civil Engineering (Infrastruktur und Tunnel) legte hingegen bei der Profitabilität weiter zu. So wuchs der EBIT auf 18,8 Millionen Franken nach 15,9 Millionen im Vorjahr. Die Service-Division steigerte ihren EBIT auf 11,7 Millionen Franken (VJ 9,3 Mio).</p>
+<p/><h3>Margenziel bestätigt</h3>
+<p/><p>An den Zielen für das Gesamtjahr hielt der Konzern fest: So peilt Implenia für 2026 einen EBIT von rund 150 Millionen Franken an - vor den bereits angekündigten ausserordentlichen Wachstumsinvestitionen von 10 bis 20 Millionen Franken für die Strategieumsetzung.</p>
+<p/><p>Ab 2027 soll dann eine Steigerung des EBIT auf über 150 Millionen möglich sein. Zudem strebt Implenia kurz- bis mittelfristig eine Umsatzerhöhung bis zu 1 Milliarde Franken an und eine EBIT-Marge von 4,5 Prozent.</p>
+<p/><p>dm/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
