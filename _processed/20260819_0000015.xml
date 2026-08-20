@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T075712+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>1008</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:1008:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T075712+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T075712+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Emmi wächst im ersten Halbjahr weiter und wird profitabler</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6005" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147198196">
+<Property FormalName="FullName" Value="Emmi AG" />
+
+<Property FormalName="ShortName" Value="Emmi" />
+
+<Property FormalName="Telekurs" Value="123722" />
+
+<Property FormalName="CHNr" Value="CH-100.3.020.084-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012829898" />
+
+<Property FormalName="Ticker" Value="EMMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0368697758" />
+
+<Property FormalName="Ticker" Value="EMF171" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1146382481" />
+
+<Property FormalName="Ticker" Value="EMF21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1289657111" />
+
+<Property FormalName="Ticker" Value="EMF23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011283" />
+
+<Property FormalName="Ticker" Value="EMF24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011291" />
+
+<Property FormalName="Ticker" Value="EMF241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011309" />
+
+<Property FormalName="Ticker" Value="EMF242" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Luzern (awp) - Der Milchverarbeiter Emmi ist im ersten Halbjahr 2026 stärker gewachsen als erwartet und hat dabei die Profitabilität verbessert. Für das Gesamtjahr wird der Konzern beim Umsatz etwas zuversichtlicher, während die Gewinnziele unverändert bleiben.</p>
+<p/><p>Der Umsatz stieg um 2,2 Prozent auf 2,32 Milliarden Franken, wie die Emmi-Gruppe am Mittwoch mitteilte. Organisch, also bereinigt um Übernahmen und Währungseinflüsse, wuchs der Umsatz um 3,6 Prozent nach 4,4 Prozent im Vorjahreszeitraum.</p>
+<p/><p>Zum ausgewiesenen Wachstum trugen Übernahmen 0,7 Prozentpunkte bei, während der starke Franken mit 2,1 Prozentpunkten belastete. Das organische Wachstum war laut Emmi vollständig volumengetrieben.</p>
+<p/><h3>Schweiz wächst stark - USA enttäuschen</h3>
+<p/><p>Regional entwickelte sich das Geschäft unterschiedlich. Im Heimmarkt Schweiz stieg der Umsatz organisch im Gleichschritt mit dem Gesamtkonzern. Gefragt waren unter anderem Frische- und Käseprodukte sowie neue Angebote im Bereich funktionaler Ernährung.</p>
+<p/><p>In der Division Americas erreichte Emmi ebenfalls ein organisches Wachstum im Konzernschnitt. Wachstumstreiber waren vor allem Chile, Brasilien und Mexiko. Dagegen blieb der US-Markt wegen der verhaltenen Konsumstimmung hinter den Erwartungen zurück, wie es heisst.</p>
+<p/><p>Europa wuchs leicht überdurchschnittlich. Gut liefen das Dessertgeschäft und Ziegenmilchpulver in den Niederlanden. Dagegen entwickelte sich Emmi Caffè Latte in weiten Teilen Europas trotz der Lancierung von Matcha Latte schwächer als erwartet.</p>
+<p/><p>Überdurchschnittlich entwickelte sich auch die Division Global Trade mit einem organischen Wachstum von 10,1 Prozent. Treiber waren höhere Entlastungsexporte von Butter und Magermilchpulver sowie eine steigende Nachfrage nach Emmi-Joghurts aus Schweizer Milch in Asien.</p>
+<p/><h3>Gewinn legt zu</h3>
+<p/><p>Auch beim Ergebnis machte Emmi Fortschritte. Das Betriebsergebnis EBIT stieg um 4,8 Prozent auf 152,3 Millionen Franken.</p>
+<p/><p>Die EBIT-Marge verbesserte sich auf 6,6 von 6,4 Prozent. Beschaffungsinitiativen, Produktivitätssteigerungen und Preiserhöhungen hätten höheren Kosten etwa für Verpackungen, Personal und Logistik entgegengewirkt.</p>
+<p/><p>Unter dem Strich verdiente Emmi 100,9 Millionen Franken nach 97,2 Millionen im Vorjahr. Ein verbessertes Finanzergebnis half, höhere Gewinnanteile von Minderheitsaktionären bremsten dagegen.</p>
+<p/><p>Beim Umsatz übertraf Emmi die Erwartungen deutlich. Beim Ergebnis blieb der Milchverarbeiter aber leicht hinter den Schätzungen zurück.</p>
+<p/><h3>Optimistischer für Umsatz im Gesamtjahr</h3>
+<p/><p>Für das Gesamtjahr zeigt sich Emmi leicht optimistischer und präzisiert die Prognose für das organische Wachstum auf 2 bis 3 Prozent von bisher 1 bis 3 Prozent. Die Ziele für den EBIT von 335 bis 355 Millionen Franken und die Reingewinnmarge von 4,8 bis 5,3 Prozent bleiben unverändert.</p>
+<p/><p>Die Zuversicht stützt Emmi vor allem auf sein Innovationsportfolio, den Fokus auf Wachstumsmärkte und Premium-Nischen sowie auf Effizienzprogramme und Kostendisziplin. Gleichzeitig würden der tiefere Schweizer Milchpreis und der Wegfall eines befristeten Grossauftrags belasten. Hinzu kommen laut Emmi eine gedämpfte Konsumstimmung, der starke Franken, volatile Beschaffungsmärkte sowie Importdruck in der Schweiz.</p>
+<p/><p>to/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
