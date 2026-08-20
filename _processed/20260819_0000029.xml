@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260819T151612+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>29</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260819</DateId>
+			<NewsItemId>3249</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260819:3249:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260819T151612+0200</FirstCreated>
+		<ThisRevisionCreated>20260819T151612+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BKW bekommt im ersten Semester Dürre und Marktturbulenzen zu spüren</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016005"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3013" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2073005594">
+<Property FormalName="FullName" Value="BKW AG" />
+
+<Property FormalName="ShortName" Value="BKW" />
+
+<Property FormalName="Telekurs" Value="566152" />
+
+<Property FormalName="CHNr" Value="CH-036.3.050.070-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0130293662" />
+
+<Property FormalName="Ticker" Value="BKW" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0117843745" />
+
+<Property FormalName="Ticker" Value="BKW10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0487087295" />
+
+<Property FormalName="Ticker" Value="BKW019" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179184408" />
+
+<Property FormalName="Ticker" Value="BKW222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011192" />
+
+<Property FormalName="Ticker" Value="BKW24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1478430866" />
+
+<Property FormalName="Ticker" Value="BKW25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1523562002" />
+
+<Property FormalName="Ticker" Value="BKW26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp) - Die BKW hat in der ersten Jahreshälfte unter den geringen Niederschlägen sowie Marktverwerfungen in Folge des Iran-Krieges gelitten. Für das Gesamtjahr senkt der Berner Stromkonzern daher seine Ziele.</p>
+<p/><p>Die Gesamtleistung sank von Januar bis Juni um 3,1 Prozent auf 2,18 Milliarden Franken, wie das Unternehmen am Mittwoch mitteilte. Das Energiegeschäft steuerte dazu knapp 951 Millionen bei, 4,2 Prozent weniger als im Vorjahr. Belastet wurde das Energiegeschäft durch geringe Wasser- und Windproduktion.</p>
+<p/><p>Die geringen Niederschläge in den letzten beiden Jahren haben die Wasserproduktion der BKW belastet. Gleichzeitig haben die langanhaltende Hitzeperiode und die ausgebliebenen Wetterwechsel auch zu weniger Wind geführt, wie BKW-Chef Robert Itschner am Mittwoch anlässlich der Präsentation der Halbjahreszahlen sagte.</p>
+<p/><h3>Regionale Unterschiede bei Speicherseen</h3>
+<p/><p>Trotz der teilweise recht tiefen Speicherstände zeigt sich Itschner gelassen. So sei die Situation regional sehr unterschiedlich. Deutlich tiefere Pegelstände in den Speicherseen gebe es vor allem in Graubünden und dem Tessin. Dagegen sei die Lage im Wallis und Kanton Bern "nicht schlecht". Zudem könne sich die Situation, insbesondere in Graubünden, durch Niederschläge auch recht schnell ändern.</p>
+<p/><p>"Wir hoffen, dass sich die klimatische Situation normalisiert", sagte Itschner. Bei der Planung setze die BKW grundsätzlich auf den statistischen Mittelwert. Jedoch würden die aktuell tiefen Stände auch mit in die Planung einbezogen.</p>
+<p/><p>Auch die Situation im Nahen Osten hatte zu teils deutlichen Verwerfungen auf den Märkten geführt. Die Handelssituation habe sich inzwischen stabilisiert. Mit einer "raschen Normalisierung" rechnet Itschner jedoch nicht. Speziell auf den Gaspreis werde sich die Situation noch länger negativ auswirken.</p>
+<p/><h3>Profitabilität unter Druck</h3>
+<p/><p>Das Betriebsergebnis vor Zinsen und Steuern (EBIT) ging im ersten Semester in der Folge im Vergleich zum Vorjahr um 15 Prozent auf 263,7 Millionen Franken zurück. Unter dem Strich stieg der Reingewinn aber um 7 Prozent auf 217,6 Millionen - dank einer guten Performance der Stilllegungs- und Entsorgungsfonds für das Kernkraftwerk Mühleberg (KKM).</p>
+<p/><p>Mit diesen Zahlen hat der Stromversorger die Erwartungen der Finanzgemeinde bei Umsatz und EBIT verfehlt. Zudem muss die BKW mit Blick nach vorne den bisherigen Ausblick senken.</p>
+<p/><p>Für 2026 bestätigt der Energiekonzern das anvisierte EBIT-Zielband von 650 bis 750 Millionen Franken, erwartet aber neu ein Ergebnis im unteren Bereich der Bandbreite. Für die Dienstleistungen und das Energiegeschäft geht die BKW von einem stärkeren zweiten Halbjahr 2026 aus. Das Geschäftsfeld Netze (Power Grid) dürfte sich nach Einschätzung des Managements weiterhin stabil präsentieren.</p>
+<p/><p>Die Börse reagiert dementsprechend etwas verschnupft: Die Aktie verliert am Donnerstagnachmittag gut 1,7 Prozent an Wert.</p>
+<p/><p>cg/tt/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
