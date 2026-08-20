@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260820T105614+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260820</DateId>
+			<NewsItemId>1765</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260820:1765:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260820T105614+0200</FirstCreated>
+		<ThisRevisionCreated>20260820T105614+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Anleihe: BKB nimmt 200 Mio Fr. für 3 Jahre auf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>T</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4051" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197637">
+<Property FormalName="FullName" Value="Basler Kantonalbank" />
+
+<Property FormalName="ShortName" Value="BKB" />
+
+<Property FormalName="Telekurs" Value="25839" />
+
+<Property FormalName="CHNr" Value="CH-270.8.000.002-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009236461" />
+
+<Property FormalName="Ticker" Value="BSKP" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0118095667" />
+
+<Property FormalName="Ticker" Value="BSK10" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0119153663" />
+
+<Property FormalName="Ticker" Value="BSK102" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0149549575" />
+
+<Property FormalName="Ticker" Value="BSK12" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0353574319" />
+
+<Property FormalName="Ticker" Value="BSK176" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041006" />
+
+<Property FormalName="Ticker" Value="BSK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041410" />
+
+<Property FormalName="Ticker" Value="BSK191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239037" />
+
+<Property FormalName="Ticker" Value="BKS192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071395" />
+
+<Property FormalName="Ticker" Value="BSK21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0545754688" />
+
+<Property FormalName="Ticker" Value="BKS200" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1193213076" />
+
+<Property FormalName="Ticker" Value="BSK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1193213142" />
+
+<Property FormalName="Ticker" Value="BSK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890801" />
+
+<Property FormalName="Ticker" Value="BSK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890827" />
+
+<Property FormalName="Ticker" Value="BSK241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265890942" />
+
+<Property FormalName="Ticker" Value="BSK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1265891056" />
+
+<Property FormalName="Ticker" Value="BSK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1480163711" />
+
+<Property FormalName="Ticker" Value="BSK26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Basler Kantonalbank (BKB, mit Garantie Kanton BS) emittiert in Eigenregie eine Anleihe (Senior unsecured) zu folgenden Konditionen:</p>
+<p/><pre>Betrag:          200 Mio Fr.
+Coupon:          0,65%
+Emissionspreis:  100,126%
+Laufzeit:        3 Jahre, bis 10.09.2029
+Liberierung:     10.09.2026
+YTM:             0,6075%
+Spread (MS):     +33 BP
+Spread (Govt.):  +42 BP
+ISIN:            CH1480163794 
+Rating Issuer:   AA+/AAA (S&amp;P/Fitch)
+Rating Garant:   AAA (S&amp;P)
+Kotierung:       SIX, ab 09.09.2026
+</pre><p/><p>uh/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
