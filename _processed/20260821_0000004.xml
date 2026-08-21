@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260821T075311+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260821</DateId>
+			<NewsItemId>613</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260821:613:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260821T075311+0200</FirstCreated>
+		<ThisRevisionCreated>20260821T075311+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>DSM-Firmenich zieht in China gegen Patentverletzer vor Gericht</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="02000000"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4303" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196377">
+<Property FormalName="FullName" Value="DSM-Firmenich AG" />
+
+<Property FormalName="ShortName" Value="DSM-Firmenich" />
+
+<Property FormalName="Telekurs" Value="635433" />
+
+<Property FormalName="CHNr" Value="CH-400-3451111-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1216478797" />
+
+<Property FormalName="Ticker" Value="DSFIR" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="LAW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Kaiseraugst (awp) - DSM-Firmenich hat in China eine Patentverletzungsklage gegen mehrere chinesische Unternehmen und eine Forschungseinrichtung eingereicht. Im Zentrum steht die unerlaubte Nutzung eines Patents zur Herstellung von Sclareol, einem Ausgangsstoff für die Produktion von Amber-Duftstoffen.</p>
+<p/><p>Die Klage sei beim Gericht des Xiong'an New District in der Provinz Hebei eingereicht worden, teilte der Duft- und Aromenhersteller am Freitag mit. DSM-Firmenich fordert, dass die Beklagten die Nutzung der patentierten Technologie einstellen und Schadenersatz leisten.</p>
+<p/><p>Man werde alle notwendigen rechtlichen Schritte unternehmen, um die eigenen Schutzrechte sowie die Investitionen in Innovationen zu schützen, erklärte das Unternehmen in dem Communiqué.</p>
+<p/><p>ra/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
