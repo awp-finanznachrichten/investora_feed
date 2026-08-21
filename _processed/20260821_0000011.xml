@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260821T184222+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260821</DateId>
+			<NewsItemId>2907</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260821:2907:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260821T184222+0200</FirstCreated>
+		<ThisRevisionCreated>20260821T184222+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SNB-Tschudin: Inflationserwartungen in der Schweiz sind gut verankert</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006002"/><Subject FormalName="04008001"/><Subject FormalName="04008009"/><Subject FormalName="04008000"/><Subject FormalName="04019001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3011" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197664">
+<Property FormalName="FullName" Value="Schweizerische Nationalbank" />
+
+<Property FormalName="ShortName" Value="SNB" />
+
+<Property FormalName="Telekurs" Value="22802" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.957-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001319265" />
+
+<Property FormalName="Ticker" Value="SNBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Subject" Value="CBK"/><Property FormalName="Subject" Value="IRT"/><Property FormalName="Subject" Value="ECO"/><Property FormalName="Subject" Value="MON"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die rekordtiefe Inflation in der Schweiz ist nach Einschätzung von SNB-Direktoriumsmitglied Petra Tschudin unter anderem auf fest verankerte Inflationserwartungen und Besonderheiten des Schweizer Warenkorbs zurückzuführen. Gleichzeitig hält sich die Schweizerische Nationalbank (SNB) bei der weiteren Zinspolitik alle Optionen offen. Auch eine Rückkehr zu Negativzinsen ist kein Tabu.</p>
+<p/><p>Die SNB verfolge das Ziel, die Inflation mittelfristig zwischen 0 und 2 Prozent zu halten, sagte SNB-Direktoriumsmitglied Petra Tschudin in einem am Freitag veröffentlichten Interview der Zeitung "Finanz und Wirtschaft". Dies sei auch in der Vergangenheit gut gelungen. Das spiegle sich in niedrigen und fest verankerten Inflationserwartungen, was wiederum die Teuerung stabilisiere.</p>
+<p/><p>Dass der jüngste Anstieg der Ölpreise in der Schweiz vergleichsweise wenig auf die Inflation durchschlägt, erklärt Tschudin zudem mit dem Landesindex der Konsumentenpreise. Benzin und andere Güter mit stark schwankenden Preisen hätten darin ein geringeres Gewicht als im Ausland. Erdölprodukte machten lediglich 2 Prozent aus. Die stärkere Volatilität der Rohöl- und Erdgaspreise erhöhe allerdings die Unsicherheit bei den Inflationsprognosen.</p>
+<p/><p>Auch die Auswirkungen der künstlichen Intelligenz auf die Teuerung seien nicht eindeutig. Langfristig könnten Produktivitätsgewinne das Preisniveau senken. Kurz- und mittelfristig seien wegen hoher Investitionen und möglicher Knappheiten aber auch gegenläufige Effekte möglich. "In der kurzen oder der mittleren Frist kann also auch Inflationsdruck nach oben entstehen", sagte Tschudin.</p>
+<p/><h3>Keine Zinsprognose</h3>
+<p/><p>Aus der aktuellen bedingten Inflationsprognose der SNB lasse sich derweil keine Prognose für die künftige Zinsentwicklung ableiten. "Wir publizieren keine Zinsprognosen", betonte Tschudin. Die bedingte Inflationsprognose zeige vielmehr, wie sich die Teuerung bei einem unveränderten Leitzins entwickeln würde. Bei neuen relevanten Informationen zur Inflation werde die Geldpolitik entsprechend angepasst.</p>
+<p/><p>Dabei bleiben auch Negativzinsen eine Option. Zwar funktioniere die Transmission von Zinssenkungen unter null anders als im positiven Bereich. So könnten Banken Einlagezinsen nicht beliebig senken, was auch die Weitergabe tieferer Zinsen auf der Kreditseite begrenze. "Sollte es notwendig werden, die Zinsen unter null zu senken, damit die Inflation in der mittleren Frist zwischen 0 und 2 Prozentbleibt, dann werden wir das auch tun", sagte Tschudin.</p>
+<p/><h3>Franken nicht Hauptinstrument</h3>
+<p/><p>Trotz des Leitzinses von derzeit 0 Prozent sei der Franken nicht zum Hauptinstrument der Geldpolitik geworden. "Das Hauptinstrument ist der SNB-Leitzins", sagte Tschudin. Dieser beeinflusse die Zinsen und Finanzierungskosten im Inland und wirke sich zugleich auf den Wechselkurs aus.</p>
+<p>Die jüngste Abschwächung des Frankens führt Tschudin unter anderem auf die Entwicklung im Ausland zurück. Dort schlage der Anstieg der Benzin- und Ölpreise stärker auf die Inflation durch. Dies führe zu höheren Zinserwartungen und mache die entsprechenden Währungen für Anleger attraktiver.</p>
+<p/><p>Für mögliche Devisenmarktinterventionen bleibt laut Tschudin entscheidend, ob Wechselkursbewegungen die Preisstabilität gefährden. Die SNB prüfe, ob eine Kursbewegung stark genug sei, um die Inflationsprognose merklich zu beeinflussen und den geldpolitischen Auftrag zu gefährden. Die Aufnahme der Schweiz auf die US-Beobachtungsliste der möglichen Währungsmanipulatoren schränke die Handlungsfähigkeit der SNB dabei nicht ein.</p>
+<p/><p>uh/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
