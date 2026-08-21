@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260821T072000+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260821</DateId>
+			<NewsItemId>536</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260821:536:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260821T072000+0200</FirstCreated>
+		<ThisRevisionCreated>20260821T072000+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Vetropack mit weniger Umsatz und Gewinn - erste Angaben zur Mittelfriststrategie</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04013004"/><Subject FormalName="09000000"/><Subject FormalName="04016039"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1162" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196548">
+<Property FormalName="FullName" Value="Vetropack Holding AG" />
+
+<Property FormalName="ShortName" Value="Vetropack" />
+
+<Property FormalName="Telekurs" Value="260643" />
+
+<Property FormalName="CHNr" Value="CH-550.0.080.952-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0530235594" />
+
+<Property FormalName="Ticker" Value="VETN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0530235602" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PAK"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="LAB"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bülach (awp) - Vetropack hat im ersten Halbjahr 2026 leicht weniger Umsatz gemacht, während die Profitabilität klar unter dem schwierigen Marktumfeld litt. Allerdings wird der Jahresausblick für den Umsatz erhöht. Zudem veröffentlicht das Unternehmen erstmals Mittelfristziele.</p>
+<p/><p>Der Umsatz sank im ersten Semester um 2,0 Prozent auf 404,6 Millionen Franken, wie der Bülacher Glasverpackungshersteller am Freitag mitteilte. Währungsbereinigt ergab sich allerdings ein leichtes Plus von 0,7 Prozent. Insgesamt sei das Absatzvolumen gestiegen, da sich das Getränkeverpackungsgeschäft in Teilen Zentral- und Osteuropas erholt habe, heisst es dazu.</p>
+<p/><p>Der bereinigte EBIT fiel um 27 Prozent auf 16,6 Millionen Franken und die bereinigte Marge auf 4,1 Prozent von 5,5 Prozent. Preisdruck durch Überkapazitäten sowie höhere Energie- und Transportkosten belasteten das Ergebnis.</p>
+<p/><p>Allerdings wurde unter anderem die Zahl der Mitarbeitenden um knapp 8 Prozent gesenkt und damit Personalkosten gespart. Der Reingewinn halbierte sich auf 4,8 Millionen Franken.</p>
+<p/><p>Von AWP befragte Analysten hatten dabei mit einem etwas tieferen Umsatz gerechnet. Der bereinigte EBIT fiel indes in etwa in die Spanne der Erwartungen.</p>
+<p/><h3>Umsatzziel leicht erhöht</h3>
+<p/><p>Die bisherige Prognose für das "Übergangsjahr" 2026 wird leicht erhöht. Die Absatzmenge und der währungsbereinigte Nettoumsatz werden nun über dem Vorjahr erwartet. Bisher ging das Unternehmen von einem Umsatz unter Vorjahr von damals 778,9 Mio und stabilen Absatzmengen aus.</p>
+<p/><p>Mit "anhaltender Kostenkontrolle, höherer Produktionseffizienz und enger Kontrolle der Investitionen" erwartet Vetropack derweil weiterhin eine leicht erhöhte operative Marge (VJ: 2,8%).</p>
+<p/><h3>Erste Mittelfristziele</h3>
+<p/><p>Das Management will am Kapitalmarkttag im September die überarbeitete Strategie 2035 vorstellen. Diese sei vom Verwaltungsrat genehmigt worden, heisst es dazu.</p>
+<p/><p>Ausserdem stellt das Management erstmals Mittelfristzahlen vor: Zu konstanten Wechselkursen erwartet Vetropack bis 2030 im Vergleich zu 2025 ein überdurchschnittliches Umsatzwachstum im niedrigen einstelligen Prozentbereich (CAGR), verbunden mit einer Erholung des operativen Ergebnisses und einer zweistelligen Marge bis zum Ende des Mittelfristzeitraums. Zudem strebt das Unternehmen mittelfristig eine zweistellige Kapitalrendite an.</p>
+<p/><p>ls/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
