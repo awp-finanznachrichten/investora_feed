@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260821T075713+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260821</DateId>
+			<NewsItemId>627</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260821:627:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260821T075713+0200</FirstCreated>
+		<ThisRevisionCreated>20260821T075713+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>GKB verdient im ersten Halbjahr deutlich mehr und erhöht Ausblick</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="7000" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197629">
+<Property FormalName="FullName" Value="Graubündner Kantonalbank" />
+
+<Property FormalName="ShortName" Value="GKB" />
+
+<Property FormalName="Telekurs" Value="26399" />
+
+<Property FormalName="CHNr" Value="CH-350.8.000.001-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001340204" />
+
+<Property FormalName="Ticker" Value="GRKP" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0137992803" />
+
+<Property FormalName="Ticker" Value="GRK11" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0276423818" />
+
+<Property FormalName="Ticker" Value="GR15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0312512640" />
+
+<Property FormalName="Ticker" Value="GRK16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0398633922" />
+
+<Property FormalName="Ticker" Value="GRK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101096647" />
+
+<Property FormalName="Ticker" Value="GRK21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1141700539" />
+
+<Property FormalName="Ticker" Value="GRK211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189217719" />
+
+<Property FormalName="Ticker" Value="GRK222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348968657" />
+
+<Property FormalName="Ticker" Value="GRK242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1453402633" />
+
+<Property FormalName="Ticker" Value="GRK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1467377078" />
+
+<Property FormalName="Ticker" Value="GRK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1468221424" />
+
+<Property FormalName="Ticker" Value="GRK252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1540324691" />
+
+<Property FormalName="Ticker" Value="GRK26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Chur (awp) - Die Graubündner Kantonalbank (GKB) hat im ersten Semester 2026 deutlich mehr verdient als im Vorjahr. Das Management bleibt auch für den weiteren Jahresverlauf zuversichtlich und erhöht den Gewinnausblick.</p>
+<p/><p>Der Geschäftserfolg als zentrale Kenngrösse für die operative Leistung verbesserte sich in den ersten sechs Monaten um 18,1 Prozent auf 140,3 Millionen Franken, wie das Bündner Kantonsinstitut am Freitag in einer Mitteilung schreibt. Der Konzerngewinn betrug 137,2 Millionen, ein Plus von 18,2 Prozent.</p>
+<p/><h3>Alle Geschäftsfelder mit positiver Entwicklung</h3>
+<p/><p>Der Geschäftsertrag nahm um 11,2 Prozent auf 286,3 Millionen Franken zu. Dazu trug das zentrale Zinsgeschäft 172,9 Millionen (+9,3 Prozent) bei. Der Margenrückgang aufgrund des anhaltenden Nullzinsumfelds sei durch das Wachstum der Ausleihungen und die erfolgreiche Anlagestrategie des Eigenkapitals ausgeglichen worden. Zudem seien nicht mehr benötigte Wertberichtigungen in Höhe von netto 3,5 Millionen Franken aufgelöst worden, so die GKB.</p>
+<p/><p>Im Kommissions- und Dienstleistungsgeschäft stieg der Erfolg um 13,5 Prozent, im Handelsgeschäft resultierte ein Plus von 2,1 Prozent.</p>
+<p/><p>Auf der Kostenseite steht eine Zunahme um 3,0 Prozent auf 132,4 Millionen zu Buche. Damit verbesserte sich die Cost/Income-Ratio auf 46,8 Prozent von 48,0 Prozent.</p>
+<p/><h3>Gewinnausblick erhöht</h3>
+<p/><p>Erfreulich entwickelten sich die Neugelder im Stammhaus, wo 0,7 Milliarden zuflossen. Dem standen erneut beträchtliche Rückzüge bei institutionellen Kunden der Tochtergesellschaften gegenüber, was für den Konzern zu einem Neugeldabfluss von 1,0 Milliarden führte (VJ -413 Millionen).</p>
+<p/><p>Für das Gesamtjahr erhöht die GKB ihren bisherigen Ausblick. So erwartet das Management nun einen Konzerngewinn über dem Vorjahreswert von 224,6 Millionen. Bislang stellte die Bank einen Gewinn knapp auf dem Niveau des Vorjahres in Aussicht.</p>
+<p/><h3>Schärfung der Positionierung der BZ Bank</h3>
+<p/><p>Die GKB will ihre Tochter BZ Bank künftig verstärkt als Spezialistin für aktienbasierte Lösungen positionieren und das Wachstum in diesem Bereich vorantreiben. Die bankeigene Research- und Anlagekompetenz soll insbesondere für die Einzeltitelselektion in Kundenportfolios sowie für das Management eigener Themenfonds genutzt werden. Die GKB selbst übernehme zusätzliche Aufgaben für die BZ Bank und schaffe Synergien in den Bereichen Finanzen &amp; Controlling und im Risk Management, so die Mitteilung.</p>
+<p/><p>Die BZ Bank war zuletzt durch eine Klage von Investor Remo Stoffel in die Schlagzeilen geraten. Die Klage steht im Zusammenhang mit einer Kundenbeziehung und einem von der BZ Bank verwalteten Anlageprodukt. Der Forderungsbetrag bewegt sich im mittleren dreistelligen Millionenbereich. GKB und die BZ Bank erachten die Vorwürfe als unbegründet und bestreiten die Forderungen. In der Rechnung des ersten Halbjahres 2026 wurde eine Rückstellung für erwartete Prozess- und Verfahrenskosten gebildet, wie die GKB im Halbjahresabschluss schreibt.</p>
+<p/><p>gab/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
