@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260821T121116+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260821</DateId>
+			<NewsItemId>1632</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260821:1632:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260821T121116+0200</FirstCreated>
+		<ThisRevisionCreated>20260821T121116+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Holcim setzt Einkaufstour mit Erwerb von deutscher Fermacell fort</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04009000"/><Subject FormalName="04006000"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+<Property FormalName="Country" Value="IE" />
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197403">
+<Property FormalName="FullName" Value="Holcim AG" />
+
+<Property FormalName="ShortName" Value="Holcim" />
+
+<Property FormalName="Telekurs" Value="110323" />
+
+<Property FormalName="CHNr" Value="CH-160.3.003.050-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012214059" />
+
+<Property FormalName="Ticker" Value="HOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561525" />
+
+<Property FormalName="Ticker" Value="LAH21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263973" />
+
+<Property FormalName="Ticker" Value="LAH210" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1127263981" />
+
+<Property FormalName="Ticker" Value="LAH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887132" />
+
+<Property FormalName="Ticker" Value="LAH22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1154887140" />
+
+<Property FormalName="Ticker" Value="LAH220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1159841357" />
+
+<Property FormalName="Ticker" Value="LAH221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1564488646" />
+
+<Property FormalName="Ticker" Value="LAH26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1564488653" />
+
+<Property FormalName="Ticker" Value="LAH261" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1564488661" />
+
+<Property FormalName="Ticker" Value="LAH262" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1997328052">
+<Property FormalName="FullName" Value="James Hardie Industries PLC" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US47030M1062" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="AU000000JHX1" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="IE000R94NGM2" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1997328058">
+<Property FormalName="FullName" Value="James Hardie Industries PLC" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US47030M1062" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="AU000000JHX1" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Holcim bleibt bei seiner Einkaufstour auf dem Gaspedal: Der Zuger Baustoffkonzern hat den Kauf des deutschen Unternehmens Fermacell vereinbart, das Platten für Wände, Böden und den Brandschutz herstellt. Das ist bereits die siebte Übernahme im laufenden Jahr.</p>
+<p/><p>Damit ist Holcim auf Kurs zum Gesamtjahresziel. Konzernchef Miljan Gutovic strebt im laufenden Jahr rund 15 Akquisitionen an.</p>
+<p/><p>Mit dem am späten Donnerstagabend angekündigten Kauf von Fermacell baut Holcim sein Geschäft mit Produkten für den Gebäudebau aus. Dieses soll bis 2030 auf rund die Hälfte des Konzernumsatzes wachsen und damit gegenüber dem traditionellen Geschäft mit Baustoffen wie Zement oder Beton an Gewicht gewinnen.</p>
+<p/><h3>Wieder unter einem Dach</h3>
+<p/><p>Fermacell hat gemäss eigenen Angaben Anfang der 1970er Jahre Deutschlands erste Gipsfaserplatte auf den Markt gebracht. Seitdem sei die Marke im Innenausbau etabliert und stehe für Gipsfaserplatten sowie zementgebundene Platten für Wand-, Decken- und Bodenaufbauten.</p>
+<p/><p>Das Geschäft ergänzt die Marken Ytong, Silka, Hebel und Multipor, die Holcim mit dem im Juni abgeschlossenen Kauf des deutschen Unternehmens Xella für 1,85 Milliarden Euro erworben hatte. Damit kommt wieder zusammen, was einst zusammengehörte. Fermacell war bis 2018 ein Teil von Xella und wurde dann vom damaligen Besitzer aus finanziellen Gründen verkauft.</p>
+<p/><p>Auch der jetzige Besitzer James Hardie Industries braucht Geld. Vom Verkaufspreis für Fermacell von 840 Millionen Euro oder 980 Millionen US-Dollar wolle man rund 600 Millionen Dollar für die Beschleunigung des Schuldenabbaus verwenden, teilte der irische Bauzulieferer seinerseits in einem Communiqué mit. Deshalb habe man aus strategischen Gründen den Verkauf des Europa-Geschäfts beschlossen.</p>
+<p/><h3>Fermacell im Aufwind</h3>
+<p/><p>Denn eigentlich legt das Geschäft von Fermacell trotz der schlechten Stimmung in Deutschland zu. In den vergangenen Jahren hat das Unternehmen Umsatz, den Betriebsgewinn vor Abschreibungen und Amortisationen (EBITDA) sowie die operative Marge stets verbessert. Die Hälfte des Geschäfts macht Fermacell mit Renovationen, die resistenter gegen Wirtschaftsabschwünge sind.</p>
+<p/><p>Aber auch die Lage beim Neubau hat sich in Deutschland aufgehellt. "Wir sehen ein gutes Momentum sogar im Wohnbau", hatte Holcim-Chef Gutovic Ende Juli im Gespräch mit der Nachrichtenagentur AWP gesagt. Die Baubewilligungen hätten seit dem zweiten Halbjahr 2025 ständig zugenommen.</p>
+<p/><p>Deutschland ist der Hauptmarkt von Fermacell, das insgesamt in 13 europäischen Ländern tätig ist. Weitere wichtige Märkte sind die Schweiz, Benelux und Dänemark. Das Unternehmen mit Hauptsitz in Düsseldorf betreibt sechs Produktionsstandorte und hat über 1000 Mitarbeiter.</p>
+<p/><h3>Gewinnsteigernde Übernahme</h3>
+<p/><p>Im laufenden Jahr 2026 rechnet Fermacell mit einem Umsatz von rund 430 Millionen Euro. Holcim erwartet, dass sich die Übernahme bereits im ersten Jahr positiv auf den Gewinn pro Aktie (EPS) auswirken wird.</p>
+<p/><p>Der Kaufpreis von 840 Millionen Euro entspreche dem 9,5-Fachen des erwarteten Pro-forma-EBITDA für 2027, hiess es weiter. Damit peilt Fermacell im nächsten Jahr rechnerisch einen EBITDA von rund 90 Millionen Euro an. Zudem soll die Übernahme Holcim Synergien von jährlich etwa 22 Millionen Euro ab dem dritten Jahr bescheren.</p>
+<p/><p>Analysten bewerteten die Akquisition wohlwollend. Der Schritt von Holcim zum Ausbau des weniger energieintensiven Nicht-Zementgeschäfts in Europa sei positiv, erklärte ZKB-Analyst Martin Hüsler. Vontobel-Analyst Mark Diethelm hob hervor, dass die Übernahme strategisch gut zu Holcim passe und angesichts einer sich verbessernden Baukonjunktur in der EU attraktiv erscheine. Zudem sei der Investitionsbedarf bei Fermacell beschränkt, was die Kapitalrendite stütze.</p>
+<p/><p>An der Schweizer Börse legte die Holcim-Aktie bis Mittag um 1,2 Prozent auf 70,52 Franken zu. Derweil notierte der Gesamtmarkt SMI ein halbes Prozent tiefer.</p>
+<p/><p>Der Abschluss der Übernahme wird in der ersten Hälfte 2027 erwartet. Die Transaktion steht unter dem Vorbehalt üblicher Bedingungen und behördlicher Genehmigungen, wie es weiter hiess.</p>
+<p/><p>jb/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
