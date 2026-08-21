@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260821T095816+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260821</DateId>
+			<NewsItemId>1125</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260821:1125:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260821T095816+0200</FirstCreated>
+		<ThisRevisionCreated>20260821T095816+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Siegfried-Aktien ziehen nach Zahlen deutlich an</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016048"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197362">
+<Property FormalName="FullName" Value="Siegfried Holding AG" />
+
+<Property FormalName="ShortName" Value="Siegfried" />
+
+<Property FormalName="Telekurs" Value="119632" />
+
+<Property FormalName="CHNr" Value="CH-400.3.912.115-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1429326825" />
+
+<Property FormalName="Ticker" Value="SFZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403886" />
+
+<Property FormalName="Ticker" Value="SFZ25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1564488620" />
+
+<Property FormalName="Ticker" Value="SFZ26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Beim Pharmaauftragsfertiger Siegfried sorgen die am Morgen publizierten Halbjahreszahlen für Kauflaune. Diese sind insgesamt leicht über den Erwartungen ausgefallen, weshalb auch der Ausblick bestätigt wurde. Der Höhepunkt ist für Analysten die Entwicklung der zugekauften Produktionskapazitäten.</p>
+<p/><p>Siegfried steigen gegen 09.35 Uhr um 4,2 Prozent auf 81,45 Franken; im Tageshoch wurden gar 85,40 Franken bezahlt. Damit steht im bisherigen Jahresverlauf ein Kursgewinn von rund 10 Prozent zu Buche. Der Gesamtmarkt (SPI) büsst zeitgleich am Freitag 0,16 Prozent ein.</p>
+<p/><p>Die bestätigte Prognose impliziert eine deutliche Beschleunigung des Wachstums im zweiten Halbjahr 2026. Octavian-Analystin Laura Pfeifer-Rossi veranschlagt dieses auf 9 bis 13 Prozent. Sie erachte das Szenario nun als "zunehmend abgesichert", zumal der Grossteil des für das Gesamtjahr erwarteten Beitrags aus Akquisitionen im zweiten Halbjahr verbucht werde.</p>
+<p/><p>Dazu kommt, dass die Integration der übernommenen Standorte planmässig vorankomme, streicht Vontobel-Expertin Sibylle Bischofberger heraus. Siegfried hatte in seinem Communiqué mitgeteilt, die Integration der Standorte sei bereits weit fortgeschritten und das Kundeninteresse an den neuen Kapazitäten sei gross.</p>
+<p/><p>ra/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
