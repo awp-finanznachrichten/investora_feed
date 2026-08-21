@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260821T071315+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260821</DateId>
+			<NewsItemId>523</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260821:523:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260821T071315+0200</FirstCreated>
+		<ThisRevisionCreated>20260821T071315+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Siegfried bestätigt nach erstem Semester die Prognosen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4800" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197362">
+<Property FormalName="FullName" Value="Siegfried Holding AG" />
+
+<Property FormalName="ShortName" Value="Siegfried" />
+
+<Property FormalName="Telekurs" Value="119632" />
+
+<Property FormalName="CHNr" Value="CH-400.3.912.115-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1429326825" />
+
+<Property FormalName="Ticker" Value="SFZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403886" />
+
+<Property FormalName="Ticker" Value="SFZ25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1564488620" />
+
+<Property FormalName="Ticker" Value="SFZ26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zofingen (awp) - Der Pharmazulieferer Siegfried hält nach dem ersten Halbjahr an seinen Prognosen für das Geschäftsjahr 2026 fest. Die Zofinger werden dank Übernahmen vor allem in der zweiten Jahreshälfte zulegen.</p>
+<p/><p>Die Verkäufe nahmen von Januar bis Juni um 2,2 Prozent auf 633,0 Millionen Franken zu. In Lokalwährungen wäre man um 4,8 Prozent gewachsen, teilte Siegfried am Freitag mit. Gestützt habe eine starke Nachfrage nach Dienstleistungen für die Entwicklung und Produktion von Wirkstoffen und Arzneimitteln in verschiedenen Märkten.</p>
+<p/><p>Die Saisonalität zwischen dem ersten und zweiten Halbjahr werde stärker ausgeprägt als üblich ausfallen, erklärte Siegfried. Denn die Übernahme von drei Produktionsstandorten in den USA und Australien wurde gerade erst am 1. Mai abgeschlossen.</p>
+<p/><p>Ihr wesentlicher Beitrag kommt also erst im zweiten Halbjahr. Die Integration der drei Standorte verlaufe planmässig, und Siegfried stelle ein starkes Kundeninteresse fest. Die drei Standorte dürften 2026 rund 100 Millionen Dollar zum Nettoumsatz beitragen.</p>
+<p/><p>Für "Drug Substances" (Wirksubstanzen und Zwischenprodukte) meldet Siegfried in Lokalwährungen einen 4,8 Prozent höheren Umsatz von 431,1 Millionen Franken. "Drug Products", hier ist die Herstellung von Tabletten und die sterile Abfüllung von Arzneimitteln angesiedelt, wuchs in Lokalwährungen um 1,5 Prozent auf 201,9 Millionen.</p>
+<p/><p>Bei der Profitabilität konnte Siegfried ebenfalls zulegen. Der Betriebsgewinn Core-EBITDA stieg um 6,0 Prozent auf 142,0 Millionen Franken und liegt damit über den Konsens-Prognosen.</p>
+<p/><p>Die entsprechende Marge wurde um 0,8 Prozentpunkte auf 22,4 Prozent verbessert. Geholfen hätten operative Verbesserungen und ein vorteilhafter Geschäftsmix.</p>
+<p/><p>Der Core-Reingewinn schliesslich stieg um 3,8 Prozent auf 68,2 Millionen. Die von Siegfried hervorgehobenen Kern-Ergebnisse schliessen aussergewöhnliche Aufwendungen und Erträge aus.</p>
+<p/><p>Für das laufende Geschäftsjahr 2026 stellt Siegfried unverändert ein Umsatzwachstum in lokalen Währungen im hohen einstelligen Bereich in Aussicht sowie eine Kern-EBITDA-Marge von über 23 Prozent. Auch der mittelfristige Ausblick bleibt unverändert mit einem profitablen Wachstum über dem Marktdurchschnitt.</p>
+<p/><p>ra/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
