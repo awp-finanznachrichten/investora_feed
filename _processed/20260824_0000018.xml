@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T111812+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>1302</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:1302:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T111812+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T111812+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Klaus-Michael Kühne ist tot</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Mit Best&#228;tigung der Firma und weiteren Angaben erg&#228;nzt</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8834" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196362">
+<Property FormalName="FullName" Value="Kühne + Nagel International AG" />
+
+<Property FormalName="ShortName" Value="Kühne+Nagel" />
+
+<Property FormalName="Telekurs" Value="547726" />
+
+<Property FormalName="CHNr" Value="CH-130.0.005.610-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0025238863" />
+
+<Property FormalName="Ticker" Value="KNIN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241150" />
+
+<Property FormalName="Ticker" Value="KNI25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241168" />
+
+<Property FormalName="Ticker" Value="KNI251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1571219349" />
+
+<Property FormalName="Ticker" Value="KNI26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1571219356" />
+
+<Property FormalName="Ticker" Value="KNI261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Logistikmilliardär Klaus-Michael Kühne ist in der Nacht auf Montag im Alter von 89 Jahren gestorben. Dies teilte der Logistik-Konzern Kühne+Nagel am Montag mit.</p>
+<p/><p>Kühne war Verwaltungsratsmitglied und Mehrheitsbesitzer des Konzerns. Seine Holding hält zudem unter anderem Anteile an der Lufthansa, an der Reederei Hapag-Lloyd, dem Chemielogistiker Brenntag, dem Bahn- und Busunternehmen Flix oder dem Hamburger Fussballverein HSV.</p>
+<p/><p>"Mit dem Tod von Klaus-Michael ist ein Visionär, ein grosser Unternehmer und eine eindrucksvolle Persönlichkeit von uns gegangen", lässt sich Kühne+Nagel-Verwaltungsratspräsident Jörg Wolle zitieren.</p>
+<p/><h3>Logistiker durch und durch</h3>
+<p/><p>Klaus-Michael Kühne war Logistiker durch und durch. Nach einer kaufmännischen Lehre trat er 1958 im Alter von 21 Jahren in das Familienunternehmen Kühne+Nagel ein, 1966 wurde er Chef und behielt über Jahrzehnte die operative Verantwortung. Später war er Verwaltungsratspräsident und zuletzt einfaches Verwaltungsratsmitglied.</p>
+<p/><p>In all diesen Jahren wurde aus einem deutschlandorientierten Spediteur ein globaler Logistikkonzern. "Es war mein Anspruch, eine weltumspannende Organisation zu schaffen. Das hat Jahrzehnte gedauert", sagte er einst in einem Interview.</p>
+<p/><h3>Vermögen geht in Stiftung</h3>
+<p/><p>Kühne wurde 1937 in Hamburg geboren und wanderte Ende der 60er-Jahre gemeinsam mit seinem Vater in die Schweiz aus. Von Schindellegi SZ aus steuerte er sein Firmenimperium. Nach Angaben des "Manager Magazins", das zuerst über den Todesfall berichtete, soll Kühne vor zehn Tagen von Mallorca an seinen Schweizer Wohnort Schindellegi zurückgekehrt und sich in ärztliche Behandlung begeben haben.</p>
+<p/><p>Kühne und seine Ehefrau Christine sind kinderlos. Sein Vermögen, das die "Bilanz" in der jährlich erscheinenden Liste der reichsten Schweizer auf 21 bis 22 Milliarden Franken schätzte, soll nach seinem Tod an die Kühne-Stiftung übergehen.</p>
+<p/><p>ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
