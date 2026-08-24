@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T072210+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>553</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:553:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T072210+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T072210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Plazza macht im Halbjahr dank hoher Neubewertung deutlich mehr Gewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8055" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2053805389">
+<Property FormalName="FullName" Value="Plazza AG" />
+
+<Property FormalName="ShortName" Value="Plazza" />
+
+<Property FormalName="Telekurs" Value="690873" />
+
+<Property FormalName="CHNr" Value="CH-020.3.041.787-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284142913" />
+
+<Property FormalName="Ticker" Value="PLAN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284143929" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Immobiliengesellschaft Plazza hat im ersten Halbjahr 2026 den Gewinn gesteigert. Dabei haben sich die Neubewertungsgewinne mehr als verdoppelt. Für den weiteren Geschäftsverlauf hält das Unternehmen an seinem Ausblick fest.</p>
+<p/><p>Der Liegenschaftsertrag legte um 2,5 Prozent auf 20,2 Millionen Franken zu. Dazu trugen laut Mitteilung vom Montag insbesondere die Erträge aus der im Juni 2025 erworbenen Bestandesliegenschaft in Affoltern am Albis bei. Im übrigen Bestand glichen Mehrerträge, vor allem in Crissier, den infolge der Sanierungsarbeiten temporären Rückgang der Erträge im Tiergarten vollständig aus.</p>
+<p/><p>Wegen der Sanierung des Tiergartens nahm auch die Leerstandsquote im Vergleich zu Ende 2025 auf 7,4 von 6,0 Prozent zu. Dafür gab es in Crissier einen Vermietungserfolg. So wurde kürzlich ein Mietvertrag über rund 2000 m2 mit einem grossen Co-Living Anbieter abgeschlossen. Der Ausbau dieser Flächen soll bis zum Frühsommer des kommenden Jahres erfolgen.</p>
+<p/><p>Das Betriebsergebnis vor Abschreibungen und Neubewertungen reduzierte sich um 2,5 Prozent auf 15,4 Millionen Franken. Den leichten Rückgang begründet Plazza mit temporär zusätzlichen Bewirtschaftungskosten im Zusammenhang mit der Sanierung im Tiergarten.</p>
+<p/><p>Unter dem Strich verblieb dank markant gestiegener Neubewertungen ein um rund zwei Drittel höherer Reingewinn von 42,2 Millionen. Der Erfolg aus Neubewertungen hat sich dabei auf gut 40 Millionen Franken mehr als verdoppelt. Dazu hätten einerseits die gestiegenen Ertragserwartungen beigetragen und andererseits die marktbedingte Senkung von Diskontsätzen.</p>
+<p/><p>Der Gewinn exklusive Neubewertungen belief sich auf 11,8 Millionen Franken und lag damit gut 3 Prozent unter dem Vorjahr.</p>
+<p/><p>Der gesamte Marktwert des überwiegend aus Wohnliegenschaften bestehenden Portfolios erhöhte sich per Mitte 2026 dank der Investitionen und der Neubewertung auf 1,36 Milliarden Franken.</p>
+<p/><h3>Bisheriger Ausblick wird bestätigt</h3>
+<p/><p>Für das Gesamtjahr 2026 geht Plazza unverändert von einer positiven Entwicklung aus, entsprechend wird der bisherige Ausblick bestätigt. So erwartet das Unternehmen ein Betriebsergebnis vor Abschreibungen und Neubewertung im Bereich von 2025. Je nach Entwicklung der Kapital- und Transaktionsmärkte sowie den Fortschritten bei den Entwicklungsprojekten sei im zweiten Semester mit einem weiteren Gewinn aus Neubewertung zu rechnen. Somit dürfte auch der Reingewinn insgesamt über dem Vorjahr liegen.</p>
+<p/><p>Auch an der bisherigen Mittelfristprognose wird festgehalten. So soll der Soll-Netto-Mietertrag dank der robusten Entwicklungspipeline in den nächsten drei bis fünf Jahren auf über 55 Millionen Franken steigen.</p>
+<p/><p>cf/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
