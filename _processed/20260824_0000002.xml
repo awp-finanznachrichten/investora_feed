@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T070413+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>515</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:515:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T070413+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T070413+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Metall Zug steigert Umsatz und grenzt Verluste ein</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04007000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196799">
+<Property FormalName="FullName" Value="Metall Zug AG" />
+
+<Property FormalName="ShortName" Value="Metall Zug" />
+
+<Property FormalName="Telekurs" Value="209260" />
+
+<Property FormalName="CHNr" Value="CH-170.3.001.680-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0039821084" />
+
+<Property FormalName="Ticker" Value="METN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002092622" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CSM"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Die Metall Zug Gruppe hat im ersten Halbjahr 2026 den Umsatz leicht gesteigert. Unter dem Strich resultierten weiterhin rote Zahlen, wobei insbesondere die strategischen Beteiligungen belasteten. Der Verlust fiel aber geringer aus als im Vorjahr und mit Blick nach vorne zeigt sich die Gruppe zuversichtlich.</p>
+<p/><p>Der Umsatz der Gruppe stieg um 1,5 Prozent auf 95,6 Millionen Franken. Negative Währungseffekte belasteten das Wachstum mit 4,1 Prozentpunkten. Organisch legte der Umsatz damit um 5,5 Prozent zu, wie Metall Zug am Montag mitteilte.</p>
+<p/><p>Der ausgewiesene EBIT lag bei -3,7 Millionen Franken nach -12,6 Millionen im Vorjahr. Unter dem Strich reduzierte sich der Konzernverlust auf 4,4 Millionen von 10,3 Millionen Franken.</p>
+<p/><h3>Haag-Streit profitabel</h3>
+<p/><p>Im grössten Geschäftsbereich Medical Devices mit der Haag-Streit Gruppe stieg der Umsatz um 1,5 Prozent auf 78,2 Millionen Franken. Bereinigt um Währungseffekte resultierte ein organisches Wachstum von 6,5 Prozent. Besonders erfreulich habe sich das Kerngeschäft mit Spaltlampen entwickelt, heisst es. Mit einem EBIT von 2,7 Millionen Franken kehrte das Segment in die Gewinnzone zurück, nach einem Verlust von 2,6 Millionen im Vorjahreszeitraum.</p>
+<p/><p>Auch der Geschäftsbereich Technologiecluster &amp; Infra verbesserte sein Ergebnis. Der EBIT stieg auf 2,1 Millionen Franken nach 0,8 Millionen im Vorjahr. Dazu beigetragen hätten vor allem höhere Mieterträge im Zusammenhang mit dem Projekt SHL-Südtor.</p>
+<p/><h3>Keine konkreten Ziele</h3>
+<p/><p>Belastend wirkten dagegen weiterhin die strategischen Beteiligungen. So wies das Segement einen EBIT von -8,5 Millionen Franken aus nach -10,8 Millionen im Vorjahr. Positiv entwickelte sich V-ZUG, während Komax und vor allem SteelcoBelimed das Ergebnis belasteten. Auch die zum Segement gehörende Gehrig Group blieb operativ in den roten Zahlen.</p>
+<p/><p>Für das Gesamtjahr nennt Metall Zug weiterhin keine konkreten Finanzziele. Die Gruppe verweist auf die begrenzte Visibilität angesichts wirtschaftlicher, politischer und währungsbedingter Unsicherheiten. Mittel- und langfristig zeigt sich das Unternehmen für die Entwicklung der Geschäftsbereiche und Beteiligungen aber zuversichtlich und sieht eine "solide Basis" für Wachstumsmöglichkeiten.</p>
+<p/><p>an/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
