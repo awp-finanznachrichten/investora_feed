@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T223113+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>23</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>3441</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:3441:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T223113+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T223113+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Amrize-Finanzchef tritt nach wenigen Monaten per sofort ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04012001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-1991195184">
+<Property FormalName="FullName" Value="Amrize AG" />
+
+<Property FormalName="ShortName" Value="Amrize" />
+
+<Property FormalName="CHNr" Value="CH-170-3048432-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1430134226" />
+
+<Property FormalName="Ticker" Value="AMRZ" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BLD"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Beim Baustoffkonzern Amrize kommt es zu einem überraschenden Wechsel an der Finanzspitze. Finanzchef Baris Oran tritt aus persönlichen Gründen nach nur wenigen Monaten im Amt mit sofortiger Wirkung zurück, wie das Unternehmen am Montagabend nach US-Börsenschluss mitteilte. Sein Nachfolger wird der bisherige Strategie- und Übernahmechef Samuel J. Poletti.</p>
+<p/><p>Oran hatte den Finanzchefposten bei Amrize erst Anfang April übernommen und verlässt das Unternehmen damit nach knapp fünf Monaten wieder. Zuvor war der 52-Jährige Finanzchef des US-Logistikkonzerns GXO Logistics und hatte unter anderem für die Sabanci Group gearbeitet.</p>
+<p/><p>Orans Nachfolger Poletti gehört seit dem Börsengang von Amrize im Juni 2025 der Konzernleitung an. Er hatte die Abspaltung des Nordamerika-Geschäfts von Holcim massgeblich begleitet und dabei die finanziellen und nichtfinanziellen Aspekte beim Aufbau des eigenständigen Unternehmens verantwortet.</p>
+<p/><p>Zuvor war Poletti mehr als 20 Jahre für Holcim in den Bereichen Übernahmen, Finanzen und Strategie tätig. Unter anderem verantwortete er Zukäufe im nordamerikanischen Geschäft mit Dach- und Gebäudelösungen. Als Finanzchef wird er am operativen Hauptsitz von Amrize in Chicago arbeiten.</p>
+<p/><p>Zudem ernannte Amrize Dillon Cumming zum Leiter Investor Relations. Er tritt seine Funktion am 8. September an und soll die weltweiten Investor-Relations-Aktivitäten leiten. Cumming kommt vom Vermögensverwalter Walleye Capital. Zuvor analysierte er bei Morgan Stanley unter anderem Unternehmen aus der Baustoffbranche.</p>
+<p/><p>to/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
