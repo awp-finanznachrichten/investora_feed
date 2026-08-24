@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T100515+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>1103</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:1103:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T100515+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T100515+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Sunrise und Salt kooperieren bei Handynetz - Kein Schritt zu Fusion</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung; mit Aussagen eines Sunrise-Sprechers und B&#246;rsenkurs erg&#228;nzt</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04008000"/><Subject FormalName="04016030"/><Subject FormalName="04016023"/><Subject FormalName="04016048"/><Subject FormalName="04003007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8152" />
+
+<Property FormalName="City" Value="1020" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2055222019">
+<Property FormalName="FullName" Value="Sunrise Communications AG" />
+
+<Property FormalName="ShortName" Value="Sunrise" />
+
+<Property FormalName="Telekurs" Value="677481" />
+
+<Property FormalName="CHNr" Value="CH-020-3054260-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1386220409" />
+
+<Property FormalName="Ticker" Value="SUNN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679751045" />
+
+<Property FormalName="Ticker" Value="SNRE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679752035" />
+
+<Property FormalName="Ticker" Value="SNRBY" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2121014608">
+<Property FormalName="FullName" Value="Salt Mobile AG" />
+
+<Property FormalName="ShortName" Value="Salt" />
+
+<Property FormalName="Telekurs" Value="19647" />
+
+<Property FormalName="CHNr" Value="CH-550.0.057.019-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0149428812" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="ECO"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Glattbrugg (awp) - Die Nummern zwei und drei auf dem Schweizer Mobilfunkmarkt wollen beim Handynetz künftig eng zusammenarbeiten und damit den Platzhirsch Swisscom stärker herausfordern. Laut den beiden Firmen ist das aber kein Schritt in Richtung Fusion.</p>
+<p/><p>Konkret geht es um das Handynetz in den ländlichen Gebieten der Schweiz. Die dortige Bevölkerung solle von derselben Netzqualität profitieren, wie sie in den Städten geboten werde, heisst es in der am Montag von Sunrise und Salt veröffentlichten Mitteilung. Daher sei ein "Memorandum of Understanding" für einen gemeinsamen Netzausbau in diesen Gebieten unterzeichnet worden.</p>
+<p/><p>Rund 70 Prozent aller Mobilfunkstandorte von Salt und Sunrise stehen laut der Mitteilung in mitteldicht besiedelten und ländlichen Gebieten. Bei einer Zusammenarbeit könnten die dortigen Kunden von einer grösseren Netzabdeckung und einer verbesserten Netzqualität profitieren. Und der Wettbewerb um das leistungsfähigste Mobilfunknetz werde intensiver, heisst es mit Blick auf das Swisscom-Netz.</p>
+<p/><p>Technisch gehe es um eine Zusammenarbeit im Mobilfunk-Zugangsnetz (Radio Access Network) in der Form eines sogenannten "Multi-Operator Core Network Sharing". Bei diesem Modell würden ausgewählte Antennenstandorte mit den Kernnetzen beider Unternehmen verbunden. Dadurch könnten Kundinnen und Kunden auch Teile des Mobilfunknetzes des jeweils anderen Anbieters nutzen.</p>
+<p/><h3>Effizienterer Netzausbau</h3>
+<p/><p>Laut einem Sunrise-Sprecher werden die Netze auf diese Weise auch effizienter genutzt. Denn zum Teil stehe der Bau einer eigenen Antenne nur für das eigene Netz in keinem Verhältnis zur Nutzung.</p>
+<p/><p>Die beiden Firmen erhoffen sich von der Kooperation denn auch einen günstigeren Netzausbau, weil etwa künftige Investitionen "gezielter und wirkungsvoller" eingesetzt werden könnten. Die Kosteneffizienz wäre somit höher als bei einem eigenständigen Ausbau, so die Mitteilung.</p>
+<p/><p>Unterschiedliche Formen von Netzkooperationen sind laut den Angaben bereits in zahlreichen Ländern etabliert. Auch Salt und Sunrise arbeiten heute schon an ausgewählten Mobilfunkstandorten zusammen, wobei zur Dimension allerdings keine Angaben gemacht werden. Die nun geplante Zusammenarbeit sei eine Erweiterung dieser Kooperation.</p>
+<p/><h3>Konkurrenz bleibt</h3>
+<p/><p>Die Zusammenarbeit beschränke sich allerdings auf das Netz, wird betont. Beide Unternehmen blieben vollständig unabhängig - und zwar hinsichtlich Frequenzen, Netzstrategie, Marktpositionierung, Marken, Angeboten, Preisgestaltung, Produkten, Vertrieb, Marketing, kommerzieller Retail-Strategie und Kundenbeziehungen.</p>
+<p/><p>Ob es nach der nun unterzeichneten Absichtserklärung zu einer verbindlichen Vereinbarung kommt, ist allerdings noch nicht in Stein gemeisselt. Zunächst werde nun eine Prüfphase gestartet. Zudem bräuchte die angedachte Kooperation auch den Segen des Regulators.</p>
+<p/><p>Während der Prüfphase werden laut dem Sunrise-Sprecher auch die finanziellen Details geklärt. Aktuell könne dazu noch nichts gesagt werden. Mit einem raschen Abschluss der Verhandlungen ist im Übrigen nicht zu rechnen. "Ich rechne mit Monaten, wenn nicht Jahren", so der Sunrise-Sprecher.</p>
+<p/><p>An der Börse wird die Nachricht im frühen Handel wohlwollend aufgenommen. Sunrise legen gegen 10 Uhr um 1,2 Prozent zu, Swisscom sind mit 0,6 Prozent ebenfalls leicht im Plus. Salt sind nicht kotiert.</p>
+<p/><p>rw/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
