@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T070615+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>526</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:526:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T070615+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T070615+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Hören mit künstlicher Intelligenz: Sonova setzt auf die nächste Generation</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016037"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8712" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193895">
+<Property FormalName="FullName" Value="Sonova Holding AG" />
+
+<Property FormalName="ShortName" Value="Sonova" />
+
+<Property FormalName="Telekurs" Value="324541" />
+
+<Property FormalName="CHNr" Value="CH-020.3.920.080-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012549785" />
+
+<Property FormalName="Ticker" Value="SOON" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041592" />
+
+<Property FormalName="Ticker" Value="SON19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041600" />
+
+<Property FormalName="Ticker" Value="SON191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0547243276" />
+
+<Property FormalName="Ticker" Value="SON202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179534933" />
+
+<Property FormalName="Ticker" Value="SON22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1179534941" />
+
+<Property FormalName="Ticker" Value="SON221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1230759503" />
+
+<Property FormalName="Ticker" Value="SON222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1487331956" />
+
+<Property FormalName="Ticker" Value="SON25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Stäfa (awp) - Der Hörgerätekonzern Sonova setzt bei seiner Marke Phonak auf die nächste Generation künstlicher Intelligenz: Mit der neuen EON-Familie bringt das Unternehmen Hörgeräte auf den Markt, die Sprache auch in lauten und dynamischen Situationen besser aus Umgebungsgeräuschen herausfiltern sollen.</p>
+<p/><p>Möglich macht das ein neuer, eigens entwickelter KI-Chip. Sonova will damit seine technologische Führungsposition in einem stark wachsenden Markt verteidigen. EON stellt die dritte Generation von Sonovas eigener Echtzeit-KI dar.</p>
+<p/><p>Konkret hat Sonova mit Hypersonic einen neuen Chip gebaut, der die KI-Verarbeitung übernimmt. Zusammen mit einem neu trainierten neuronalen Netzwerk soll er 37 Prozent weniger Energie benötigen als die vorherige Sphere-Generation. Das hat einen unmittelbaren Effekt auf das Gerät: EON Sphere ist laut Sonova 25 Prozent kleiner und 20 Prozent leichter als der Vorgänger.</p>
+<p/><p>Gleichzeitig soll die Batterie bis zu 38 Stunden halten. Hinzu kommen Verbesserungen bei der Sprachverständlichkeit und bei der Nutzung im Freien. Die neue Funktion WindBlock 2.0 soll Windgeräusche um bis zu 50 Dezibel reduzieren und damit Gespräche beispielsweise beim Spazierengehen, Velofahren oder auf einer Terrasse erleichtern.</p>
+<p/><p>hr/dm/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
