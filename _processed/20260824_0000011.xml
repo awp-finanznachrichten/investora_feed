@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T090610+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>967</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:967:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T090610+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T090610+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Flugverkehr erreicht in der Schweiz am 24. Juli Sommerrekord</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04011001"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+<Property FormalName="City" Value="1218" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196453">
+<Property FormalName="FullName" Value="SKYGUIDE, Schweizerische AG für zivile und militaerische Flugsicherung" />
+
+<Property FormalName="ShortName" Value="Skyguide" />
+
+<Property FormalName="Telekurs" Value="412169" />
+
+<Property FormalName="CHNr" Value="CH-035.3.000.551-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002380456" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2060154856">
+<Property FormalName="FullName" Value="Aéroport International de Genève" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-660.0.866.994-9" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="AIR"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich/Genf (awp/sda) - Der 24. Juli ist der verkehrsreichste Flugtag der diesjährigen Sommerferiensaison gewesen. Die Flugsicherung Skyguide hat an diesem Tag 4761 Flüge im von ihr überwachten Schweizer Luftraum gezählt.</p>
+<p/><p>Die Verkehrszahlen zur Sommerferiensaison 2026 zeigten ein klares Muster: Die grössten Verkehrsspitzen im Luftraum entstanden an Freitagen und Montagen, teilte die Flugsicherung Skyguide am Montag mit. Das Wochenende selbst stehe hingegen nicht an der Spitze der Rangliste.</p>
+<p/><p>Die fünf verkehrsreichsten Tage des Sommers liegen laut Skyguide alle zwischen Anfang Juli und Anfang August. Der Spitzenwert von 4761 Flügen entfiel dabei auf Freitag, den 24. Juli, wie es weiter heisst.</p>
+<p/><p>Würde man diese 4761 Flugbewegungen hintereinander anordnen, ergäbe sich laut Skyguide bei einem üblichen Abstand von fünf nautischen Meilen zwischen zwei Flugzeugen im Überflug - eine Flugzeugkolonne, die mehr als einmal um die Erde reichen würde.</p>
+<p/><p>Insgesamt führte Skyguide zwischen dem 26. Juni und dem 17. August 240'108 Flüge durch den Schweizer Luftraum. Im Schnitt waren das 4503 Flüge pro Tag. An den Flughäfen Genf und Zürich gab es insgesamt 25'514 beziehungsweise 44'485 Starts und Landungen. Das entspricht durchschnittlich 481 Starts und Landungen pro Tag in Genf und 839 in Zürich.</p>
+<p/><h3>Wetter beeinflusst Reiseverkehr zunehmend</h3>
+<p/><p>Skyguide konnte in den Sommermonaten fast 93 Prozent der Flüge pünktlich abwickeln. Doch das Wetter beeinflusse den Reiseverkehr in diesen Monaten zunehmend stark, schreibt Skyguide. So waren 65 Prozent der Verspätungen in diesen Monaten auf Wetterphänomene zurückzuführen.</p>
+<p/><p>Die technischen Systeme funktionierten in den Sommermonaten laut Skyguide insgesamt "zuverlässig und stabil". Kurz vor Beginn der Hochsaison kam es allerdings zu einem erheblichen Systemproblem, das zur Leerung des östlichen Luftraums führte. An diesem Tag mussten 19 der 4306 Flüge annulliert werden, zudem kam es teilweise zu massiven Verspätungen, wie es weiter heisst.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
