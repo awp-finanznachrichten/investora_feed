@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T093715+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>1017</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:1017:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T093714+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T093714+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Gesundheitsplattformen Compassana und Well schliessen sich zusammen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016023"/><Subject FormalName="04016005"/><Subject FormalName="04002006"/><Subject FormalName="04006005"/><Subject FormalName="04006006"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8834" />
+
+<Property FormalName="City" Value="6002" />
+
+<Property FormalName="City" Value="8500" />
+
+<Property FormalName="City" Value="3027" />
+
+<Property FormalName="City" Value="8001" />
+
+<Property FormalName="City" Value="8008" />
+
+<Property FormalName="City" Value="8400" />
+
+<Property FormalName="City" Value="8600" />
+
+<Property FormalName="City" Value="1920" />
+
+<Property FormalName="City" Value="3074" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2018041946">
+<Property FormalName="FullName" Value="Trifork Holding AG" />
+
+<Property FormalName="ShortName" Value="Trifork" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-130.3.020.252-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1111227810" />
+
+<Property FormalName="Ticker" Value="TRIFOR" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DK0060102887" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196290">
+<Property FormalName="FullName" Value="CSS Versicherung AG" />
+
+<Property FormalName="ShortName" Value="CSS" />
+
+<Property FormalName="Telekurs" Value="738072" />
+
+<Property FormalName="CHNr" Value="CH-100.3.014.486-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001646964" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197497">
+<Property FormalName="FullName" Value="DocMorris AG" />
+
+<Property FormalName="ShortName" Value="DocMorris" />
+
+<Property FormalName="Telekurs" Value="087210" />
+
+<Property FormalName="CHNr" Value="CH-440.3.000.262-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0042615283" />
+
+<Property FormalName="Ticker" Value="DOCM" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2042236061">
+<Property FormalName="FullName" Value="Galenica AG" />
+
+<Property FormalName="ShortName" Value="Galenica" />
+
+<Property FormalName="Telekurs" Value="748474" />
+
+<Property FormalName="CHNr" Value="CH-036.3.069.575-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0360674466" />
+
+<Property FormalName="Ticker" Value="GALE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0367206700" />
+
+<Property FormalName="Ticker" Value="GAL171" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1255924453" />
+
+<Property FormalName="Ticker" Value="GAL23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1331113634" />
+
+<Property FormalName="Ticker" Value="GAL24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1494626398" />
+
+<Property FormalName="Ticker" Value="GAL25" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193847">
+<Property FormalName="FullName" Value="Helsana Versicherungen AG" />
+
+<Property FormalName="ShortName" Value="Helsana" />
+
+<Property FormalName="Telekurs" Value="181564" />
+
+<Property FormalName="CHNr" Value="CH-020.3.007.425-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0015671388" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2133541483">
+<Property FormalName="FullName" Value="Klinik Hirslanden AG" />
+
+<Property FormalName="Telekurs" Value="110445" />
+
+<Property FormalName="CHNr" Value="CH-020.3.004.754-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012184583" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196988">
+<Property FormalName="FullName" Value="SWICA Holding AG" />
+
+<Property FormalName="Telekurs" Value="186048" />
+
+<Property FormalName="CHNr" Value="CH-020.3.004.330-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001860482" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2002990241">
+<Property FormalName="FullName" Value="Bluespace Ventures AG" />
+
+<Property FormalName="ShortName" Value="Compassana" />
+
+<Property FormalName="CHNr" Value="CH-020-3049471-0" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2122361041">
+<Property FormalName="FullName" Value="Groupe Mutuel" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-626.6.003.319-1" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2147193673">
+<Property FormalName="FullName" Value="Visana Versicherungen AG" />
+
+<Property FormalName="ShortName" Value="Visana" />
+
+<Property FormalName="Telekurs" Value="419574" />
+
+<Property FormalName="CHNr" Value="CH-035.3.001.342-7" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="JNV"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die beiden Schweizer Gesundheitsplattformen Compassana und Well werden zusammengeführt. Unter dem Namen Compassana-Well AG entsteht eine neue digitale Gesundheitsplattform, über die die beteiligten 11 Partner künftig 70 Prozent der Schweizer Versicherten erreichen wollen.</p>
+<p/><p>Die gemeinsame Plattform soll Gesundheitsinformationen für Patienten an einem Ort bündeln und die Versicherten über das elektronische Gesundheitsdossier (E-GD) mit Spitälern, Ärzten, Apotheken und Krankenversicherern verbinden, wie es in einer gemeinsamen Mitteilung vom Montag heisst.</p>
+<p/><p>Die Plattform soll künftig verschiedene digitale Kontaktpunkte im Gesundheitswesen verknüpfen - von der ersten Einschätzung von Symptomen über Termin- und Behandlungsinformationen bis hin zur Nutzung von Gesundheitsdaten.</p>
+<p/><p>An der Compassana-Well AG beteiligen sich konkret die Krankenkasse CSS, DocMorris, Galenica, Groupe Mutuel, Helsana, Hirslanden, Medbase, Swica, Trifork und Visana. Neu kommt die KPT Krankenversicherung hinzu. Die beteiligten Krankenversicherer betreuen zusammen rund 70 Prozent der Versicherten in der Schweiz.</p>
+<p/><p>Der Start der neuen Gesellschaft auf Anfang 2027 geplant.</p>
+<p/><p>sta/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
