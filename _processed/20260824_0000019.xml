@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T125518+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>19</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>1654</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:1654:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T125517+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T125517+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Schindler verkauft KI-Immo-Startup BuildingMinds</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04011009"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6060" />
+
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+<Property FormalName="Country" Value="DE" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197365">
+<Property FormalName="FullName" Value="Schindler Holding AG" />
+
+<Property FormalName="ShortName" Value="Schindler" />
+
+<Property FormalName="Telekurs" Value="119066" />
+
+<Property FormalName="CHNr" Value="CH-150.3.001.483-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024638212" />
+
+<Property FormalName="Ticker" Value="SCHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024638196" />
+
+<Property FormalName="Ticker" Value="SCHP" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1973602110">
+<Property FormalName="FullName" Value="Lookthrough Schweiz AG" />
+
+<Property FormalName="ShortName" Value="Lookthrough" />
+
+<Property FormalName="CHNr" Value="CH-020-3055553-0" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Schindler hat sein deutsches KI-Immobilien-Startup BuildingMinds an die Zürcher Immobilienplattform Lookthrough abgestossen. Der Rolltreppen- und Lifthersteller wird damit grösster institutioneller Aktionär von Lookthrough.</p>
+<p/><p>Gemeinsam soll dadurch eine führende "KI-Plattform für Entscheidungsintelligenz in der Immobilienwirtschaft" entstehen, wie es in einer Mitteilung vom Montag heisst. Das in Berlin ansässige Unternehmen BuildingMinds soll dabei seine KI-Datenplattform für das Management von Immobilienportfolios beisteuern.</p>
+<p/><p>Das gemeinsame KI-Softwareunternehmen verfüge dann über den weltweit grössten institutionellen Immobiliendatensatz. Der Mitteilung nach handelt es sich dabei um über mehr als 100'000 Gebäude in 64 Ländern.</p>
+<p/><p>BuildingMinds behalte seine Marke und seinen Standort Berlin. Marek Sacha bleibe zudem während der Übergangsphase CEO von BuildingMinds und wechsle anschliessend in den Verwaltungsrat.</p>
+<p/><p>Der Rolltreppen- und Lifthersteller Schindler wird im Zuge der Transaktion grösster institutioneller Aktionär von Lookthrough. Der Abschluss des Deals wird für das vierte Quartal 2026 erwartet.</p>
+<p/><p>sta/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
