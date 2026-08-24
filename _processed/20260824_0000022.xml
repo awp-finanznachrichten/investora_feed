@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T184914+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>22</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>3062</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:3062:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T184913+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T184913+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Schwyzer Regierung und Hamburg würdigen verstorbenen Kühne</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8834" />
+
+</Property>
+
+<Property FormalName="Country" Value="DE">
+<Property FormalName="City" Value="DE-50679" />
+
+<Property FormalName="City" Value="45472" />
+
+<Property FormalName="City" Value="20095" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147195720">
+<Property FormalName="FullName" Value="Deutsche Lufthansa AG" />
+
+<Property FormalName="ShortName" Value="Lufthansa" />
+
+<Property FormalName="Telekurs" Value="329200" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE0008232125" />
+
+<Property FormalName="Ticker" Value="LHA" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2080522545">
+<Property FormalName="FullName" Value="Brenntag AG" />
+
+<Property FormalName="ShortName" Value="Brenntag" />
+
+<Property FormalName="Telekurs" Value="222966" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE000A1DAHH0" />
+
+<Property FormalName="Ticker" Value="BNR" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196362">
+<Property FormalName="FullName" Value="Kühne + Nagel International AG" />
+
+<Property FormalName="ShortName" Value="Kühne+Nagel" />
+
+<Property FormalName="Telekurs" Value="547726" />
+
+<Property FormalName="CHNr" Value="CH-130.0.005.610-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0025238863" />
+
+<Property FormalName="Ticker" Value="KNIN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241150" />
+
+<Property FormalName="Ticker" Value="KNI25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241168" />
+
+<Property FormalName="Ticker" Value="KNI251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1571219349" />
+
+<Property FormalName="Ticker" Value="KNI26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1571219356" />
+
+<Property FormalName="Ticker" Value="KNI261" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147195647">
+<Property FormalName="FullName" Value="Hapag-Lloyd AG" />
+
+<Property FormalName="Telekurs" Value="335479" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="DE000HLAG475" />
+
+<Property FormalName="Ticker" Value="HLAG" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Schwyz/Hamburg (awp/dpa) - Nach dem Tod des Logistikmilliardärs Klaus-Michael Kühne haben die Schwyzer Regierung und die Stadt Hamburg dessen wirtschaftliches und gesellschaftliches Wirken gewürdigt. Der Ehrenpräsident und langjährige Patron von Kühne+Nagel war in der Nacht auf Montag im Alter von 89 Jahren in Schindellegi verstorben, wo er lebte und sein Konzern den Hauptsitz hat.</p>
+<p/><p>Der Schwyzer Regierungsrat zeigte sich in einer Mitteilung "tief betroffen". Kühne habe im Kanton, in der Schweiz und weltweit Spuren hinterlassen. Über die Kühne-Stiftung mit Sitz in Schindellegi engagierte er sich zudem für Bildung, Forschung, Medizin, Logistik und Kultur. Der Kanton verliere eine "prägende Persönlichkeit des Wirtschafts- und Gesellschaftslebens", hiess es.</p>
+<p/><p>Hamburgs Bürgermeister Peter Tschentscher zeichnete derweil auch ein persönliches Bild Kühnes. Der Patron sei "ein ambitionierter Unternehmer, harter Verhandler und streitbarer Mensch" gewesen. "Er arbeitete, wenn es sein muss, bis in die Nacht, scheute nicht den Konflikt und war doch - wie ich es seit 15 Jahren persönlich erlebt habe - immer bereit zur Einigung und verlässlichen Partnerschaft", sagte der SPD-Politiker.</p>
+<p/><p>Kühne war seiner Geburtsstadt Hamburg trotz seines jahrzehntelangen Lebensmittelpunkts in der Schweiz eng verbunden. Über seine Stiftungen unterstützte der kinderlose Milliardär unter anderem die Elbphilharmonie und die Oper, gründete eine Logistik-Hochschule und engagierte sich beim Fussballclub HSV. Zudem liess er das Luxushotel "The Fontenay" bauen. Hamburg ehrte ihn 2017 mit der Ehrendenkmünze in Gold.</p>
+<p/><p>Kühne war ausserdem Grossaktionär der Hamburger Containerreederei Hapag-Lloyd. Konzernchef Rolf Habben Jansen würdigte ihn als Anteilseigner, der dem Unternehmen zur Seite gestanden habe, als es starke und verlässliche Aktionäre gebraucht habe.</p>
+<p/><p>to/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
