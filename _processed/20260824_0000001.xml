@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260824T063913+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260824</DateId>
+			<NewsItemId>444</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260824:444:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260824T063913+0200</FirstCreated>
+		<ThisRevisionCreated>20260824T063913+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Allreal mit tieferem Gewinn - operativ klar über Erwartungen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8152" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191945">
+<Property FormalName="FullName" Value="Allreal Holding AG" />
+
+<Property FormalName="ShortName" Value="Allreal" />
+
+<Property FormalName="Telekurs" Value="45765" />
+
+<Property FormalName="CHNr" Value="CH-170.3.022.869-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008837566" />
+
+<Property FormalName="Ticker" Value="ALLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0357676110" />
+
+<Property FormalName="Ticker" Value="ALL17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041493" />
+
+<Property FormalName="Ticker" Value="ALL19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0536893271" />
+
+<Property FormalName="Ticker" Value="ALL20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1118223366" />
+
+<Property FormalName="Ticker" Value="ALL21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1239464691" />
+
+<Property FormalName="Ticker" Value="ALL23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1319968579" />
+
+<Property FormalName="Ticker" Value="ALL24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1423931646" />
+
+<Property FormalName="Ticker" Value="ALL25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1487332061" />
+
+<Property FormalName="Ticker" Value="ALL251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934740" />
+
+<Property FormalName="Ticker" Value="ALL26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Opfikon (awp) - Das Immobilien- und Generalunternehmen Allreal hat im ersten Halbjahr 2026 operativ deutlich zugelegt. Unter dem Strich fiel der Reingewinn jedoch aufgrund tieferer Neubewertungseffekte geringer aus.</p>
+<p/><p>Konkret steht unter dem Strich ein 9,6 Prozent tieferer Gewinn von 105,6 Millionen Franken, wie das Unternehmen am Montagmorgen mitteilte. Der Hauptgrund dafür war ein deutlich niedrigerer Neubewertungseffekt, der mit 40,8 Millionen rund 42 Prozent tiefer als in der Vergleichsperiode ausgefallen ist.</p>
+<p/><h3>Mieterträge leicht tiefer</h3>
+<p/><p>Werden die Neubewertungen weggelassen, betrug der Reingewinn 75,6 Millionen Franken, was 20,8 Prozent über dem Vorjahr liegt. Auch der operative Gewinn (EBIT) ohne Neubewertungseffekte legte deutlich zu, und zwar um 14,3 Prozent auf 108,8 Millionen Franken.</p>
+<p/><p>Dies gelang trotz leicht tieferer Mieterträge. Diese nahmen um 0,9 Prozent auf 102,6 Millionen Franken ab. Die Veränderungen im Portfolio wirkten sich dabei auf die Ertragsbasis aus. Die Leerstandsquote kam bei 3,6 Prozent nach 3,4 Prozent Ende 2025 zu liegen.</p>
+<p/><p>Zum höheren operativen Ergebnis trugen insbesondere Verkaufsgewinne bei. Aus dem Verkauf kleinerer Wohnliegenschaften in Genf und Basel resultierte ein Erfolg von 15,7 Millionen Franken. Gleichzeitig sank der Finanzaufwand gegenüber dem Vorjahr um 6 Prozent. Der Erfolg aus Realisation stieg zudem um einen Drittel auf 12,0 Millionen Franken.</p>
+<p/><p>Insgesamt übertraf Allreal die Analystenerwartungen klar: EBIT und Reingewinn vor Neubewertungen lagen deutlich über dem AWP-Konsens, während Mietertrag und Neubewertungseffekt leicht darunter blieben.</p>
+<p/><h3>Prognose bestätigt</h3>
+<p/><p>Für das laufende Jahr 2026 hält Allreal am Ausblick fest. Alles in allem wird weiterhin ein höheres operatives Ergebnis bei stabilen Bilanzkennzahlen erwartet. Zudem sollen die Mieterträge zunehmen.</p>
+<p/><p>Im Segment Immobilien rechnet Allreal bis zum Jahresende wieder mit einer tieferen Leerstandsquote. Auf Gruppenebene soll die durch die Portfolioveränderungen gestärkte Ertragsbasis zum Wachstum beitragen.</p>
+<p/><p>Im Segment Entwicklung &amp; Realisation erwartet Allreal leicht steigende Gewinne aus dem Verkauf von Stockwerkeigentum, ein leicht höheres Bauvolumen und einen stabilen Betriebsaufwand. Die Finanzierungskosten dürften dagegen leicht steigen, da sehr vorteilhaft verzinste Verbindlichkeiten im ersten Halbjahr ausgelaufen seien.</p>
+<p/><p>yz/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
