@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T100522+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>1527</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:1527:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T100522+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T100522+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Barry Callebaut ernennt Thomas Gaengler zum Chief Operating Officer</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193690">
+<Property FormalName="FullName" Value="Barry Callebaut AG" />
+
+<Property FormalName="ShortName" Value="Barry Callebaut" />
+
+<Property FormalName="Telekurs" Value="913918" />
+
+<Property FormalName="CHNr" Value="CH-020.3.005.564-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009002962" />
+
+<Property FormalName="Ticker" Value="BARN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1314941423" />
+
+<Property FormalName="Ticker" Value="BAR23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1314941431" />
+
+<Property FormalName="Ticker" Value="BAR231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614053" />
+
+<Property FormalName="Ticker" Value="BAR242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614061" />
+
+<Property FormalName="Ticker" Value="BAR243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064569" />
+
+<Property FormalName="Ticker" Value="BAR244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064577" />
+
+<Property FormalName="Ticker" Value="BAR245" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Schokoladenkonzern Barry Callebaut hat Thomas Gaengler per September zum Chief Operating Officer ernannt. Er tritt die Nachfolge von Clemens Woehrle an, wie es in einer Mitteilung vom Dienstag heisst.</p>
+<p/><p>Gaengler kommt den Angaben zufolge von Mondelez zu Barry Callebaut und bringt mehr als 30 Jahre Führungserfahrung in den Bereichen Lieferkette, Beschaffung und Betrieb mit. In den letzten vier Jahren habe er als Global Chief Procurement Officer den Einkauf bei Mondelez geleitet.</p>
+<p/><p>sta/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
