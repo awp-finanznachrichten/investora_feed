@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T072215+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>816</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:816:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T072215+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T072215+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>EFG International ernennt Ranjit Khanna in Dubai zum CEO</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="AE" />
+
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2126815525">
+<Property FormalName="FullName" Value="EFG International AG" />
+
+<Property FormalName="ShortName" Value="EFG International" />
+
+<Property FormalName="Telekurs" Value="303585" />
+
+<Property FormalName="CHNr" Value="CH-020.3.028.719-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0022268228" />
+
+<Property FormalName="Ticker" Value="EFGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - EFG International hat Ranjit Khanna zum CEO des Dubai Advisory Office ernannt. Er übernimmt die Funktion per 26. August.</p>
+<p/><p>Khanna soll den weiteren Ausbau des Geschäfts in Dubai und den Vereinigten Arabischen Emiraten vorantreiben, wie die Privatbank am Dienstag mitteilte. Er berichtet an Patrick Ramsey, Leiter Continental Europe and Middle East.</p>
+<p/><p>Zuvor war Khanna bei der Bank of Singapore als Leiter des Private Banking für Europa, den Nahen Osten und Südasien sowie als Chef der Niederlassung im Dubai International Financial Centre (DIFC) tätig. Er verfügt gemäss Mitteilung über mehr als 30 Jahre Erfahrung im internationalen Private Banking.</p>
+<p/><p>yz/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
