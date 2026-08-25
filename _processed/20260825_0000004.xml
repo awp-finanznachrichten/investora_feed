@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T072612+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>825</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:825:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T072612+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T072612+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Cham Swiss Properties steigert Mietertrag und treibt Projekte voran</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6330" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2025756012">
+<Property FormalName="FullName" Value="Cham Swiss Properties AG" />
+
+<Property FormalName="ShortName" Value="Cham SP" />
+
+<Property FormalName="Telekurs" Value="845661" />
+
+<Property FormalName="CHNr" Value="CH-020.3.048.325-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0524026959" />
+
+<Property FormalName="Ticker" Value="CHAM" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1487331980" />
+
+<Property FormalName="Ticker" Value="CSP25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1540977266" />
+
+<Property FormalName="Ticker" Value="CSP261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Cham (awp) - Die Immobiliengesellschaft Cham Swiss Properties hat im ersten Halbjahr 2026 den Mietertrag gesteigert. Im Vorjahr hatten sich die Cham Group und Ina Invest zusammengeschlossen. Nun werden die Projekte vorangetrieben.</p>
+<p/><p>Aus der Vermietung erwirtschaftete Cham SP nach vollständiger Konsolidierung der Erträge aus dem Ina Invest-Portfolio einen um 5 Prozent höheren Mietertrag von 13,7 Millionen Franken, heisst es in der Mitteilung vom Dienstag. Dazu hätten vor allem die Lokstadt-Hallen in Winterthur sowie das Zentrallager auf dem Papieri-Areal beigetragen. Die Leerstandsquote des 1,76 Milliarden schweren Portfolios betrage 5 Prozent.</p>
+<p/><p>Derweil wurde kein Ertrag aus dem Verkauf von Promotionsliegenschaften erzielt, nachdem im Vorjahr hier noch 37,3 Millionen Franken zu Buche standen. Das Betriebsergebnis (EBIT) ohne Neubewertungseffekte stand bei 5,5 Millionen Franken (VJ 39,0 Millionen).</p>
+<p/><h3>Klar tiefere Neubewertungen</h3>
+<p/><p>Die Neubewertungen beliefen sich nach starken 125,4 Millionen Franken im Vorjahr nur noch auf 6,4 Millionen. Damit brach auch der Reingewinn auf 8,4 Millionen nach 144,0 Millionen im Vorjahr ein.</p>
+<p/><p>Derweil treibt Cham SP derzeit sechs Bauvorhaben mit einem Investitionsvolumen von 172 Millionen Franken voran. Mit dem Fortschritt bei allen Projekten zeigt sich das Unternehmen "zufrieden".</p>
+<p/><h3>Quartier-Entwicklungen und Ausblick</h3>
+<p/><p>Auch die beiden Quartierentwicklungen Bredella und Papieri kommen voran. So werde mit ersten Abbruch- und Vorbereitungsarbeiten für Bredella West bereits im zweiten Halbjahr 2026 begonnen.</p>
+<p/><p>Auf dem Papieri-Areal sei das historische Kesselhaus vollvermietet und ab dem zweiten Halbjahr 2026 bezugsbereit. Die dritte Bauetappe stehe kurz vor dem Abschluss und die Vermietungssituation präsentiere sich "sehr zufriedenstellend".</p>
+<p/><p>Hingegen werde die Umzonung des Pavatex-Areals derzeit aufgrund einer Stimmrechtsbeschwerde blockiert. Die Abstimmung soll 2027 stattfinden.</p>
+<p/><p>Im Bereich Portfoliomanagement veräusserte die Immobiliengesellschaft zwei Entwicklungsprojekte in Onex im Kanton Genf aus dem früheren Ina-Invest-Portfolio und erwarb im Juli 2026 eine Liegenschaft in der Stadt Genf. Für das laufende Jahr erwartet Cham SP ein planmässiges Wachstum des Mietertrags sowie weitere operative Fortschritte bei den Bau- und Entwicklungsprojekten.</p>
+<p/><p>dm/yz</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
