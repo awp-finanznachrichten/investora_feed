@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T151118+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>21</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>3003</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:3003:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T151118+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T151118+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Presse: Givaudan und DSM-Firmenich in Indien erneut im Fokus der Kartellwächter</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016027"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1214" />
+
+<Property FormalName="City" Value="4303" />
+
+</Property>
+
+<Property FormalName="Country" Value="IN" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191792">
+<Property FormalName="FullName" Value="Givaudan SA" />
+
+<Property FormalName="ShortName" Value="Givaudan" />
+
+<Property FormalName="Telekurs" Value="78786" />
+
+<Property FormalName="CHNr" Value="CH-660.0.028.929-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010645932" />
+
+<Property FormalName="Ticker" Value="GIVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0343366784" />
+
+<Property FormalName="Ticker" Value="GIV161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0572327036" />
+
+<Property FormalName="Ticker" Value="GIV20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308724" />
+
+<Property FormalName="Ticker" Value="GIV21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148308732" />
+
+<Property FormalName="Ticker" Value="GIV211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191714711" />
+
+<Property FormalName="Ticker" Value="GIV220" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916731" />
+
+<Property FormalName="Ticker" Value="GIV23" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196377">
+<Property FormalName="FullName" Value="DSM-Firmenich AG" />
+
+<Property FormalName="ShortName" Value="DSM-Firmenich" />
+
+<Property FormalName="Telekurs" Value="635433" />
+
+<Property FormalName="CHNr" Value="CH-400-3451111-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1216478797" />
+
+<Property FormalName="Ticker" Value="DSFIR" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die indischen Wettbewerbsbehörden untersuchen in einem weiteren Fall mögliche Preisabsprachen in der Duftstoffindustrie. Im Visier stehen dabei der Genfer Aromen- und Riechstoffkonzern Givaudan sowie DSM-Firmenich und der US-Konkurrent International Flavors &amp; Fragrances (IFF).</p>
+<p/><p>Das berichtet die Nachrichtenagentur Reuters am Dienstag unter Berufung auf ein ihr vorliegendes Behörden-Dokument. Bei der Untersuchung gehe es um mutmassliche Preisabsprachen seit 2024. Die indische Wettbewerbskommission CCI habe bereits einen Untersuchungsbericht erstellt und diesen den Unternehmen im Februar zugestellt.</p>
+<p/><p>Der Bericht sei im Juli allerdings wieder zurückgezogen worden. Givaudan und IFF hätten beanstandet, dass darin Geschäftsgeheimnisse nicht ausreichend geschwärzt worden seien. Die Behörde müsse den Bericht nun entsprechend überarbeiten. Dies könnte das bereits seit rund zwei Jahren laufende Verfahren weiter verzögern.</p>
+<p/><h3>Auch Weko untersucht mögliche Absprachen</h3>
+<p/><p>Für Givaudan und DSM-Firmenich ist es nicht das einzige Kartellverfahren in Indien. Die Behörden untersuchen auch Vorwürfe, wonach Unternehmen Absprachen getroffen haben sollen, um sich gegenseitig keine Mitarbeiter abzuwerben.</p>
+<p/><p>Auch in Europa stehen mögliche Absprachen in der Duftstoffbranche seit längerem im Fokus der Wettbewerbsbehörden. Unter anderem hatten die Schweizer Wettbewerbskommission (Weko) und die britische Wettbewerbsbehörde 2023 Untersuchungen eingeleitet.</p>
+<p/><p>Givaudan und DSM-Firmenich äusserten sich gegenüber Reuters nicht zu dem neuen indischen Verfahren.</p>
+<p/><p>jl/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
