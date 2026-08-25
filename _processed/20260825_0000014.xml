@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T075812+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>934</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:934:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T075812+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T075812+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Valartis macht weniger Gewinn im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6340" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2055656720">
+<Property FormalName="FullName" Value="Valartis Group AG" />
+
+<Property FormalName="ShortName" Value="Valartis" />
+
+<Property FormalName="Telekurs" Value="228231" />
+
+<Property FormalName="CHNr" Value="CH-020.3.919.452-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0367427686" />
+
+<Property FormalName="Ticker" Value="VLRT" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Baar (awp) - Die Finanzgruppe Valartis hat im ersten Halbjahr 2026 markant weniger verdient als in der Vergleichsperiode. Das Unternehmen begründet dies mit weggefallenen Sondereffekten. Einen konkreten Ausblick auf das laufende Gesamtjahr gab die Finanzgruppe wie üblich nicht.</p>
+<p/><p>Konkret erreichte der Nettogewinn 3,7 Millionen Franken, wie das Unternehmen am Dienstag mitteilte. Das entspricht weniger als der Hälfte des Vorjahres (8,6 Mio), liegt aber im Bereich der Vorankündigung von vor einer Woche.</p>
+<p/><p>Valartis begründet den Rückgang mit positiven Einmaleffekten im Vorjahr. Bereinigt um diese Effekte sei das zugrunde liegende operative Ergebnis im Vergleich zum Vorjahreszeitraum angestiegen. So blieben etwas die Verwaltungskosten stabil.</p>
+<p/><p>Der Betriebsertrag reduzierte sich dabei um mehr als 22 Prozent auf 5,5 Millionen Franken. Dieser Rückgang sei hauptsächlich auf einmalige Liquidationsgewinne im Vorjahr zurückzuführen.</p>
+<p/><p>Die Erträge aus Managementdienstleistungen nahmen indes um rund 15 Prozent auf 1,5 Millionen zu, insbesondere dank zusätzlicher Transaktionsgebühren. Dank höherer Mietzinseinnahmen und dank Währungseffekten verbesserten sich auch die Erträge aus der Investitionsliegenschaft um knapp 24 Prozent auf 2,6 Millionen.</p>
+<p/><h3>Abschreiber auf Darlehen im Blumenbereich</h3>
+<p/><p>Wertberichtigungen, Rückstellungen und Verluste summierten sich auf 2,8 Millionen Franken. Dafür macht Valartis insbesondere eine negative Wertkorrektur auf dem Darlehen verantwortlich, das dem Joint Venture im Blumenproduktionsbereich gewährt wurde.</p>
+<p/><p>Einen konkreten Ausblick auf das laufende Gesamtjahr gab die Finanzgruppe wie üblich nicht. Valartis will sich aber weiterhin auf die "erfolgreiche Entwicklung bestehender und neuer profitabler Aktivitäten" konzentrieren. Der Schwerpunkt liege im Jahr 2025 auf weiteren Investitionen in den Schifffahrtssektor sowie in heimische Immobilienprojekte.</p>
+<p/><p>cf/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
