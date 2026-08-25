@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T191017+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>22</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>3697</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:3697:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T191017+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T191017+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Groupe Minoteries rutscht im Halbjahr wegen Rückstellungen in Verlustzone</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016039"/><Subject FormalName="09000000"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1523" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196647">
+<Property FormalName="FullName" Value="Groupe Minoteries SA" />
+
+<Property FormalName="ShortName" Value="Minoteries" />
+
+<Property FormalName="Telekurs" Value="240515" />
+
+<Property FormalName="CHNr" Value="CH-660.0.002.885-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012949464" />
+
+<Property FormalName="Ticker" Value="GMI" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="LAB"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Granges-près-Marnand (awp) - Die Mühlenbetreiberin Groupe Minoteries ist im ersten Halbjahr in die roten Zahlen gerutscht. Gründe dafür sind Rückstellungen für die Schliessung des Standorts Zollbrück und höhere Kosten durch die Integration der Schweizerischen Schälmühle E. Zwicky.</p>
+<p/><p>So erlitt die Gruppe in den ersten sechs Monaten einen Betriebsverlust (EBIT) von 1,42 Millionen Franken, wie das Unternehmen am Dienstagabend in einem Communiqué bekannt gab. Im Vorjahressemester hatte die Mühlenbetreiberin noch einen positiven EBIT von 2,87 Millionen Franken eingefahren.</p>
+<p/><p>Unter dem Strich schloss das Halbjahr mit einem Verlust von 962'000 Franken nach einem Gewinn von 2,65 Millionen im Vorjahreszeitraum.</p>
+<p/><h3>Höhere Kosten und Rückstellungen</h3>
+<p/><p>Aufs Ergebnis schlugen 5,47 Millionen Franken höhere Personal- und Betriebsaufwendungen. Dieser Anstieg erkläre sich dadurch, dass die Schweizerische Schälmühle E. Zwicky AG während fünf zusätzlicher Monate von Januar bis Mai 2026 im Ergebnis enthalten sei, nachdem diese Monate 2025 noch nicht berücksichtigt gewesen seien.</p>
+<p/><p>Ausserdem belasteten Rückstellungen das Ergebnis mit 3,1 Millionen Franken. Davon entfielen 250'000 Franken auf den Sozialplan für die Schliessung der Mühle in Zollbrück. Und 2,8 Millionen wurden auf den Restwerten der Immobilien und den Maschinen in Zollbrück abgeschrieben. Dieser Betrag sei ein vorsichtiger Wert, da Erträge aus eventuellen Verkäufen von Vermögenswerten, insbesondere von Immobilien, in diesem Zusammenhang nicht berücksichtigt worden seien, schrieb die Firma.</p>
+<p/><p>Dagegen wirkte sich die volle Integration der Mühle E. Zwicky bei den Einnahmen positiv aus: Der Umsatz der Gruppe stieg im ersten Halbjahr um 10,2 Prozent auf 78,37 Millionen Franken.</p>
+<p/><h3>2026 als Übergangsjahr</h3>
+<p/><p>Das Jahr 2026 sei eine Zeit des Übergangs und der Investitionen, mit denen sich die Gruppe besser für die Zukunft rüsten wolle. "Ohne grössere unvorhergesehene Ereignisse bis zum Jahresende bleiben die Aussichten im Rahmen der zu Beginn des Geschäftsjahres formulierten Erwartungen", schrieb das Unternehmen. Somit erwartet die Gruppe für 2026 ein weiteres Umsatzwachstum, aber ein Verharren des Betriebsgewinns auf dem Niveau von 2025.</p>
+<p/><p>Die Integration der Schälmühle E. Zwicky dürfte den Umsatz stützen. "Die Situation des Betriebsergebnisses (EBIT) wird dennoch angespannt bleiben, da die mit dieser Integration einhergehenden Synergien ihre Wirkung noch nicht entfalten konnten", schrieb die Firma. "Die eventuelle Aufgabe des Standorts Steiner Mühle AG wird ausserdem einen massgeblichen Einfluss auf das Ergebnis 2026 haben."</p>
+<p/><p>jb/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
