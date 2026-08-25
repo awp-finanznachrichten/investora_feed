@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T075215+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>919</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:919:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T075215+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T075215+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>VP Bank wächst im Halbjahr und steigert Gewinn</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9490" />
+
+</Property>
+
+<Property FormalName="Country" Value="LI" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147194850">
+<Property FormalName="FullName" Value="VP Bank AG" />
+
+<Property FormalName="ShortName" Value="VP Bank" />
+
+<Property FormalName="Telekurs" Value="588378" />
+
+<Property FormalName="CHNr" Value="FL-000.1.007.080-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="LI0315487269" />
+
+<Property FormalName="Ticker" Value="VPBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="LI0010737596" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Vaduz (awp) - Die Liechtensteiner VP Bank hat im ersten Halbjahr 2026 ihren Gewinn kräftig gesteigert. Zudem hat die Bank deutlich mehr Neugelder angezogen.</p>
+<p/><p>Der Reingewinn stieg im ersten Semester um 12,7 Prozent auf 32,4 Millionen Franken, wie die Bank am Dienstag mitteilte. Das Wachstum im Kommissions- und Dienstleistungsgeschäft habe den rückläufigen Zinserfolg ausglichen. Zudem ist die VP Bank auf der Kostenbremse gestanden, was die Profitabilität ebenfalls begünstigte.</p>
+<p/><p>Gleichzeitig legten die betreuten Kundenvermögen um 6,4 Prozent auf 57,1 Milliarden Franken zu. Die Bank sammelte neue Kundengelder im Umfang von 1,4 Milliarden Franken ein, was einem annualisierten Wachstum von 5,2 Prozent entspricht.</p>
+<p/><h3>Kosten- und Ertragsverhältnis verbessert</h3>
+<p/><p>Der Geschäftsertrag legte um 2,2 Prozent auf 171,6 Millionen Franken zu. Gleichzeitig sank der Geschäftsaufwand um 5,3 Prozent auf 135,2 Millionen. Die Cost-/Income-Ratio sank in der Folge gegenüber der Vorjahresperiode um 2,7 Prozentpunkte auf 78,8 Prozent.</p>
+<p/><p>Nachdem die VP Bank in 2024 einen Gewinneinbruch erlitten hatte, wurde eine Restrukturierung in Angriff genommen. Unter anderem wurde der Standort Hongkong geschlossen, dazu kam auch ein Stellenabbau in Europa. Insgesamt sollten bis 2026 rund 20 Millionen eingespart werden.</p>
+<p/><p>Die VP Bank verfügt über eine laut eigenen Angaben "starke" Kapital- und Liquiditätsausstattung. Die Tier-1-/CET1-Ratio erhöhte sich gegenüber Ende 2025 auf 26,0 Prozent und die Liquidity Coverage Ratio (LCR) liege mit 157,6 Prozent deutlich über den regulatorischen Anforderungen.</p>
+<p/><p>Das Institut rechnet im zweiten Halbjahr 2026 mit einer Normalisierung der saisonal begünstigten Netto-Neugeldzuflüsse. Gleichzeitig falle die Geschäftsentwicklung erfahrungsgemäss im zweiten Halbjahr schwächer aus. Man sehe sich aber gut positioniert, stabile Erträge zu erzielen und langfristigen Mehrwert zu schaffen.</p>
+<p/><p>ra/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
