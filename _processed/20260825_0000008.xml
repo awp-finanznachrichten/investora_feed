@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T074316+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>891</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:891:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T074316+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T074316+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Molecular Partners: Cash reicht bis 2027 - MP0712 erreicht nächste Dosisstufe</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016037"/><Subject FormalName="04016030"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8952" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2076105829">
+<Property FormalName="FullName" Value="Molecular Partners AG" />
+
+<Property FormalName="ShortName" Value="Molecular Partners" />
+
+<Property FormalName="Telekurs" Value="667374" />
+
+<Property FormalName="CHNr" Value="CH-020.3.028.228-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0256379097" />
+
+<Property FormalName="Ticker" Value="MOLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US60853G1067" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RAD"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Biotechunternehmen Molecular Partners hat im ersten Semester 2026 wichtige Pipeline-Meilensteine erzielt und gleichzeitig die Ausgaben für Forschung und Entwicklung reduziert. Ende Juni verfügte das Unternehmen noch über Barmittel von 67,9 Millionen Franken.</p>
+<p/><p>Da Molecular Partners derzeit keine Einnahmen generiert, ist die vorhandene Liquidität für Investoren von besonderer Bedeutung. Nach Angaben des Unternehmens vom Dienstag reichen die Mittel bei den derzeitigen Planungen bis spät ins Jahr 2027 hinein. Mögliche Zahlungen aus Forschungspartnerschaften sind dabei noch nicht eingerechnet.</p>
+<p/><p>Die operativen Kosten beliefen sich derweil auf 27 Millionen Franken. Davon entfielen 19 Millionen auf Forschung und Entwicklung, nach 22,6 Millionen im Vorjahreszeitraum. Unter dem Strich resultierte ein Verlust von 26,7 Millionen Franken nach einem Minus von 37,2 Millionen im Vorjahr. Für das Gesamtjahr 2026 erwartet Molecular Partners weiterhin operative Kosten von 45 bis 55 Millionen.</p>
+<p/><p>Mit Blick auf die Pipeline steht MP0712 im Zentrum, ein experimentelles Medikament gegen kleinzelligen Lungenkrebs (SCLC) und andere neuroendokrine Tumore. Der Wirkstoff gehört zu einer noch jungen Klasse von Medikamenten, den sogenannten Radio-DARPins.</p>
+<p/><p>Das Molekül soll gezielt an ein Merkmal auf Krebszellen - das Protein DLL3 - andocken und dabei radioaktive Strahlung direkt zum Tumor bringen. Zum Einsatz kommt das Alphastrahler-Isotop Blei-212. Entwickelt wird MP0712 gemeinsam mit dem Partner Orano Med.</p>
+<p/><p>Die klinische Studie befindet sich noch in einer frühen Phase. Die erste Dosisstufe mit 75 Megabecquerel (MBq) pro Behandlung ist vollständig rekrutiert. Die bislang behandelten Patienten erhielten teilweise bereits bis zu vier Dosen, wie aus der Mitteilung hervorgeht.</p>
+<p/><h3>Milde bis moderate Nebenwirkungen</h3>
+<p/><p>Laut Molecular-Partners-Chef Patrick Amstutz haben alle Patienten die Sicherheitsbeobachtung ohne dosislimitierende Ereignisse durchlaufen. "Die bisher gemeldeten Nebenwirkungen waren mild bis moderat und vorübergehend", sagte er im Gespräch mit der Nachrichtenagentur AWP. "Deshalb wurde nun die nächste Dosisstufe mit 105 MBq pro Behandlung eröffnet." Insgesamt seien vier Dosisstufen vorgesehen. "Erste klinische Daten sollen noch 2026 kommen, umfangreichere Sicherheits- und Wirksamkeitsdaten 2027."</p>
+<p/><p>Daneben baut Molecular Partners seine Pipeline für sogenannte gezielte Alpha-Therapien aus. Als zweites Radio-DARPin-Programm soll MP0726 gegen das Zielprotein Mesothelin noch im zweiten Halbjahr 2026 erstmals am Menschen mittels Bildgebung untersucht werden.</p>
+<p/><p>"Ein weiteres DLL3-Programm, MP0714, wird in Südafrika bereits im Rahmen eines frühen Zugangsprogramms mit anderen radioaktiven Isotopen eingesetzt", erklärte der Unternehmenschef weiter. "Neu hinzugekommen ist zudem CD70 als drittes Ziel der Radio-DARPin-Pipeline. CD70 kommt unter anderem bei einer Form von Nierenkrebs verstärkt auf Tumorzellen vor."</p>
+<p/><p>Präklinische Daten plant Amstutz noch für 2026. Der Start einer klinischen Studie ist für 2027 vorgesehen.</p>
+<p/><p>hr/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
