@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T072813+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>833</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:833:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T072812+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T072812+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Epic Suisse steigert Mietertrag im ersten Halbjahr - weiteres Wachstum erwartet</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2026483389">
+<Property FormalName="FullName" Value="Epic Suisse AG" />
+
+<Property FormalName="ShortName" Value="Epic" />
+
+<Property FormalName="Telekurs" Value="859741" />
+
+<Property FormalName="CHNr" Value="CH-020.3.044.017-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0516131684" />
+
+<Property FormalName="Ticker" Value="EPIC" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Epic Suisse hat im ersten Halbjahr 2026 die Mieteinnahmen erneut gesteigert. Dank Bewertungs- und Veräusserungsgewinnen stieg auch der Reingewinn.</p>
+<p/><p>Die Mieteinnahmen legten um 4,0 Prozent auf 34,7 Millionen Franken zu, wie das überwiegend in Schweizer Einkaufszentren investierte Unternehmen am Dienstag mitteilte.</p>
+<p/><p>Der Leerstand der in Betrieb stehenden Liegenschaften lag bei 9,4 Prozent. Das war vor allem auf die neu in den Bestand überführten Entwicklungsprojekte Pulse und Campus Leman - Gebäude C zurückzuführen. Bereinigt um diese beiden Objekte betrug die Leerstandsquote 2,9 Prozent. Ende 2025 lag der Leerstand bei 3,4 Prozent.</p>
+<p/><h3>Bewertungs- und Verkaufsgewinne</h3>
+<p/><p>Die Neubewertung der Liegenschaften führte zu einem Aufwertungsgewinn auf Vorjahresniveau in Höhe von 13,8 Millionen Franken. Der Verkauf der Liegenschaft Vennes III in Lausanne erzielte im Mai 2026 einen Erlös von 51,1 Millionen Franken und resultierte in einem realisierten Bewertungsgewinn von 9,4 Millionen Franken vor Steuern.</p>
+<p/><p>Der Wert des Immobilienportfolios sank per Mitte Jahr auf 1,67 Milliarden Franken nach 1,68 Milliarden per Ende 2025. Bereinigt um den Verkauf von Vennes III stieg der Wert indes um 1,4 Prozent.</p>
+<p/><p>Der Betriebsgewinn (EBITDA) inklusive Neubewertungen stieg um 26,6 Prozent auf 51,4 Millionen, der Reingewinn sogar um 32,7 Prozent auf 39,8 Millionen Franken. Ohne die Neubewertungseffekte und bereinigt um weitere Effekte wie Währungsentwicklung lag der Reingewinn bei 22,0 Millionen und damit um 7,3 Prozent über dem Vorjahr.</p>
+<p/><p>Die Vermietungen für die beiden Projekte schreiten voran. So stehe beim Campus Leman - Gebäude C die Vertragsunterzeichnung der letzten verbleibenden Etage unmittelbar bevor. Im Pulse in Lausanne seien 41 Prozent der jährlichen Zielmieteinnahmen von 7,5 Millionen Franken gesichert. Die Gespräche mit potenziellen Mietern verliefen positiv, auch wenn diese länger für ihre Entscheidungen benötigten als bisher.</p>
+<p/><p>Für das Geschäftsjahr 2026 erwartet Epic nun eine Steigerung der Mieteinnahmen um 1,5 Prozent nach bisher kommunizierten 1,0 Prozent.</p>
+<p/><p>dm/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
