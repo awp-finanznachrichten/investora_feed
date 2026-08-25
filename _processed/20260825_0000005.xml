@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T072712+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>830</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:830:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T072712+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T072712+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>LUKB erhöht nach starkem Halbjahr die Prognose</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197584">
+<Property FormalName="FullName" Value="Luzerner Kantonalbank AG" />
+
+<Property FormalName="ShortName" Value="LUKB" />
+
+<Property FormalName="Telekurs" Value="26497" />
+
+<Property FormalName="CHNr" Value="CH-100.8.011.092-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1252930610" />
+
+<Property FormalName="Ticker" Value="LUKN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0119983077" />
+
+<Property FormalName="Ticker" Value="LUK101" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0120381592" />
+
+<Property FormalName="Ticker" Value="LUK102" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0120736852" />
+
+<Property FormalName="Ticker" Value="LUK103" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0125486586" />
+
+<Property FormalName="Ticker" Value="LUK11" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0138276859" />
+
+<Property FormalName="Ticker" Value="LUK111" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0189742445" />
+
+<Property FormalName="Ticker" Value="LUK12" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0337172313" />
+
+<Property FormalName="Ticker" Value="LUK161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0399611307" />
+
+<Property FormalName="Ticker" Value="LUK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040800" />
+
+<Property FormalName="Ticker" Value="LUK182" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040974" />
+
+<Property FormalName="Ticker" Value="LUK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041386" />
+
+<Property FormalName="Ticker" Value="LUK192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041576" />
+
+<Property FormalName="Ticker" Value="LUK193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071130" />
+
+<Property FormalName="Ticker" Value="LUK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0506071338" />
+
+<Property FormalName="Ticker" Value="LUK203" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158820" />
+
+<Property FormalName="Ticker" Value="LUK205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522158986" />
+
+<Property FormalName="Ticker" Value="LUK22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159000" />
+
+<Property FormalName="Ticker" Value="LUK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0565630610" />
+
+<Property FormalName="Ticker" Value="LUK202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112246744" />
+
+<Property FormalName="Ticker" Value="LUK21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1214912029" />
+
+<Property FormalName="Ticker" Value="LUK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1231094355" />
+
+<Property FormalName="Ticker" Value="LUK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1231094389" />
+
+<Property FormalName="Ticker" Value="LUK232" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1231094397" />
+
+<Property FormalName="Ticker" Value="LUK233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1274703144" />
+
+<Property FormalName="Ticker" Value="LUK241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1349302914" />
+
+<Property FormalName="Ticker" Value="LUK243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472155" />
+
+<Property FormalName="Ticker" Value="LUK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1383924748" />
+
+<Property FormalName="Ticker" Value="LUK252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1424019490" />
+
+<Property FormalName="Ticker" Value="LUK254" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1452396505" />
+
+<Property FormalName="Ticker" Value="LUK255" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1452396513" />
+
+<Property FormalName="Ticker" Value="LUK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1489902499" />
+
+<Property FormalName="Ticker" Value="LUK256" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1489902523" />
+
+<Property FormalName="Ticker" Value="LUK258" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1513428453" />
+
+<Property FormalName="Ticker" Value="LUK26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Luzern (awp) - Die Luzerner Kantonalbank (LUKB) hat in den ersten sechs Monaten des laufenden Jahres ihren Gewinn deutlich gesteigert. Für das gesamte Jahr 2026 legt das Institut die Messlatte nun höher.</p>
+<p/><p>Der Geschäftserfolg, der bei Banken das Mass für die operative Leistung ist, stieg bei der LUKB im ersten Halbjahr 2026 um 6,4 Prozent auf 181,7 Millionen Franken, wie das Institut am Dienstag mitteilte. Der Konzerngewinn kletterte um 7,1 Prozent auf 161,4 Millionen.</p>
+<p/><p>Der Netto-Erfolg aus dem zentralen Zinsengeschäft stieg um 3,1 Prozent auf 238,9 Millionen Franken. Die LUKB spricht von einem "wunschgemässen" Start in die neue Strategieperiode. Die anderen Ertragspfeiler kletterten ebenfalls in die Höhe.</p>
+<p/><p>Der Erfolg aus dem Kommissions- und Dienstleistungsgeschäft stieg um 11,1 Prozent auf 77,5 Millionen und der Erfolg aus dem Handelsgeschäft um 12,1 Prozent auf 45,5 Millionen Franken. Hier habe man von der börsenfreundlichen Stimmung und speziell vom Handel mit strukturierten Produkten profitiert.</p>
+<p/><p>Der gesamte Geschäftsertrag legte um 6,3 Prozent auf 369,2 Millionen Franken zu.</p>
+<p/><h3>Tiefes Kosten-Ertrags-Verhältnis</h3>
+<p/><p>Beim Geschäftsaufwand gab es zum Halbjahr ein Plus von 5,7 Prozent auf 170,9 Millionen Franken. Der Personalaufwand wuchs dabei um 6,4 Prozent. Das Kosten-Ertrags-Verhältnis war mit 45,5 Prozent auf einem weiterhin tiefen Niveau.</p>
+<p/><p>Im Semester flossen der Bank zudem Neugelder in Höhe von 708,8 Millionen Franken zu. Die verwalteten Vermögen stiegen auch wegen der guten Marktperformance (+677 Mio Fr.) um 3,3 Prozent auf 44,0 Milliarden Franken.</p>
+<p/><h3>Gewinnziel erhöht</h3>
+<p/><p>Alle zentralen Ertragspfeiler befänden sich zur Jahresmitte in einer über Erwarten guten Verfassung, stellt die LUKB fest. Daher würden die Erwartungen an den Konzerngewinn 2026 auf neu 305 bis 320 Millionen Franken erhöht. Bis dato wurden 295 Millionen in Aussicht gestellt.</p>
+<p/><p>Im positiven Ausblick berücksichtigt seien "bedeutende" Investitionen in die Weiterentwicklung und geografische Verbreiterung des Geschäftsmodells.</p>
+<p/><p>ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
