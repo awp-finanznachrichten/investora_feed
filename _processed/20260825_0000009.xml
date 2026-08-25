@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T074917+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>912</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:912:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T074916+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T074916+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Komax ernennt Roger Albrecht zum neuen CEO</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6036" />
+
+<Property FormalName="City" Value="8406" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193852">
+<Property FormalName="FullName" Value="Komax Holding AG" />
+
+<Property FormalName="ShortName" Value="Komax" />
+
+<Property FormalName="Telekurs" Value="654168" />
+
+<Property FormalName="CHNr" Value="CH-100.3.019.197-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010702154" />
+
+<Property FormalName="Ticker" Value="KOMN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147196716">
+<Property FormalName="FullName" Value="Rieter Holding AG" />
+
+<Property FormalName="ShortName" Value="Rieter" />
+
+<Property FormalName="Telekurs" Value="223735" />
+
+<Property FormalName="CHNr" Value="CH-020.3.921.956-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0003671440" />
+
+<Property FormalName="Ticker" Value="RIEN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1142231716" />
+
+<Property FormalName="Ticker" Value="RIE21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011358" />
+
+<Property FormalName="Ticker" Value="RIE24" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Dierikon (awp) - Der Kabelmaschinenhersteller Komax hat einen neuen Konzernchef gefunden. So wird Roger Albrecht die Leitung der Gruppe im Verlauf des ersten Quartals 2027 übernehmen. Bis dahin bleibt Verwaltungsratspräsident Andreas Häberli interimistisch an der operativen Spitze.</p>
+<p/><p>Albrecht wechselt vom Textilmaschinenhersteller Rieter zu Komax, wie das Unternehmen am Dienstag mitteilte. Bei Rieter ist er den Angaben zufolge seit mehr als zehn Jahren in verschiedenen Managementfunktionen tätig und gehört seit 2021 der Konzernleitung an. Aktuell führt er die Division Components &amp; Technology.</p>
+<p/><p>Albrecht bringe umfassende Managementerfahrung, technologisches Verständnis und Finanzkompetenz mit, wird Verwaltungsratspräsident Häberli in der Mitteilung zitiert. Zudem kenne er die Herausforderungen internationaler Industrieunternehmen und den Wettbewerbsdruck aus China. Er solle die eingeleitete Neuausrichtung gezielt vorantreiben.</p>
+<p/><p>Die Neuausrichtung war Anfang April mit einem Führungswechsel verbunden. Der damalige CEO Matijas Meyer verliess das Unternehmen nach insgesamt 19 Jahren, davon elf als Konzernchef, mit sofortiger Wirkung. Der Verwaltungsrat hatte den angestrebten Wechsel damals unter anderem mit der veränderten Marktsituation in der Automobilindustrie begründet.</p>
+<p/><p>an/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
