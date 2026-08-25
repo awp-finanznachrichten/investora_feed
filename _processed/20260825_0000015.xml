@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T075912+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>935</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:935:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T075912+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T075912+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SMG legt im ersten Halbjahr zu und kündigte Führungswechsel an</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016015"/><Subject FormalName="04016028"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8050" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2027273265">
+<Property FormalName="FullName" Value="SMG Swiss Marketplace Group AG" />
+
+<Property FormalName="ShortName" Value="SMG" />
+
+<Property FormalName="Telekurs" Value="136692" />
+
+<Property FormalName="CHNr" Value="CH-217.0.630.902-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1484953687" />
+
+<Property FormalName="Ticker" Value="SMG" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die SMG Swiss Marketplace Group hat im ersten Halbjahr 2026 Umsatz und Profitabilität deutlich gesteigert und gleichzeitig einen Wechsel an der Unternehmensspitze angekündigt. CEO Christoph Tonini tritt per Ende Jahr zurück und soll im nächsten April das Verwaltungsratspräsidium übernehmen.</p>
+<p/><p>Der Umsatz kletterte um 11,3 Prozent auf 179,8 Millionen Franken, wie die Betreiberin von Marktplätzen wie Ricardo, AutoScout24 oder Homegate am Dienstag mitteilte.</p>
+<p/><p>Der grösste Geschäftsbereich Immobilien mit Portalen wie Homegate oder ImmoScout24 legte um 11,5 Prozent zu (2025: +12,5%). Das zuletzt sehr kräftige Wachstum im Geschäft mit den Auto-Portalen Autoscout24 und Motoscout24 verlangsamte sich etwas auf 12,2 Prozent von 16,4 Prozent im Gesamtjahr 2025.</p>
+<p/><p>Die allgemeinen Marktplätze (Ricardo, Tutti.ch, Anibis.ch) zogen um 13,0 Prozent an und das übrige Geschäft, das unter anderem Finanzen- und Versicherungen mit FinanceScout24 und Moneyland.ch umfasst, wuchs um 1,1 Prozent.</p>
+<p/><h3>Profitabilität gesteigert</h3>
+<p/><p>Der bereinigte Betriebsgewinn auf Stufe EBITDA kletterte um gut 16 Prozent auf 179,8 Millionen Franken. Die entsprechende Marge verbesserte sich um 2,2 Prozentpunkte auf 56,5 Prozent.</p>
+<p/><p>Unter dem Strich verdoppelte sich der Nachsteuergewinn auf 56,4 Millionen Franken.</p>
+<p/><h3>Umsatzwachstum nach oben präzisiert</h3>
+<p/><p>Für das laufende Jahr zeigt sich SMG noch etwas optimistischer und grenzt die Umsatzerwartungen nach oben ein. Neu erwartet die Gruppe ein Umsatzwachstum von 11 bis 12 Prozent statt wie bisher von 10 bis 12 Prozent.</p>
+<p/><p>Das Ziel einer EBITDA-Marge von 56 bis 58 Prozent wurde bestätigt. Die mittelfristigen Ziele mit einem Umsatzwachstum im niedrigen Zehnprozentbereich und Margen im niedrigen bis mittleren Sechzigerbereich wurden ebenfalls bestätigt.</p>
+<p/><p>Die Investitionen (Capex) sollen sich auf 7,5 bis 8,5 Prozent des Umsatzes belaufen.</p>
+<p/><h3>CEO-Wechsel angekündigt</h3>
+<p/><p>Weiter kündigte SMG an, dass Gruppen-Chef Christoph Tonini den CEO-Posten Ende Jahr an den bisherigen Chef des Autogeschäfts, Alberto Sanz de Lama, übergibt. Im April soll Tonini dann als neuer Verwaltungsratspräsident gewählt werden.</p>
+<p/><p>Der bisherige Präsident Jörn Nikolay habe entschieden, zurückzutreten. Bis zur Generalversammlung im April übernehme Vizepräsident Pietro Supino interimistisch.</p>
+<p/><p>tt/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
