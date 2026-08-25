@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T075616+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>926</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:926:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T075616+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T075616+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Genfer Kantonalbank steigert Gewinn im Halbjahr markant</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1204" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197137">
+<Property FormalName="FullName" Value="Banque Cantonale de Genève" />
+
+<Property FormalName="ShortName" Value="BCGE" />
+
+<Property FormalName="Telekurs" Value="164268" />
+
+<Property FormalName="CHNr" Value="CH-660.0.018.916-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001642682" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001642708" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010760343" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0350494719" />
+
+<Property FormalName="Ticker" Value="BCGE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1485899350" />
+
+<Property FormalName="Ticker" Value="BCGE" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Die Genfer Kantonalbank (BCGE) hat im ersten Halbjahr 2026 den Gewinn deutlich gesteigert. Zum Rekordergebnis haben alle Geschäftsbereiche beigetragen.</p>
+<p/><p>Der Betriebsgewinn, an dem der Erfolg des operativen Geschäfts gemessen wird, lag in den ersten sechs Monaten des Jahres mit 138,3 Millionen Franken um rund einen Viertel über dem Vorjahreswert, wie die BCGE am Dienstag mitteilte. Der Reingewinn erhöhte sich um gut 26 Prozent auf 118,6 Millionen Franken.</p>
+<p/><h3>Auch Erträge steigen zweistellig</h3>
+<p/><p>Der Geschäftsertrag zog um gut 12 Prozent auf 310,5 Millionen Franken an. Dieser Anstieg, ebenso wie der höhere Gewinn, widerspiegle das starke Geschäftsmomentum der Bank, heisst es dazu. In allen Geschäftssegmenten habe man Marktanteile gewonnen.</p>
+<p/><p>Das Zinsergebnis als wichtigster Ertragspfeiler verbesserte sich um gut 10 Prozent auf 181 Millionen Franken und das Ergebnis des Kommissions- und Dienstleistungsgeschäfts um mehr als 11 Prozent auf 85 Millionen. Mit einem Ergebnis von 23 Millionen legte das Handelsgeschäft in ähnlichem Umfang zu.</p>
+<p/><p>Auf der Bilanzseite nahmen die verwalteten Vermögen um 3,7 Prozent auf 41,9 Milliarden Franken zu und die Ausleihungen an Kunden um 2,1 Prozent auf 21,8 Milliarden.</p>
+<p/><p>Für das Gesamtjahr 2026 erwartet die Bank ein gegenüber 2025 verbessertes Ergebnis.   </p>
+<p/><p>cf/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
