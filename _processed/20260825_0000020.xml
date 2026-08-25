@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T121520+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>2070</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:2070:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T121520+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T121520+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Pünktlichkeit am Flughafen Zürich besser geworden - Swiss stagniert</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+<Property FormalName="City" Value="8302" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147198163">
+<Property FormalName="FullName" Value="Swiss International Air Lines AG" />
+
+<Property FormalName="ShortName" Value="Swiss" />
+
+<Property FormalName="Telekurs" Value="162676" />
+
+<Property FormalName="CHNr" Value="CH-270.3.001.037-6" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Kloten (awp) - Die Pünktlichkeit am Flughafen Zürich ist in der Hochsaison im Sommer 2026 besser geworden. Die Swiss hatte dagegen mit mehr Annullationen und Ausweichlandungen zu kämpfen, so dass ihre Pünktlichkeit keine Fortschritte machte.</p>
+<p/><p>Am gesamten Flughafen Zürich habe die Abflugpünktlichkeit im Juni und im Juli deutlich über den beiden Vorjahren gelegen, sagte der operative Chef des Flughafens, Stefan Tschudin am Dienstag vor den Medien.</p>
+<p/><p>So seien im Juli 56 Prozent der Maschinen mit weniger als 15 Minuten Verspätung abgehoben. Das seien 5 Prozentpunkt mehr als im Juli 2025. Seit Jahresbeginn liege die Pünktlichkeit am grössten Schweizer Airport im Schnitt bei 66 Prozent.</p>
+<p/><h3>Betriebliche Verbesserungen</h3>
+<p/><p>Man habe sehr viel optimiert, sagte Tschudin. So habe man beispielsweise die Personalressourcen angepasst oder einen eigenen Meteorologen für lokale Wetterprognosen angestellt. Damit könne man betriebliche Massnahmen bei ungünstigen Wetterlagen wie etwa Bise oder Gewittern ergreifen.</p>
+<p/><p>Ebenso sei die Dockstationen an den Gates mit Kameras ausgerüstet worden. Damit wolle man die Prozesse bei der Abfertigung der Flugzeuge analysieren und verbessern. Dennoch habe der Flughafen sein eigenes Pünktlichkeitsziel von 65 Prozent für den Juli nicht ganz erreicht, gestand Tschudin ein.</p>
+<p/><h3>Swiss stagniert</h3>
+<p/><p>Das gleiche gilt für die Swiss, bei der die Pünktlichkeit keine Fortschritte gemacht hat. So starteten im ganzen Sommer 59 Prozent der Maschinen mit einer Verspätung von weniger als einer Viertelstunde. Damit blieb die Pünktlichkeit auf dem Vorjahresniveau. Das eigene Ziel von 65 Prozent hat die Airline nicht geschafft.</p>
+<p/><p>Die Hauptursache sei das Wetter gewesen, sagte der operative Chef der Swiss, Oliver Buchhofer, im Gespräch mit der Nachrichtenagentur AWP: "Die Gewitter waren stärker und intensiver als letztes Jahr." Alleine das Gewitter vom 30. Juni, das zweieinhalb Stunden über dem Flughafen Zürich tobte und sich nicht von der Stelle bewegte, hat ein Drittel aller kurzfristigen Flugstreichungen in diesem Sommer bei der Swiss verursacht.</p>
+<p/><p>So mussten 26 Maschinen auf andere Flughäfen ausweichen. Insgesamt waren über 10'000 Passagiere von dem Gewitter am 30. Juni betroffen.</p>
+<p/><p>Zudem machten der Swiss auch Streiks im Ausland und technische Probleme zu schaffen. Auch die Absage von Flügen nach Tel Aviv und Dubai wegen des Iran-Kriegs habe durchgeschlagen, sagte Buchhofer. Die Stabilität des Flugplans sank auf 97,1 Prozent von 98,5 Prozent im Vorjahr.</p>
+<p/><p>Die Zahl der kurzfristigen Annullationen war um 80 Prozent höher als im Vorjahr. Insgesamt wurden 337 Flüge kurzfristig abgesagt. Allerdings waren es im Jahr 2024 noch gut doppelt so viele gewesen.</p>
+<p/><h3>Serie von Spitzentagen</h3>
+<p/><p>Der Flughafen und die Swiss hatten mit dem hohen Passagierandrang zu kämpfen: Von Mitte Juli bis Anfang August seien an fünf Spitzentagen jeweils über 120'000 Reisende über den Flughafen geflogen.</p>
+<p/><p>Der verkehrsreichste Tag war der 2. August mit knapp 122'000 Passagieren, dsavon rund die Hälfte von der Swiss. Das waren nur rund 500 weniger als beim Allzeitrekord vom 5. Oktober 2025.</p>
+<p/><p>Der Druck sei hoch gewesen, sagte Tschudin. Es habe fast keine Ruhepausen mehr gegeben. Eine zusätzliche Belastung seien die Hitzewellen gewesen. Wenn es draussen 35 Grad habe, seien es auf dem Vorfeld bei den Flugzeugen 55 Grad und im Bauch einer Maschine teils über 60 Grad.</p>
+<p/><p>Das sei eine enorme Belastung für die Gepäcklader. Um sie abzukühlen, habe man die Enteisungsmaschinen für Flugzeuge eingesetzt, sagte Tschudin.</p>
+<p/><h3>Jahresziel in Reichweite</h3>
+<p/><p>Trotz der durchzogenen Sommerbilanz sieht Swiss-Manager Buchhofer das Jahresziel einer Pünktlichkeit von 70 Prozent noch in Reichweite. "Im Moment sieht es noch gut aus." Die Swiss sei derzeit immer noch ein bisschen über dem Vorjahresniveau. "Ich habe das Ziel noch nicht aufgegeben. Das wäre noch zu früh. Wir arbeiten daran", sagte Buchhofer der AWP.</p>
+<p/><p>jb/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
