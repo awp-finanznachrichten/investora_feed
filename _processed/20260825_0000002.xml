@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T072115+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>813</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:813:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T072115+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T072115+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>TX Group arbeitet im ersten Halbjahr profitabler</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="04010000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8021" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193909">
+<Property FormalName="FullName" Value="TX Group AG" />
+
+<Property FormalName="ShortName" Value="TX Group" />
+
+<Property FormalName="Telekurs" Value="90538" />
+
+<Property FormalName="CHNr" Value="CH-020.3.925.711-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011178255" />
+
+<Property FormalName="Ticker" Value="TXGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die TX Group hat im ersten Semester 2026 etwas weniger Umsatz erwirtschaftet, auf bereinigter Basis aber deutlich mehr verdient. Getrieben wurde Ergebnisverbesserung von der positiven Entwicklung der digitalen Plattformen sowie den Fortschritten bei der Transformation der Medienunternehmen. Bei Goldbach musste der Goodwill deutlich nach unten angepasst werden.</p>
+<p/><p>Nach sechs Monaten steht für die TX Group ein Umsatz von 402,4 Millionen Franken zu Buche, ein Minus von 5,7 Prozent im Vergleich zur Vorjahresperiode, wie die Herausgeberin von "20 Minuten" und "Tages-Anzeiger" sowie Betreiberin von digitalen Plattformen wie Ricardo, Homegate oder Jobs am Dienstag mittelte. Alle Segmente verloren an Umsatz, wobei der Rückgang bei 20 Minuten mit gut 15 Prozent am stärksten ausfiel.</p>
+<p/><p>Das um Einmaleffekte bereinigte Betriebsergebnis auf Stufe EBIT nahm dagegen um 74,3 Prozent auf 67,1 Millionen zu, die entsprechende Marge stieg auf 16,7 Prozent von 9,0 Prozent. Den grössten Gewinnbeitrag lieferten wie gewohnt die im Segment TX Markets zusammengefassten Beteiligungen an der Stellenplattform JobCloud sowie an der Swiss Marketplace Group SMG. Aber auch Goldbach und 20 Minuten arbeiteten profitabler. Tamedia sowie Group&amp;Ventures weisen dagegen ein tieferes adjustiertes Betriebsergebnis aus.</p>
+<p/><h3>Goodwillanpassung bei Goldbach wegen linearem TV</h3>
+<p/><p>Der ausgewiesene Betriebsgewinn fiel mit -9,9 Millionen negativ aus (VJ +7,0 Mio). Belastend wirkte hier vor allem eine Goodwillanpassung bei Goldbach im Umfang von 46,4 Millionen Franken. Diese wird mit der rückläufigen Entwicklung im Bereich des linearen Fernsehens begründet, welche nur teilweise durch Wachstum in digitalen Bewegtbildformaten kompensiert werden könne. Die Wertminderung sei einmalig und nicht liquiditätswirksam, so die Mitteilung</p>
+<p/><p>Unter dem Strich resultierte ein Verlust von 14,6 Millionen nach einen Gewinn von 4,2 Millionen im Vorjahr.</p>
+<p/><p>"Die Entwicklung der Gruppe im ersten Halbjahr 2026 ist erfreulich", kommentiert Verleger und VR-Präsident Pietro Supino den Halbjahresabschluss. Angesichts der fortschreitenden Veränderung der Medienwelt müsse die Gruppe die Dynamik aufrechterhalten und weiter in die Transformation und den Ausbau der Aktivitäten investieren.</p>
+<p/><h3>Transformation bei Tamedia dauert länger</h3>
+<p/><p>Die Bezahlmedien im Segment Tamedia machten weitere Fortschritte in der digitalen Transformation. Allerdings sei der Umsatzrückgang sowohl im Leser- wie auch im Werbemarkt deutlich höher als ursprünglich erwartet ausgefallen. Als Folge davon verlängere sich der Transformationsprozess. Das ursprünglich für das nächste Jahr angestrebte Margenziel von 8 bis 10 Prozent gilt neu nun mittelfristig.</p>
+<p/><p>Wie gewohnt gibt es von TX-Management keinen konkreten Ausblick auf das Gesamtjahr.</p>
+<p/><h3>Organisatorische Veränderungen</h3>
+<p/><p>Zusammen mit dem Halbjahresabschluss vermeldet die TX Group den Abgang von COO Tanja zu Waldeck. Sie habe sich aus persönlichen Gründen entschieden, die Gruppe zu verlassen. TX nutzt die Veränderung, um die Organisation zu verschlanken. Daniel Mönch übernimmt zusätzlich zu seiner Aufgabe als Chief Portfolio Officer die Funktion als Chief Operating Officer der Gruppe. Er verantwortet dabei die Goldbach-Aktivitäten sowie die zentralen Group Services.</p>
+<p/><p>Die CEOs der beiden Publizistikunternehmen Tamedia und 20 Minuten berichten künftig wieder direkt an den Verwaltungsrat.</p>
+<p/><p>gab/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
