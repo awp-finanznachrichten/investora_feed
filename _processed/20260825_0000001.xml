@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260825T065613+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260825</DateId>
+			<NewsItemId>552</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260825:552:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260825T065613+0200</FirstCreated>
+		<ThisRevisionCreated>20260825T065613+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Orior im Halbjahr mit weniger Umsatz - Umsatzprognose gesenkt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2118021278">
+<Property FormalName="FullName" Value="Orior AG" />
+
+<Property FormalName="ShortName" Value="Orior" />
+
+<Property FormalName="Telekurs" Value="508376" />
+
+<Property FormalName="CHNr" Value="CH-020.3.030.084-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0111677362" />
+
+<Property FormalName="Ticker" Value="ORON" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Lebensmittelgruppe Orior hat im ersten Halbjahr 2026 weiter an Umsatz eingebüsst und senkt nun die Umsatzprognose für das Gesamtjahr. Gleichzeitig konnte aber die Profitabilität ganz leicht verbessert werden.</p>
+<p/><p>Das auf Convenience-Food, Fleischveredelung und Bio-Säfte spezialisierte Unternehmen setzte von Januar bis Juni 283,3 Millionen Franken um, 7,1 Prozent weniger als im Vorjahr. Organisch lag das Minus bei 5,7 Prozent, wie Orior am Dienstag mitteilte.</p>
+<p/><p>Der bereinigte Betriebsgewinn (EBITDA) sank um 4,8 Prozent auf 15,5 Millionen Franken. Die entsprechende Marge verbesserte sich somit leicht auf 5,5 von 5,4 Prozent. Unter dem Strich blieb ein höherer Reingewinn von 4,6 Millionen Franken nach 1,3 Millionen.</p>
+<p/><p>Die Nettoverschuldung belief sich zur Jahresmitte auf 162,9 Millionen Franken, 7,0 Prozent mehr als Ende 2025. Das Verhältnis von Nettoverschuldung zum bereinigten EBITDA lag bei 4,3.</p>
+<p/><h3>Tiefere Schweinefleischpreise belasten</h3>
+<p/><p>Die Umsatzentwicklung war über alle Segmente hinweg rückläufig. Belastet wurde das Geschäft laut Orior vor allem durch deutlich tiefere Schweinefleischpreise und Verwerfungen im Schweizer Detailhandel. Hinzu kamen der Wegfall eines niederländischen Volumenauftrags und die Beendigung des defizitären Bahngeschäfts in Deutschland.</p>
+<p/><p>Gleichzeitig habe man dank der gebündelten Einkaufsstärke und einer verbesserten Beschaffungssteuerung die Bruttomarge gesteigert. Zusammen mit der anhaltenden Kostendisziplin habe dies den Volumenrückgang teilweise kompensiert.</p>
+<p/><p>Die höhere Nettoverschuldung führt Orior vor allem auf die vollständige Übernahme der Pastamanufaktur Gaetarelli und den saisonal üblich tieferen Cashflow im ersten Halbjahr zurück. Der Schuldenabbau bleibe eine zentrale Priorität.</p>
+<p/><h3>Umsatzprognose gesenkt</h3>
+<p/><p>Für das Gesamtjahr erwartet Orior neu einen organischen Umsatzrückgang von 6 bis 8 Prozent nach bisher 3 bis 6 Prozent. An der Prognose für die bereinigte EBITDA-Marge von 6,3 bis 6,6 Prozent hält das Unternehmen fest.</p>
+<p/><p>Das Marktumfeld bleibe anspruchsvoll. Neben den Verwerfungen im Schweizer Detailhandel und volatilen Schweinefleischpreisen hätten längere Hitzeperioden die Konsumnachfrage verändert. Grillverbote wegen Waldbrandgefahr hätten das saisonale Geschäft zusätzlich belastet.</p>
+<p/><p>jl/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
