@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T153112+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>3186</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:3186:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T153112+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T153112+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Aryzta eröffnet neue Bäckerei in Perth</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016033"/><Subject FormalName="04013002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="AU" />
+
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2104331006">
+<Property FormalName="FullName" Value="Aryzta AG" />
+
+<Property FormalName="ShortName" Value="Aryzta" />
+
+<Property FormalName="Telekurs" Value="436098" />
+
+<Property FormalName="CHNr" Value="CH-020.3.032.251-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0043238366" />
+
+<Property FormalName="Ticker" Value="ARYN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1425684714" />
+
+<Property FormalName="Ticker" Value="ARYN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FOO"/><Property FormalName="Subject" Value="PLO"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Aryzta hat eine neue Bäckerei im australischen Perth offiziell eröffnet. Der international tätige Gipfeli-Bäcker baut damit seine Präsenz in Australien weiter aus und ist erstmals im Westen des Landes vertreten.</p>
+<p/><p>Aryzta hat mehr als 40 Millionen Euro in die neue Anlage investiert, wie das Unternehmen am Mittwoch mitteilte. Die Anlage sei innerhalb des Budgets und termingerecht fertiggestellt worden. Eine lokale Wirtschaftsförderungsagentur unterstützte das Projekt mit erschlossenem Industrieland und Infrastruktur.</p>
+<p/><p>In der Bäckerei im Peel Business Park bei Perth produziert Aryzta für australische Schnellrestaurants. Künftig sollen dort zwischen 110 und 130 Arbeitsplätze entstehen.</p>
+<p/><p>ra/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
