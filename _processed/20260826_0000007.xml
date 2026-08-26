@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T080016+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>646</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:646:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T080016+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T080016+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SoftwareOne wächst im ersten Halbjahr zweistellig und steigert Marge</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6370" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2027672288">
+<Property FormalName="FullName" Value="SoftwareOne Holding AG" />
+
+<Property FormalName="ShortName" Value="SoftwareOne" />
+
+<Property FormalName="Telekurs" Value="834238" />
+
+<Property FormalName="CHNr" Value="CH-150.3.004.191-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496451508" />
+
+<Property FormalName="Ticker" Value="SWON" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Stans (awp) - SoftwareOne ist im ersten Halbjahr 2026 kräftig gewachsen und hat zugleich die Profitabilität deutlich verbessert. Dabei halfen auch Synergien aus der Übernahme des norwegischen Konkurrenten Crayon.</p>
+<p/><p>Auf vergleichbarer kombinierter Basis stieg der Umsatz um 7,8 Prozent auf 818,3 Millionen Franken. Zu konstanten Wechselkursen entsprach dies einem Plus von 11,6 Prozent, wie das Unternehmen am Mittwoch mitteilte.</p>
+<p/><p>Der bereinigte Betriebsgewinn vor Abschreibungen und Amortisationen (EBITDA) erhöhte sich um satte 31,7 Prozent auf 203,8 Millionen Franken, die entsprechende Marge auf 24,9 von 20,4 Prozent.</p>
+<p/><p>Unter dem Strich stieg der bereinigte Nettogewinn auf 70,6 Millionen von 29,6 Millionen Franken.</p>
+<p/><p>Die Zahlen beruhen auf einer vergleichbaren kombinierten Basis, als wäre der im Juli 2025 abgeschlossene Kauf des norwegischen Konkurrenten Crayon bereits Anfang 2024 vollzogen worden.</p>
+<p/><h3>Channelgeschäft treibt Wachstum</h3>
+<p/><p>Das Wachstum wurde dabei laut den Angaben von allen drei Geschäftssegmenten getragen. Besonders zugelegt hat die Sparte Software &amp; Cloud Channel, welche währungsbereinigt um 35,6 Prozent wuchs. Aber auch die Sparten Software &amp; Cloud Services (+17,4%) und Software &amp; Cloud Direct (+1,5%) konnten zulegen.</p>
+<p/><p>Regional hebt das Unternehmen die positive Entwicklung in Nordamerika hervor. In diesem Schlüsselmarkt stiegen die Verkäufe um 8,6 Prozent. Massgeblich dazu beigetragen habe das Channel-Geschäft, das sein Ergebnis gegenüber dem Vorjahr fast verdoppelt habe.</p>
+<p/><h3>Integration weitgehend abgeschlossen</h3>
+<p/><p>Die Integration von Crayon sei im Wesentlichen abgeschlossen, hiess es weiter. Im zweiten Quartal erreichte das Unternehmen Run-Rate-Kostensynergien von 100 Millionen Franken. Weitere Synergien von 5 bis 10 Millionen Franken sollen im zweiten Halbjahr realisiert werden.</p>
+<p/><p>Einzelne Integrationsprojekte, etwa bei IT-Systemen, Rechtsstrukturen und Prozessen, sollen noch bis Ende 2027 laufen. Für das zweite Halbjahr werden Integrationskosten von rund 20 Millionen Franken erwartet.</p>
+<p/><h3>Neue Führungsstruktur</h3>
+<p/><p>Gleichzeitig baut SoftwareOne seine Organisation um. Ab dem 1. September wird die regionale Struktur unter drei Regional Presidents gebündelt. Regina Manfredi übernimmt die Region Americas, Rico Andreoli die Region EMEA und Varun Paliwal bleibt für APAC zuständig.</p>
+<p/><p>Zudem wird Guðmundur Aðalsteinsson neuer Chief Channel &amp; Ecosystems Officer. Alle vier ziehen in die Geschäftsleitung ein. Der bisherige Chief Operating Officer Oliver Berchtold habe sich derweil entschieden, das Unternehmen zu verlassen. Mit der neuen Struktur sollen laut SoftwareOne die Verantwortlichkeiten klarer und die Entscheidungswege kürzer werden.</p>
+<p/><h3>Ziele bestätigt</h3>
+<p/><p>Für 2026 bestätigt SoftwareOne die Prognose. Erwartet werden ein währungsbereinigtes Umsatzwachstum im mittleren bis hohen einstelligen Bereich, eine bereinigte EBITDA-Marge von über 23 Prozent und eine Cash Conversion von über 60 Prozent.</p>
+<p/><p>Bis 2030 peilt das Unternehmen ein durchschnittliches jährliches Umsatzwachstum im hohen einstelligen Bereich und eine ausgewiesene EBITDA-Marge von über 28 Prozent an.</p>
+<p/><p>yz/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
