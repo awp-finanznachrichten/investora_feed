@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T180606+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>3694</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:3694:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T180606+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T180606+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Stadler gibt im Halbjahr massiv Gas - Aktie auf Zweijahreshoch</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung mit Schlusskurs erg&#228;nzt</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9565" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191533">
+<Property FormalName="FullName" Value="Stadler Rail AG" />
+
+<Property FormalName="ShortName" Value="Stadler Rail" />
+
+<Property FormalName="Telekurs" Value="067816" />
+
+<Property FormalName="CHNr" Value="CH-440.3.002.481-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002178181" />
+
+<Property FormalName="Ticker" Value="SRAIL" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238864" />
+
+<Property FormalName="Ticker" Value="SRA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852651" />
+
+<Property FormalName="Ticker" Value="SRA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852669" />
+
+<Property FormalName="Ticker" Value="SRA241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934708" />
+
+<Property FormalName="Ticker" Value="SRA26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934716" />
+
+<Property FormalName="Ticker" Value="SRA261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="RND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bussnang TG (awp) - Stadler Rail hat im ersten Halbjahr 2026 massiv beschleunigt, nachdem im Vorjahr noch die Folgen von Unwetterschäden das Geschäft gebremst hatten. Die Erwartungen der Analysten wurden fast durchwegs übertroffen. Die Aktie schoss auf den höchsten Stand seit über zwei Jahren nach oben.</p>
+<p/><p>Der Umsatz stieg in den ersten sechs Monaten um 40 Prozent auf 2,0 Milliarden Franken, wie Stadler Rail am Mittwoch in einem Communiqué bekannt gab. Hauptgrund dafür sei die Auslieferung zahlreicher Fahrzeuge im ersten Halbjahr 2026 und die hohe Produktionsleistung im Vorjahr.</p>
+<p/><p>Der Betriebsgewinn (EBIT) kletterte auf 79,5 Millionen Franken. Damit hat er sich im Vergleich zum Vorjahr (36,9 Millionen Franken) mehr als verdoppelt. Die operative Marge verbesserte sich auf 4,0 Prozent nach 2,6 Prozent vor einem Jahr.</p>
+<p/><p>Damals hatte Stadler noch unter den Folgen der Unwetter von 2024 gelitten, welche die Produktion in den Werken von Stadler und von wichtigen Zulieferern im Wallis, in Spanien und Österreich gestört hatten.</p>
+<p/><h3>Katastrophenfolgen bis 2027 spürbar</h3>
+<p/><p>Dagegen legte der Reingewinn nur leicht um 1 Prozent auf 31,2 Millionen Franken zu. Grund seien negative Bewertungseffekte von Bilanzpositionen, nachdem man im Vorjahr noch von positiven Währungseffekten profitiert hatte, erklärte Stadler-Finanzchef Raphael Widmer. Zudem seien die Kosten für Bankgarantien sowie die Zins- und Steueraufwendungen gestiegen.</p>
+<p/><p>Noch immer wirke sich die Überschwemmungskatastrophe in Valencia vom Oktober 2024 negativ auf das Ergebnis aus. Stadler konnte allerdings mit einem Aufholprogramm die Lieferketten inzwischen weitgehend stabilisieren, Produktionsprozesse anpassen und neue Zulieferer gewinnen. Die Belastungen durch die Unwetter hätten nachgelassen, seien aber durch Kosten und Rückstände bei der Auslieferung von Fahrzeugen bis ins Jahr 2027 spürbar.</p>
+<p/><p>Auch im Werk in Berlin, das seit vielen Jahren zu wenig ausgelastet ist und Verluste produziert, gelangen Stadler dank Effizienzmassnahmen Verbesserungen bei der Produktivität. Dank zwei Grossaufträgen aus Berlin für 350 neue S-Bahn-Züge und 166 U-Bahnwägen soll die Fabrik nun im nächsten Jahr die Gewinnschwelle erreichen. Die Zukunft des Werks in Berlin sei nun nachhaltig gesichert, sagte Finanzchef Widmer.</p>
+<p/><h3>Neuer Rekord beim Auftragsbestand</h3>
+<p/><p>Gleichzeitig holte der Konzern wieder eine Reihe von neuen Aufträgen herein. Der Auftragseingang stieg auf 2,7 Milliarden Franken. Das ist 1 Milliarde mehr als im Vorjahressemester, wobei die beiden Berliner Grossaufträge darin noch gar nicht enthalten sind. Damit schwollen die Auftragspolster auf 33,3 Milliarden Franken an. Das sei ein Rekord, hiess es.</p>
+<p/><p>Mit den Zahlen hat Stadler die Erwartungen der Analysten bei den Auftragseingängen, Umsatz, EBIT und Marge weit übertroffen. Einzig der Reingewinn blieb deutlich unter den Schätzungen der Experten.</p>
+<p/><p>Dennoch reagierte die Aktie mit einem Freudensprung. Der Kurs schoss um über ein Fünftel auf 30,02 Franken hoch. Damit wurde der höchste Stand seit Frühling 2024 erreicht. Ein Marktteilnehmer sprach von der ersten fundamental positiven Überraschung seit dem Börsengang im Jahr 2019.</p>
+<p/><h3>Umsatz von über 5 Milliarden als Ziel</h3>
+<p/><p>An den Zielen für das Gesamtjahr 2026 hielt Stadler fest. So peilt der Konzern einen Umsatz von deutlich über 5 Milliarden Franken an. Dank starkem Auftragsbestand, erhöhtem Produktionsoutput und dem in Deutschland eingeleiteten Effizienzprogramm wird eine EBIT-Marge von über 5 Prozent erwartet.</p>
+<p/><p>Auch die Mittelfristziele gelten unverändert: Bei stabilen Lieferketten will Stadler die EBIT-Marge auf 6 bis 8 Prozent verbessern. Der untere Bereich der Spanne dürfte "sehr wahrscheinlich" schon nächstes Jahr erreicht werden, sagte Widmer.</p>
+<p/><p>jb/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
