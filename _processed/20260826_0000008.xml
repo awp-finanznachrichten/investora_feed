@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T094411+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>1106</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:1106:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T094411+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T094411+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Stadler-Aktien schiessen auf Zwei-Jahreshoch nach oben</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04009000"/><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9565" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191533">
+<Property FormalName="FullName" Value="Stadler Rail AG" />
+
+<Property FormalName="ShortName" Value="Stadler Rail" />
+
+<Property FormalName="Telekurs" Value="067816" />
+
+<Property FormalName="CHNr" Value="CH-440.3.002.481-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002178181" />
+
+<Property FormalName="Ticker" Value="SRAIL" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238864" />
+
+<Property FormalName="Ticker" Value="SRA19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852651" />
+
+<Property FormalName="Ticker" Value="SRA24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852669" />
+
+<Property FormalName="Ticker" Value="SRA241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934708" />
+
+<Property FormalName="Ticker" Value="SRA26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1562934716" />
+
+<Property FormalName="Ticker" Value="SRA261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Stadler Rail haben am Mittwoch auf Hochgeschwindigkeit beschleunigt. Denn mit den Halbjahreszahlen hat der Ostschweizer Zughersteller die Erwartungen der Analysten auf fast allen Ebenen klar übertroffen. Damit sind alle Signale für die Investoren auf grün gestellt.</p>
+<p/><p>Die Stadler-Titel starten im frühen Handel an der Schweizer Börse bis gegen 9.25 Uhr um 16,8 Prozent auf 28,64 Franken durch. Damit hat die lange gebeutelte Aktie von Stadler den höchsten Stand seit Mai 2024 erreicht. Derweil notiert der Gesamtmarkt SPI nur leicht im Plus (+0,37%).</p>
+<p/><p>Stadler habe ein starkes Semesterergebnis abgeliefert, kommentiert UBS-Analyst Patrick Rafaisz. Der Auftragseingang liege um 23 Prozent über den Erwartungen. Treiber seien das starke Wachstum beim Rollmaterial (+57%) und beim margenstarken Service &amp; Komponentengeschäft (+95%). Dagegen tauchte der Auftragseingang in der Signalsparte um 43 Prozent.</p>
+<p/><p>Auch der Umsatz habe die Erwartungen übertroffen, kommentierte ZKB-Analyst Tobias Klöpper. Das gleiche gelte für den EBIT. Dagegen habe der Reingewinn die Prognosen klar verfehlt. Insgesamt untermauere Stadler Rail mit den starken Halbjahresergebnissen oberhalb der Erwartungen das Vertrauen in die Guidance für das laufende Jahr und dürfte somit auch ein weiteres Stück an Glaubwürdigkeit für den mittelfristigen Ausblick gewonnen haben, kommentierte die ZKB.</p>
+<p/><p>Ins selbe Horn stiess Vontobel-Analyst Michael Foeth: Die positive Entwicklung dürfte das Vertrauen der Anleger in die mittelfristigen Ziele und Margenziele des Unternehmens weiter stärken.</p>
+<p/><p>Der ZKB-Analyst bewertete ausserdem die zuversichtlichen Aussagen zum Standort in Berlin als positiv, der seines Erachtens der grösste Gegenwind von Stadler sei. "Damit dürfte das Unternehmen in den nächsten Jahren gut auf Kurs sein, zusammen mit einem steigenden Serviceanteil die Profitabilität weiter zu erhöhen und nachhaltig positive Cashflows zu erwirtschaften.</p>
+<p/><p>jb/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
