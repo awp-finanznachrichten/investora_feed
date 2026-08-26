@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T114500+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>1682</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:1682:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T114500+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T114500+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Gewinne der BLKB sollen beim Kanton Baselland bleiben</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04006000"/><Subject FormalName="04006002"/><Subject FormalName="04016027"/><Subject FormalName="04016048"/><Subject FormalName="11013000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4410" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197636">
+<Property FormalName="FullName" Value="Basellandschaftliche Kantonalbank" />
+
+<Property FormalName="ShortName" Value="BLKB" />
+
+<Property FormalName="Telekurs" Value="25889" />
+
+<Property FormalName="CHNr" Value="CH-280.8.910.265-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001473559" />
+
+<Property FormalName="Ticker" Value="BLKB" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0274314787" />
+
+<Property FormalName="Ticker" Value="BLK15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0397450724" />
+
+<Property FormalName="Ticker" Value="BLK18" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040784" />
+
+<Property FormalName="Ticker" Value="BLK19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041147" />
+
+<Property FormalName="Ticker" Value="BLK191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461239086" />
+
+<Property FormalName="Ticker" Value="BLK20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159034" />
+
+<Property FormalName="Ticker" Value="BLK221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0522159042" />
+
+<Property FormalName="Ticker" Value="BLK222" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0565650832" />
+
+<Property FormalName="Ticker" Value="BLK202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0592087230" />
+
+<Property FormalName="Ticker" Value="BLK203" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1102417735" />
+
+<Property FormalName="Ticker" Value="BLK204" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1138869784" />
+
+<Property FormalName="Ticker" Value="BLK205" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1216740667" />
+
+<Property FormalName="Ticker" Value="BLK225" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1217066583" />
+
+<Property FormalName="Ticker" Value="BLK23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1217066591" />
+
+<Property FormalName="Ticker" Value="BLK231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991301" />
+
+<Property FormalName="Ticker" Value="BLK24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991327" />
+
+<Property FormalName="Ticker" Value="BLK242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991335" />
+
+<Property FormalName="Ticker" Value="BLK243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991343" />
+
+<Property FormalName="Ticker" Value="BLK244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290991384" />
+
+<Property FormalName="Ticker" Value="BLK25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204314" />
+
+<Property FormalName="Ticker" Value="BLK251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204322" />
+
+<Property FormalName="Ticker" Value="BLK252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204330" />
+
+<Property FormalName="Ticker" Value="BLK253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204355" />
+
+<Property FormalName="Ticker" Value="BLK26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1434204363" />
+
+<Property FormalName="Ticker" Value="BLK261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="FIS"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Liestal (awp/sda) - Die Baselbieter Regierung lehnt die Bankgewinn-Initiative von elf Gemeinden ohne Gegenvorschlag ab. Die Initiative verlangt, dass ein Drittel des Reingewinns der Basellandschaftlichen Kantonalbank an die Gemeinden ausgeschüttet wird.</p>
+<p/><p>Als Eigentümer der Basellandschaftlichen Kantonalbank (BLKB) trage der Kanton durch die Staatsgarantie die Risiken sowie den gesamten Aufwand für Aufsicht, Kontrolle und Steuerung, schrieb die Regierung in ihrem Bulletin am Mittwoch. Daher stünden dem Kanton auch die Gewinne zu.</p>
+<p/><p>Die Gemeinden sind weder Eigentümer noch finanziell an der Bank beteiligt, wie es hiess. Zudem seien finanzielle Verschiebungen zwischen dem Kanton und Gemeinden bisher immer an eine Aufgabenverschiebung gekoppelt gewesen, wie der Regierungsvorlage zu entnehmen ist. Bei einer reinen Umverteilung des Geldes bei gleichbleibende Aufgaben komme es zu einem Systembruch, argumentierte die Regierung darin.</p>
+<p/><p>Weiter befürchtet die Regierung bei einer Annahme Einschränkungen bei der unternehmerischen Unabhängigkeit der Bank sowie Mehrkosten von jährlich zirka 22,8 Millionen Franken beim Kanton. Gemäss Vorlage würde eine Annahme der Initiative nicht zu einer Entlastung der besonders belasteten Gemeinden führen - der Lastenausgleich sei das geeignetere Instrument.</p>
+<p/><h3>Mehr Geld für Gemeinden</h3>
+<p/><p>Unter Federführung der Hauptstadt Liestal haben zehn weitere Gemeinden die Bankgewinn-Initiative unterzeichnet. Es waren dies Arisdorf, Buckten, Duggingen, Ettingen, Häfelfingen, Känerkinden, Laufen, Lausen, Pratteln und Sissach. Sie verlangen eine Änderung des Kantonalbankgesetzes, damit ein Drittel der Ausschüttungen der BLKB nach Einwohnerzahl an die Gemeinden fliessen. Zwei Drittel würden weiterhin dem Kanton zustehen.</p>
+<p/><p>Derzeit sammelt die Baselbieter SVP Unterschriften für eine ähnliche Initiative unter dem Namen "Gerechte Verteilung der Ausschüttung der Kantonalbank". Darin verlangt die Partei gar einen 50-50-Split zwischen dem Kanton und den Gemeinden.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
