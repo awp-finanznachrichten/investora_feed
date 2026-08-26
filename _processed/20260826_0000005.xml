@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T080015+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>641</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:641:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T080014+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T080014+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Kudelski verringert Verlust im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1033" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193597">
+<Property FormalName="FullName" Value="Kudelski SA" />
+
+<Property FormalName="ShortName" Value="Kudelski" />
+
+<Property FormalName="Telekurs" Value="51116" />
+
+<Property FormalName="CHNr" Value="CH-550.1.001.447-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012268360" />
+
+<Property FormalName="Ticker" Value="KUD" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Cheseaux-sur-Lausanne (awp) - Der Verschlüsselungs- und Cybersicherheitsspezialist Kudelski hat im ersten Halbjahr 2026 erneut einen Verlust erlitten. Allerdings konnte dieser dank einer Verbesserung in allen drei Geschäftsbereichen im Vergleich zum Vorjahr reduziert werden.</p>
+<p/><p>Der Umsatz sank gegenüber dem Vorjahr um 1,5 Prozent auf 171,8 Millionen US-Dollar, wie Kudelski am Mittwoch mitteilte. Dabei verzeichnete das Segment Core Digital Security mit einem Umsatzanstieg von 0,7 Prozent auf 104,7 Millionen US-Dollar erstmals seit fünf Jahren wieder ein Wachstum gegenüber dem Vorjahr.</p>
+<p/><p>Mit einem Plus von 5,1 Prozent auf 20,3 Millionen hat auch das kleinste Segment Internet of Things (IoT) zugelegt, dies vor allem dank ausgebauter Partnerschaften. Im Bereich Cybersecurity gingen die Verkäufe hingegen um knapp 9 Prozent auf 45,1 Millionen Dollar zurück.</p>
+<p/><p>Der Betriebsverlust vor Abschreibungen und Amortisationen (EBITDA) konnte auf 11,5 Millionen von 19,1 Millionen Dollar im Vorjahr verringert werden. Dabei trug einzig das Hauptsegment Core Digital Services einen positiven Wert zum Ergebnis bei, die beiden anderen Segmente grenzten ihre Verluste immerhin ein.</p>
+<p/><p>In der Folge ging auch der Verlust von Kudelski auf 20,3 Millionen von 32,9 Millionen Dollar im Vorjahr deutlich zurück. Diese Entwicklung zeige, dass sich die in den vergangenen Jahren eingeleiteten Massnahmen in einer Verbesserung der Profitabilität niederschlagen würden, erklärte das Management.</p>
+<p/><h3>Bessere Ergebnisse im zweiten Semester erwartet</h3>
+<p/><p>In der zweiten Jahreshälfte rechnet Kudelski mit einem höheren Umsatz als im ersten Halbjahr. Gestützt werde diese Annahme durch die übliche Saisonalität des Segments Core Digital Security einerseits, sowie andererseits durch die Erwartung eines zweistelligen Wachstums des Segments IoT. Der Umsatz von Cybersecurity dürfte hingegen erneut zurückgehen.</p>
+<p/><p>Beim operativen Gewinn verspricht sich Kudelski einen positiven zweistelligen EBITDA auf ähnlichem Niveau wie im Vorjahr für das Segment Core Digital Security. Der operative Verlust der Sparte Cybersecurity dürfte hingegen höher ausfallen als im Vorjahr. Für die kleinste Sparte IoT erwartet das Unternehmen einen geringeren Verlust im zweiten Semester als im ersten.</p>
+<p/><p>Ausserdem werde in der zweiten Jahreshälfte ein freier Cashflow im Bereich des Breakeven angepeilt. Insgesamt dürfte sich die Profitabilität im zweiten Halbjahr "materiell" verbessern.</p>
+<p/><p>cf/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
