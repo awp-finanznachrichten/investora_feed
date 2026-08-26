@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T074000+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>588</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:588:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T074000+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T074000+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Gurit steigert Profitabilität markant und erhöht Ziele - Bernhardt wird CEO</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04002000"/><Subject FormalName="04016048"/><Subject FormalName="04016028"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9630" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197003">
+<Property FormalName="FullName" Value="Gurit Holding AG" />
+
+<Property FormalName="ShortName" Value="Gurit" />
+
+<Property FormalName="CHNr" Value="CH-320.3.024.129-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1173567111" />
+
+<Property FormalName="Ticker" Value="GURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Wattwil (awp) - Gurit hat im ersten Halbjahr 2026 den Umsatz gesteigert und profitabler als erwartet abgeschnitten. Der Spezialkunststoffhersteller erhöht nun seine Jahresziele. Gleichzeitig ist der bisherige Interimschef Viktor Bernhardt definitiv zum Konzernchef ernannt worden.</p>
+<p/><p>Im fortgeführten Geschäft stieg der Umsatz um 6,1 Prozent auf 152,4 Millionen, wie Gurit am Mittwoch mitteilte. In Lokalwährungen lag das Plus bei 16,0 Prozent.</p>
+<p/><p>Der bereinigte Betriebsgewinn (EBIT) stieg in der Folge um satte 80 Prozent auf 16,9 Millionen Franken. Die entsprechende Marge verbesserte sich auf 11,0 Prozent von 5,7 Prozent. Unter dem Strich gelang damit die Rückkehr in die schwarzen Zahlen: Es blieb ein Reingewinn von 9,0 Millionen - nach einem Minus von 68,3 Millionen im Vorjahr.</p>
+<p/><p>Damit hat Gurit den AWP-Konsens beim operativen Gewinn und der Marge klar übertroffen.</p>
+<p/><h3>Wachstum in allen Bereichen</h3>
+<p/><p>Im fortgeführten Geschäft legten alle drei Geschäftsbereiche zu. Bei Wind Materials stieg der Umsatz um 3,7 Prozent auf 82,9 Millionen Franken, in Lokalwährungen um 9,6 Prozent. Gurit führt das stärker als erwartete Wachstum auf eine höhere Produktion bei grossen Herstellern von Onshore-Windturbinen und den Hochlauf im Offshore-Bereich zurück.</p>
+<p/><p>Manufacturing Solutions wuchs gar um 57 Prozent auf 23,9 Millionen (+69,3% in LW). Bei Marine &amp; Industrial nahm der Umsatz um 2,6 Prozent auf 45,7 Millionen (+9,2% in LW) zu.</p>
+<p/><p>Zur höheren Profitabilität trugen laut Gurit profitables Wachstum, Portfoliooptimierungen und die tiefere Kostenbasis nach dem Transformationsprogramm bei.</p>
+<p/><h3>Jahresziele erhöht</h3>
+<p/><p>Gurit schraubt nun die Prognose für 2026 nach oben. Im fortgeführten Geschäft soll der Umsatz in Lokalwährungen um 9 bis 11 Prozent wachsen. Bislang wurde ein Wachstum im mittleren einstelligen Prozentbereich angepeilt.</p>
+<p/><p>Die bereinigte EBIT-Marge soll neu rund 10 Prozent erreichen. Zuvor hatte Gurit eine Verbesserung gegenüber den 8,1 Prozent von 2025 in Aussicht gestellt.</p>
+<p/><h3>Bernhardt wird definitiv CEO</h3>
+<p/><p>Gleichzeitig schafft Gurit Klarheit an der Konzernspitze. Der Verwaltungsrat hat den bisherigen Interimschef und Finanzchef Viktor Bernhardt definitiv zum CEO ernannt. Er hatte die Führung Ende Juli nach dem überraschenden Abgang von Tobias Luhrig übernommen.</p>
+<p/><p>Der Verwaltungsrat verweist auf Bernhardts Finanzexpertise, operative Disziplin und Führungserfahrung. Die Suche nach einem neuen CFO werde umgehend gestartet. Bis dieser gefunden ist, beaufsichtigt Bernhardt weiterhin auch die Finanzfunktion.</p>
+<p/><p>jl/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
