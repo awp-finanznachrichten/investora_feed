@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T095811+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>1132</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:1132:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T095810+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T095810+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SoftwareOne-Aktien heben nach starken Zahlen ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04003005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6370" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2027672288">
+<Property FormalName="FullName" Value="SoftwareOne Holding AG" />
+
+<Property FormalName="ShortName" Value="SoftwareOne" />
+
+<Property FormalName="Telekurs" Value="834238" />
+
+<Property FormalName="CHNr" Value="CH-150.3.004.191-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0496451508" />
+
+<Property FormalName="Ticker" Value="SWON" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INT"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - SoftwareOne hat am Mittwoch mit einer überraschend starken Profitabilität die Gunst der Anleger gewonnen. Dank Synergien aus der Crayon-Übernahme hat sich der IT-Dienstleister deutlich gesteigert.</p>
+<p/><p>Die SoftwareOne-Papiere legen um 9.40 Uhr um 13 Prozent auf 9,75 Franken zu, während der Gesamtmarkt gemessen am SPI 0,4 Prozent im Plus steht. Zwischenzeitlich haben sie sogar bei 9,80 Franken ein neues Jahreshoch markiert. Dabei haben die Aktien durchaus Aufholbedarf, haben sie sich doch im bisherigen Jahresverlauf mit einem Kursminus von rund 8 Prozent klar unterdurchschnittlich entwickelt.</p>
+<p/><p>Mit dem Umsatz im ersten Semester hat Softwareone am oberen Rand der Erwartungen abgeschnitten und mit den operativen Gewinnzahlen sogar die optimistischsten Schätzungen übertroffen.</p>
+<p/><p>Laut ZKB entwickelten sich die Margen in den Segmenten Software und Services besser als erwartet. Zudem half auch die Fusion mit Crayon: SoftwareOne habe im ersten Halbjahr bereits die gesamten Kostensynergien in Höhe von 100 Millionen Franken vorzeitig realisiert. Und damit nicht genug: Das Unternehmen habe noch zusätzliches Synergiepotenzial von 5 bis 10 Millionen entdeckt, das im zweiten Halbjahr gehoben werden solle.</p>
+<p/><p>Die Guidance sei allerdings nur bestätigt worden. Daher richten sich die Augen nun auf den aktuell laufenden Webcast, um herauszufinden, was die Gründe für die vorsichtige Haltung sind.</p>
+<p/><p>tt/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
