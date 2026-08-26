@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T095018+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>1113</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:1113:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T095018+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T095018+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Gurit-Aktien setzen Höhenflug nach H1-Zahlen fort</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9630" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197003">
+<Property FormalName="FullName" Value="Gurit Holding AG" />
+
+<Property FormalName="ShortName" Value="Gurit" />
+
+<Property FormalName="CHNr" Value="CH-320.3.024.129-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1173567111" />
+
+<Property FormalName="Ticker" Value="GURN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Gurit legen am Mittwoch im frühen Handel kräftig zu. Der Verbundwerkstoff-Spezialist hat im ersten Halbjahr die Erwartungen insbesondere bei der Profitabilität übertroffen und den Ausblick erhöht. Analysten werten die Zahlen entsprechend positiv und sehen weiteres Aufwärtspotenzial bei den Gewinnschätzungen.</p>
+<p/><p>Um 9.35 Uhr notieren die Titel 19,5 Prozent höher bei 35,00 Franken. Damit knüpfen sie an die starke Performance im laufenden Jahr an. Bisher stand ein Zuwachs von fast 155 Prozent zu Buche.</p>
+<p/><p>Die ZKB spricht von einem starken Ergebnis. Insbesondere die höhere Jahresprognose dürfte Befürchtungen über operative Schwierigkeiten nach dem überraschenden Abgang des früheren CEO Tobias Lührig den Wind aus den Segeln nehmen, so der zuständige Analyst. Zudem sieht er Gurit nach der Restrukturierung gut positioniert, um von der starken Nachfrage der Windturbinenhersteller zu profitieren.</p>
+<p/><p>Octavian hebt die deutlich besser als erwartet ausgefallene Profitabilität hervor. Die zuständige Analystin kündigt an, ihre Prognosen für Umsatz und operativen Gewinn zu erhöhen. Die UBS sieht derweil ein Aufwärtspotenzial im niedrigen bis mittleren Zehnprozentbereich für die Konsensschätzungen.</p>
+<p/><p>Für zusätzliche Klarheit sorgt die definitive Ernennung von Viktor Bernhardt zum Konzernchef. Der bisherige Finanzchef hatte die Führung nach dem Abgang Lührigs zunächst interimistisch übernommen.</p>
+<p/><p>jl/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
