@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260826T230810+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>16</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260826</DateId>
+			<NewsItemId>4413</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260826:4413:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260826T230810+0200</FirstCreated>
+		<ThisRevisionCreated>20260826T230810+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Alcon platziert Anleihe über 500 Millionen Euro mit Laufzeit bis 2033</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/><Subject FormalName="04016019"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1214" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2032964554">
+<Property FormalName="FullName" Value="Alcon AG" />
+
+<Property FormalName="ShortName" Value="Alcon" />
+
+<Property FormalName="Telekurs" Value="813622" />
+
+<Property FormalName="CHNr" Value="CH-217.3.568.146-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0432492467" />
+
+<Property FormalName="Ticker" Value="ALC" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="BND"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genf (awp) - Der Augenheilkonzern Alcon will mit einer neuen Anleihe 500 Millionen Euro am Kapitalmarkt aufnehmen. Die bis 2033 laufenden Schuldverschreibungen werden mit 3,875 Prozent verzinst, wie das Unternehmen am Mittwochabend mitteilte.</p>
+<p/><p>Ausgegeben wird die Anleihe von der vollständig zu Alcon gehörenden Finanzierungstochter Alcon Finance Corporation. Die Anleihe soll an der Luxemburger Börse gelistet und am Euro MTF gehandelt werden, wie es hiess.</p>
+<p/><p>Der Abschluss der Transaktion ist für den 2. September vorgesehen. Den Erlös will Alcon für allgemeine Unternehmenszwecke verwenden. Dazu könne auch die teilweise oder vollständige Refinanzierung bestehender Schulden des Konzerns gehören.</p>
+<p/><p>to/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
