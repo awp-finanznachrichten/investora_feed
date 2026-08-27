@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T072714+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>817</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:817:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T072713+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T072713+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Mindmaze noch mit Verlust, aber sieht grosses Potenzial</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1006" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2090154710">
+<Property FormalName="FullName" Value="Mindmaze Therapeutics" />
+
+<Property FormalName="ShortName" Value="Mindmaze" />
+
+<Property FormalName="Telekurs" Value="396159" />
+
+<Property FormalName="CHNr" Value="CH-550-1106773-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US7595JP1063" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1251125998" />
+
+<Property FormalName="Ticker" Value="MMTX" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lausanne (awp) - Mindmaze hat im ersten Halbjahr einen im Vorjahresvergleich höheren Verlust geschrieben. Dabei interessieren bei dem noch jungen Health-Tech-Unternehmen insbesondere die Barmittel und die Entwicklung der Einnahmen.</p>
+<p/><p>So verfügte das Westschweizer Unternehmen gemäss Mitteilung vom Donnerstag per Ende Juni 2026 über liquide Mittel in Höhe von 5,3 Millionen Franken. Ende 2025 waren es noch 9,5 Millionen gewesen.</p>
+<p/><p>Die Einnahmen beliefen sich im ersten Halbjahr auf 0,6 Millionen Franken. Im Gesamtjahr 2025 hatte die damalige Relief Therapeutics Einnahmen von 0,6 Millionen erzielt. Die Pipeline nun in Umsatz zu transformieren - darauf liege der Fokus für die zweite Jahreshälfte.</p>
+<p/><p>Die externen Verkaufs- und Vertriebskosten werden mit 0,7 Millionen Franken beziffert. Die Ausgaben für externe Forschung und Entwicklung beliefen sich auf 2,2 Millionen, die allgemeinen und administrativen Kosten lagen bei 4,4 Millionen.</p>
+<p/><p>Unter dem Strich stand ein Verlust von 6,9 Millionen Franken nach 3,3 Millionen im Vorjahr.</p>
+<p/><h3>Grosses Umsatzpotenzial</h3>
+<p/><p>Die Zusammenarbeit im Bereich des Pharmavertriebs verlaufe planmässig, heisst es weiter. So werde die erste Phase der Markteinführung für das vierte Quartal 2026 erwartet. Zudem seien weitere klinische Studien in Frankreich und der Schweiz auf den Weg gebracht werden.</p>
+<p/><p>Mindmaze peilt gemäss früherer Aussagen bis 2027 einen Umsatz von 40 Millionen Franken an. In fünf Jahren liege das Potenzial bei mehr als 200 Millionen.</p>
+<p/><p>Mindmaze war Ende 2025 via einen sogenannten "Reverse Merger" zu einer Kotierung an der Schweizer Börse gekommen. Dabei fusionierte die bis dahin kotierte Relief Therapeutics mit dem EPFL-Spinoff NeuroX.</p>
+<p/><p>Das Unternehmen entwickelt digitale Therapien auf Basis von Virtual Reality, Sensorik und KI zur Rehabilitation und Behandlung neurologischer Erkrankungen.</p>
+<p/><p>jl/dm/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
