@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T090316+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>1422</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:1422:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T090316+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T090316+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Salt setzt Umsatz- und Gewinnwachstum im ersten Halbjahr fort</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Durchgehend erg&#228;nzt mit Angaben des Salt-Chefs - Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04016023"/><Subject FormalName="04003007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1020" />
+
+<Property FormalName="City" Value="8152" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2121014608">
+<Property FormalName="FullName" Value="Salt Mobile AG" />
+
+<Property FormalName="ShortName" Value="Salt" />
+
+<Property FormalName="Telekurs" Value="19647" />
+
+<Property FormalName="CHNr" Value="CH-550.0.057.019-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0149428812" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2055222019">
+<Property FormalName="FullName" Value="Sunrise Communications AG" />
+
+<Property FormalName="ShortName" Value="Sunrise" />
+
+<Property FormalName="Telekurs" Value="677481" />
+
+<Property FormalName="CHNr" Value="CH-020-3054260-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1386220409" />
+
+<Property FormalName="Ticker" Value="SUNN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679751045" />
+
+<Property FormalName="Ticker" Value="SNRE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679752035" />
+
+<Property FormalName="Ticker" Value="SNRBY" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="JNV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Prilly VD (awp) - Salt hat im ersten Halbjahr 2026 den Aufschwung fortgesetzt. Der drittgrösste Telekomkonzern der Schweiz konnte Umsatz und Betriebsgewinn deutlich steigern. Alle drei Segmente sind gewachsen.</p>
+<p/><p>Insgesamt kletterte der Umsatz von Januar bis Ende Juni um 5,8 Prozent auf 600,5 Millionen Franken, wie Salt am Donnerstag in einem Communiqué mitteilte. Besonders stark legten die Verkäufe von Geräten wie Handys oder Tablets zu.</p>
+<p/><p>Hier kletterte der Umsatz um 11,4 Prozent auf 78,2 Millionen Franken. Das iPhone 17 sei besser gelaufen als das Vorgängermodell, sagte Salt-Chef Max Nunziata im Gespräch mit der Nachrichtenagentur AWP. Zudem seien auch die günstigeren Smartphones von Google und Samsung gefragt gewesen.</p>
+<p/><p>Derweil wuchsen die Einnahmen aus dem Telekomgeschäft um 5,0 Prozent auf 522,3 Millionen Franken. Dabei habe sich die Preiserhöhung im Juni 2026 zusätzlich positiv ausgewirkt.</p>
+<p/><h3>Deutlich mehr Betriebsgewinn</h3>
+<p/><p>Auch die Profitabilität konnte Salt weiter verbessern: Der Betriebsgewinn vor Abschreibungen und Amortisationen nach Abzug der Leasingkosten (EBITDAaL) erhöhte sich um 9,2 Prozent auf 267,5 Millionen Franken. Zum überdurchschnittlichen Plus hat aber auch ein positiver Einmaleffekt im Startquartal beigetragen.</p>
+<p/><p>Im zweiten Quartal alleine stieg der der EBITDAaL "lediglich" noch um 5,3 Prozent. "Die EBITDAaL-Marge blieb mit 43,7 Prozent auf dem hohen Niveau der Vorjahresperiode", schrieb Salt.</p>
+<p/><p>"Wir sind mit den Zahlen zufrieden", sagte der Salt-Chef. "Wir setzen unseren Wachstumskurs bei hoher Profitabilität fort." Die Strategie von Salt funktioniere gut, obwohl der Wettbewerb hart sei.</p>
+<p/><h3>Aufschwung hält an</h3>
+<p/><p>Die Dynamik habe im zweiten Quartal in allen Geschäftsbereichen angehalten. Die Kundenzahlen sei bei den Mobilfunkabos und im Breitbandinternet gewachsen, schrieb Salt, ohne konkrete Kundenzahlen zu nennen. Das neue Roaming-Angebot für die Nutzung des Handy im Ausland von Privatkunden sei gut angekommen.</p>
+<p/><p>Und das Breitbandinternet übers Glasfasernetz sei mittlerweile für mehr als 3 Millionen Haushalte verfügbar. Das seien rund 60 Prozent aller Haushalte in der Schweiz.</p>
+<p/><p>Auch das Firmenkundengeschäft habe zugelegt. Die Lancierung eines Internet- und Festnetztelefonie-Angebots für Unternehmen im Januar habe für Schwung gesorgt.</p>
+<p/><h3>Zusammenarbeit mit Sunrise geplant</h3>
+<p/><p>Um besser voranzukommen wollen Salt und Sunrise künftig beim Handynetz in ländlichen Gebieten zusammenarbeiten. Sie haben dafür eine Absichtserklärung unterschrieben, wie beide Unternehmen Anfang Woche bekannt gegeben hatten.</p>
+<p/><p>Eine solche Zusammenarbeit könnte viel bringen, sagte Nunziata: "Besonders in den ländlichen Gebieten können wir schneller und effizienter die Abdeckung verbessern." Auf dem Lande gebe es weniger Nutzung der Handyantennen als in den Städten. "Deshalb macht es Sinn, die Infrastruktur zusammen aufzubauen."</p>
+<p/><p>Wie die Zusammenarbeit konkret aussehen werde, werde von Teams von Salt und Sunrise ausgearbeitet. Das dauere ein paar Monate, sagte Nunziata. Deshalb könne man noch nicht sagen, wie viele Handyantennen die Kooperation umfasse.</p>
+<p/><p>Bei den bestehenden Antennen gebe es die Möglichkeit, dass Salt-Kunden Zugriff auf eine Sunrise-Antenne erhalten würden und umgekehrt. An Standorten, wo noch keiner der beiden Mobilfunker anwesend sei, werde entweder Sunrise oder Salt eine Antenne aufstellen und dann den Kunden des anderen auch Zugriff gewähren, erklärte Nunziata. Damit wolle man schneller Lücken in der Abdeckung schliessen und die Infrastruktur effizienter nutzen.</p>
+<p/><p>Das sei aber kein Schritt zu einer Fusion von Salt und Sunrise, betonten beide Telekomkonzerne. "Beide Unternehmen würden auch im Fall einer erweiterten Kooperation vollständig unabhängige Wettbewerber bleiben mit eigenen Marken, Produkten, Preisen und Kundenbeziehungen."</p>
+<p/><p>jb/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
