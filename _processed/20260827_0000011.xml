@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T093018+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>1514</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:1514:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T093018+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T093018+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Accelleron-Aktien nach Zahlen und Prognosenerhöhung im Aufwind</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="5400" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2013344186">
+<Property FormalName="FullName" Value="Accelleron Industries AG" />
+
+<Property FormalName="ShortName" Value="Accelleron" />
+
+<Property FormalName="CHNr" Value="CH-400-3449316-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1169360919" />
+
+<Property FormalName="Ticker" Value="ACLN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380910328" />
+
+<Property FormalName="Ticker" Value="ACL24" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Accelleron sind am Donnerstag im frühen Handel gesucht. Der Turboladerhersteller hat die Markterwartungen mit allen Kennzahlen übertroffen und die Jahresprognose für das Umsatzwachstum erhöht. Zudem wird weiter in das Geschäft mit Rechenzentren investiert.</p>
+<p/><p>Die Accelleron-Aktien springen bis um 09.25 Uhr um 3,9 Prozent auf 80,90 Franken hoch. Der Gesamtmarkt (SPI) verliert derweil um 0,83 Prozent. Die Papiere von Accelleron haben seit Jahresbeginn bis am Vorabend bereits um gut ein Viertel zugelegt. Das bisherige Allzeithoch vom Mai bei 90,50 Franken rückt nun wieder etwas näher.</p>
+<p/><p>Mit den Zahlen zu Umsatz und Profitabilität hat Accelleron die Erwartungen der Analysten klar übertroffen. Mit der erhöhten Umsatzprognose könnten gewisse Jahresschätzungen nun nach oben angepasst werden, wie es bei der UBS heisst.</p>
+<p/><p>Auch die Experten von Vontobel verweisen auf die anhaltende starke Wachstumsdynamik. Auch das EBITA habe die Schätzungen deutlich übertroffen, obwohl der operative Hebel durch Mixeffekte und Investitionen begrenzt gewesen sei. Die angehobene Prognose bestätige die Tendenz von Accelleron, die Erwartungen zu übertreffen und die Prognose zu erhöhen, so die Analysten weiter. Allerdings würden die Konsensschätzungen bereits im oberen Bereich liegen.</p>
+<p/><p>Für die ZKB sind schliesslich auch die mittelfristigen Aussichten intakt. Aufgrund des stabilen Geschäftsmodells und der langfristigen Wettbewerbsvorteile dürfte sich das Umsatzwachstum fortsetzen. Strukturelle Wachstumstreiber seien dabei beide wesentlichen Endmärkte (Marine und insbesondere Energie). Auch die operative EBITA-Marge dürfte unter anderem mit einem steigenden Serviceanteil mittelfristig steigen.</p>
+<p/><p>ls/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
