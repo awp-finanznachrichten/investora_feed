@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T063014+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>473</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:473:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T063014+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T063014+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>SF Urban im ersten Halbjahr mit stabilem Ergebnis</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2109140581">
+<Property FormalName="FullName" Value="SF Urban Properties AG" />
+
+<Property FormalName="ShortName" Value="SF Urban" />
+
+<Property FormalName="Telekurs" Value="393374" />
+
+<Property FormalName="CHNr" Value="CH-020.3.025.156-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0032816131" />
+
+<Property FormalName="Ticker" Value="SFPN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Immobilienunternehmen SF Urban Properties hat im ersten Halbjahr 2026 ein stabiles Ergebnis erzielt. Im Vorjahr hatten hohe Bewertungsgewinne zu einem ausserordenltich kräftigen Gewinnanstieg geführt.</p>
+<p/><p>Unter dem Strich stand ein leicht tieferer Reingewinn inklusive Neubewertungen von 20,9 Millionen Franken nach 21,6 Millionen im Vorjahr, wie das Unternehmen am Donnerstag mitteilte. Die Neubewertungen betrugen 15,6 Millionen nach 16,6 Millionen im Vorjahr. Der Reingewinn ohne Neubewertungseffekte stieg leicht um 1,2 Prozent auf 8,3 Millionen.</p>
+<p/><p>Derweil ging der Liegenschaftsertrag um 3,1 Prozent auf 15,4 Millionen leicht zurück. Grund hierfür war die nun abgeschlossene Portfoliorotation. Dafür blieb die Leerstandsquote mit 1,8 Prozent (Ende 2025: 1,9%) auf tiefem Niveau. Der Marktwert des Rendite-Portfolios stieg im Vergleich zu Ende 2025 um 1,8 Prozent auf 837,6 Millionen.</p>
+<p/><p>Der EBIT-Beitrag des Promotionssegments belief sich auf 1,6 Millionen Franken. Die Projekte an der Minervastrasse in Zürich und an der Alte Landstrasse in Rüschlikon seien planmässig an die neuen Eigentümer übertragen worden. Insgesamt lag das Betriebsergebnis (EBIT) mit 30,7 Millionen auf Vorjahresniveau.</p>
+<p/><h3>Portfolio-Umstellung abgeschlossen</h3>
+<p/><p>Mittlerweile ist auch die Portfolio-Umstellung mit dem neuen Fokus auf urbane Standorte in Zürich und Basel abgeschlossen - Anfang Juli hatte SF Urban den Verkauf zweier Liegenschaften in Schlieren und St. Gallen bekannt gegeben. Daraus ergab sich ein Gewinnbeitrag von 3,6 Millionen Franken.</p>
+<p/><p>Auf die von der Generalversammlung genehmigte Kapitalerhöhung wird indes zunächst verzichtet. Das Kapital sollte für den Kauf einer Gewerbeliegenschaft in Zürich genutzt werden. Wider Erwarten sei diese Transaktion aber nicht erfolgreich abgeschlossen worden und es sei auch kein attraktiver Ersatz gefunden worden.</p>
+<p/><p>Am bereits Anfang Juli bestätigten Ausblick hält das Unternehmen unverändert fest. So wird mit einer Erhöhung des Reingewinns je Aktie ohne Neubewertungseffekte wieder auf das Niveau von 2024 gerechnet. Aus dem promotionsergebnis werde für das Gesamtjahr ein Beitrag in Höhe von 1,8 Millionen erwartet.</p>
+<p/><p>dm/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
