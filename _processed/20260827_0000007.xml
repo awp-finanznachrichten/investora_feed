@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T075612+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>979</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:979:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T075612+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T075612+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Infracore: Wert des Immo-Portfolios nimmt dank Zukauf des Seespitals Horgen zu</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016015"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2025769782">
+<Property FormalName="FullName" Value="Infracore SA" />
+
+<Property FormalName="ShortName" Value="Infracore" />
+
+<Property FormalName="Telekurs" Value="257407" />
+
+<Property FormalName="CHNr" Value="CH-660.1.064.997-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0019867685" />
+
+<Property FormalName="Ticker" Value="INFRAC" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Freiburg (awp) - Die auf Gesundheitsinfrastruktur spezialisierte Infracore hat das Immobilienportfolio mit dem Zukauf des Seespitals Horgen ausgeweitet.</p>
+<p/><p>Dank der im Juli getätigten Transaktion lag der Marktwert des Gesamtportfolios per Ende Juli bei 1,53 Milliarden Franken, wie das seit Anfang Juli an der SIX kotierte Immobilienunternehmen am Donnerstag mitteilte. Per Mitte Jahr war der Wert noch auf 1,41 Milliarden beziffert worden.</p>
+<p/><p>Die Halbjahreszahlen waren ebenfalls bereits vor rund drei Wochen publiziert worden. So stiegen die Mieterträge um 5,3 Prozent auf 35,9 Millionen Franken. Der operative Gewinn (EBITDA) legte um 3,6 Prozent auf 32,4 Millionen zu und der Reingewinn um 5,5 Prozent auf 22,8 Millionen.</p>
+<p/><p>Für das Gesamtjahr rechnet das Management unverändert mit Mieterträgen von rund 74 Millionen Franken sowie Mitteln aus dem operativen Geschäft (Funds from Operations) von rund 47 Millionen.</p>
+<p/><p>cf/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
