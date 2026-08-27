@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T072713+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>816</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:816:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T072713+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T072713+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Feintool kehrt im ersten Halbjahr in die Gewinnzone zurück</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3250" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197488">
+<Property FormalName="FullName" Value="Feintool International Holding AG" />
+
+<Property FormalName="ShortName" Value="Feintool" />
+
+<Property FormalName="Telekurs" Value="89777" />
+
+<Property FormalName="CHNr" Value="CH-073.3.000.732-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009320091" />
+
+<Property FormalName="Ticker" Value="FTON" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lyss (awp) - Feintool hat im ersten Halbjahr 2026 mehr umgesetzt und ist in die Gewinnzone zurückgekehrt. Für das zweite Halbjahr rechnet der Automobilzulieferer mit einem etwas schwächeren Marktumfeld.</p>
+<p/><p>Der Umsatz stieg um 5,6 Prozent auf 353,3 Millionen Franken. Währungsbereinigt betrug das Wachstum gar 10,8 Prozent, wie das Unternehmen am Donnerstag mitteilte.</p>
+<p/><p>Dabei entwickelte sich die Nachfrage regional unterschiedlich. In Europa profitierte Feintool vom Wachstum im Feinschneiden und Umformen sowie bei industriellen Anwendungen. In den USA habe die robuste Nachfrage nach Hybrid- und Verbrenneranwendungen für starkes Wachstum gesorgt, während Asien von der Verlagerung der Automobilindustrie in die Region profitiert habe.</p>
+<p/><h3>Operativ zurück in der Gewinnzone</h3>
+<p/><p>Der EBITDA nahm gar um 47 Prozent auf 34,1 Millionen Franken zu. Der EBIT erreichte 8,8 Millionen nach einem Minus von 1,9 Millionen im Vorjahr. Die entsprechende Marge lag bei 2,5 Prozent. Unter dem Strich resultierte ein Reingewinn von 3,2 Millionen Franken nach einem Verlust von 5,0 Millionen im Vorjahr.</p>
+<p/><p>Der Free Cashflow verbesserte sich deutlich auf -4,5 Millionen Franken nach -17,7 Millionen. Geringere Investitionen und Massnahmen zur Verbesserung der Cash-Generierung hätten sich positiv ausgewirkt, heisst es dazu. Ein saisonal bedingter Anstieg der Forderungen habe jedoch einen deutlich positiven Free Cashflow verhindert.</p>
+<p/><h3>Zweites Halbjahr etwas schwächer erwartet</h3>
+<p/><p>Für das Gesamtjahr 2026 stellt Feintool nach den Halbjahreszahlen nun ein Umsatzwachstum von rund 4 Prozent in Aussicht. Die EBIT-Marge soll in der Grössenordnung der im ersten Halbjahr erzielten 2,5 Prozent liegen. Zudem strebt das Unternehmen einen deutlich positiven Free Cashflow an.</p>
+<p/><p>Dabei erwartet Feintool im zweiten Halbjahr ein leicht schwächeres Marktumfeld. In Nordamerika rechnet das Management weiter mit einer robusten Entwicklung, in Europa mit einer weiteren Konsolidierung. Für den chinesischen Automobilmarkt wird eine Stabilisierung im dritten Quartal und wieder mehr Dynamik im vierten erwartet.</p>
+<p/><p>Im bereits im Juni eröffneten Werk im indischen Pune habe man derweil einen ersten Produktionsauftrag gewonnen. Der Produktionsstart sei für das erste Quartal 2027 vorgesehen.</p>
+<p/><p>jl/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
