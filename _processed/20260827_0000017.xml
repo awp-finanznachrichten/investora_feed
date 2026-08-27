@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T115310+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>17</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>2084</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:2084:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T115310+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T115310+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Romande Energie senkt Stromtarife für Mehrheit der Kunden um 6 Prozent</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1110" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197446">
+<Property FormalName="FullName" Value="Romande Energie Holding SA" />
+
+<Property FormalName="ShortName" Value="Romande Energie" />
+
+<Property FormalName="Telekurs" Value="103278" />
+
+<Property FormalName="CHNr" Value="CH-550.0.069.472-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1263676327" />
+
+<Property FormalName="Ticker" Value="REHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1196217017" />
+
+<Property FormalName="Ticker" Value="ROM22" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Morges (awp) - Die Stromtarife von Romande Energie sinken 2027 für die grosse Mehrheit der Kunden. Für knapp 90 Prozent der an das Verteilnetz angeschlossenen Kunden werden die Preise im Schnitt um 6 Prozent gesenkt.</p>
+<p/><p>Grund dafür sind gesunkene Beschaffungskosten und stabile Netzentgelte, wie der Westschweizer Energieversorger am Donnerstag mitteilte. Für 8 Prozent bleiben die Tarife unverändert, während sie für 3 Prozent steigen.</p>
+<p/><p>Romande Energie passt gleichzeitig die Vergütung für Solarstrom an. Ab 2027 wird die Einspeisevergütung für Anlagen bis 150 kWp auf einen Viertelstunden-Tarif umgestellt. Die Vergütung orientiere sich damit stärker an den aktuellen Marktpreisen. Ein Mindestvergütungsniveau bleibe über einen Ausgleichsmechanismus gewährleistet.</p>
+<p/><p>Das Ziel bestehe heute nicht mehr allein darin, möglichst viel Solarenergie zu produzieren, sondern den Verbrauch stärker an die Produktion anzupassen. Also Energie dann zu verbrauchen, wenn sie verfügbar sei oder dem Schweizer Stromsystem den grössten Nutzen bringe.</p>
+<p/><p>Der Energieversorger setzt zudem seine Investitionen in das Stromnetz fort. Der Ausbau soll die Integration der zunehmenden Photovoltaikproduktion ermöglichen. Rund 80 Prozent der Smart Meter sind laut Romande Energie bereits installiert.</p>
+<p/><p>ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
