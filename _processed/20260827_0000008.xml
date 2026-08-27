@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T075813+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>987</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:987:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T075813+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T075813+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investis steigert Mietertrag und Gewinn im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2047253986">
+<Property FormalName="FullName" Value="Investis Holding SA" />
+
+<Property FormalName="ShortName" Value="Investis" />
+
+<Property FormalName="Telekurs" Value="719950" />
+
+<Property FormalName="CHNr" Value="CH-020.3.043.380-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0325094297" />
+
+<Property FormalName="Ticker" Value="IREN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852784" />
+
+<Property FormalName="Ticker" Value="IRE24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472023" />
+
+<Property FormalName="Ticker" Value="IRE25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die auf die Genfersee-Region fokussierte Immobiliengesellschaft Investis hat im ersten Halbjahr 2026 die Mieterträge gesteigert und zumindest ohne die Neubewertungseffekte auch unter dem Strich mehr verdient. Der Markt in Genf bleibt derweil wettbewerbsintensiv.</p>
+<p/><p>Konkret stieg der Mietertrag um 6,8 Prozent auf 41,5 Millionen Franken, wie das Unternehmen am Donnerstag mitteilte. Der EBITDA vor Neubewertungen und Gewinnen aus Verkäufen erhöhte sich um 9,3 Prozent auf 26,7 Millionen Franken.</p>
+<p/><p>Dank des Tiefzinsumfelds lagen die Neubewertungsgewinne bei 43,7 Millionen. Im Vorjahr betrugen die Aufwertungen sogar 70,5 Millionen. Der Gewinn inklusive dieser Neubewertungen lag entsprechend tiefer bei 67,6 Millionen nach 80,2 Millionen im Vorjahr, ohne Neubewertungseffekte stieg er indes deutlich auf 30,1 Millionen nach 19,6 Millionen im Vorjahr.</p>
+<p/><h3>Tiefer Leerstand in attraktivem Markt</h3>
+<p/><p>Der Wert des Immobilienportfolios setzt sich weiter aus 207 Liegenschaften zusammen und betrug 2,29 Milliarden nach 2,24 Milliarden Ende 2025. Der Leerstand verharrte bei tiefen 2,0 Prozent, bei den Wohnliegenschaften lag er sogar nur bei 1,2 Prozent. Die Bilanz sei weiterhin stark, der Loan-to-Value (LTV) - also das Verhältnis der Nettoschulden zum Wert des Immobilienportfolios - wurde weiter reduziert auf aktuell 27,3 Prozent.</p>
+<p/><p>In der Genfersee-Region gebe es nach wie vor einen Nachfrageüberhang, entsprechend bleibe das Marktumfeld für Wohnimmobilien attraktiv, heisst es weiter. Gleichzeitig bleibe das Angebot knapp und es werde eine Fortsetzung der positiven Marktdynamik für das zweite Halbjahr erwartet.</p>
+<p/><p>Der Ausblick ist nach wie vor unkonkret. So erwartet Investis für die zweite Jahreshälfte ein operatives Ergebnis, das weitgehend im Einklang mit demjenigen des ersten Halbjahres stehen dürfte.</p>
+<p/><p>dm/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
