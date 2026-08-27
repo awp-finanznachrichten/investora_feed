@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260827T101014+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260827</DateId>
+			<NewsItemId>1659</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260827:1659:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260827T101014+0200</FirstCreated>
+		<ThisRevisionCreated>20260827T101014+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Presse: USA untersuchen Kühne-Nagel-Tochter wegen Chip-Schmuggel nach China</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="02000000"/><Subject FormalName="04016027"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8834" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196362">
+<Property FormalName="FullName" Value="Kühne + Nagel International AG" />
+
+<Property FormalName="ShortName" Value="Kühne+Nagel" />
+
+<Property FormalName="Telekurs" Value="547726" />
+
+<Property FormalName="CHNr" Value="CH-130.0.005.610-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0025238863" />
+
+<Property FormalName="Ticker" Value="KNIN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241150" />
+
+<Property FormalName="Ticker" Value="KNI25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1433241168" />
+
+<Property FormalName="Ticker" Value="KNI251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1571219349" />
+
+<Property FormalName="Ticker" Value="KNI26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1571219356" />
+
+<Property FormalName="Ticker" Value="KNI261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="LAW"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die US-Behörde Bureau of Industry and Security (BIS) hat eine Untersuchung gegen die in Singapur beheimatete Kühne+Nagel-Tochter Apex eingeleitet. Dabei geht es um Vorwürfe für den illegalen Transport von Nvidia-KI-Chips nach China, wie Bloomberg am Donnerstag unter Berufung auf mit der Angelegenheit vertraute Personen berichtet.</p>
+<p/><p>Demnach soll Apex ganze KI-Systeme, etwa für Server, ausgeführt haben, die von Super Micro Computer gefertigt wurden. Aufgrund von Handelsbeschränkungen der US-Regierung dürften KI-Chips der neuesten Generation jedoch nicht nach China exportiert werden.</p>
+<p/><p>Die Einschränkungen gelten seit 2022 und wurden schon unter der Biden-Regierung eingeführt. Die Befürchtungen waren, dass die Technologie für die militärische Aufrüstung von China verwendet wird. Dennoch gab es laut dem Artikel immer wieder Fälle, in denen die KI-Chips über Umwege und Falschdeklarationen nach China gebracht wurden.</p>
+<p/><p>Gegenüber Bloomberg sagte Apex, dass die Untersuchung gegen eine kleinere Anzahl von Lieferungen aus dem Jahr 2024 laufe. An einer weiteren Stelle ist von knapp 50 Lieferungen die Rede. Apex kooperiere vollumfänglich mit den US-Behörden, um Klarheit in die Angelegenheit zu schaffen. Zudem sollen zwei für die Lieferungen zuständige Personen Apex kurz nach Bekanntwerden der Untersuchung verlassen haben.</p>
+<p/><p>In einer Stellungnahme gegenüber der Nachrichtenagentur AWP bestätigte ein Kühne+Nagel-Sprecher die US-Untersuchung gegen Apex. Die Tochter kooperiere vollumfänglich mit den Behörden. "Kühne+Nagel wurde von den Behörden nicht kontaktiert, und da dieser Fall keinen Bezug zu Kühne+Nagel hat und weiterhin Gegenstand laufender Ermittlungen ist, können wir keine weiteren Stellungnahmen abgeben", so der Sprecher weiter.</p>
+<p/><p>cg/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
