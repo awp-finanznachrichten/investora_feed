@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260828T070714+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260828</DateId>
+			<NewsItemId>660</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260828:660:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260828T070714+0200</FirstCreated>
+		<ThisRevisionCreated>20260828T070714+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Adval Tech verringert Verlust im ersten Semester</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3172" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193733">
+<Property FormalName="FullName" Value="Adval Tech Holding AG" />
+
+<Property FormalName="ShortName" Value="Adval Tech" />
+
+<Property FormalName="Telekurs" Value="905148" />
+
+<Property FormalName="CHNr" Value="CH-035.3.001.126-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008967926" />
+
+<Property FormalName="Ticker" Value="ADVN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Niederwangen (awp) - Der Autozulieferer Adval Tech hat im ersten Halbjahr 2026 erneut rote Zahlen geschrieben. Immerhin konnte der Verlust im Vergleich zum ersten Semester 2025 leicht verringert werden. Rückläufig war auch der Umsatz, dafür sieht sich das Unternehmen durch einen hohen Auftragseingang mit dem Transformationskurs bestätigt.</p>
+<p/><p>Die Gesamtleistung sank um 3,2 Prozent auf 76,9 Millionen Franken und der Nettoumsatz um 5,8 Prozent auf 73,9 Millionen, wie Adval Tech am Freitag mitteilte. Dabei hatte auch die Währungsentwicklung einen negativen Effekt gehabt.</p>
+<p/><p>Der Automotive-Markt sei insbesondere im Hauptmarkt Europa herausfordernd geblieben, heisst es zum Geschäftsverlauf. Die im Vorjahr eingeführte neue Vertriebsstruktur zeige aber erste Erfolge. So seien im ersten Halbjahr 2026 deutlich mehr Neuprojekte als in den vorangegangenen ersten Semestern eingegangen. Mit einem Lifetime-Auftragseingang bei den Neuprojekten, allein im Automotive Bereich in Höhe von 116 Millionen Franken, werde das zukünftig angestrebte Wachstum abgesichert.</p>
+<p/><h3>Diversifikation im Medtech-Bereich kommt voran</h3>
+<p/><p>Das zweite Kundensegment, der MedTech-Bereich, hat sich laut Adval Tech erfreulich entwickelt und damit die strategische Diversifikation bestätigt. Insgesamt wurde im ersten Halbjahr ein Lifetime-Auftragseingang im MedTech-Bereich über 40 Millionen Franken realisiert. Adval Tech prüft in der Folge einen Kapazitätsausbau in Grenchen.</p>
+<p/><p>Die andauernde Transformation der Gruppe fordert indes auf Gewinnebene noch immer ihren Tribut. So fiel das operative Ergebnis (EBITDA) auf -0,2 Millionen Franken zurück, nachdem es im Vorjahr mit +0,8 Millionen noch knapp positiv war. Der Reinverlust konnte immerhin auf 4,6 Millionen um eine Spur verringert werden.</p>
+<p/><p>Für die roten Zahlen macht das Unternehmen "notwendige Vorlaufkosten für die Entwicklung und Vorbereitung neu gewonnener Kundenprojekte, Umsatzrückgang und operative Rückschläge bei den Verbesserungsprogrammen in zwei Werken" verantwortlich. Es seien deshalb weitere korrigierende Massnahmen eingeleitet worden.</p>
+<p/><h3>Massnahmen greifen erst ab 2027 voll</h3>
+<p/><p>Diese sollen bereits im zweiten Halbjahr 2026 positiv zum Ergebnis beitragen, die volle Wirkung dürften sie aber erst 2027 entfalten. Adval Tech sieht aber die eigene Marktposition durch den hohen Auftragseingang im ersten Halbjahr von insgesamt 156 Millionen Franken bestätigt.</p>
+<p/><p>Für die mittlere Zukunft zeigt sich das Unternehmen denn auch einigermassen optimistisch. So wird für die kommenden Jahre ein Wachstum im oberen einstelligen Prozentbereich in Aussicht gestellt. Die neuen Aufträge dürften bereits im kommenden Jahr im Umsatz sichtbar werden.</p>
+<p/><p>Für das zweite Semester 2026 erwartet Adval Tech ein gegenüber dem ersten verbessertes operatives Ergebnis. Für eine schwarze Null wird es gemäss dem Ausblick im Gesamtjahr aber nicht reichen. Die im Transformationsprozess erzielten Fortschritte sollen dann aber ab der zweiten Jahreshälfte 2027 ihre volle Wirkung entfalten und so zu einer sichtbaren Ergebnisverbesserung beitragen.</p>
+<p/><p>cf/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
