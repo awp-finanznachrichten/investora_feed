@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260828T075513+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260828</DateId>
+			<NewsItemId>793</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260828:793:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260828T075513+0200</FirstCreated>
+		<ThisRevisionCreated>20260828T075513+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Edisun produziert weniger Solarstrom im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/><Subject FormalName="04016005"/><Subject FormalName="04016019"/><Subject FormalName="04005000"/><Subject FormalName="04005007"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8005" />
+
+<Property FormalName="City" Value="8832" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2101019879">
+<Property FormalName="FullName" Value="Edisun Power Europe AG" />
+
+<Property FormalName="ShortName" Value="Edisun Power" />
+
+<Property FormalName="Telekurs" Value="320562" />
+
+<Property FormalName="CHNr" Value="CH-020.3.029.350-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024736404" />
+
+<Property FormalName="Ticker" Value="ESUN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1977132009">
+<Property FormalName="FullName" Value="SMARTENERGY Group AG" />
+
+<Property FormalName="ShortName" Value="SMARTENERGY Group" />
+
+<Property FormalName="CHNr" Value="CH-130-3026376-7" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Industry" Value="ENV"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Edisun Power hat im ersten Halbjahr 2026 weniger Solarstrom produziert und musste einen höheren Verlust hinnehmen. Der Fokus der Gruppe liegt aktuell auf dem Zusammenschluss mit der Smartenergy Group.</p>
+<p/><p>Der Umsatz fiel von Januar bis Juni um 23 Prozent auf 5,57 Millionen Franken, wie das Unternehmen am Freitag mitteilte. Dazu habe vor allem eine geringere Solarstromproduktion geführt. Diese sank um 16 Prozent auf 61'163 Megawattstunden (MWh).</p>
+<p/><p>Zum Rückgang führten laut den Angaben ungünstige Wetterbedingungen, geringere Produktionsvolumen, Anlagenabschaltungen und tiefere Strompreise. Dies wirkte sich unterschiedlich auf die Regionen aus.</p>
+<p/><h3>Negative Auswirkungen in Portugal</h3>
+<p/><p>Am stärksten wurde Portugal von den negativen Treibern belastet. In Spanien konnte der Produktionsrückgang "dank der regulierten Vergütung" kompensiert werden, wie es heisst.</p>
+<p/><p>In Frankreich hätten höhere Produktionsvolumen zu einem leichten Umsatzanstieg geführt. In der Schweiz sei die Produktion gestiegen, der Umsatz aufgrund des Auslaufens einer Preisgarantie aber gesunken.</p>
+<p/><p>In Italien sank die Produktion, der Umsatz erhöhte sich aber wegen Tarifeffekten. In Deutschland gingen wiederum Produktion und Umsatz aufgrund ungünstiger Wetterbedingungen, Abregelungen und tieferer Strompreise sowie infolge des operativen Betriebsendes von zwei Kleinanlagen zurück.</p>
+<p/><h3>Verlust ausgeweitet</h3>
+<p/><p>Der Betriebsgewinn (EBITDA) sank vor diesem Hintergrund um 45 Prozent auf 2,51 Millionen Franken, die entsprechende Marge verringerte sich auf 45,0 Prozent von 63,3 Prozent im Vorjahressemester.</p>
+<p/><p>Unter dem Strich rutschte Edisun damit noch tiefer in die roten Zahlen. So resultierte ein Reinverlust von 4,0 Millionen Franken (VJ: -3,0 Mio).</p>
+<p/><h3>Integration von Smartenergy im Fokus</h3>
+<p/><p>Für das Gesamtjahr 2026 hängen die Ergebnisse laut dem Unternehmen vom Abschluss der Verkaufsverhandlungen für das Projekt "Fuencarral to AI" sowie vom Fortschritt der Integration der Smartenergy-Geschäftstätigkeiten ab.</p>
+<p/><p>Darüber hinaus gab Edisun Power bekannt, im Dezember die Emission einer fünfjährigen Anleihe über 40 Millionen Franken zu einem Zinssatz von 3,75 Prozent zu planen. Zeichnungsfrist ist der 30. November 2026.</p>
+<p/><p>ls/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
