@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260828T115814+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260828</DateId>
+			<NewsItemId>1838</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260828:1838:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260828T115813+0200</FirstCreated>
+		<ThisRevisionCreated>20260828T115813+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Anleihe: Investis nimmt 100 Mio Fr. bis Anfang 2029 auf</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>T</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04008027"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2047253986">
+<Property FormalName="FullName" Value="Investis Holding SA" />
+
+<Property FormalName="ShortName" Value="Investis" />
+
+<Property FormalName="Telekurs" Value="719950" />
+
+<Property FormalName="CHNr" Value="CH-020.3.043.380-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0325094297" />
+
+<Property FormalName="Ticker" Value="IREN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1357852784" />
+
+<Property FormalName="Ticker" Value="IRE24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472023" />
+
+<Property FormalName="Ticker" Value="IRE25" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Immobiliengesellschaft Investis begibt unter Federführung der UBS und ZKB eine Anleihe (Senior unsecured) zu folgenden Konditionen:</p>
+<p/><pre>Betrag:          100 Mio Fr. 
+Coupon:          0,95% 
+Emissionspreis:  100,078%
+Laufzeit:        2,4 Jahre, bis 19.02.2029
+Liberierung:     02.10.2026
+Yield to Mat.:   0,917%
+Spread (MS):     +70,0 BP
+Spread (Gov.):   +78,4 BP
+ISIN:            CH1581468217
+Issuer Rating:   BBB/Baa+ (ZKB/fedafin)
+Kotierung:       SIX, ab 01.10.2026
+</pre><p/><p>dm/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
