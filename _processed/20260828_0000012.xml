@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260828T134112+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260828</DateId>
+			<NewsItemId>2398</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260828:2398:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260828T134112+0200</FirstCreated>
+		<ThisRevisionCreated>20260828T134112+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Flughafen Zürich muss wegen Gewitter viele Flüge streichen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04015000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8058" />
+
+<Property FormalName="City" Value="8302" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191817">
+<Property FormalName="FullName" Value="Flughafen Zürich AG" />
+
+<Property FormalName="ShortName" Value="Flughafen Zürich" />
+
+<Property FormalName="Telekurs" Value="73637" />
+
+<Property FormalName="CHNr" Value="CH-020.3.909.075-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0319416936" />
+
+<Property FormalName="Ticker" Value="FHZN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0361532879" />
+
+<Property FormalName="Ticker" Value="FHZ17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0520663672" />
+
+<Property FormalName="Ticker" Value="FHZ20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0570576568" />
+
+<Property FormalName="Ticker" Value="FHZ202" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1435012104" />
+
+<Property FormalName="Ticker" Value="FHZ25" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147198163">
+<Property FormalName="FullName" Value="Swiss International Air Lines AG" />
+
+<Property FormalName="ShortName" Value="Swiss" />
+
+<Property FormalName="Telekurs" Value="162676" />
+
+<Property FormalName="CHNr" Value="CH-270.3.001.037-6" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TRN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp/sda) - Das heftige Gewitter hat den Betrieb auf dem Flughafen Zürich "erheblich" beeinträchtigt. Bis Freitagmittag mussten 27 An- und Abflüge gestrichen werden und weitere Streichungen seien absehbar, wie die Fluggesellschaft Swiss mitteilte.</p>
+<p/><p>Betroffen gewesen seien rund 3100 Passagierinnen und Passagiere. Bei weiteren Flügen sei mit Verspätungen von bis zu drei Stunden zu rechnen, heisst es. Je nach Wetterentwicklung könnte es zu weiteren Ausfällen im Flugbetrieb kommen.</p>
+<p/><p>Hauptsächlicher Grund für die Beeinträchtigung des Betriebs waren gemäss Mitteilung Blitzeinschläge in der Nähe des Flughafens. In solchen Situationen müsse die Arbeit auf dem Vorfeld aus Sicherheitsgründen zeitweise eingestellt werden.</p>
+<p/><p>Die Mitarbeitenden müssten Abstand von Flugzeugen und anderen metallischen Einrichtungen halten. Flugzeuge könnten dann nicht be- und entladen, betankt und für den nächsten Flug abgefertigt werden. Der Betrieb am Boden komme sodann weitgehend zum Stillstand, was auch weitere Verzögerungen nach sich ziehe.</p>
+<p/><p>Die Swiss bedauert die Auswirkungen auf die Fluggäste, deren Reisepläne durcheinandergeraten.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
