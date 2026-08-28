@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260828T072911+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260828</DateId>
+			<NewsItemId>729</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260828:729:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260828T072910+0200</FirstCreated>
+		<ThisRevisionCreated>20260828T072910+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Warteck Invest mit höheren Erträgen und tieferem Leerstand im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4021" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196489">
+<Property FormalName="FullName" Value="Warteck Invest AG" />
+
+<Property FormalName="ShortName" Value="Warteck Invest" />
+
+<Property FormalName="Telekurs" Value="333974" />
+
+<Property FormalName="CHNr" Value="CH-270.3.001.551-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0002619481" />
+
+<Property FormalName="Ticker" Value="WARN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Die Immobiliengesellschaft Warteck Invest hat im ersten Halbjahr 2026 höhere Mieterträge erzielt und gleichzeitig den Leerstand reduziert. Am tieferen Gewinn sind die Steuern schuld.</p>
+<p/><p>Unter dem Strich verdiente das Unternehmen zwischen Januar und Juni inklusive Neubewertungen 18,0 Millionen Franken, wie es in einer Mitteilung vom Freitag heisst. Im Vorjahr waren es noch 19,8 Millionen gewesen. Dies liege insbesondere am mehr als verdoppelten Steueraufwand, so die Begründung.</p>
+<p/><p>Die Neubewertung habe in diesem Jahr zu einer Aufwertung um 8,3 Millionen Franken geführt und lag damit nur leicht unter Vorjahresniveau. Der Marktwert des Immobilienportfolios wird nun mit 1,14 Milliarden angegeben (+8,1% gegenüber Vorjahr). Nach dem Bilanzstichtag wurden noch zwei weitere Gebäude in Münchenstein mit 116 Wohnungen gekauft, die in naher Zukunft saniert werden sollen.</p>
+<p/><h3>Steigende Mieterträge</h3>
+<p/><p>Operativ gab es derweil einige Verbesserungen. So stiegen die Ist-Mieterträge um 3,9 Prozent auf 23,2 Millionen Franken. Nach Abzug der liegenschaftsbezogenen Betriebs- und Unterhaltskosten verblieb ein Erfolg aus Vermietung von 19,7 Millionen nach 19,3 Millionen im Vorjahr. Gründe für den Anstieg waren einerseits der Zukauf einer Wohnüberbauung sowie die Nachfragesituation. Zudem lag die Leerstandsquote mit 2,2 Prozent leicht unter dem Wert von 2,3 Prozent per Ende 2025.</p>
+<p/><p>Dadurch stiegen der EBIT (ohne Neubewertungseffekte) um 6,5 Prozent auf 18,7 Millionen Franken, während der Reingewinn ohne Neubewertungseffekte ebenfalls wegen des Steuereffekts um 10,7 Prozent auf 11,4 Millionen zurückging. Grund für den höheren Steueraufwand war die Anpassung der Resthaltedauer der Liegenschaften mit konkreten Verkaufsabsichten und durch den getätigten Verkauf im 1. Semester, erklärt Warteck.</p>
+<p/><h3>Projekte im Plan, Ausblick vage</h3>
+<p/><p>Bei den Projekten kommt Warteck planmässig voran. So werden in Buchs (AG) insgesamt rund 29 Millionen Franken investiert, die zweite Etappe werde 2027 in Angriff genommen und nach Fertigstellung werden Mietzinseinnahmen von 1,4 Millionen erwartet.</p>
+<p/><p>Für die beiden Arealentwicklungen in Allschwil und Muttenz (BL) wird es im Februar 2027 zu einer Volksabstimmung kommen. Insgesamt bestehe für die kommenden Jahre eine Pipeline aus 14 Projekten mit einem Gesamtinvestitionsvolumen von rund 230 Millionen Franken.</p>
+<p/><p>Beim Ausblick ist Warteck sehr vage. So biete der Transaktionsmarkt aufgrund der herrschenden Zinssituation in nächster Zeit gute Chancen für Capital Recycling durch weitere Objektverkäufe und Investitionen in Projekte. Die Voraussetzungen für ein gutes Geschäftsjahr 2026 seien gegeben.</p>
+<p/><p>dm/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
