@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260828T075211+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260828</DateId>
+			<NewsItemId>790</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260828:790:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260828T075210+0200</FirstCreated>
+		<ThisRevisionCreated>20260828T075210+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>CFT steigert Gewinn im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1003" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197136">
+<Property FormalName="FullName" Value="Compagnie financière Tradition AG" />
+
+<Property FormalName="ShortName" Value="CFT" />
+
+<Property FormalName="Telekurs" Value="164278" />
+
+<Property FormalName="CHNr" Value="CH-550.0.052.432-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0014345117" />
+
+<Property FormalName="Ticker" Value="CFT" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1148266211" />
+
+<Property FormalName="Ticker" Value="CFT21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1380011259" />
+
+<Property FormalName="Ticker" Value="CFT24" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Lausanne (awp) - Die Westschweizer Brokergruppe Compagnie Financière Tradition (CFT) hat im ersten Halbjahr 2026 deutlich mehr Gewinn erzielt. Mit Blick nach vorn bleibt das Management zuversichtlich.</p>
+<p/><p>Der Reingewinn lag auf Gruppenebene mit 79,1 Millionen Franken um 12,6 Prozent über dem Vorjahreswert. Zu konstanten Wechselkursen hätte das Plus sogar 22,5 Prozent betragen, wie CFT am Freitag mitteilte.</p>
+<p/><p>Das Betriebsergebnis blieb derweil in etwa stabil bei 88,0 Millionen Franken (-0,2%). Zu konstanten Wechselkursen ergab sich allerdings ebenfalls ein Plus von 7,4 Prozent.</p>
+<p/><p>Einschliesslich der Beteiligung am Ergebnis von assoziierten Unternehmen und Joint Ventures stieg der Betriebsgewinn zu konstanten Wechselkursen um 13,8 Prozent auf 108,3 Millionen Franken. Die entsprechende Marge lag damit leicht höher bei 16,8 Prozent nach 16,4 Prozent in der Vorjahresperiode.</p>
+<p/><p>Mit den Zahlen wurden die Erwartungen der von AWP befragten Analysten beim Reinergebnis klar übertroffen und beim Betriebsergebnis leicht verfehlt.</p>
+<p/><p>Die Umsatzzahlen hatte das Unternehmen schon Anfang August bekannt gegeben. Der Umsatz stieg auf bereinigter Basis (einschliesslich des proportionalen Einbezugs von Joint Ventures) und konstanten Wechselkursen um 10,4 Prozent auf 646,2 Millionen.</p>
+<p/><h3>Zuversichtlicher Ausblick</h3>
+<p/><p>CFT habe im ersten Halbjahr den Wachstumskurs fortgesetzt und baue auf den positiven Trend der vergangenen Jahre auf, heisst es. Zu den weiteren Aussichten zeigt sich das Management optimistisch.</p>
+<p/><p>Das organische Wachstum bleibe eine Priorität, insbesondere durch gezielte Neueinstellungen im Front-Office-Bereich und eine Weiterentwicklung des Angebots der Gruppe in den verschiedenen Regionen. Ausserdem werde CFT weiterhin in die Digitalisierung der Brokerage-Dienstleistungen, hybride Lösungen sowie Daten- und Analysefähigkeiten investieren. Ein weiterer Schwerpunkt liege schliesslich auf einer soliden finanziellen Basis und einem strikten Kostenmanagement.</p>
+<p/><p>ls/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
