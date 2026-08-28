@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260828T063017+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260828</DateId>
+			<NewsItemId>468</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260828:468:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260828T063017+0200</FirstCreated>
+		<ThisRevisionCreated>20260828T063017+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ems mit etwas mehr Gewinn im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016028"/><Subject FormalName="04002000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="7013" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197451">
+<Property FormalName="FullName" Value="Ems-Chemie Holding AG" />
+
+<Property FormalName="ShortName" Value="Ems-Chemie" />
+
+<Property FormalName="Telekurs" Value="102101" />
+
+<Property FormalName="CHNr" Value="CH-350.3.000.778-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0016440353" />
+
+<Property FormalName="Ticker" Value="EMSN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CHM"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Domat/Ems (awp) - Der Gewinn der Ems-Gruppe ist im ersten Halbjahr 2026 leicht gestiegen. Er legte gegenüber der Vorjahresperiode um 2,5 Prozent auf 259 Millionen Franken zu, wie die Gruppe am Freitag mit dem definitiven Halbjahresabschluss mitteilte.</p>
+<p/><p>Bei der Veröffentlichung der provisorischen Halbjahreszahlen Mitte Juli waren noch keine Nettogewinnzahlen publiziert worden. Laut dem definitiven Halbjahresabschluss sank der konsolidierte Nettoumsatz wie im Juli gemeldet um 0,8 Prozent auf 1,01 Milliarden Franken.</p>
+<p/><p>Das Betriebsergebnis (EBIT) stieg hingegen um 4,4 Prozent auf 309 Millionen Franken, bei einer Marge von 30,6 Prozent. Mitte Juli hatte Ems auf provisorischer Basis einen EBIT von 310 Millionen vermeldet.</p>
+<p/><p>Ferner wird die Ems-Geschäftsleitung ab 1. September mit Darko Radanovic verstärkt. Der Manager ist seit 1992 in der Gruppe tätig und war zuletzt Leiter von Ems-Grivory Europa und Amerika.</p>
+<p/><p>ra/ls</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
