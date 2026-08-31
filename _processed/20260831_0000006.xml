@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T094713+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>848</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:848:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T094713+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T094713+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Vontobel plant Umzug an neuen Hauptsitz in Baar</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>A</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016039"/><Subject FormalName="09000000"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8022" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2056590953">
+<Property FormalName="FullName" Value="Vontobel Holding AG" />
+
+<Property FormalName="ShortName" Value="Vontobel" />
+
+<Property FormalName="Telekurs" Value="275473" />
+
+<Property FormalName="CHNr" Value="CH-020.3.928.014-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012335540" />
+
+<Property FormalName="Ticker" Value="VONN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="LAB"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Bank Vontobel plant, ihren Hauptsitz von Zürich nach Baar im Kanton Zug zu verlegen. Der Vermögensverwalter hat einen langfristigen Mietvertrag für einen eigens für Vontobel konzipierten Campus im Lindenpark abgeschlossen.</p>
+<p/><p>Der neue Standort soll 2030 eröffnet werden und mehr als 1500 Mitarbeitende zusammenführen, die heute auf sieben Gebäude in Zürich verteilt sind. Mit dem neuen Standort will Vontobel Raum für weiteres Wachstum schaffen und die Zusammenarbeit zwischen den Teams fördern.</p>
+<p/><p>Gleichzeitig investiert Vontobel in den bisherigen Standort am Bleicherweg in Zürich. Das Gebäude soll zu einem Kundenstandort für mehr als 300 Mitarbeitende umgebaut werden.</p>
+<p/><p>Die Kundenbetreuung und die Büros von Vontobel in Basel, Bern, Chur, Genf, Lausanne, Locarno, Luzern, Lugano, St. Gallen, Winterthur sowie im Ausland bleiben unverändert.</p>
+<p/><p>ra/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
