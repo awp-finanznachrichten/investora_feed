@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T140034+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>1776</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:1776:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T140034+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T140034+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ausblick Swiss Life: Rückkaufprogramm und Stellenabbau als Fragezeichen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Forecast"/>
+			<SubjectCode><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197979">
+<Property FormalName="FullName" Value="Swiss Life Holding AG" />
+
+<Property FormalName="ShortName" Value="Swiss Life" />
+
+<Property FormalName="Telekurs" Value="165159" />
+
+<Property FormalName="CHNr" Value="CH-020.3.026.160-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0014852781" />
+
+<Property FormalName="Ticker" Value="SLHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0316994653" />
+
+<Property FormalName="Ticker" Value="SLH161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406990801" />
+
+<Property FormalName="Ticker" Value="SWL181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561491" />
+
+<Property FormalName="Ticker" Value="SLH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238914" />
+
+<Property FormalName="Ticker" Value="SLH191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301278" />
+
+<Property FormalName="Ticker" Value="SLH230" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301286" />
+
+<Property FormalName="Ticker" Value="SLH231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341034994" />
+
+<Property FormalName="Ticker" Value="SLH24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035009" />
+
+<Property FormalName="Ticker" Value="SLH241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035017" />
+
+<Property FormalName="Ticker" Value="SLH242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064601" />
+
+<Property FormalName="Ticker" Value="SLH25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064619" />
+
+<Property FormalName="Ticker" Value="SLH252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064627" />
+
+<Property FormalName="Ticker" Value="SLH253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1487331949" />
+
+<Property FormalName="Ticker" Value="SLH26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238389" />
+
+<Property FormalName="Ticker" Value="SLH261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="OUT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Analysten erwarten von der Swiss Life einen unspektakulären Halbjahresabschluss mit leichtem Ergebnis-Wachstum. Eine offene Frage ist, ob der Versicherer ein neues Aktienrückkaufprogramm auflegen wird. Zudem kursieren Gerüchte über einen grösseren Stellenabbau.</p>
+<p/><p>Der Konzern veröffentlicht am Dienstag, 1. September, die Ergebnisse zum ersten Semester 2026. Insgesamt haben acht Analysten zum AWP-Konsens beigetragen.</p>
+<p/><pre>H1 2026
+(in Mio Fr.)      AWP-Konsens  H1 2025  
+
+Adj. op. Gewinn        928        903
+Reingewinn             630        602
+Fee-Ergebnis           406        392
+Bruttoprämie        12'456     12'112
+SST-Ratio (%)          213        205
+
+</pre><p/><h3>Was steht im Fokus?</h3>
+<p/><p>Das Gros der Analysten geht davon aus, dass die Versicherungsgruppe im ersten Halbjahr weitere Fortschritte erzielt hat. Beim operativen Gewinn, dem Fee-Ergebnis und dem Reingewinn werden im Schnitt Zahlen leicht über dem Vorjahr erwartet. Grundlage für diese Erwartung ist, dass sich die "starken Wachstumstrends" des ersten Quartals fortsetzten, wie es in Analystenkommentaren heisst. Wahrscheinlich sei allerdings, dass sich dieses Wachstum im zweiten Quartal etwas abgeschwächt habe. Wie üblich interessiert dabei besonders die Entwicklung im Drittkundengeschäft der Vermögensverwaltung (TPAM). Dieses Geld soll künftig zu höheren Gebühreneinnahmen führen.</p>
+<p/><h3>Gibt es ein neues Aktienrückkaufprogramm?</h3>
+<p/><p>Uneinig sind sich die Analysten, ob die Gesellschaft ein neues Aktienrückkaufprogramm ankündigen wird. Das sei zu erwarten, weil das alte Programm Ende Mai abgeschlossen worden sei und die Kapitalisierung sehr gut sei, meinen manche Experten - und prognostizieren ein Volumen von 250 Millionen Franken. Andere halten das für unwahrscheinlich.</p>
+<p/><h3>Was könnte sonst noch ein Thema sein?</h3>
+<p/><p>Laut dem Onlineportal "Inside Paradeplatz" kommt es bei Swiss Life in der Schweiz zu Entlassungen im grösseren Stil. Diese dürften "in Kürze" verkündet werden, schrieb das Portal am letzten Donnerstag. Gut möglich also, dass es am Dienstag eine entsprechene Information gibt. Die Swiss-Life-Medienstelle dementierte gegenüber "Inside Paradeplatz" den kolportierten Stellenabbau auf jeden Fall nicht. "Swiss Life Schweiz hat sich das Ziel gesetzt, ihre starke Marktposition weiter auszubauen und auch in Zukunft profitabel zu wachsen; dazu gehört auch, dass wir unsere Organisation, die Prozesse sowie den Ressourcen- und Personaleinsatz konsequent und über die einzelnen Geschäftsfelder hinweg regelmässig überprüfen und so ausrichten, dass wir weiter wachsen können", liess sich ein Sprecher zitieren.</p>
+<p/><h3>Welche Ziele verfolgt die Swiss Life?</h3>
+<p/><p>Im bis Ende 2027 laufenden Dreijahresprogramm steht vor allem das Fee-Geschäft im Fokus. Das Ergebnis aus Finanzberatungen, der Vermögensverwaltung oder dem Verkauf von Vorsorgeprodukten soll auf über eine Milliarde Franken anwachsen. Im 2025 lag das Fee-Ergebnis bei 858 Millionen.</p>
+<p/><p>Ausserdem strebt das Institut eine SST-Quote im Bereich von 140 bis 190 Prozent an, eine Eigenkapitalrendite von 17 bis 19 Prozent (2025: 17,2%), und es soll über drei Jahre kumuliert ein Cash-Transfer von 3,6 bis 3,8 Milliarden (2025: 1,22 Mrd) erzielt werden. Mit Blick auf die gesetzten Ziele sah Firmenchef Matthias Aellig den Konzern zuletzt "gut auf Kurs".</p>
+<p/><h3>Wie entwickelte sich der Aktienkurs?</h3>
+<p/><p>Die Titel von Swiss Life haben sich seit Jahresbeginn kaum verändert. Damit schneiden sie deutlich schlechter ab als der Gesamtmarkt gemessen am Leitindex SMI mit einem Plus von rund 8 Prozent. Im vergangenen Jahr gehörten die Titel mit einem Plus von rund 31 Prozent zu den stärksten Blue Chips.</p>
+<p/><p>hs/rw/ab</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
