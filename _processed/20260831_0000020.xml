@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T194815+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>3020</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:3020:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T194814+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T194814+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Peach Property steigert bereinigtes operatives Ergebnis im ersten Halbjahr</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016019"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8038" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2103849416">
+<Property FormalName="FullName" Value="Peach Property Group AG" />
+
+<Property FormalName="ShortName" Value="Peach Property" />
+
+<Property FormalName="Telekurs" Value="528360" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.910-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0118530366" />
+
+<Property FormalName="Ticker" Value="PEAN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Peach Property Group hat im ersten Halbjahr 2026 laut vorläufigen Zahlen die Mieteinnahmen auf vergleichbarer Basis gesteigert und das operative Ergebnis verbessert. An den für 2026 gesetzten Zielen hält das Unternehmen fest.</p>
+<p/><p>Die Mieterträge stiegen im ersten Semester netto sowie zum Vorjahr auf vergleichbarer Basis (like-for-like) um 5,1 Prozent auf 42,3 Millionen Euro, wie Peach Property am Montagabend mitteilte. Zugleich sei die Leerstandsquote im strategsich geführten Immobilienportfolio bezüglich der Sollmieten auf 3,3 von 6,3 Prozent vor Jahresfrist reduziert worden. </p>
+<p/><p>Weiter sei der bereinigte Betriebsgewinn (adjusted EBITDA) gegenüber der Vorjahresperiode um etwa ein Viertel auf rund 30 Millionen Euro gestiegen, hiess es weiter. Und der operative Mittelzufluss (Funds from Operations, FFO) belief sich auf rund 9 Millionen nach zuvor 6,7 Millionen Euro.</p>
+<p/><p>Damit liege die Gruppe auf Kurs, um die für 2026 gesetzten Ziele zu erreichen. Für den FFO wird ein Wert zwischen 17 und 19 Millionen Euro angestrebt. Darüber hinaus sollen die ein Like-for-like-Mieteinnahmen im strategisch relevanten Portfolio um rund 6 Prozent steigen. Zu Jahresende hin soll die Leerstandsquote in diesem Portfolio auf 2,8 Prozent sinken.</p>
+<p/><p>Die operativen Verbesserungen dürften sich laut Peach Property im weiteren Jahresverlauf zunehmend in einer höheren Profitabilität niederschlagen. Angaben zum Reinergebnis in der ersten Jahreshälfte wurden keine gemacht.</p>
+<p/><p>Peach Property hat das Immobilienportfolio verkleinert und die Kapitalstruktur vereinfacht. Der im Dezember 2025 beurkundete Verkauf von rund 2000 Wohn- und Gewerbeeinheiten sei im ersten Halbjahr 2026 mehrheitlich vollzogen und mehr als 85 Prozent der Erlöse bereits vereinnahmt worden. Dies führte zu einem Netto-Mittelzufluss von mehr als 40 Millionen Euro.</p>
+<p/><p>Darüber hinaus seien zahlreiche Einzel- und Portfoliotransaktionen umgesetzt worden. Insgesamt seien weitere 292 Einheiten übertragen und zusätzliche 359 Einheiten bereits notariell beurkundet worden. Gemessen an diesen Transaktionen umfasse das verbleibende Non-Strategic Portfolio noch rund 3000 Einheiten mit einem Marktwert von circa 185 Millionen Euro. Ende 2025 waren es noch 5399 Einheiten.</p>
+<p/><p>mk/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
