@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T163411+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>2554</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:2554:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T163411+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T163411+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Stadt Zürich bedauert den Wegzug der Bank Vontobel</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04016039"/><Subject FormalName="09000000"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8022" />
+
+<Property FormalName="City" Value="8000" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2056590953">
+<Property FormalName="FullName" Value="Vontobel Holding AG" />
+
+<Property FormalName="ShortName" Value="Vontobel" />
+
+<Property FormalName="Telekurs" Value="275473" />
+
+<Property FormalName="CHNr" Value="CH-020.3.928.014-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012335540" />
+
+<Property FormalName="Ticker" Value="VONN" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197665">
+<Property FormalName="FullName" Value="Stadt Zürich" />
+
+<Property FormalName="Telekurs" Value="022269" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024484187" />
+
+<Property FormalName="Ticker" Value="ZUR06" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0129766215" />
+
+<Property FormalName="Ticker" Value="ZUR111" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0181377042" />
+
+<Property FormalName="Ticker" Value="ZUR12" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0222000413" />
+
+<Property FormalName="Ticker" Value="ZUR13" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0228531460" />
+
+<Property FormalName="Ticker" Value="ZUR133" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0236516834" />
+
+<Property FormalName="Ticker" Value="ZUR141" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0253612581" />
+
+<Property FormalName="Ticker" Value="ZUR144" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0284950505" />
+
+<Property FormalName="Ticker" Value="ZUR15" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0341440318" />
+
+<Property FormalName="Ticker" Value="ZUR16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0362748292" />
+
+<Property FormalName="Ticker" Value="ZUR17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0373476107" />
+
+<Property FormalName="Ticker" Value="ZUR171" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0451141417" />
+
+<Property FormalName="Ticker" Value="ZUR181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0485261520" />
+
+<Property FormalName="Ticker" Value="ZUR20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0508785752" />
+
+<Property FormalName="Ticker" Value="ZUR19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0561923878" />
+
+<Property FormalName="Ticker" Value="ZUR201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112011569" />
+
+<Property FormalName="Ticker" Value="ZUR21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1141700430" />
+
+<Property FormalName="Ticker" Value="ZUR211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1177791840" />
+
+<Property FormalName="Ticker" Value="ZUR22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1191066237" />
+
+<Property FormalName="Ticker" Value="ZUR221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1232107149" />
+
+<Property FormalName="Ticker" Value="ZUR23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1279261163" />
+
+<Property FormalName="Ticker" Value="ZUR233" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222418" />
+
+<Property FormalName="Ticker" Value="ZUR230" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1305916814" />
+
+<Property FormalName="Ticker" Value="ZUR234" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1306117149" />
+
+<Property FormalName="Ticker" Value="ZUR24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1306117156" />
+
+<Property FormalName="Ticker" Value="ZUR241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1310346304" />
+
+<Property FormalName="Ticker" Value="ZUR243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1310346312" />
+
+<Property FormalName="Ticker" Value="ZUR244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614178" />
+
+<Property FormalName="Ticker" Value="ZUR240" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614186" />
+
+<Property FormalName="Ticker" Value="ZUR245" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1348614194" />
+
+<Property FormalName="Ticker" Value="ZUR246" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904262" />
+
+<Property FormalName="Ticker" Value="ZUR248" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904270" />
+
+<Property FormalName="Ticker" Value="ZUR247" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1373904288" />
+
+<Property FormalName="Ticker" Value="ZUR249" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1409388480" />
+
+<Property FormalName="Ticker" Value="ZUR251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1409388498" />
+
+<Property FormalName="Ticker" Value="ZUR252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1409388506" />
+
+<Property FormalName="Ticker" Value="ZUR253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1405472197" />
+
+<Property FormalName="Ticker" Value="ZUR254" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1449583629" />
+
+<Property FormalName="Ticker" Value="ZUR255" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1449583637" />
+
+<Property FormalName="Ticker" Value="ZUR256" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1457376825" />
+
+<Property FormalName="Ticker" Value="ZUR257" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="LAB"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp/sda) - Dass die Bank Vontobel nach über 100 Jahren Zürich den Rücken kehrt, bedauert die Stadt Zürich. Der Finanzplatz gehöre zu Zürich. Eine Abwanderungstendenz finanzstarker Unternehmen sieht sie jedoch nicht.</p>
+<p/><p>Es sei schade, dass die Bank Vontobel kein passendes Grundstück in Zürich für ihren neuen Campus gefunden habe, sagte Claudia Nägeli, Mediensprecherin des Finanzdepartements der Stadt Zürich, am Montag auf Anfrage von Keystone-SDA. Doch der Entscheid der Bank, das Kundengeschäft am Bleicherweg zu lassen und 300 Mitarbeitende weiterhin dort zu beschäftigen, zeige, "wie wichtig das Zentrum und eine hervorragend ausgebaute Infrastruktur ist".</p>
+<p/><p>Die Bank Vontobel gab am Montag bekannt, dass sie 2023 ihren Hauptsitz von Zürich nach Baar ZG verlegen wird. In einem neuen Campus sollen künftig mehr als 1500 Mitarbeitende zusammenarbeiten, die heute auf sieben Gebäude in Zürich verteilt sind.</p>
+<p/><p>Eine Abwanderungstendenz finanzstarker Unternehmen sei jedoch nicht erkennbar. "In den letzten zehn Jahren ist nur eines der Top 50-Unternehmen in einen steuergünstigeren Kanton abgewandert", so die Sprecherin. Die Bank Vontobel sei nun das zweite. Sie betone dabei aber selbst, dass die Steuerbelastung nicht der Grund für den Wegzug sei.</p>
+<p/><h3>Anzahl Unternehmen hat sich verdoppelt</h3>
+<p/><p>Laut der Stadt Zürich sind die Unternehmenssteuereinnahmen der Stadt Zürich in den letzten fünf Jahren um über 25 Prozent gestiegen. Die Anzahl der juristischen Personen im Kanton Zürich habe in den letzten zehn Jahren um mehr als 30 Prozent zugenommen. In der Stadt Zürich habe sich die Anzahl der Unternehmen in den vergangenen 25 Jahren sogar verdoppelt. Darunter seien Firmen wie La Prairie und Beiersdorf AG, die ihren Hauptsitz nach Zürich verlegten.</p>
+<p/><p>Zudem hätten viele Unternehmen ihre Firmensitze in den letzten Jahren in der Stadt Zürich für viele hundert Millionen Franken renoviert und vergrössert. Als jüngstes Beispiel nennt die Stadt Zürich ABB in Oerlikon. Weitere hätten dies vor. "Der Standort scheint also stark genug zu sein", teilte die Stadt Zürich mit.</p>
+<p/><h3>Bedauern aber Verständnis</h3>
+<p/><p>Christian Bretscher, Geschäftsführer des Zürcher Bankenverbands, sagte gegenüber dem Regionaljournal Zürich-Schaffhausen von Radio SRF, er bedauere den Entscheid, habe dafür aber auch Verständnis. Bauen in Zürich sei sehr schwierig. Es gebe zahlreiche negative Beispiele dafür, dass es innert nützlicher Frist nicht möglich sei, ein Gelände so zu nutzen, wie man es bräuchte. Dass der Platz Zürich steuerlich für Unternehmen "höchst unattraktiv" sei, sei ja bekannt.</p>
+<p/><p>mk/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
