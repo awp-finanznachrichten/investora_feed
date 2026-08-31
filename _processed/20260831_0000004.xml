@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T080814+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>4</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>435</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:435:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T080814+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T080814+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>IVF Hartmann ernennt Ramona Schmidlin zur neuen CFO</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8212" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191469">
+<Property FormalName="FullName" Value="IVF Hartmann Holding AG" />
+
+<Property FormalName="ShortName" Value="IVF Hartmann" />
+
+<Property FormalName="Telekurs" Value="84591" />
+
+<Property FormalName="CHNr" Value="CH-290.3.002.788-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0187624256" />
+
+<Property FormalName="Ticker" Value="VBSN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Neuhausen (awp) - Beim Medizinalbedarfs-Hersteller IVF Hartmann wird Ramona Schmidlin künftig Finanzchefin. Sie wird ihre Funktion spätestens per 1. März 2027 antreten und den im Dezember 2026 scheidenden Hannes Leu ersetzen.</p>
+<p/><p>Zusammen mit CEO Martin Walther wird sie ab kommendem Frühjahr die Geschäftsleitung bilden. Der Verwaltungsrat wolle die Kontinuität der Unternehmensführung während der Übergangsphase bis zum Amtsantritt von Schmidlin sicherstellen, heisst es in einer Mitteilung vom Montag.</p>
+<p/><p>Schmidlin war den Angaben zufolge zuletzt in leitenden Finanzfunktionen bei der Eisberg AG und der Knorr-Bremse Rail Systems Schweiz AG tätig. Sie verfüge über Erfahrung in Finanzen, Controlling, Rechnungswesen und Unternehmenssteuerung sowie bei Transformations- und Optimierungsprojekten.</p>
+<p/><p>ra/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
