@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T104615+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>1012</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:1012:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T104615+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T104615+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Vontobel kehrt Zürich nach mehr als hundert Jahren den Rücken</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Zusammenfassung</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>S</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Wrap"/>
+			<SubjectCode><Subject FormalName="04016039"/><Subject FormalName="09000000"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8022" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2056590953">
+<Property FormalName="FullName" Value="Vontobel Holding AG" />
+
+<Property FormalName="ShortName" Value="Vontobel" />
+
+<Property FormalName="Telekurs" Value="275473" />
+
+<Property FormalName="CHNr" Value="CH-020.3.928.014-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012335540" />
+
+<Property FormalName="Ticker" Value="VONN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="RND"/><Property FormalName="Subject" Value="LAB"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die 1924 in Zürich gegründete Bank Vontobel wird 2030 ihren Hauptsitz von Zürich nach Baar ZG verlegen. In einem neuen Campus sollen künftig mehr als 1500 Mitarbeitende zusammenarbeiten, die heute auf sieben Gebäude in Zürich verteilt sind. Auch Geschäftsleitung und Verwaltungsrat werden am neuen Standort angesiedelt.</p>
+<p/><p>Mit dem Zusammenzug wolle Vontobel alle Mitarbeitenden unter einem Dach vereinen, sagte ein Vontobel-Sprecher am Montag zur Nachrichtenagentur AWP. Der neue Campus in Baar werde nicht zuletzt darauf ausgerichtet, die bereichsübergreifende Zusammenarbeit zu fördern.</p>
+<p/><h3>Ohne Stellenabbau</h3>
+<p/><p>Umziehen sollen hauptsächlich Mitarbeitende aus Stabs- und Backoffice-Funktionen. "Wir verlagern diese Positionen also nicht nach Indien und Polen", betonte er. Ein Stellenabbau sei im Rahmen des Umzugs in die Innerschweiz nicht geplant.</p>
+<p/><p>"Nein, wir stellen uns vielmehr für die Zukunft auf", so der Sprecher. In Baar bestehe zudem die Möglichkeit, weiter zu wachsen. So wird der neue Campus über eine Bürofläche von rund 15'000 Quadratmetern verfügen. Vontobel hat dafür einen langfristigen Mietvertrag abgeschlossen.</p>
+<p/><p>Der Zusammenzug sei auch deshalb sinnvoll, weil laut dem Sprecher bei mehreren der bisherigen Zürcher Standorte in den kommenden Jahren die Mietverträge ausliefen. In Zürich und Umgebung habe Vontobel keine vergleichbare Lösung gefunden.</p>
+<p/><h3>Bleicherweg bleibt</h3>
+<p/><p>Ganz aus Zürich verschwinden wird Vontobel allerdings nicht. Der Standort am Bleicherweg bleibt bestehen, der entsprechende Mietvertrag läuft weiter. Das Gebäude soll künftig als Kundenstandort für mehr als 300 Mitarbeitende dienen.</p>
+<p/><p>Geplant sind unter anderem neue Empfangs- und Besprechungsbereiche sowie ein Private-Dining-Restaurant. Auch die Vontobel-Kunstsammlung soll dort künftig Platz finden. Zu den Investitionskosten für den neuen Campus in Baar und den Umbau am Bleicherweg macht Vontobel keine Angaben.</p>
+<p/><p>Unverändert bleiben die Kundenbetreuung und die Büros von Vontobel in Basel, Bern, Chur, Genf, Lausanne, Locarno, Luzern, Lugano, St. Gallen und Winterthur sowie die Standorte im Ausland.</p>
+<p/><p>ra/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
