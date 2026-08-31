@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T075914+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>393</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:393:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T075914+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T075914+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>EFG International eröffnet Niederlassung in Bern</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016028"/><Subject FormalName="04016033"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8001" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2126815525">
+<Property FormalName="FullName" Value="EFG International AG" />
+
+<Property FormalName="ShortName" Value="EFG International" />
+
+<Property FormalName="Telekurs" Value="303585" />
+
+<Property FormalName="CHNr" Value="CH-020.3.028.719-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0022268228" />
+
+<Property FormalName="Ticker" Value="EFGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="MGT"/><Property FormalName="Subject" Value="PLO"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Privatbank EFG International eröffnet per 1. September 2026 eine neue Niederlasung in Bern. Sie will damit die Kundenabdeckung in der Schweiz ausbauen und ihre Stellung im Heimmarkt stärken.</p>
+<p/><p>Geleitet wird die Niederlassung laut Mitteilung vom Montag von Sandro Steiner und Dominik Bühler, die in diesem Zusammenhang zu Client Relationship Officers (CROs) ernannt wurden und an Manuel Blanco, Leiter Private Banking Gstaad &amp; Grossraum Bern, berichten. Die Niederlassung gehört zur Region Schweiz &amp; Italien, die wiederum unter der Leitung von Franco Polloni steht.</p>
+<p/><p>awp-robot/uh/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
