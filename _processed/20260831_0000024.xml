@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T215511+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>24</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>3146</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:3146:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T215511+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T215511+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Peach Property lanciert Rückkaufangebot für Hybridanleihe</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016019"/><Subject FormalName="04008027"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8038" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2103849416">
+<Property FormalName="FullName" Value="Peach Property Group AG" />
+
+<Property FormalName="ShortName" Value="Peach Property" />
+
+<Property FormalName="Telekurs" Value="528360" />
+
+<Property FormalName="CHNr" Value="CH-020.3.021.910-1" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0118530366" />
+
+<Property FormalName="Ticker" Value="PEAN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Peach Property Group hat ein freiwilliges Rückkaufangebot für ihre 2018 begebene unbefristete Hybridanleihe PEA231 lanciert. Das Angebot richte sich an die Halter der derzeit noch ausstehenden Anleihen im Nominalwert von insgesamt 45,97 Millionen Franken, teilte das Immobilienunternehmen am Montagabend mit.</p>
+<p/><p>Die Bondhalter können demnach ihre Titel der Emittentin gegen eine Barzahlung andienen. Der Kaufpreis wird im Rahmen eines sogenannten Pay-as-bid-Verfahrens ermittelt. Peach Property bietet dabei einen Preis zwischen 102 und 107 Prozent des Nominalwerts. Die Angebotsfrist startet laut den Plänen am 3. September und läuft bis am 17. September.</p>
+<p/><p>Das maximale Volumen des Rückkaufangebots beträgt laut der Mitteilung 10 Millionen Franken. Darin seien sämtliche ausstehenden Zinsbeträge enthalten, also sowohl aufgelaufene als auch bisher aufgeschobene Zinsen. Der Coupon des Papiers wir mit jährlich 9,25 Prozent angegeben.</p>
+<p/><p>mk/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
