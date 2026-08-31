@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T140035+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>1782</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:1782:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T140034+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T140034+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Ausblick Partners Group: Im Halbjahr weniger Performance Fees erwartet</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Forecast"/>
+			<SubjectCode><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6341" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2124422893">
+<Property FormalName="FullName" Value="Partners Group Holding AG" />
+
+<Property FormalName="ShortName" Value="Partners Group" />
+
+<Property FormalName="Telekurs" Value="321079" />
+
+<Property FormalName="CHNr" Value="CH-170.3.021.159-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024608827" />
+
+<Property FormalName="Ticker" Value="PGHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041287" />
+
+<Property FormalName="Ticker" Value="PAR191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714346" />
+
+<Property FormalName="Ticker" Value="PAR23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714353" />
+
+<Property FormalName="Ticker" Value="PAR231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742930" />
+
+<Property FormalName="Ticker" Value="PAR24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742948" />
+
+<Property FormalName="Ticker" Value="PAR241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="OUT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Baar (awp) - Partners Group dürfte im ersten Halbjahr etwas weniger eingenommen und weniger Gewinn eingefahren haben. Nach den Rücknahmeforderungen für mehrere Fonds und den bereits Mitte Juli kommunizierten verwalteten Vermögen erwarten Analysten aber keine grösseren Überraschungen mehr. Im Fokus stehen Aussagen zum Ausblick.</p>
+<p/><p>Der auf Privatmarktanlagen spezialisierte Vermögensverwalter publiziert am Dienstag, 1. September, die Ergebnisse zum ersten Semester 2026. Insgesamt haben vier Analysten zum AWP-Konsens beigetragen.</p>
+<p/><pre>H1 2026
+(in Mio Fr.)       AWP-Konsens  H1 2025  
+
+Erträge               1'127     1'168
+Management Fees         918       854
+Performance Fees        207       314
+EBITDA                  711       733
+Reingewinn              537       578
+
+</pre><p/><h3>Was steht im Fokus?</h3>
+<p/><p>Das Halbjahr war geprägt von den Rücknahmeforderungen bei den Evergreen-Fonds. Diesbezüglich erwarten Investoren ein weiteres Update. Das Semesterergebnis dürfte derweil geprägt sein von tieferen Performance-Fees als im Vorjahreszeitraum. Diese hatten sich im Vorjahreszeitraum allerdings auch mehr oder weniger verdoppelt. Wegen der zeitlich bedingten geringeren Veräusserungsaktivitäten bei Direktinvestitionen und der schwächeren Portfolioperformance bei den reiferen Evergreen-Strategien hatte das Management im Juli bereits für das erste Semester einen Anteil der Performanceerträge unter 20 Prozent der Gesamteinnahmen in Aussicht gestellt. Im Vorjahr waren es 27 Prozent. Im Gesamtjahr 2026 sollen sie am unteren Ende der Zielbreite von 25 bis 40 Prozent zu liegen kommen.</p>
+<p/><p>Das deute auf signifikant höhere Performance Fees im zweiten Halbjahr hin, schreibt Vontobel. Der Markt werde sich auf zukunftsgerichtete Aussagen fokussieren.</p>
+<p/><h3>Worum geht es bei den Turbulenzen?</h3>
+<p/><p>Anfang Juni waren beim Zuger Asset Manager erhöhte Rücknahmeforderungen für mehrere seiner Evergreen-Fonds bekannt geworden. Partners Group verwies in der Mitteilung auf die branchenweit erhöhte Volatilität bei den Mittelzuflüssen in offene Evergreens: Der Trend habe mit Private-Credit-Vehikeln begonnen und sei nun auch auf Private Equity übergeschwappt, hiess es damals.</p>
+<p/><p>Zusätzlich unter Druck geraten war die Zuger Gesellschaft im Mai nach Vorwürfen des Shortstellers Grizzly. Die US-Gesellschaft, die oft als "Leerverkäuferin" auf sinkende Aktienkurse setzt, hatte Partners Group unter anderem vorgeworfen, den Wert ihrer Evergreen-Fonds zu hoch auszuweisen. Die Schweizer Finanzgesellschaft kündigte rechtliche Schritte gegen Grizzly an.</p>
+<p/><h3>Welche Ziele hat das Management ausgegeben?</h3>
+<p/><p>Partners Group erwartet für das laufende Jahr Kapitalzusagen im Umfang von 26 bis 32 Milliarden US-Dollar, wie das Unternehmen Mitte Juli anlässlich der Publikation der verwalteten Vermögen bestätigte. Bis 2033 sollen die verwalteten Vermögen auf 450 Milliarden Dollar ansteigen. Ende Juni 2026 waren es 186 Milliarden.</p>
+<p/><h3>Was macht die Aktie?</h3>
+<p/><p>Die Titel von Partners Group sind im laufenden Jahr massiv zurückgekommen. Zunächst fielen sie im März auf ein Mehrjahrestief bei unter 800 Franken - im Zuge der Ängste über negative Auswirkungen der KI-Welle auf die Private-Equity-Branche. Nach einer leichten Erholung ging es dann im Juni mit den Turbulenzen rund um die Evergreens wieder stark bergab. Ein neues Mehrjahrestief erreichten Partners Group am 26. Juni bei 632,40 Franken.</p>
+<p/><p>Seither haben sich die Titel - relativ gesehen - kaum erholt und notieren aktuell bei 743,20 Franken (Stand: Donnerstag 15.20 Uhr). Das ist nur noch gut die Hälfte im Vergleich zum zuletzt markierten Hoch Mitte Februar 2025 bei 1426,50 Franken. Das Allzeithoch bei 1667 Franken vom November 2021 ist in weite Ferne gerückt.</p>
+<p/><p>Website: www.partnersgroup.com</p>
+<p/><p>an/hs/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
