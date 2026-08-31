@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T155513+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>2399</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:2399:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T155513+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T155513+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swatch erhält im Rechtsstreit mit Samsung 11,6 Millionen Dollar</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="02000000"/><Subject FormalName="04016048"/><Subject FormalName="04007010"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="2000" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196689">
+<Property FormalName="FullName" Value="The Swatch Group SA" />
+
+<Property FormalName="ShortName" Value="Swatch" />
+
+<Property FormalName="Telekurs" Value="5165" />
+
+<Property FormalName="CHNr" Value="CH-645.1.000.444-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255151" />
+
+<Property FormalName="Ticker" Value="UHR" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012255144" />
+
+<Property FormalName="Ticker" Value="UHRN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="LUX"/><Property FormalName="Subject" Value="LAW"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Biel/London (awp) - Die Swatch Group hat vor einem Londoner Gericht einen seit Jahren laufenden Rechtsstreit gegen den südkoreanischen Technologieriesen Samsung gewonnen. Der Uhrenkonzern hatte gegen mögliche Markenrechtsverletzungen durch die Nutzung von digitalen Ziffernblättern auf Samsung-Smartwatches geklagt und erhält nun Schadensersatz.</p>
+<p/><p>Samsung muss jedoch deutlich weniger Geld als von Swatch gefordert bezahlen: Wie aus den Unterlagen zum Urteil hervorgeht, beläuft sich die Zahlung auf 11,6 Millionen US-Dollar. Swatch hatte eine Summe von 170 Millionen wegen Verletzungen von Markenrechten auf 26 digitalen Ziffernblättern gefordert. Die britische Justiz machte Verletzungen in zehn Fällen geltend.</p>
+<p/><p>Das Urteil zur Schadensersatzzahlung veröffentlichte der High Court of Justice of England and Wales am 26. August. Bereits im Jahr 2022 hatte das Gericht festgestellt, dass Samsung Markenrechte der Swatch Group verletzt habe, und Ende 2023 wies ein Londoner Berufungsgericht die Berufung von Samsung ab.</p>
+<p/><p>Kern des Anstosses waren digitale Zifferblätter, die Samsung für seine Smartwatches von Oktober 2015 bis Februar 2019 im Galaxy App Store zum Herunterladen angeboten hatte. Swatch monierte daraufhin, dass die "Watch Face"-Apps den Ziffernblättern von Swatch-Marken wie Breguet, Blancpain, Omega, Longines oder Tissot ähnlich sind.</p>
+<p/><p>"Samsung hat wiederholt versucht, das Ausmass und die Schwere der Fälschungen herunterzuspielen", hält die Swatch Group in einer Stellungnahme auf Anfrage der Nachrichtenagentur AWP fest. Samsung habe versucht, den Umfang des Schadenersatzes, der den Marken der Gruppe zustehe, auf null zu reduzieren.</p>
+<p/><p>Wie es im Urteil weiter hiess, wurden die Zifferblatt-Apps in Grossbritannien und der EU rund 160'000 Mal heruntergeladen. Einige davon kostenlos, andere waren kostenpflichtig. Samsung soll damit Einnahmen von rund 1000 Dollar eingenommen haben. In den USA läuft derweil zum selben Thema ein separates Gerichtsverfahren gegen Samsung.</p>
+<p/><p>cw/ck/mk/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
