@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260831T101315+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260831</DateId>
+			<NewsItemId>919</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260831:919:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260831T101315+0200</FirstCreated>
+		<ThisRevisionCreated>20260831T101315+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Cham SP vermietet Büroneubau in Baar vor Baustart vollständig</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016013"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6330" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2025756012">
+<Property FormalName="FullName" Value="Cham Swiss Properties AG" />
+
+<Property FormalName="ShortName" Value="Cham SP" />
+
+<Property FormalName="Telekurs" Value="845661" />
+
+<Property FormalName="CHNr" Value="CH-020.3.048.325-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0524026959" />
+
+<Property FormalName="Ticker" Value="CHAM" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1487331980" />
+
+<Property FormalName="Ticker" Value="CSP25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1540977266" />
+
+<Property FormalName="Ticker" Value="CSP261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ORD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Cham (awp) - Cham Swiss Properties hat den geplanten Büroneubau "Lindenpark" in Baar bereits vor Baustart vollständig vermietet. Für die rund 15'000 Quadratmeter Bürofläche wurde ein langfristiger Mietvertrag mit einem Schweizer Finanzinstitut abgeschlossen.</p>
+<p/><p>Die Baubewilligung für den sechsgeschossigen Holz-Hybridbau liegt vor, wie die Immobiliengesellschaft am Montag mitteilte. Die Bauarbeiten sollen noch im laufenden Jahr beginnen. Die Übergabe an den Mieter ist gegen Ende 2029 vorgesehen. Das Gebäude soll nach dem Standard Nachhaltiges Bauen Schweiz (SNBS) mit Gold zertifiziert werden.</p>
+<p/><p>Bei dem nicht namentlich genannten Mieter dürfte es sich um Vontobel handeln. Der Vermögensverwalter teilte am Montag mit, für einen neuen Campus im Lindenpark in Baar einen langfristigen Mietvertrag abgeschlossen zu haben. Gleichzeitig will Vontobel den Sitz der Holding von Zürich nach Baar verlegen.</p>
+<p/><p>Der "Lindenpark" entsteht im Gebiet Unterfeld an der Grenze zwischen Baar und Zug. In einer zweiten Etappe plant Cham SP dort zudem ein Wohnhochhaus.</p>
+<p/><p>Das Immobilienportfolio von Cham Swiss Properties hat derzeit einen Wert von rund 1,8 Milliarden Franken. Nach Fertigstellung der laufenden Projekte soll es auf rund 3 Milliarden anwachsen und jährlich Mieteinnahmen von mehr als 100 Millionen Franken generieren.</p>
+<p/><p>yz/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
