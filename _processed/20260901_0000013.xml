@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260901T094315+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260901</DateId>
+			<NewsItemId>1694</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260901:1694:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260901T094315+0200</FirstCreated>
+		<ThisRevisionCreated>20260901T094315+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Dormakaba-Aktien heben nach Zahlen und Strukturvereinfachung ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04016039"/><Subject FormalName="04016019"/><Subject FormalName="04004000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8153" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193326">
+<Property FormalName="FullName" Value="Dormakaba Holding AG" />
+
+<Property FormalName="ShortName" Value="Dormakaba" />
+
+<Property FormalName="Telekurs" Value="376745" />
+
+<Property FormalName="CHNr" Value="CH-020.3.902.576-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011795959" />
+
+<Property FormalName="Ticker" Value="DOKA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367497" />
+
+<Property FormalName="Ticker" Value="DOR22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1446452356" />
+
+<Property FormalName="Ticker" Value="DOR25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1486524122" />
+
+<Property FormalName="Ticker" Value="DOKA" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Titel von Dormakaba sind am Dienstag im frühen Handel stark gesucht. Der Schliesstechnikkonzern lag mit seinen Jahreszahlen in etwa im Rahmen der Erwartungen. Allerdings wurden eine Reihe von Änderungen angekündigt, die die finanzielle Flexibilität und das Kapitalmarktprofil der Gruppe stärken sollen.</p>
+<p/><p>Die Titel von Dormakaba notieren um 9.25 Uhr in einem etwas festeren Gesamtmarkt um 4,7 Prozent höher auf 60,50 Franken (Tageshoch 61,50). Sie hatten zuletzt allerdings einen schwachen Lauf und haben seit Anfang Jahr rund 10 Prozent verloren (Stand Vorabend). Bereits im Vorjahr hatten sich die Papiere unterdurchschnittlich entwickelt.</p>
+<p/><p>Die Vereinfachung der Eigentümerstruktur wird von den Analysten gelobt. Diese sei "lang ersehnt" gewesen und dürfte die Attraktivität des Unternehmens am Kapitalmarkt sowie die strategische Flexibilität verbessern. Damit sind laut Vontobel künftig steuerfreie Dividenden für Schweizer Privatanleger möglich.</p>
+<p/><p>Zudem habe sich das Geschäft im zweiten Halbjahr 2025/26 (per Ende Juni) in beiden Geschäftsbereichen beschleunigt. Alle Kernmärkte ausser Grossbritannien und Irland hätten dabei bei Access Solutions ein organisches Umsatzwachstum geliefert, hebt die ZKB hervor.</p>
+<p/><p>Darüber hinaus lagen die Einsparungen durch das Effizienzprogramm "Shape4Growth" deutlich über dem Zielwert. Auch im laufenden Jahr sind weitere Einsparungen geplant.</p>
+<p/><p>Allerdings wirkt der Ausblick auf das neue Geschäftsjahr 2026/27 eher vorsichtig, wie es bei der UBS heisst. "Bei einer Annahme von Preiserhöhungen von 2,5 bis 3 Prozent scheint der Volumenbeitrag auf den ersten Blick begrenzt zu sein", schreiben die zuständigen Analysten. Neue Mittelfristziele werden nun am Kapitalmarkttag im November erwartet.</p>
+<p/><p>ls/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
