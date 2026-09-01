@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260901T072614+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260901</DateId>
+			<NewsItemId>810</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260901:810:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260901T072613+0200</FirstCreated>
+		<ThisRevisionCreated>20260901T072613+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Novartis: MS-Mittel Remibrutinib übertrifft Vergleichstherapie</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016037"/><Subject FormalName="04016027"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4056" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193880">
+<Property FormalName="FullName" Value="Novartis AG" />
+
+<Property FormalName="ShortName" Value="Novartis" />
+
+<Property FormalName="Telekurs" Value="500449" />
+
+<Property FormalName="CHNr" Value="CH-270.3.002.061-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012005267" />
+
+<Property FormalName="Ticker" Value="NOVN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0270190991" />
+
+<Property FormalName="Ticker" Value="NOV151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0270191007" />
+
+<Property FormalName="Ticker" Value="NOV152" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1134729794" />
+
+<Property FormalName="Ticker" Value="EUF076" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1492825481" />
+
+<Property FormalName="Ticker" Value="EUF080" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1585010074" />
+
+<Property FormalName="Ticker" Value="EUF081" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1769041192" />
+
+<Property FormalName="Ticker" Value="EUF85" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS1769041606" />
+
+<Property FormalName="Ticker" Value="EUF84" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS2235996217" />
+
+<Property FormalName="Ticker" Value="EUF87" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257806" />
+
+<Property FormalName="Ticker" Value="NOV241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257814" />
+
+<Property FormalName="Ticker" Value="NOV242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257822" />
+
+<Property FormalName="Ticker" Value="NOV243" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257830" />
+
+<Property FormalName="Ticker" Value="NOV244" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1353257848" />
+
+<Property FormalName="Ticker" Value="NOV245" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS3366248279" />
+
+<Property FormalName="Ticker" Value="EUF006" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS3366248519" />
+
+<Property FormalName="Ticker" Value="EUF009" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="XS3366248600" />
+
+<Property FormalName="Ticker" Value="EUF008" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/><Property FormalName="Subject" Value="REG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Novartis hat positive Ergebnisse aus zwei Phase-III-Studien mit dem Wirkstoff Remibrutinib bei schubförmiger Multipler Sklerose gemeldet. In den sogenannten Remodel-1- und Remodel-2-Studien reduzierte Remibrutinib die jährliche Schubrate gegenüber dem Vergleichsmittel Teriflunomid deutlich, wie der Pharmariese am Dienstag mitteilte.</p>
+<p/><p>An den Studien nahmen rund 2000 Patienten weltweit teil. Remibrutinib ist ein oral einzunehmendes Medikament, das gezielt ein Enzym hemmt, das an der Aktivierung von Immunzellen beteiligt ist.</p>
+<p/><p>Auch bei sekundären Endpunkten wie der Verringerung von Hirnläsionen im MRI zeigte Remibrutinib Überlegenheit gegenüber der Vergleichstherapie. Zudem verlangsamte das Mittel in einer kombinierten Auswertung beider Studien die Krankheitsverschlechterung.</p>
+<p/><p>Das Sicherheitsprofil war laut Novartis günstig, insbesondere ohne Hinweise auf Leberschäden. Novartis will die Daten an der Fachkonferenz MStoronto2026 vorstellen und plant anschliessend die Zulassungs-Einreichung bei Gesundheitsbehörden weltweit.</p>
+<p/><p>Remibrutinib ist bereits in den USA und in Europa unter dem Namen Rhapsido für eine andere Erkrankung zugelassen, nämlich zur Behandlung von chronischer spontaner Urtikaria, einer Hautkrankheit mit wiederkehrendem Juckreiz und Quaddeln.</p>
+<p/><p>awp-robot/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
