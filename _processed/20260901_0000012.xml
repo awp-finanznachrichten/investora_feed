@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260901T093616+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260901</DateId>
+			<NewsItemId>1671</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260901:1671:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260901T093616+0200</FirstCreated>
+		<ThisRevisionCreated>20260901T093616+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Partners Group deutlich tiefer - Guidance gesenkt und CEO-Rücktritt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04009000"/><Subject FormalName="04016028"/><Subject FormalName="04006000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6341" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2124422893">
+<Property FormalName="FullName" Value="Partners Group Holding AG" />
+
+<Property FormalName="ShortName" Value="Partners Group" />
+
+<Property FormalName="Telekurs" Value="321079" />
+
+<Property FormalName="CHNr" Value="CH-170.3.021.159-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024608827" />
+
+<Property FormalName="Ticker" Value="PGHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041287" />
+
+<Property FormalName="Ticker" Value="PAR191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714346" />
+
+<Property FormalName="Ticker" Value="PAR23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1293714353" />
+
+<Property FormalName="Ticker" Value="PAR231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742930" />
+
+<Property FormalName="Ticker" Value="PAR24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1346742948" />
+
+<Property FormalName="Ticker" Value="PAR241" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="FIN"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="STK"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aktien von Partners Group sind am Dienstag deutlich tiefer in den Handel gestartet. Das Unternehmen hat im ersten Halbjahr 2026 weniger Geschäftsertrag und Gewinn gemacht. Und neu wird auch im Gesamtjahr 2026 die Zielrange bei den Performance Fees nicht erreicht.</p>
+<p/><p>Partners Group verlieren gegen 9.20 Uhr 8,2 Prozent auf 673 Franken, dies in einem höher gestellten SMI (+0,43%). Die Titel des Zuger Vermögensverwalters sind im laufenden Jahr massiv zurückgekommen und waren Ende Juni mit den Turbulenzen rund um die Evergreens-Rücknahmeforderungen bis auf 632,40 Franken gefallen. Seither erholten sie sich allerdings wieder recht klar auf 732,80 Franken am Vorabend.</p>
+<p/><p>Das einst erfolgsverwöhnte Unternehmen, das regelmässig die Markterwartungen schlug, war zuletzt vermehrt in Turbulenzen geraten: etwa durch die erhöhten Rücknahmeforderungen oder Angriffe des Shortstellers Grizzly. Am Markt war für heute auf positive Überraschungen spekuliert worden, wie es im Handel heisst. Diese seien allerdings ausgeblieben.</p>
+<p/><p>Insgesamt erzielte das Unternehmen im ersten Semester 2026 solide Zahlen: Das operative Ergebnis EBITDA fiel mehr oder weniger im Rahmen der Erwartungen aus. Die entsprechende Marge lag mit 63 Prozent wie üblich über 60 Prozent, nachdem einige Marktbeobachter im Vorfeld eine Marge unterhalb dieser Zielvorgabe des Unternehmens befürchtet hatten.</p>
+<p/><p>Allerdings rechnet Partners Group neu mit einem Anteil der Performance-Erträge am Gesamteinkommen von etwa 20 bis 25 Prozent. Zuletzt hatte es geheissen, er solle 2026 insgesamt am unteren Ende der mittelfristigen Zielbandbreite von 25 bis 40 Prozent zu liegen kommen. Vontobel verweist in einem ersten Kommentar darauf, dass dies vom Timing bestimmter Exits abhänge.</p>
+<p/><p>Partners Group spreche nach wie vor mit Zuversicht von einer "vollen Exit-Pipeline" für das zweite Halbjahr, weise aber darauf hin, dass einzelne Exits ins Jahr 2027 verschoben werden könnten, heisst es dazu auch von der ZKB.</p>
+<p/><p>Der angekündigte Wechsel an der Unternehmensspitze schlägt derweil am Markt unter den Analysten keine grossen Wellen. CEO David Layton legt sein Amt nieder und konzentriert sich wieder nur auf Investments. Dafür übernehmen zwei Partners-Group-Eigengewächse - Roberto Cagnati und Juri Jenker - per 1. Januar 2027 die Co-Leitung.</p>
+<p/><p>ys/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
