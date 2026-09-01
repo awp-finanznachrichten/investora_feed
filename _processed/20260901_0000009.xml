@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260901T073815+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260901</DateId>
+			<NewsItemId>854</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260901:854:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260901T073814+0200</FirstCreated>
+		<ThisRevisionCreated>20260901T073814+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Swiss Life schraubt Gewinn hoch und lanciert Rückkaufprogramm</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>B</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8002" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197979">
+<Property FormalName="FullName" Value="Swiss Life Holding AG" />
+
+<Property FormalName="ShortName" Value="Swiss Life" />
+
+<Property FormalName="Telekurs" Value="165159" />
+
+<Property FormalName="CHNr" Value="CH-020.3.026.160-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0014852781" />
+
+<Property FormalName="Ticker" Value="SLHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0316994653" />
+
+<Property FormalName="Ticker" Value="SLH161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0406990801" />
+
+<Property FormalName="Ticker" Value="SWL181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1101561491" />
+
+<Property FormalName="Ticker" Value="SLH211" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0461238914" />
+
+<Property FormalName="Ticker" Value="SLH191" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301278" />
+
+<Property FormalName="Ticker" Value="SLH230" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1242301286" />
+
+<Property FormalName="Ticker" Value="SLH231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341034994" />
+
+<Property FormalName="Ticker" Value="SLH24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035009" />
+
+<Property FormalName="Ticker" Value="SLH241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1341035017" />
+
+<Property FormalName="Ticker" Value="SLH242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064601" />
+
+<Property FormalName="Ticker" Value="SLH25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064619" />
+
+<Property FormalName="Ticker" Value="SLH252" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1400064627" />
+
+<Property FormalName="Ticker" Value="SLH253" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1487331949" />
+
+<Property FormalName="Ticker" Value="SLH26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238389" />
+
+<Property FormalName="Ticker" Value="SLH261" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="INS"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Swiss Life hat in der ersten Jahreshälfte 2026 unter dem Strich mehr verdient. Basis dafür war ein Wachstum im klassischen Versicherungs- und im Gebührengeschäft.</p>
+<p/><p>Der Reingewinn der Swiss Life stieg in den Monaten Januar bis Juni um 8 Prozent auf 649 Millionen Franken, wie die Gruppe am Dienstag bekannt gab. Grundlage dafür war ein höherer Betriebsgewinn.</p>
+<p/><p>Dieser verbesserte sich um 7 Prozent auf 967 Millionen. Dabei steuerte das Geschäft mit Finanzberatungen, Vorsorgeprodukten und der Vermögensverwaltung, wo der Konzern Gebühren beziehungsweise Fees einnimmt, 430 Millionen bei (+10%).</p>
+<p/><h3>Gebührengeschäft wächst</h3>
+<p/><p>Die Fee-Einnahmen nahmen um 5 Prozent auf 1,34 Milliarden Franken zu. Das Wachstum von 7 Prozent in lokaler Währung sei dabei breit abgestützt gewesen und basiere auf eigenen und fremden Produkten und Dienstleistungen, den Produkten von Swiss Life Asset Managers sowie den eigenen Beraterkanälen, so das Communiqué.</p>
+<p/><p>Gewachsen sind aber auch die im Versicherungsgeschäft eingenommenen Bruttoprämien, und zwar um 2 Prozent auf 12,3 Milliarden Franken. Wachstum gab es hier vor allem in der Schweiz (+7%), während das Geschäft in zweitwichtigsten Markt Frankreich stagnierte.</p>
+<p/><h3>Über den Prognosen</h3>
+<p/><p>Mit den Kennzahlen hat Swiss Life die Vorgaben der Analysten bei den Gewinnzahlen deutlich übertroffen, bei den Prämieneinnahmen hingegen nicht ganz erfüllt.</p>
+<p/><p>"Wir erzielten in den ersten sechs Monaten des Jahres erfreuliches Wachstum im Fee- und im Versicherungsgeschäft", lässt sich CEO Matthias Aellig gleichwohl zitieren. Der Konzern sei damit "gut auf Kurs", die Ziele des Programms "Swiss Life 2027" zu erreichen.</p>
+<p/><h3>Rückkaufprogramm über 250 Millionen</h3>
+<p/><p>Dazu zählt unter anderem eine SST-Quote von 140 bis 190 Prozent. Aktuell liegt sie mit 215 Prozent deutlich darüber.</p>
+<p/><p>Deshalb lanciert das Unternehmen ein neues Aktienrückkaufprogramm, nachdem das bisherige per Ende Mai abgeschlossen wurde. Das neue Programm hat ein Volumen von 250 Millionen Franken und dauert vom 1. Oktober 2026 bis Ende März 2027.</p>
+<p/><p>Analysten waren sich im Vorfeld nicht einig gewesen, ob die Versicherungsgruppe schon jetzt ein neues Programm auflegen würde. Ausserdem waren sie zum Teil von einem deutlich tieferen Volumen ausgegangen.</p>
+<p/><p>rw/dm</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
