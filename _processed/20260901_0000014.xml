@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260901T100000+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260901</DateId>
+			<NewsItemId>1742</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260901:1742:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260901T100000+0200</FirstCreated>
+		<ThisRevisionCreated>20260901T100000+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Mobilfunkfrequenzen kosten Telekomkonzerne mindestens 855 Millionen Franken</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="04016030"/><Subject FormalName="04003007"/><Subject FormalName="11000000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3063" />
+
+<Property FormalName="City" Value="1020" />
+
+<Property FormalName="City" Value="8152" />
+
+<Property FormalName="City" Value="3003" />
+
+<Property FormalName="City" Value="2501" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193763">
+<Property FormalName="FullName" Value="Swisscom AG" />
+
+<Property FormalName="ShortName" Value="Swisscom" />
+
+<Property FormalName="Telekurs" Value="11346" />
+
+<Property FormalName="CHNr" Value="CH-035.8.018.212-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008742519" />
+
+<Property FormalName="Ticker" Value="SCMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0254147504" />
+
+<Property FormalName="Ticker" Value="SCM141" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0268988182" />
+
+<Property FormalName="Ticker" Value="SCM151" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0317921663" />
+
+<Property FormalName="Ticker" Value="SCM16" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0336352775" />
+
+<Property FormalName="Ticker" Value="SCM161" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0344583783" />
+
+<Property FormalName="Ticker" Value="SCM162" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0362748359" />
+
+<Property FormalName="Ticker" Value="SCM17" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0373476164" />
+
+<Property FormalName="Ticker" Value="SCM33" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419040982" />
+
+<Property FormalName="Ticker" Value="SCM19" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0437180935" />
+
+<Property FormalName="Ticker" Value="SCM181" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0494734335" />
+
+<Property FormalName="Ticker" Value="SCM192" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0515152467" />
+
+<Property FormalName="Ticker" Value="SCM20" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0580291968" />
+
+<Property FormalName="Ticker" Value="SCM201" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1112455766" />
+
+<Property FormalName="Ticker" Value="SCM21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1248666930" />
+
+<Property FormalName="Ticker" Value="SCM23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1254751907" />
+
+<Property FormalName="Ticker" Value="SCM231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727785" />
+
+<Property FormalName="Ticker" Value="SCM24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727793" />
+
+<Property FormalName="Ticker" Value="SCM240" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1350727801" />
+
+<Property FormalName="Ticker" Value="SCM241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1361401875" />
+
+<Property FormalName="Ticker" Value="SCM242" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403761" />
+
+<Property FormalName="Ticker" Value="SCM25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1471403779" />
+
+<Property FormalName="Ticker" Value="SCM251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238504" />
+
+<Property FormalName="Ticker" Value="SCM26" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2121014608">
+<Property FormalName="FullName" Value="Salt Mobile AG" />
+
+<Property FormalName="ShortName" Value="Salt" />
+
+<Property FormalName="Telekurs" Value="19647" />
+
+<Property FormalName="CHNr" Value="CH-550.0.057.019-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0149428812" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2055222019">
+<Property FormalName="FullName" Value="Sunrise Communications AG" />
+
+<Property FormalName="ShortName" Value="Sunrise" />
+
+<Property FormalName="Telekurs" Value="677481" />
+
+<Property FormalName="CHNr" Value="CH-020-3054260-9" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1386220409" />
+
+<Property FormalName="Ticker" Value="SUNN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679751045" />
+
+<Property FormalName="Ticker" Value="SNRE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="US8679752035" />
+
+<Property FormalName="Ticker" Value="SNRBY" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2060615694">
+<Property FormalName="FullName" Value="Eidgenössische Kommunikationskommission ComCom" />
+
+<Property FormalName="ShortName" Value="ComCom" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="000000" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2060615801">
+<Property FormalName="FullName" Value="BAKOM Bundesamt für Kommunikation" />
+
+<Property FormalName="ShortName" Value="BAKOM" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="000000" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="TEL"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="POL"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Bern (awp) - Die Grundlage für das Surfen und Telefonieren unterwegs geht ins Geld: Die Erneuerung der auslaufenden Mobilfunkfrequenzen kostet die Telekomkonzerne Swisscom, Sunrise und Salt mindestens 854 Millionen Franken.</p>
+<p/><p>Dies hat die Eidgenössische Kommunikationskommission Comcom in ihren Bedingungen zur Versteigerung der Frequenzen festgelegt, wie sie am Dienstag vor den Medien in Bern bekannt gab. Die Auktion solle voraussichtlich im zweiten Quartal 2027 stattfinden. Die Telekomkonzerne können ihr Bewerbungsdossier bis zum 3. Dezember einreichen.</p>
+<p/><p>Das Bieterrennen um die Frequenzen beginnt bei 854,7 Millionen Franken. Dies ist der Minimalpreis, wenn es für alle Frequenzen eine Nachfrage gibt. Das war in der Vergangenheit nicht immer der Fall. Es gab auch schon Versteigerungen, an denen Frequenzen liegen blieben und an den Bund zurückgingen.</p>
+<p/><p>Unter den Hammer kommen die Frequenzen, die 2012 vergeben wurden und heute von Salt, Sunrise und der Swisscom benutzt werden. Diese Frequenzen laufen 2028 aus und werden neu vergeben. Die Dauer der Konzession betrage 15 Jahre, von Anfang 2029 bis Ende 2043.</p>
+<p/><h3>Mindestpreis erhöht</h3>
+<p/><p>Die Kritik der Telekomkonzerne an der Erhöhung des Mindestpreises auf 854 Millionen Franken wies der Telekomregulator zurück: Die Comcom könne bei Bedarf höhere Mindestpreise festlegen, wenn sie dies im Hinblick auf die Vergabe der Frequenzen als angemessen erachte.</p>
+<p/><p>Bei den tiefen Frequenzen von 800 und 900 Megahertz (MHz) hat die Comcom den Einstiegspreis wie schon 2012 gegenüber der gesetzlichen Untergrenze verdreifacht. Diese Frequenzen seien attraktiv, weil sie eine grosse Reichweite und eine gute Versorgung in Gebäuden böten. Zudem gebe es davon nur wenige Frequenzblöcke.</p>
+<p/><p>Neu hat die Comcom im mittleren Frequenzband von 1800 und 2100 MHz den Preis verdoppelt. Diese Frequenzen seien für die Mobilfunkanbieter ebenfalls sehr interessant, weil sie ein guter Kompromiss zwischen Reichweite und Geschwindigkeit seien. Bei den hohen Frequenzbändern von 2600 MHz hat die Comcom den Mindestpreis auf der gesetzlichen Untergrenze gelassen.</p>
+<p/><h3>Keine Maximierung der Einnahmen für den Bund</h3>
+<p/><p>"Frequenzen sind ein knappes öffentliches Gut, für dessen Nutzung gemäss den gesetzlichen Vorgaben ein angemessenes Entgelt zu entrichten ist", betonte der Regulator. Man strebe aber nicht eine Maximierung der Einnahmen für den Bund an.</p>
+<p/><p>Die primären Ziele der Vergabe seien einerseits die Erhaltung und Weiterentwicklung der drei qualitativ hochstehenden Mobilfunknetze. Andererseits wolle man den Wettbewerb im Mobilfunkmarkt zugunsten der Konsumenten fördern, erklärte die Comcom.</p>
+<p/><p>Mit welchem Erlös die Comcom rechne, dazu könne man keine Angaben machen, hiess es weiter. Der tatsächliche Erlös ergebe sich aus der Frequenznachfrage und dem Bietverhalten der Teilnehmer. Er lasse sich daher nicht verlässlich vorhersagen.</p>
+<p/><h3>2012 waren es über 1 Milliarde Franken</h3>
+<p/><p>Zum Vergleich: Bei der Auktion 2012 hatte das Mindestgebot bei 637 Millionen Franken gelegen. Am Ende bezahlten die drei Telekomkonzerne insgesamt 996,3 Millionen Franken.</p>
+<p/><p>Nicht sehr glücklich verhielt sich damals Sunrise. Die Nummer zwei im Schweizer Telekommarkt zahlte schliesslich über eine halbe Milliarde Franken, obwohl sie weniger Frequenzen erhielt als die Swisscom.</p>
+<p/><p>Der "blaue Riese" ergatterte sich für 360 Millionen Franken damals 42 Prozent des ganzen Spektrums. Orange bezahlte mit 155 Millionen Franken am wenigsten. Mit den Ratenzahlungen flossen damals über 1 Milliarde Franken in die Bundeskasse.</p>
+<p/><h3>Bietbeschränkungen verhängt</h3>
+<p/><p>Um zu verhindern, dass die Swisscom ihre finanziellen Muskeln spielen lässt, hat die Comcom erneut Bietbeschränkungen eingeführt. Die Auktionsteilnehmer sollen eine Frequenzausstattung erwerben können, die ihrem Bedarf entspricht. Einzelne Bieter sollen nicht übermässig viele Frequenzen erwerben können, damit der derzeit funktionierende Wettbewerb nicht beeinträchtigt werde, hiess es.</p>
+<p/><p>Somit kann ein einzelner Anbieter maximal 43 Prozent aller Frequenzen erwerben, für die Bietbeschränkungen gelten. Am strengsten sind die Bietbeschränkungen bei den tiefen Frequenzen, am lockersten bei den hohen Frequenzen.</p>
+<p/><p>jb/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
