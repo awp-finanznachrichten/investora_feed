@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260901T065724+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260901</DateId>
+			<NewsItemId>622</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260901:622:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260901T065724+0200</FirstCreated>
+		<ThisRevisionCreated>20260901T065724+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Dormakaba steigert operative Marge und gibt eine Reihe an Änderungen bekannt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04004000"/><Subject FormalName="04016015"/><Subject FormalName="04016005"/><Subject FormalName="04016039"/><Subject FormalName="04016019"/><Subject FormalName="04016028"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8153" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193326">
+<Property FormalName="FullName" Value="Dormakaba Holding AG" />
+
+<Property FormalName="ShortName" Value="Dormakaba" />
+
+<Property FormalName="Telekurs" Value="376745" />
+
+<Property FormalName="CHNr" Value="CH-020.3.902.576-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011795959" />
+
+<Property FormalName="Ticker" Value="DOKA" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367497" />
+
+<Property FormalName="Ticker" Value="DOR22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1446452356" />
+
+<Property FormalName="Ticker" Value="DOR25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1486524122" />
+
+<Property FormalName="Ticker" Value="DOKA" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="GEN"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Rümlang (awp) - Dormakaba ist im Geschäftsjahr 2025/26 organisch gewachsen und hat eine Rekordmarge erzielt. Nun will das Unternehmen seinen Hauptsitz in Rümlang verkaufen und seine Eigentümerstruktur vereinfachen.</p>
+<p/><p>Der Nettoumsatz sank im Geschäftsjahr (per Ende Juni) um 2,7 Prozent auf 2,79 Milliarden Franken, wie der Schliesstechnikkonzern am Dienstag mitteilte. Organisch wuchs Dormakaba jedoch um 3,0 Prozent. Die bereinigte EBITDA-Marge verbesserte sich um 60 Basispunkte auf 16,1 Prozent. Dies sei ein Rekordwert in der Geschichte von Dormakaba, heisst es.</p>
+<p/><p>Der Reingewinn lag bei 185,2 Millionen Franken (VJ: 188,0 Mio Fr). Damit hat Dormakaba beim Umsatz und beim organischen Wachstum die Erwartungen der Analysten knapp verfehlt, während die bereinigte EBITDA-Marge am oberen Ende der Bandbreite lag.</p>
+<p/><p>Der Verwaltungsrat schlägt nun eine Dividende von 0,95 Franken je Aktie vor, ein Plus von 3,3 Prozent gegenüber dem Vorjahr.</p>
+<p/><p>Für das Geschäftsjahr 2026/27 erwartet das Unternehmen auf IFRS-Basis ein organisches Nettoumsatzwachstum von mehr als 3 Prozent sowie eine operative Gewinnmarge von über 11 Prozent. Ausserdem soll die operative Cashflow-Marge zwischen 10,5 Prozent und 11,5 Prozent liegen.</p>
+<p/><h3> Vereinfachung der Eigentümerstruktur geplant</h3>
+<p/><p>Zudem will Dormakaba die Eigentümerstruktur vereinfachen und beantragt an der ordentlichen Generalversammlung vom 20. Oktober 2026 die Übernahme des 47,5-Prozent-Anteils der Familie Mankel am operativen Geschäft für 2,13 Milliarden Franken. Im Gegenzug erhalte die Familie Mankel 36'161'560 neue Aktien der Dormakaba Holding sowie eine Barkomponente von 29,9 Millionen Franken.</p>
+<p/><p>Nach Vollzug der Transaktion wird die Familie Mankel rund 52 Prozent der Aktien und Stimmrechte halten. Das Unternehmen will dadurch eine "einfachere und transparentere Eigentümerstruktur für Investoren, Analysten und Stimmrechtsberater" erhalten.</p>
+<p/><p>Ferner wird der Verwaltungsrat von zehn auf acht Mitglieder verkleinert. Ilias Laber und Michael Regelski treten laut den Angaben an der GV vom 20. Oktober nicht zur Wiederwahl an. Alle übrigen Mitglieder des Gremiums stellen sich für eine weitere Amtszeit zur Wahl.</p>
+<p/><h3>Fokus auf finanzielle Flexibilität</h3>
+<p/><p>Darüber hinaus will Dormakaba Kapital freisetzen, um die finanzielle Flexibilität zu stärken. Zu diesem Zweck hat das Unternehmen eine Sale-and-Leaseback-Vereinbarung für seinen Hauptsitz in Rümlang mit Schroders ImmoPLUS, einem von Schroders verwalteten börsenkotierten Schweizer Immobilienfonds, abgeschlossen. Der Verkaufspreis liegt bei über 80 Millionen Franken.</p>
+<p/><p>ls/uh</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
