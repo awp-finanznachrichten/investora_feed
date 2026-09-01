@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260901T114424+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260901</DateId>
+			<NewsItemId>2289</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260901:2289:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260901T114424+0200</FirstCreated>
+		<ThisRevisionCreated>20260901T114424+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Romande Energie baut weiteren Windpark in Frankreich</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1110" />
+
+</Property>
+
+<Property FormalName="Country" Value="FR" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197446">
+<Property FormalName="FullName" Value="Romande Energie Holding SA" />
+
+<Property FormalName="ShortName" Value="Romande Energie" />
+
+<Property FormalName="Telekurs" Value="103278" />
+
+<Property FormalName="CHNr" Value="CH-550.0.069.472-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1263676327" />
+
+<Property FormalName="Ticker" Value="REHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1196217017" />
+
+<Property FormalName="Ticker" Value="ROM22" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Morges (awp) - Der Westschweizer Energieversorger Romande Energie baut einen weiteren Windpark in Frankreich. Die Anlage Les Muids im Département Haute-Marne soll im Sommer 2027 in Betrieb gehen, wie das Unternehmen am Dienstag mitteilte.</p>
+<p/><p>Der Windpark umfasst drei Windräder mit einer Gesamtleistung von 10 Megawatt. Erwartet wird eine jährliche Stromproduktion von knapp 19 Gigawattstunden. Dies entspricht laut Romande Energie dem durchschnittlichen Verbrauch von mehr als 4500 Haushalten.</p>
+<p/><p>Mit Les Muids wird Romande Energie insgesamt sieben Windparks in Frankreich und der Schweiz besitzen. In Frankreich ist der Konzern seit 2013 aktiv und verfügt dort über Anlagen in den Bereichen Wind-, Wasser- und Solarenergie. Bis 2040 will Romande Energie ein Stromproduktionsportfolio von insgesamt 5 Terawattstunden verwalten.</p>
+<p/><p>to/yz</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
