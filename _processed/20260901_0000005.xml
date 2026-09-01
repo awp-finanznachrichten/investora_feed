@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260901T072015+0200</DateAndTime>
+    <NewsService FormalName="Basic D SPI"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260901</DateId>
+			<NewsItemId>784</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260901:784:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260901T072015+0200</FirstCreated>
+		<ThisRevisionCreated>20260901T072015+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Huber+Suhner schliesst Übernahme von Ingun ab</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016005"/><Subject FormalName="04003000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9100" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197401">
+<Property FormalName="FullName" Value="Huber+Suhner AG" />
+
+<Property FormalName="ShortName" Value="Huber+Suhner" />
+
+<Property FormalName="Telekurs" Value="110693" />
+
+<Property FormalName="CHNr" Value="CH-300.3.010.076-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030380734" />
+
+<Property FormalName="Ticker" Value="HUBN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="B"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="MNA"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Herisau (awp) - Huber+Suhner hat die Übernahme von Ingun Prüfmittelbau und Ingun International samt Tochtergesellschaften abgeschlossen. Der Spezialist für elektronische und optische Verbindungstechnik hatte den Kauf bereits am 22. Juli 2026 angekündigt.</p>
+<p/><p>Der Abschluss sei nun erfolgt, teilte das Unternehmen am Dienstag mit. Ingun mit Sitz in Konstanz ist ein Anbieter von Prüf- und elektrischen Kontaktierungslösungen.</p>
+<p/><p>Das Unternehmen stellt unter anderem Federkontaktstifte, Prüfadapter-Bausätze und Zubehör für kundenspezifische Lösungen her. Mit der Übernahme erweitert Huber+Suhner sein Portfolio im Bereich Test und Messung und stärkt laut Mitteilung den Zugang zu bestehenden und angrenzenden Märkten.</p>
+<p/><p>Ingun wird innerhalb des Segments Industrie als eigene Geschäftseinheit geführt.</p>
+<p/><p>awp-robot/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
