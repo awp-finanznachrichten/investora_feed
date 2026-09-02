@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260902T070119+0200</DateAndTime>
+    <NewsService FormalName="Spezialabo Investora"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260902</DateId>
+			<NewsItemId>485</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260902:485:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260902T070119+0200</FirstCreated>
+		<ThisRevisionCreated>20260902T070119+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="1"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>***BioVersys: FDA gewährt Fast-Track Designation-Status für BV100</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016027"/><Subject FormalName="04016030"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4057" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2076734224">
+<Property FormalName="FullName" Value="BioVersys AG" />
+
+<Property FormalName="ShortName" Value="Bioversys" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-400.4.030.951-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0210362643" />
+
+<Property FormalName="Ticker" Value="BIOV" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p/></body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
