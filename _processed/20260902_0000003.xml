@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260902T070859+0200</DateAndTime>
+    <NewsService FormalName="Spezialabo Investora"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260902</DateId>
+			<NewsItemId>540</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260902:540:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260902T070859+0200</FirstCreated>
+		<ThisRevisionCreated>20260902T070859+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Bioversys erhält FDA-Fast-Track-Status für Antibiotikum BV100</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016037"/><Subject FormalName="04016027"/><Subject FormalName="04002001"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4057" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2076734224">
+<Property FormalName="FullName" Value="BioVersys AG" />
+
+<Property FormalName="ShortName" Value="Bioversys" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-400.4.030.951-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0210362643" />
+
+<Property FormalName="Ticker" Value="BIOV" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="R"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="RAD"/><Property FormalName="Subject" Value="REG"/><Property FormalName="Subject" Value="BRF"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Basel (awp) - Die US-Arzneimittelbehörde FDA hat dem Basler Biotechunternehmen Bioversys den sogenannten Fast-Track-Status für sein Antibiotikum BV100 erteilt. Dieser Status soll die Entwicklung und Zulassung von Medikamenten gegen schwere Krankheiten beschleunigen.</p>
+<p/><p>Der Hoffnungsträger BV100 wird zur Behandlung von schweren bakteriellen Lungenentzündungen in Krankenhäusern getestet, die durch einen besonders resistenten Krankheitserreger namens Acinetobacter baumannii verursacht werden, wie Bioversys am Mittwoch mitteilte. Der Fast-Track-Status ermöglicht dem Unternehmen häufigere Gespräche mit der FDA sowie eine beschleunigte Prüfung der Zulassungsunterlagen.</p>
+<p/><p>BV100 ist ein neuartiges intravenöses Antibiotikum, das den Erreger über einen bisher ungenutzten Aufnahmeweg im Bakterium angreift. Das Mittel befindet sich derzeit in zwei klinischen Studien: einer globalen Phase-3-Zulassungsstudie sowie einer offenen Phase-2b-Studie.</p>
+<p/><p>Eine frühere Phase-2-Studie hatte gezeigt, dass BV100 die Sterblichkeit im Vergleich zur besten verfügbaren Therapie um 50 Prozent senkte. Eine Zulassung besteht bisher nicht.</p>
+<p/><p>awp-robot/dm/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
