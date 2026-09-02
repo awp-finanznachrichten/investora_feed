@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260902T061136+0200</DateAndTime>
+    <NewsService FormalName="Spezialabo Investora"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260902</DateId>
+			<NewsItemId>314</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260902:314:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260902T061136+0200</FirstCreated>
+		<ThisRevisionCreated>20260902T061136+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>DocMorris: JPMorgan meldet Anteil von 15,192%/7,711%</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>T</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016047"/><Subject FormalName="04002006"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8500" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197497">
+<Property FormalName="FullName" Value="DocMorris AG" />
+
+<Property FormalName="ShortName" Value="DocMorris" />
+
+<Property FormalName="Telekurs" Value="087210" />
+
+<Property FormalName="CHNr" Value="CH-440.3.000.262-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0042615283" />
+
+<Property FormalName="Ticker" Value="DOCM" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="PAN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Steckborn (awp) - DocMorris meldet im Rahmen einer Pflichtmitteilung folgende Beteiligung bzw. Beteiligungsveränderung (Publikationsdatum: 02.09.2026):</p>
+<p/><pre>Aktionär                                       Entstehung        zuvor
+                                    aktuell   Meldepflicht   gemeldeter Wert
+
+JPMorgan
+- Erwerbspositionen                 15,192%    28.08.2026      14,983%
+- Veräusserungspositionen            7,711%    28.08.2026       7,498%
+- davon Namenaktien 5,449%
+Meldegründe: Sonstige; Erwerb
+
+JPMorgan
+- Erwerbspositionen                 14,983%    27.08.2026      15,064%
+- Veräusserungspositionen            7,498%    27.08.2026       7,325%
+- davon Namenaktien 5,23%
+Meldegründe: Sonstige; Verkauf
+
+aktuell gemeldete Beteiligungen (&gt;3%):
+
+UBS Group AG
+- Erwerbspositionen                 16,985%    davon Namenaktien 9,812%
+- Veräusserungspositionen            2,507%
+JPMorgan
+- Erwerbspositionen                 15,192%    davon Namenaktien 5,449%
+- Veräusserungspositionen            7,711%
+CEPD/Pelion                         15,014% 
+DocMorris AG
+- Erwerbspositionen                  6,883% 
+- Veräusserungspositionen           23,625%
+Benjamin Levine
+- Erwerbspositionen                  6,538%    davon Namenaktien 0%
+- Veräusserungspositionen            5,323%
+Astaris Capital Management LLP       6,027%    davon Namenaktien 0%
+UBS Fund Management                  5,611% 
+Sterling Strategic Value Fund 
+SA, Sicav-Raif                       5,155% 
+Fundsight (via Tiger Value fund)     3,719%    davon Namenaktien 2,863%
+Swisscanto                           3,075%    davon Namenaktien 3,021%
+Blackrock                             2,78%    davon Namenaktien 2,75%
+Julius Baer Group
+- Erwerbspositionen                  1,926%    davon Namenaktien 1,756%
+- Veräusserungspositionen            4,521%
+
+	
+Letzte Anteilsveränderungen von JPMorgan:
+
+25.08.2026                   15,064%/7,325%    davon Namenaktien 5,009%
+21.08.2026                   15,053%/7,271%    davon Namenaktien 4,995%
+17.07.2026                   13,451%/6,926%    davon Namenaktien 3,781%
+16.07.2026                    12,66%/6,682%    davon Namenaktien 2,901%
+15.07.2026                   13,724%/7,228%    davon Namenaktien 3,789%
+14.07.2026                   13,643%/7,515%    davon Namenaktien 2,922%
+13.07.2026                   13,025%/6,974%    davon Namenaktien 3,072%
+07.07.2026                   11,952%/6,532%    davon Namenaktien 2,839%
+06.07.2026                   12,194%/6,682%    davon Namenaktien 3,019%
+03.07.2026                   11,844%/6,305%    davon Namenaktien 2,672%
+
+</pre><p/><p>awp-robot/</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
