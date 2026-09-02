@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260902T180815+0200</DateAndTime>
+    <NewsService FormalName="Spezialabo Investora"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260902</DateId>
+			<NewsItemId>3314</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260902:3314:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260902T180814+0200</FirstCreated>
+		<ThisRevisionCreated>20260902T180814+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Gemeinden stimmen Thurgauer Angebot für Spital Wetzikon zu</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Meldung ausgebaut</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>U</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="11000000"/><Subject FormalName="04006005"/><Subject FormalName="04016007"/><Subject FormalName="04016005"/><Subject FormalName="04016019"/><Subject FormalName="04004003"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8620" />
+
+<Property FormalName="City" Value="1700" />
+
+<Property FormalName="City" Value="1700" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-1999098719">
+<Property FormalName="FullName" Value="GZO AG" />
+
+<Property FormalName="ShortName" Value="GZO" />
+
+<Property FormalName="CHNr" Value="CH-020-8000006-0" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2147197684">
+<Property FormalName="FullName" Value="Kanton Thurgau" />
+
+<Property FormalName="Telekurs" Value="017100" />
+
+<Property FormalName="Instrument" />
+
+</Property>
+
+<Property FormalName="Company" Value="-2025769782">
+<Property FormalName="FullName" Value="Infracore SA" />
+
+<Property FormalName="ShortName" Value="Infracore" />
+
+<Property FormalName="Telekurs" Value="257407" />
+
+<Property FormalName="CHNr" Value="CH-660.1.064.997-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0019867685" />
+
+<Property FormalName="Ticker" Value="INFRAC" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2147191956">
+<Property FormalName="FullName" Value="Aevis Victoria SA" />
+
+<Property FormalName="ShortName" Value="Aevis" />
+
+<Property FormalName="Telekurs" Value="38231" />
+
+<Property FormalName="CHNr" Value="CH-550.0.166.624-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012488190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0478634105" />
+
+<Property FormalName="Ticker" Value="AEVS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="R"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Industry" Value="CPL"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="POL"/><Property FormalName="Subject" Value="BCY"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="FNG"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Wetzikon (awp/sda/awp) - Die elf Aktionärsgemeinden des Spitals Wetzikon haben dem Angebot der Thurmed zugestimmt. Die Aktienmehrheit würde damit neu bei der Thurgauer Spitalgruppe liegen. Auch zwei weitere Angebote für das in finanzielle Schieflage geratene Spital würden vorliegen.</p>
+<p/><p>Das Angebot sei eine "einmalige Chance für den Spitalstandort Wetzikon", teilten die Aktionärsgemeinden des Zürcher Spitals am Mittwochabend gemeinsam mit. Die Thurmed ist vollständig im Besitz des Kantons Thurgau.</p>
+<p/><p>Das Angebot der Thurmed AG sieht im Wesentlichen vor, dass diese 35 Millionen Franken zusätzliches Eigenkapital in die Gesundheitszentrum Zürcher Oberland AG (GZO) einschiesst und darüber hinaus der GZO ein Darlehen von weiteren 35 Millionen Franken für einen Spitalneubau zur Verfügung stellt.</p>
+<p/><p>Im Gegenzug würde die Thurmed 51 Prozent der Aktienanteile der GZO AG erhalten. Die restlichen 49 Prozent würden gemäss heutigem Verteilschlüssel bei den elf Aktionärsgemeinden bleiben.</p>
+<p/><h3>"Bestmögliches Angebot" an Gläubiger</h3>
+<p/><p>Beim Angebot handelt es sich einstweilen um eine Option, die durch die Thurmed AG bis Ende 2027 ausgeübt werden kann. Voraussetzungen für die Ausübung sind, dass der Nachlassvertrag zwischen der GZO und ihren Gläubigern zustande kommt und im Anschluss daran die von Thurmed angekündigte Sorgfaltsprüfung positiv ausfällt.</p>
+<p/><p>Wie die GZO AG am Abend mitteilte, sollen die Gläubiger mit dem Angebot der Thurmed eine Nachlassdividende von 39,3 bis 47,5 Prozent erhalten. Die genaue Höhe hänge davon ab, wie sich das Spital in den kommenden Jahren wirtschaftlich entwickle und welche Rückstellungen tatsächlich benötigt würden. Gemäss GZO AG ist dies das "bestmögliche Angebot", welches die GZO AG Spital Wetzikon ihren Gläubigern unterbreiten könne.</p>
+<p/><h3>Andere Angebote abgewiesen</h3>
+<p/><p>Am Morgen meldete sich bereits das auf Gesundheitsimmobilien spezialisierte Unternehmen Infracore. Sein Angebot von 55 Millionen Franken sei bereits am 29. Juli bei der GZO AG eingereicht worden, teilte Infracore mit. Vorgesehen ist dabei eine Sale-and-Leaseback-Transaktion. GZO soll das Spital weiterhin betreiben und die Immobilien für zunächst 30 Jahre zurückmieten.</p>
+<p/><p>Infracore wollte zudem nach einer Stabilisierung des GZO-Kerngeschäfts die etappenweise Fertigstellung des Erweiterungsbaus finanzieren. Eine Kapitalerhöhung durch die Aktionärsgemeinden sei nicht nötig. Zudem solle die Dividende für die Gläubiger gegenüber der bisherigen Lösung deutlich steigen.</p>
+<p/><p>Das Angebot von Infracore ermögliche kein finanziell tragbares Szenario, welches gleichzeitig auch zu einer erhöhten Dividende führe, teilte die GZO jedoch mit. Auch ein Angebot von Swiss Medical Network lehnte die GZO AG ab. Für dieses bestehe keine realistische Aussicht zur Umsetzung.</p>
+<p/><p>Das Spital Wetzikon geriet in finanzielle Schieflage, weil es eine Anleihe in der Höhe von 170 Millionen Franken nicht zurückzahlen konnte. Das Geld wurde 2014 für die Realisierung des geplanten Neubaus aufgenommen. Der Spitalbetrieb läuft bis auf Weiteres aber normal weiter. Der Kanton lehnt eine finanzielle Hilfe ab.</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
