@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260904T114501+0200</DateAndTime>
+    <NewsService FormalName="Spezialabo Investora"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260904</DateId>
+			<NewsItemId>1268</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260904:1268:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260904T114501+0200</FirstCreated>
+		<ThisRevisionCreated>20260904T114501+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>VW-Umbau könnte in der Schweiz vor allem Feintool treffen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04016039"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3250" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197488">
+<Property FormalName="FullName" Value="Feintool International Holding AG" />
+
+<Property FormalName="ShortName" Value="Feintool" />
+
+<Property FormalName="Telekurs" Value="89777" />
+
+<Property FormalName="CHNr" Value="CH-073.3.000.732-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009320091" />
+
+<Property FormalName="Ticker" Value="FTON" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="E"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der tiefgreifende Konzernumbau bei Volkswagen dürfte für die meisten Schweizer Autozulieferer zunächst überschaubare Folgen haben. Besonders der Berner Autozulieferer Feintool könnte bei sinkenden Produktionsvolumen allerdings stärker unter Druck geraten.</p>
+<p/><p>Kepler-Cheuvreux-Analyst Torsten Sauter hält Feintool für am stärksten exponiert, weil das Unternehmen vergleichsweise direkt von Produktionsvolumen und Auslastung der europäischen Autoindustrie abhängt, wie er gegenüber der Nachrichtenagentur AWP am Freitag erklärte. Vontobel sieht bei Autoneum eine moderate VW-Abhängigkeit von schätzungsweise 5 bis 7 Prozent, wie Analyst Arben Hasanaj festhielt.</p>
+<p/><p>An der Schweizer Börse gaben die Feintool-Titel am Freitagmorgen um gegen 3,6 Prozent nach.</p>
+<p/><p>Beim Akustikspezialisten Autoneum, beim Befestigungstechniker SFS, beim Spezialchemiekonzern EMS-Chemie und beim Kabelmaschinenhersteller Komax dürfte ein VW-Produktionsabbau allein dagegen kaum einen materiellen Einfluss auf Gruppenebene haben, wie es aus Analystenkreisen hiess.</p>
+<p/><h3>Kleinere Anzahl an VW-Fahrzeugen</h3>
+<p/><p>VW will im Zuge seines Zukunftsplans weltweit rund 50'000 Stellen streichen. Für vier deutsche Werke ist zudem ab 2031 bis 2034 keine Folgebelegung gesichert. Gleichzeitig soll die Modellpalette bis 2035 um rund die Hälfte schrumpfen und die Angebotskomplexität um rund 75 Prozent sinken. VW richtet seine Produktionskapazitäten künftig auf rund 9 Millionen Fahrzeuge jährlich aus. Vor der Corona-Pandemie waren sie noch auf rund 12 Millionen ausgelegt.</p>
+<p/><p>Die Schweizer Zulieferer hätten sich laut Vontobel insgesamt längst auf die Schwäche Europas eingestellt, restrukturiert und stärker nach China orientiert. Komax könnte laut Vontobel sogar profitieren, falls VW zur Kostensenkung stärker in die Automatisierung investiert.</p>
+<p/><h3>"Sturm im Wasserglas"</h3>
+<p/><p>Gelassen zeigt sich auch ZKB-Analyst Walter Bamert. Er spricht von einem "Sturm im Wasserglas". Werksschliessungen bedeuteten nicht automatisch weniger Fahrzeuge. VW wolle vielmehr Werke schliessen, um andere besser auszulasten. Für die Zulieferer seien daher die produzierten Stückzahlen entscheidender als die Zahl der Werke oder Beschäftigten.</p>
+<p/><p>Sollten die Produktionszahlen bei VW dennoch sinken, könnten andere Autohersteller dies teilweise auffangen, so Bamert. Die weltweite Autoproduktion sei insgesamt stabil und dürfte von der wachsenden Mittelschicht in Schwellenländern profitieren.</p>
+<p/><p>Langfristig bleibt der Druck in Europa dennoch hoch. Laut Sauter von Kepler Cheuvreux verdeutlicht die VW-Krise neben unternehmensspezifischen Problemen auch die strukturellen Schwierigkeiten der europäischen Autoindustrie mit hohen Kosten, schwacher Nachfrage und wachsender Konkurrenz aus China.</p>
+<p/><p>to/ra</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
