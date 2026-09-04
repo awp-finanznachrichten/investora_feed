@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260904T090447+0200</DateAndTime>
+    <NewsService FormalName="Spezialabo Investora"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260904</DateId>
+			<NewsItemId>823</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260904:823:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260904T090447+0200</FirstCreated>
+		<ThisRevisionCreated>20260904T090447+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>BCGE eröffnet neue Filiale im Zentrum von Pont-Rouge</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016030"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1204" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197137">
+<Property FormalName="FullName" Value="Banque Cantonale de Genève" />
+
+<Property FormalName="ShortName" Value="BCGE" />
+
+<Property FormalName="Telekurs" Value="164268" />
+
+<Property FormalName="CHNr" Value="CH-660.0.018.916-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001642682" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001642708" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010760343" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0350494719" />
+
+<Property FormalName="Ticker" Value="BCGE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1485899350" />
+
+<Property FormalName="Ticker" Value="BCGE" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="PRD"/><Property FormalName="Subject" Value="BRF"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Genève (awp) - BCGE hat ihre Filialen Lancy Centre und Praille-Acacias in einer neuen Niederlassung im Quartier Pont-Rouge zusammengeführt. Die neue Filiale bietet moderne Beratungsräume, digitale Services und Schliessfächer, die rund um die Uhr zugänglich sind.</p>
+<p/><p>Damit will die Kantonalbank ihre Nähe zu den Kunden weiter stärken, wie BCGE am Freitag bekanntgab.</p>
+<p/><p>Link zum Originaltext: https://www.bcge.ch/bcge-au-coeur-du-quartier-de-pont-rouge</p>
+<p/><p>awp-robot/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
