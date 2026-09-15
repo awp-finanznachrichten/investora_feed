@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260907T095515+0200</DateAndTime>
+    <NewsService FormalName="Spezialabo Investora"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260907</DateId>
+			<NewsItemId>985</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260907:985:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260907T095514+0200</FirstCreated>
+		<ThisRevisionCreated>20260907T095514+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Marktgespräch 7. September: Schindler, R&amp;S</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04005000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6060" />
+
+<Property FormalName="City" Value="8808" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197365">
+<Property FormalName="FullName" Value="Schindler Holding AG" />
+
+<Property FormalName="ShortName" Value="Schindler" />
+
+<Property FormalName="Telekurs" Value="119066" />
+
+<Property FormalName="CHNr" Value="CH-150.3.001.483-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024638212" />
+
+<Property FormalName="Ticker" Value="SCHN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024638196" />
+
+<Property FormalName="Ticker" Value="SCHP" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-2014459831">
+<Property FormalName="FullName" Value="R&amp;S Group Holding AG" />
+
+<Property FormalName="ShortName" Value="R&amp;S" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-130.3.029.284-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1107979838" />
+
+<Property FormalName="Ticker" Value="RSGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="RUM"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Am Schweizer Markt wird heute u.a. über folgende Themen gesprochen (Kursveränderungen 09.50 Uhr):</p>
+<p/><p>SCHINDLER PS (-3,3% auf 252,00 Fr.): Rückstufung durch Goldman Sachs belastet</p>
+<p/><p>Für die Aktien des Lift- und Rolltreppenherstellers Schindler geht es am Montag weiter abwärts. Belastend wirken dürfte eine Abstufung durch Goldman Sachs auf "Sell". Erst im April hatte die US-Bank Schindler auf Neutral hochgestuft und dabei noch auf eine Stabilisierung in China sowie zusätzliche Ausschüttungen an die Aktionäre gesetzt. Inzwischen habe sich die Lage jedoch eingetrübt, heisst es. Die Schwäche im chinesischen Markt halte an, während Zinssenkungen in den Industrieländern unsicher blieben. Auch im margenstärkeren Servicegeschäft dürfte das Wachstum nachlassen und die positiven Effekte aus den Effizienzprogrammen seien weitgehend ausgeschöpft. Überdies hätten sich auch die Aussichten auf Zusatzausschüttungen eingetrübt, da Schindler angesichts der laufenden Branchenkonsolidierung eher Kapital für mögliche Übernahmen zurückhalten dürfte. Geht es nach den Goldman-Sachs-Analysten, haben die Titel die unterste Etage noch nicht erreicht: Das neue Kursziel signalisiert ein weiteres Abwärtspotenzial von rund 8 Prozent, nachdem die Aktie im laufenden Jahr bereits mehr als 12 Prozent verloren hat.</p>
+<p/><p>R&amp;S (-3,1% auf 18,26 Fr.): Kehren neue Besen besser?</p>
+<p/><p>Die Aktien des Trafoherstellers R&amp;S fallen weiter. Mittlerweile ist auch das Jahrestief von 14,70 Franken wieder in Sichtweite - von den im Sommer 2025 erreichten Kursen von über 40 Franken können Anleger nur noch träumen. Auslöser des neuerlichen Rücksetzers ist der am Morgen gemeldete abrupte Wechsel an der Konzernspitze. Dabei war der abgesetzte Eduardo Terzi erst seit Mitte 2025 im Amt. Ein CEO-Wechsel sei immer mit Unsicherheiten verbunden und komme für R&amp;S in der aktuellen Phase nicht gerade gelegen, merkt Florian Sager von der ZKB an. Terzi habe in seinem Jahr als CEO aber auch teilweise unglücklich agiert: Die Prognosen mussten gesenkt werden und es habe wiederholt "Ungereimtheiten" in der Kommunikation gegeben. Aus seiner Sicht sei es daher konsequent, dass der Verwaltungsrat die Reissleine gezogen habe. Und trotz aller Risiken biete der Wechsel eine Chance für R&amp;S, einen klaren Neuanfang zu setzen. Die Einstufung der ZKB bleibt daher bei "Übergewichten".</p>
+<p/><p/><p>Disclaimer: Die im Marktgespräch enthaltenen Informationen und Meinungen wurden im Profihandel zusammengetragen. Es handelt sich dabei ausschliesslich um vom Hörensagen übernommene Marktgerüchte und -spekulationen. AWP übernimmt weder für die Vollständigkeit noch für die Richtigkeit der Angaben und Informationen Gewähr. Rechtliche Schritte sind ausgeschlossen. Die geäusserten Meinungen stellen keine Kaufs- oder Verkaufsaufforderung dar. Die Inhalte dürfen nicht ohne Erlaubnis von AWP vervielfältigt oder weiterpubliziert werden und sind grundsätzlich für den Eigengebrauch bestimmt.</p>
+<p/><p>an/ra/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
