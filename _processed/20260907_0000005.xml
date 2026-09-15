@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260907T072105+0200</DateAndTime>
+    <NewsService FormalName="Spezialabo Investora"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260907</DateId>
+			<NewsItemId>374</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260907:374:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260907T072105+0200</FirstCreated>
+		<ThisRevisionCreated>20260907T072105+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>R&amp;S-Chef geht per sofort wegen "unterschiedlicher Ansichten"</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04005000"/><Subject FormalName="04016028"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8808" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2014459831">
+<Property FormalName="FullName" Value="R&amp;S Group Holding AG" />
+
+<Property FormalName="ShortName" Value="R&amp;S" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-130.3.029.284-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1107979838" />
+
+<Property FormalName="Ticker" Value="RSGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Wire" Value="R"/><Property FormalName="Industry" Value="ENE"/><Property FormalName="Subject" Value="MGT"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Pfäffikon (awp) - Beim Transformatorenhersteller R&amp;S führen Differenzen in der Chefetage zum sofortigen Abgang des CEO. Eduardo Terzi verlasse das Unternehmen, da er und der Verwaltungsrat unterschiedliche Ansichten zum künftigen Führungsmodell und zur künftigen Organisationsstruktur gehabt hätten, teilte das Unternehmen am Montag mit.</p>
+<p/><p>Interimistisch übernimmt nun laut den Angaben Finanzchef Matthias Weibel die CEO-Aufgaben. Er ist seit 2022 CFO.</p>
+<p/><p>Terzi hatte den CEO-Job erst Mitte 2025 übernommen. Seither habe das Unternehmen bei der Umsetzung seiner Strategie erhebliche Fortschritte erzielt, wird betont. Die Verdienste von Terzi werden von Verwaltungsratspräsident Heinz Kundert im Communiqué denn auch verdankt. Und an den strategischen Prioritäten und den mittelfristigen Zielen ändere sich nichts.</p>
+<p/><p>rw/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
