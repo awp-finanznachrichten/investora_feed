@@ -10,12 +10,14 @@ XML_Feed_footer <- "</feed>\n"
 XML_Feed_news <- ""
 
 all_news <- na.omit(sort(list.files(path=OUTPUT_PATH_NEWS),decreasing = TRUE)[1:10])
+if (length(all_news) > 0) {
 for (a in 1:length(all_news)) {
 item_text <- readLines(paste0(OUTPUT_PATH_NEWS,all_news[a]), encoding="UTF-8")
 item_text <- paste0(item_text,collapse = "\n")
 XML_Feed_news <- paste0(XML_Feed_news,item_text,"\n\n")
 }  
-
+}
+  
 XML_Feed <- paste0(XML_Feed_header,"\n\n",
                    XML_Feed_news,
                    XML_Feed_footer)
