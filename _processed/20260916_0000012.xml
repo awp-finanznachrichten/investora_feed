@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T144253+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>2294</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:2294:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T144253+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T144253+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: SF Urban Properties sieht aktuell keine attraktiven Kaufoptionen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004003"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2109140581">
+<Property FormalName="FullName" Value="SF Urban Properties AG" />
+
+<Property FormalName="ShortName" Value="SF Urban" />
+
+<Property FormalName="Telekurs" Value="393374" />
+
+<Property FormalName="CHNr" Value="CH-020.3.025.156-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0032816131" />
+
+<Property FormalName="Ticker" Value="SFPN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Das Immobilienunternehmen SF Urban Properties (SFUP) hat eine gut gefüllte Pipeline an Immobilienprojekten. Auf den Kauf von neuen Immobilien will das Unternehmen angesichts wenig attraktiver Renditeaussichten vorerst weiterhin verzichten, wie CEO Bruno Kurz an der Anlegerkonferenz Investora am Mittwoch in Zürich sagte.</p>
+<p/><p>Mit den bereits eingeplanten Investitionen sei man zudem mit den prognostizierten Erhöhung der Mieteinnahmen zufrieden. So habe man etwa bei "einigen" Neuvermietungen "teils deutlich" höhere Mieten realisiert, so Kurz.</p>
+<p/><p>Weitere Zukäufe stellte der CEO indes weiterhin nicht in Aussicht. Aktuell seien der Markt und die Renditen für die von SF Urban gesuchten Liegenschaften zu wenig attraktiv.</p>
+<p/><p>Und bei der Promotionsentwicklung ist SFUP gemäss dem eigenen Fahrplan bis mindestens 2029 noch gut beschäftigt. In diesem Bereich sei bereits über die Hälfte der für das Geschäftsjahr 2026 geplanten Einkäufe in Höhe von insgesamt 40 Millionen bereits gesichert.</p>
+<p/><p>SFUP ist eine Schweizer Immobiliengesellschaft mit Sitz in Zürich. Die Gesellschaft investiert mehrheitlich in ein Anlageportfolio von Renditeliegenschaften an urbanen Lagen in den Städten Zürich und Basel. Daneben entwickelt und verkauft sie Eigentumswohnungen über ausgewählte Projekte von Promotionsliegenschaften entlang des Zürcher Seebeckens.</p>
+<p/><p>sta/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
