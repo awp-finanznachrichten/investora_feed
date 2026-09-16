@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T123030+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>9</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>1626</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:1626:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T123030+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T123030+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Centiel rechnet mit problemloser Zertifierung in den USA</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04003000"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6965" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191482">
+<Property FormalName="FullName" Value="Centiel AG" />
+
+<Property FormalName="ShortName" Value="Centiel" />
+
+<Property FormalName="Telekurs" Value="74498" />
+
+<Property FormalName="CHNr" Value="CH-100.3.008.224-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0024666528" />
+
+<Property FormalName="Ticker" Value="CNTL" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Börsenneuling Centiel hegt ambitionierte Wachstumspläne. Diese sehen nicht zuletzt auch den Eintritt in den US-Markt vor. Dafür braucht der Spezialist für unterbrechungsfreie Stromversorgung aber noch eine entsprechende US-Zertifizierung seiner Produkte.</p>
+<p/><p>Der Zulassungsprozess schreitet wie geplant voran und sollte nach Darstellung des CEO Gerardo Lecuona kein Problem darstellen. "Wir sind sehr zuversichtlich", sagte der Chef von Centiel am Mittwoch an der Anlegerkonferenz Investora.</p>
+<p/><p>Danach muss sich Centiel auf dem US-Markt gegen die ansässigen Anbieter durchsetzen. "Das sind wir uns bewusst - der Markt giert aber nach zuverlässigen Lösungen."</p>
+<p/><p>Lecuona ist selbstbewusst: Die Technologie von Centiel sei die beste auf dem Markt. "Sie bietet 1000 mal mehr Schutz als alle anderen verfügbaren Lösungen."</p>
+<p/><p>Und der CEO griff zu einer Analogie: "Bevor sie aus einem Flugzeug abspringen: Nehmen sie den besten Fallschirm oder das andere Produkt?"</p>
+<p/><p>Centiel entwickelt und produziert Stromschutzlösungen für kritische Infrastrukturen. Das Portfolio umfasst unterbrechungsfreie Stromversorgungssysteme, die auf betriebliche Kontinuität und Energieeffizienz ausgelegt sind.</p>
+<p/><p>ra/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
