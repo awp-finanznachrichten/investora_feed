@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T151829+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>2473</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:2473:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T151829+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T151829+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: HBM sieht weiterhin hohes Wertpotenzial in der Biotech-Branche</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191333">
+<Property FormalName="FullName" Value="HBM Healthcare Investments AG" />
+
+<Property FormalName="ShortName" Value="HBM" />
+
+<Property FormalName="Telekurs" Value="116034" />
+
+<Property FormalName="CHNr" Value="CH-170.3.024.680-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012627250" />
+
+<Property FormalName="Ticker" Value="HBMN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1109638499" />
+
+<Property FormalName="Ticker" Value="HBM21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="TST"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zug (awp) - Die Beteiligungsgesellschaft HBM Healthcare Investments hat im laufenden Geschäftsjahr bereits ansehnlich von der wiedererstarkten Dynamik im Biotechnologiesektor profitiert. Trotz dem teilweise hohen Wertzuwachs vieler Investments, ist das Ende der Fahnenstange laut dem Finanzchef aber noch nicht erreicht.</p>
+<p/><p>Ein neuer Zyklus bedeutender Biotech-Innovationen, überzeugender wissenschaftlicher Erkenntnisse und transformativer Technologien ziehe am Horizont auf, sagte der HBM-CFO Erwin Troxler am Mittwoch anlässlich der Anlegerkonferenz Investora in Zürich. Als Beispiel nannte er etwa die Zellforschung.</p>
+<p/><p>Das aktuell eher flaue Wirtschaftsumfeld macht Troxler derweil wenig Sorgen. Der Biotech-Sektor sei in einer "relativ geschützten" Position, sollte konjunktureller Gegenwind aufziehen. Dies dürfte sich gemäss dem HBM-Finanzchef "im Falle einer allgemeinen Verschlechterung des makroökonomischen Umfelds" als vorteilhaft erweisen.</p>
+<p/><p>Er gab aber auch zu bedenken, dass angesichts der lauen Konjunktur, hoher Inflation und steigenden Zinssätzen die Anlegerstimmung verhalten bleiben dürfte.</p>
+<p/><p>HBM Healthcare investiert im Sektor Gesundheit und bewirtschaftet ein Portfolio von Unternehmen in den Bereichen Humanmedizin, Biotechnologie, Medizinaltechnik und Diagnostik sowie verwandten Gebieten.</p>
+<p/><p>sta/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
