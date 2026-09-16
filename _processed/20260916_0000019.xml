@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T165919+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>19</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>2802</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:2802:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T165919+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T165919+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: V-Zug will Strategie "noch disziplinierter" umsetzen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04007000"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6300" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2025188746">
+<Property FormalName="FullName" Value="V-ZUG Holding AG" />
+
+<Property FormalName="ShortName" Value="V-Zug" />
+
+<Property FormalName="Telekurs" Value="849655" />
+
+<Property FormalName="CHNr" Value="CH-170.3.044.105-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0542483745" />
+
+<Property FormalName="Ticker" Value="VZUG" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CSM"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der traditionsreiche Haushaltsgeräte-Hersteller V-Zug will weiterhin gezielt an Wachstums- und Effizienzprogrammen arbeiten. Der CEO Christoph Kilian sieht das Unternehmen zudem "gut positioniert, um das strukturelle Marktwachstum zu nutzen".</p>
+<p/><p>Er setze dabei auf die Stärkung der Marktführerschaft im Inland sowie eine "gezielte internationale Expansion", um Wachstum in "hochwertigen Grossstadtmärkten" zu erschliessen.</p>
+<p/><p>Just heute Mittwoch gab das Unternehmen bekannt, seine Präsenz im strategisch wichtigen Markt China auszubauen. Geplant ist bis Ende 2026 die Eröffnung von 20 zusätzlichen Mono-Brand- und Einzelhandelsgeschäften in grösseren chinesischen Städten.</p>
+<p/><p>Auf finanzieller Seite hält Kilian am Ziel einer EBIT-Marge von rund 10 Prozent fest, nannte indes erneut keinen zeitlichen Rahmen zur Erreichung dieses Ziels. Schaffen will man dies durch eine "anhaltend finanzielle und operative Disziplin".</p>
+<p/><p>Seit 1913 stellt V-Zug Haushaltgeräte her. Mit rund 2000 Mitarbeitenden erwirtschaftete die Gruppe 2025 einen Jahresumsatz von rund 567 Millionen Franken.</p>
+<p/><p>sta/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
