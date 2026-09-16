@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T093034+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>3</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>981</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:981:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T093034+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T093034+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Cembra bleibt offen für Übernahmen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006002"/><Subject FormalName="04016005"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8048" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2062655806">
+<Property FormalName="FullName" Value="Cembra Money Bank AG" />
+
+<Property FormalName="ShortName" Value="Cembra" />
+
+<Property FormalName="Telekurs" Value="22283" />
+
+<Property FormalName="CHNr" Value="CH-020.3.034.603-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0225173167" />
+
+<Property FormalName="Ticker" Value="CMBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041352" />
+
+<Property FormalName="Ticker" Value="CMB193" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0419041659" />
+
+<Property FormalName="Ticker" Value="CMB194" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1141700414" />
+
+<Property FormalName="Ticker" Value="CMB21" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1206367554" />
+
+<Property FormalName="Ticker" Value="CMB221" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1243651903" />
+
+<Property FormalName="Ticker" Value="CMB23" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1266847131" />
+
+<Property FormalName="Ticker" Value="CMB24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1290222400" />
+
+<Property FormalName="Ticker" Value="CMB231" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1314941472" />
+
+<Property FormalName="Ticker" Value="CMB241" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1455990056" />
+
+<Property FormalName="Ticker" Value="CMB25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1498422828" />
+
+<Property FormalName="Ticker" Value="CMB251" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238512" />
+
+<Property FormalName="Ticker" Value="CMB26" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1515238686" />
+
+<Property FormalName="Ticker" Value="CMB261" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1581468126" />
+
+<Property FormalName="Ticker" Value="CMB262" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1581468134" />
+
+<Property FormalName="Ticker" Value="CMB263" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Konsumkredit- und Leasingbank Cembra ist für weitere Akquisitionen offen. "Sollten sich Möglichkeiten auf dem Schweizer Markt ergeben, wird das ganz sicher über unseren Tisch gehen, und wir schauen uns das an", sagte CEO Holger Laubenthal am Mittwoch an der Anlegerkonferenz Investora.</p>
+<p/><p>Cembra kaufe aber nicht andere Firmen alleine um der Grösse willen zu. "Organisches Wachstum steht an erster Stelle, Übernahmen haben die zweite Priorität", sagte er. Ein Risiko, dass die Wettbewerbskommission bei einem möglichen Deal intervenieren wird, sieht Laubendahl "praktisch gesehen" nicht.</p>
+<p/><p>Die Leasingbank hat sich zuletzt einen Grossteil des Schweizer Fahrzeugfinanzierungsgeschäfts von Santander Consumer Finance gesichert. Diesen Deal will das Unternehmen noch im laufenden Jahr unter Dach und Fach bringen, die Integration wird bis 2028 andauern.</p>
+<p/><p>Gleichzeitig gehen die Kostensenkungen bei Cembra weiter. Laubendahl rechnet in 2026 mit weiteren Einsparungen in Höhe von mehr als 15 Millionen Franken. Das werde die Cost-Income-Rate unter 40 Prozent senken. "Das ist doch sehr nahe an den vor fünf Jahren definierten 39 Prozent."</p>
+<p/><p>Aktuell hält das Cembra-Management die Entwicklung der aktuell steigenden Zinsen genau im Auge. Man habe sich auf verschiedene Szenarien vorbereitet. "Als Marktführer müssten wir als erster darauf reagieren", sagte er.</p>
+<p/><p>Im Fokus hat Laubendahl insbesondere die für Cembra zentrale Nettozinsmarge. "Es ist unser Anspruch, auch in Zukunft auf einen Wert von 5,5 Prozent zu kommen."</p>
+<p/><p>Die Produktepalette von Cembra umfasst Privatkredite und Fahrzeugfinanzierungen, Kreditkarten, das Angebot von damit zusammenhängenden Versicherungen sowie Rechnungsfinanzierungen und Sparprodukte. Die Gruppe mit Hauptsitz in Zürich zählt über 2 Millionen Kunden in der Schweiz und beschäftigen mehr als 850 Mitarbeitende.</p>
+<p/><p>ra/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
