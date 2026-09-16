@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T124319+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>1682</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:1682:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T124318+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T124318+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Genfer Kantonalbank strebt weitere Diversifikation an</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1204" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197137">
+<Property FormalName="FullName" Value="Banque Cantonale de Genève" />
+
+<Property FormalName="ShortName" Value="BCGE" />
+
+<Property FormalName="Telekurs" Value="164268" />
+
+<Property FormalName="CHNr" Value="CH-660.0.018.916-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001642682" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0001642708" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0010760343" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0350494719" />
+
+<Property FormalName="Ticker" Value="BCGE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1485899350" />
+
+<Property FormalName="Ticker" Value="BCGE" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Genfer Kantonalbank will sich breiter aufstellen. So macht die Bank aktuell bereits 42 Prozent der Erträge mit dem zinsunabhängigen Geschäft. Bis etwa 2030 sollen es um die 50 Prozent werden, wie Bankenchef Nicolas Krügel am Mittwoch an der Anlegerkonferenz Investora sagte.</p>
+<p/><p>Damit will die Bank sich unabhängiger vom aktuellen Nullzinsumfeld machen. Auch regional wolle die Bank sich verbreitern: Mit den aktuell rund 41 Prozent von Kunden ausserhalb des Kantons Genf sei man auf einem guten Weg dazu.</p>
+<p/><p>Beim weiteren Wachstum stehe jedoch die Marge im Zentrum. Die Vergabe von Krediten etwa soll kein Selbstzweck sein, sondern müsse auch mit einer ausreichenden Marge einhergehen. Mit der nötigen Disziplin soll daher auch die aktuelle Kreditmarge gehalten werden, so Krügel.</p>
+<p/><h3>Nur noch selektiv in Frankreich</h3>
+<p/><p>Derweil ist das Geschäft der Kantonalbank in Frankreich laut Krügel "extrem erfolgreich". Die Bank verdiene gutes Geld dort, und auch der Ausblick für 2026 sei positiv.</p>
+<p/><p>Jedoch mache die aktuelle politische Landschaft den Markt weniger attraktiv. Die Bank wolle daher vor allem das Niveau halten und die Risiken im Auge behalten. "Bei neuen Geschäften sind wir sehr selektiv", sagte Krügel weiter. Grundsätzlich seien die Geschäftsfelder dort aber weiterhin interessant.</p>
+<p/><p>Die 1816 gegründete BCGE ist eine Universal- und Handelsbank, deren Hauptaufgabe darin besteht, zur wirtschaftlichen Entwicklung von Genf und seiner Region beizutragen. Sie verfügt neben ihrem Hauptsitz in Genf über Niederlassungen in Zürich, Lausanne, Basel, Paris, Lyon, Annecy, Dubai und Hongkong.</p>
+<p/><p>cg/ys</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
