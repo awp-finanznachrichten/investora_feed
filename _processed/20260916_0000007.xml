@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T112435+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>1365</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:1365:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T112435+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T112435+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Implenia will Megatrends nutzen und profitabel wachsen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004000"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8305" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2125829448">
+<Property FormalName="FullName" Value="Implenia AG" />
+
+<Property FormalName="ShortName" Value="Implenia" />
+
+<Property FormalName="Telekurs" Value="318935" />
+
+<Property FormalName="CHNr" Value="CH-170.3.028.842-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0023868554" />
+
+<Property FormalName="Ticker" Value="IMPN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1344316687" />
+
+<Property FormalName="Ticker" Value="IMP24" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1428867134" />
+
+<Property FormalName="Ticker" Value="IMP25" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1485827047" />
+
+<Property FormalName="Ticker" Value="IMP26" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der grösste Schweizer Baukonzern Implenia sieht sich gut positioniert, um von den Megatrends sowie den Veränderungen in der Baubranche zu profitieren. Wachsen will Implenia primär in den Bereichen, in denen er spezialisiert ist, sagte Finanzchef Stefan Baumgärtner am Mittwoch an der Anlegerkonferenz Investora.</p>
+<p/><p>Dazu zählt Baumgärtner etwa Tunnelbau, Gesundheitswesen, Datenzentren oder Verteidigung. "Das wird uns helfen, die EBIT-Marge in Richtung der anvisierten 4,5 Prozent zu bringen", sagte er.</p>
+<p/><p>Die für Implenia relevanten Megatrends sind laut Baumgärtner etwa das Bevölkerungswachstum und die Urbanisierung sowie Investitionen in Infrastruktur. Weitere Megatrends seien die Themen ESG/Nachhaltigkeit und die Energiewende sowie die Digitalisierung und Industrialisierung der Baubranche selber.</p>
+<p/><p>Auch im deutschen Brückenbau gehöre Implenia zu den spezialisierten Anbietern - und weiteres Wachstumspotenzial sei daher vorhanden. "In Deutschland müssen 3000 bis 12'000 Brücken neu gebaut oder erneuert werden", stellte der CFO fest. "Und da das Volumen wächst, können wir als Anbieter auch selektiver werden."</p>
+<p/><p>Implenia ist ein integrierter Bau- und Immobiliendienstleister. Hauptmärkte sind Schweiz und Deutschland. In weiteren Märkten bietet die Gruppe Tunnelbau und damit verbundene Dienstleistungen an.</p>
+<p/><p>ra/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
