@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T172303+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>20</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>2852</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:2852:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T172302+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T172302+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Kardex treibt gemeinsame Marktbearbeitung voran</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8008" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197602">
+<Property FormalName="FullName" Value="Kardex Holding AG" />
+
+<Property FormalName="ShortName" Value="Kardex" />
+
+<Property FormalName="Telekurs" Value="34240" />
+
+<Property FormalName="CHNr" Value="CH-020.3.914.448-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0100837282" />
+
+<Property FormalName="Ticker" Value="KARN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Lagerlogistik-Spezialist Kardex bemüht sich stark um eine gemeinsame Marktbearbeitung durch die drei weiterhin eigenständigen Geschäftsbereiche im Konzern. Mit "One Kardex" sollen die drei Bereiche stärker über eine gemeinsame Marktbearbeitungsstrategie verzahnt und die Organisation stärker auf die Kunden ausgerichtet werden.</p>
+<p/><p>"One Kardex" ist also mehr als ein gemeinsamer Marktauftritt, wie CEO Jens Hardenacke am Mittwoch an der Anlegerkonferenz Investora sagte. Die Zusammenarbeit der drei Geschäftseinheiten soll konkret dazu führen, dass Kundenaufträge gemeinsam gewonnen werden. Bislang seien so Aufträge im Umfang von mehr als 160 Millionen Euro generiert worden.</p>
+<p/><p>Kardex hatte Anfang Juni die Anleger mit einer Gewinnwarnung für das laufende Geschäftsjahr geschockt. Hardenacke sprach dabei erneut von temporären Problemen.</p>
+<p/><p>Die zugrundeliegende Nachfrage bleibe aber weiterhin robust; Treiber seien insbesondere der Arbeitskräftemangel und der globale Trend zur Automatisierung. Gleichzeitig werde Kardex seine Investitionen in Vertrieb, Forschung und Entwicklung sowie IT fortsetzen.</p>
+<p/><p>Kardex ist ein Partner für Intralogistiklösungen und bietet automatisierte Produkte, standardisierte Systeme und Lifecycle-Services für eine hohe Verfügbarkeit an. Das Unternehmen mit Sitz in Zürich zählt rund 2900 Mitarbeitende weltweit und ist in über 30 Ländern präsent.</p>
+<p/><p>ra/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
