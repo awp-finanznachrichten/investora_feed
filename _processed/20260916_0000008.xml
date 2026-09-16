@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T115327+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>1448</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:1448:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T115327+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T115327+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Cicor-Chef sieht Verknappung gewisser elektronischer Komponenten</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04003000"/><Subject FormalName="04016013"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9552" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196746">
+<Property FormalName="FullName" Value="Cicor Technologies AG" />
+
+<Property FormalName="ShortName" Value="Cicor" />
+
+<Property FormalName="Telekurs" Value="891827" />
+
+<Property FormalName="CHNr" Value="CH-645.1.001.519-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0008702190" />
+
+<Property FormalName="Ticker" Value="CICN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1155135838" />
+
+<Property FormalName="Ticker" Value="CIC21" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CMP"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="ORD"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Durch den KI-Boom werden gewisse elektronische Komponenten weltweit knapp. Davon ist auch der Ostschweizer Elektronikhersteller Cicor betroffen. "Einen Covid-Effekt haben wir aber nicht vor uns", sagte Cicor-Chef Alexander Hagemann am Mittwoch an der Anlegerkonferenz Investora in Zürich.</p>
+<p/><p>Laut Hagemann gab es während der Corona-Pandemie keine wirkliche Verknappung von Komponenten. Der damalige Mangel sei vielmehr zu einem Teil "künstlich" gewesen und vor allem durch den starken Lageraufbau der Unternehmen verursacht worden. Beim KI-Boom sei die Situation anders: "Heute sehen wir eine echte Verknappung."</p>
+<p/><p>Engpässe gebe es etwa bei Leiterplatten. Alarmierend sei die Situation derzeit aber nicht. "Wir sind schon in der Lage, besser bedient zu werden als viele Wettbewerber", sagte Hagemann. Allerdings könne es durchaus vorkommen, dass einzelne Aufträge später als ursprünglich geplant ausgeliefert würden.</p>
+<p/><p>Insgesamt sei der Mangel jedoch "nicht katastrophal". Hagemann sprach daher weiterhin von einer "stabilen Lage, allerdings in einem nicht ganz zufriedenstellenden Zustand".</p>
+<p/><p>Zu dem am Mittwoch bekanntgegebenen Grossauftrag über 30 Millionen Euro aus dem europäischen Verteidigungsmarkt nannte Hagemann weitere Details. Der Auftrag sei Teil eines wichtigen Programms eines europäischen Herstellers von Boden-Luft-Abwehrraketen.</p>
+<p/><p>Der Hersteller habe einen hohen Bedarf, da die Raketenbestände derzeit sehr tief seien. Es handle sich dabei nicht um einen neuen Kunden. Cicor arbeite bereits seit längerem mit dem Hersteller zusammen, allerdings sei die "Stückzahl viel höher als in der Vergangenheit", sagte Hagemann.</p>
+<p>Cicor ist ein global tätiger Anbieter elektronischer Gesamtlösungen. Die Gruppe beschäftigt weltweit rund 4500 Mitarbeitende. Zu den Kunden zählen Unternehmen aus den Bereichen Medizin, Industrie, Luft- und Raumfahrt sowie Verteidigung.</p>
+<p/><p>cg/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
