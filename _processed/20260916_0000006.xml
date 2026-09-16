@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T102105+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>1137</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:1137:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T102105+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T102105+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: VP Bank plant kein weiteres Kostensparprogramm</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04006002"/><Subject FormalName="04016039"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="9490" />
+
+</Property>
+
+<Property FormalName="Country" Value="LI" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147194850">
+<Property FormalName="FullName" Value="VP Bank AG" />
+
+<Property FormalName="ShortName" Value="VP Bank" />
+
+<Property FormalName="Telekurs" Value="588378" />
+
+<Property FormalName="CHNr" Value="FL-000.1.007.080-0" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="LI0315487269" />
+
+<Property FormalName="Ticker" Value="VPBN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="LI0010737596" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BNK"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="GEN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) -In den Jahren 2024 und 2025 hat die VP Bank sich strategisch neu ausgerichtet und dabei auch ein umfassendes Sparprogramm aufgelegt. Dies führte zu einer klaren Verbesserung des Kosten-Ertrags-Verhältnisses, auch wenn die Bank laut Finanzchef Roland Kläy hier noch nicht am Ziel ist, wie er am Mittwoch an der Anlegerkonferenz Investora sagte.</p>
+<p/><p>"Wir sind uns bewusst, dass wir bei der Cost-Income-Ratio noch nicht auf dem Niveau sind, was wir anstreben", so Kläy. Gerade im Vergleich zu den Wettbewerbern sei das Niveau noch nicht zufriedenstellend. Zum Halbjahr lag das Verhältnis bei 78,8 Prozent, was einer Verbesserung um 2,7 Prozentpunkte entspricht. Zudem konnte auch der höchste Halbjahresgewinn seit 2021 eingefahren werden.</p>
+<p/><p>Eine konkrete Zielgrösse für das Kosten-Ertrags-Verhältnis wollte Kläy jedoch nicht nennen. Es soll aber sicherlich "unter 80 Prozent liegen."</p>
+<p/><p>Ein weiteres Sparprogramm wie nach 2024 soll es aber nicht geben. Die Bank befinde sich auf einer "Reise" und das Verhältnis von Kosten und Einnahmen solle sich sukzessive verbessern. "Wir sind daher der Meinung, dass es kein weiteres Sparprogramm braucht", sagte Kläy weiter.</p>
+<p/><h3>Cybervorfall in Liechtenstein ohne direkte Auswirkungen</h3>
+<p/><p>Angesprochen auf den Diebstahl von Treuhanddaten in Liechtenstein beruhigte Kläy. Der Vorfall habe "keinen direkten Einfluss auf die Kundschaft gehabt." So sei es kein Problem der Bank selber gewesen und es seien auch keine Kundenbeziehungen betroffen.</p>
+<p/><p>Anfangs habe es bei den Kunden jedoch schon eine Verunsicherung gegeben. Daher seien die Berater der Bank proaktiv auf die Kunden zugegangen, um deren Fragen möglichst auszuräumen, was laut Kläy auch Erfolge gezeigt hat.</p>
+<p/><p>Die VP Bank wurde 1956 in Vaduz gegründet. Sie hat eine starke Position am Heimatmarkt Liechtenstein, ist aber als Vermögensverwalterin auch global tätig und hat Niederlassungen in der Schweiz, in Luxemburg, in Hongkong, in Singapur sowie auf den britischen Jungferninseln. Wichtiges Standbein ist das Geschäft als Depotbank und die Zusammenarbeit mit externen Vermögensverwaltern und Treuhändern. Per Mitte 2026 verwaltete die VP Bank Kundenvermögen in Höhe von 57,1 Milliarden Franken.</p>
+<p/><p>cg/rw</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
