@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T142902+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>11</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>2182</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:2182:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T142902+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T142902+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: DocMorris arbeitet auf einen posotiven Cashflo hin</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04002006"/><Subject FormalName="04016019"/><Subject FormalName="04008027"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8500" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197497">
+<Property FormalName="FullName" Value="DocMorris AG" />
+
+<Property FormalName="ShortName" Value="DocMorris" />
+
+<Property FormalName="Telekurs" Value="087210" />
+
+<Property FormalName="CHNr" Value="CH-440.3.000.262-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0042615283" />
+
+<Property FormalName="Ticker" Value="DOCM" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="DRG"/><Property FormalName="Subject" Value="FNG"/><Property FormalName="Subject" Value="BND"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Online-Apotheke DoMorris hat sich mit einer gerade abgeschlossenen Refinanzierung einer Wandelanleihe etwas Luft verschafft. Die beiden ausstehenden Wandler haben nun Fälligkeiten in den Jahren 2029 (200 Millionen Franken) und 2031 (96,8 Millionen).</p>
+<p/><p>Gleichzeitig arbeitet die Gesellschaft intensiv darauf hin, den Free Cash Flow in den positiven Bereich zu drehen. Im Laufe des Jahres 2027 will DocMorris dann einen positiven Cashflow erreichen, sagte Finanzchef Daniel Wüest am Mittwoch an der Anlegerkonferenz Investora.</p>
+<p/><p>2028 rechnet er mit einem "substantiell" positiven Wert. Nur aus dem Free Cash Flow kann DocMorris dannzumal seine Schulden aber nicht begleichen. "Die Hälfte wäre gut", sagte Wüst. Die besseren Cashflow-Werte würden das Unternehmen bis dahin aber in eine bessere Positin für Verhandlungen mit den Banken bringen.</p>
+<p/><p>DocMorris ist in den Bereichen Online-Apotheke, Telemedizin und professionelle Gesundheitsversorgung tätig und hat einen Fokus auf Deutschland und Südeuropa. Das Unternehmen bietet ein ein breites Spektrum an Produkten und Dienstleistungen, mit dem die Menschen ihre Gesundheit mit einem Klick managen können.</p>
+<p/><p>ra/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
