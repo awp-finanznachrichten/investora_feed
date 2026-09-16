@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T163419+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>18</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>2737</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:2737:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T163418+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T163418+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Bossard-Chef zuversichtlich für Europas Industrie</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04007007"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6301" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197481">
+<Property FormalName="FullName" Value="Bossard Holding AG" />
+
+<Property FormalName="ShortName" Value="Bossard" />
+
+<Property FormalName="Telekurs" Value="92354" />
+
+<Property FormalName="CHNr" Value="CH-170.3.005.115-2" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0238627142" />
+
+<Property FormalName="Ticker" Value="BOSN" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0004557879" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Industry" Value="TRD"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Chef des Schraubenhändlers Bossard zeichnet ein insgesamt zuversichtliches Bild für die europäische Industriekonjunktur. Gerade auch in Deutschland liefen die Geschäfte beim Spezialisten für Verbindungstechnik gut.</p>
+<p/><p>"Es läuft erstaunlich gut in Deutschland", sagte Firmenchef Daniel Bossard am Mittwoch an der Anlegerkonferenz Investora. Die Auftragsbücher von Bossard Deutschland seien "übervoll".</p>
+<p/><p>Von einer "Aufbruchstimmung" beim nördlichen Nachbarn mag Bossard aber nicht sprechen. "Ich denke eher an eine Art Aufholeffekt, nachdem zu viele Investitionen zu lange zurückgehalten wurden."</p>
+<p/><p>Was Bossard aber das wichtigste ist: Seine Firma zählt Kunden aus sehr vielen unterschiedlichen Industriesektoren - gerade auch aus den stark wachsenden. Dabei denkt er an Kunden aus den Bereichen wie Landwirtschaft, Schienenfahrzeuge oder die Halbleiterindustrie.</p>
+<p/><p>Sehr stark entwickle sich auch der Flugzeugbau. "Im Segment Aerospace werden wir dieses Jahr einen Umsatz von rund 100 Millionen Franken machen", erklärte Bossard. Zum Vergleich: 2025 setzte das Unternehmen gesamthaft 1,07 Milliarden Franken um.</p>
+<p/><p>Bossard bezeichnet sich als strategische Partnerin für industrielle Verbindungs- und Montagelösungen für OEM-Kundinnen weltweit. Das Unternehmen wurde 1831 in Zug gegründet und zählt heute rund 3300 Mitarbeitende in weltweit 33 Ländern.</p>
+<p/><p>ra/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
