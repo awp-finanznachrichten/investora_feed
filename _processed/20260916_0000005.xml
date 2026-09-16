@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260916T101432+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260916</DateId>
+			<NewsItemId>1114</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260916:1114:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260916T101432+0200</FirstCreated>
+		<ThisRevisionCreated>20260916T101432+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Meier Tobler startet neue Kundenplattform im Oktober</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004000"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8603" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196804">
+<Property FormalName="FullName" Value="Meier Tobler Group AG" />
+
+<Property FormalName="ShortName" Value="Meier Tobler" />
+
+<Property FormalName="Telekurs" Value="208596" />
+
+<Property FormalName="CHNr" Value="CH-020.3.928.919-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0208062627" />
+
+<Property FormalName="Ticker" Value="MTG" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="CON"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Klimatechnikspezialist Meier Tobler arbeitet mit Hochdruck an seiner neuen digitalen Kundenplattform. Diese soll im Oktober live gehen, verriet Firmenchef Roger Basler am Mittwoch an der Anlegerkonferenz Investora.</p>
+<p/><p>"Meier Tobler Connect" soll deutlich mehr sein als einfach eine App für Wärmepumpen. Connect soll die verschiedenen Kundenkontakte auf einer digitalen Plattform zusammenführen - insbesondere für die professionellen Kunden wie Heizungs-/Sanitärinstallateure, Planer und andere Fachpartner.</p>
+<p/><p>In einem ersten Schritt sollen Shop, Inhalte und Services auf einer integrierten Plattform zusammengeführt werden. Perspektivisch soll Connect zur zentralen digitalen Kundenplattform und damit zur wichtigsten Kommunikationsschnittstelle zwischen Meier Tobler und seinen Kunden werden.</p>
+<p/><p>Die Ablösung der bisherigen Kommunikationswege durch die digitale Plattform werde allerdings nicht von heute auf morgen erfolgen. "Das wird schon noch drei bis fünf Jahre dauern", sagte der CEO. Ein Grund dafür sei, dass viele Kunden den persönlichen Kontakt zu Meier Tobler schätzen würden.</p>
+<p/><p>Meier Tobler versorgt als Händler seine B2B-Partner mit allen Komponenten für Heizung, Lüftung, Klimatisieren und Sanitär. Das Unternehmen mit Sitz in Schwerzenbach ZH hat rund 1300 Mitarbeitende in der ganzen Schweiz.</p>
+<p/><p>ra/cf</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
