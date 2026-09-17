@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T131706+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>12</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>2121</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:2121:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T131706+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T131706+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: R&amp;S liebäugelt mit dem US-Markt</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8808" />
+
+</Property>
+
+<Property FormalName="Country" Value="US" />
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2014459831">
+<Property FormalName="FullName" Value="R&amp;S Group Holding AG" />
+
+<Property FormalName="ShortName" Value="R&amp;S" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-130.3.029.284-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1107979838" />
+
+<Property FormalName="Ticker" Value="RSGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="NEW"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Der Transformatorenhersteller R&amp;S beschäftigt sich ernsthaft mit einem Eintritt in den US-amerikanischen Markt. Ein Entscheid sei aber noch nicht gefallen, sagte Interims-CEO Matthias Weibel am Donnerstag. R&amp;S sei auch nicht auf Volumen aus dem Markt angewiesen.</p>
+<p/><p>"Der US-Markt ist spannend, keine Frage", meinte Weibel bei seinem Auftritt an der Investora in Zürich-Stettbach. Um aber den Markt überhaupt bearbeiten zu können, sei eine entsprechende Zertifizierung nötig. Diese laufe aktuell, und man rechne damit, sie 2027 erfolgreich abschliessen zu können. "Und dann schauen wir weiter", so Weibel.</p>
+<p/><p>Man sei am Thema dran, aber ein Markteintritt käme ohnehin nicht über Nacht, sagte Weibel weiter. Zuerst müsste eine Serviceinfrastruktur aufgebaut werden. Eine Produktionsstätte in den USA dagegen wäre gemäss Weibel nicht zwingend: Aufgrund der Situation mit Einfuhrzöllen auf Metalle wäre es aktuell sogar attraktiver, die Transformatoren aus Europa in die USA zu exportieren.</p>
+<p/><p>Mögliche Umsätze in den USA seien bei den Finanzzielen des Unternehmens nicht berücksichtigt. Ausserdem, so Weibel, sei der Markt, den R&amp;S in Europa noch ansprechen könne, riesig. Auf zusätzliches Marktpotenzial in den USA sei man daher nicht zwingend angewiesen.</p>
+<p/><p>Die R&amp;S Group stellt an weltweit neun Standorten Stromtransformatoren her - die jüngste Fabrik im polnischen Lodz nimmt ihren Betrieb demnächst auf und verdoppelt gemäss Weibel die Produktionskapazitäten für Leistungstransformer. Abnehmer von R&amp;S sind Energieversorgungsunternehmen, aber auch Industrieunternehmen und Betreiber von Rechenzentren und Batteriespeicheranlagen. Das Unternehmen kam im Dezember 2023 über den Zusammenschluss mit der Spac-Gesellschaft VT5 an die Schweizer Börse.</p>
+<p/><p>jr/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
