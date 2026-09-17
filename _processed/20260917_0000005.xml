@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T094945+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>5</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>1179</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:1179:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T094945+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T094945+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Aevis Victoria setzt auf weitere Profitabilitätssteigerung bei SMN</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04006005"/><Subject FormalName="04016015"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191956">
+<Property FormalName="FullName" Value="Aevis Victoria SA" />
+
+<Property FormalName="ShortName" Value="Aevis" />
+
+<Property FormalName="Telekurs" Value="38231" />
+
+<Property FormalName="CHNr" Value="CH-550.0.166.624-7" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0012488190" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0478634105" />
+
+<Property FormalName="Ticker" Value="AEVS" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="DIV"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Aevis-Victoria-Chef Fabrice Zumbrunnen sieht in der Gesundheitssparte noch viel Raum zur Steigerung der Profitabilität. Dies zeigte sich am Donnerstag an der Anlegerkonferenz Investora in Zürich, wo Zumbrunnen die aktuellen strategischen Schwerpunkte der im Spital- und Hotelgeschäft tätigen Beteiligungsgesellschaft aufzeigte</p>
+<p/><p>"Wir sind bereits jetzt best in class, es gibt aber immer noch viel Potenzial", sagte Zumbrunnen mit Blick auf die Marge der Aevis-Victoria-Tochter Swiss Medical Network (SMN). So liegt gemäss Präsentationsfolie bei rund einem Fünftel des Portfolios des SMN die EBITDAR-Marge noch unter 10 Prozent, bei einem weiteren Fünftel erst zwischen 10 und 20 Prozent. Zielgrösse ist eine Marge von über 20 Prozent.</p>
+<p/><p>Zur Steigerung der Profitabilität setzt SMN gemäss Zumbrunnen auch auf die integrierte Gesundheitsversorgung. Mit der Bildung von regionalen Gesundheitsorganisationen werden die medizinischen Aktivitäten einer Region gebündelt und besser koordiniert. Im Berner Jura, wo die SMN ab 2022 eine solche Organisation aufgebaut hat, können mittlerweile bereits knapp 16 Prozent der Kosten gespart werden. Langfristig liegt das Kostenersparnispotenzial laut Zumbrunnen bei 25 und 30 Prozent.</p>
+<p/><h3>Dividende wieder Thema</h3>
+<p/><p>Eine weiter steigende Profitabilität dürfte auch zur Möglichkeit einer Wiederaufnahme von Dividendenzahlungen beitragen. Weder Zumbrunnen noch Finanzchef Michel Keusch wollten oder konnten vor den anwesenden Investoren in Zürich-Stettbach aber einen Zeitpunkt nennen, wann Aevis Victoria wieder Gewinnausschüttungen vornehmen wird.</p>
+<p/><p>Als weitere strategische Schwerpunkte neben der Profitabilitätssteigerung nannte Zumbrunnen für die Hotelsparte die Konsolidierung der Position in touristischen Zentren wie Zermatt und Interlaken sowie die Suche nach Partnern und Investoren, die Anteile an den Tochterunternehmen von Aevis Victoria übernehmen. Dies sehen Zumbrunnen und Keusch auch als Möglichkeit, die Differenz zwischen Substanz- und Börsenwert von Aevis Victoria zu senken.</p>
+<p/><p>Aevis Victoria ist eine auf Spitäler und Luxushotellerie ausgerichtete Beteiligungsgesellschaft. Zu ihr gehören unter anderem die Privatklinikgruppe Swiss Medical Network und die Hotelkette MRH Switzerland, aber auch eine Minderheitsbeteiligung an Infracore, der Spitalimmobiliengesellschaft, die seit diesem Frühling neu an der Schweizer Börse kotiert ist.</p>
+<p/><p>jr/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
