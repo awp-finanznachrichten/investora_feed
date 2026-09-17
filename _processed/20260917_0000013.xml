@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T140510+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>13</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>2365</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:2365:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T140510+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T140510+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: TX Group sieht sehr gute Aussichten für digitale Marktplätze</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04010000"/><Subject FormalName="04016048"/><Subject FormalName="04016015"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="8021" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147193909">
+<Property FormalName="FullName" Value="TX Group AG" />
+
+<Property FormalName="ShortName" Value="TX Group" />
+
+<Property FormalName="Telekurs" Value="90538" />
+
+<Property FormalName="CHNr" Value="CH-020.3.925.711-5" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0011178255" />
+
+<Property FormalName="Ticker" Value="TXGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die TX Group ist und bleibt sehr optimistisch bezüglich der zukünftigen Aussichten der digitalen Marktplätze im eigenen Portfolio. "Wir sind Fan des Netzwerkeffektes", erklärte TX-Group-Finanzchef Wolf-Gerrit Benkendorff am Donnerstag an der Anlegerkonferenz Investora in Zürich. Zu den Vorteilen zählt er zudem die hohe Skalierbarkeit der Modelle.</p>
+<p/><p>Auch bezüglich der in jüngerer Vergangenheit aufgekommenen Ängste einer möglichen Disruption der Plattform-Geschäftsmodelle durch Künstliche Intelligenz gibt sich die TX gelassen: "Wir sehen KI stärker als Chance, denn als Risiko für das Geschäftsmodell der Marktplätze", machte Benkendorff klar. Er unterstrich dies unter anderem mit dem Beispiel der US Job-Plattform Indeed, welche dank KI vertieft in die Wertschöpfung von HR-Abteilungen eindringen und damit das eigene Geschäft weiter stärken und die Margen verbessern konnte. TX investiere zudem vornehmlich in Plattformen, welche in ihrem jeweiligen Geschäft die Nummer 1 seien.</p>
+<p/><p>Der Finanzchef bekräftigte vor den Investoren das Dividendenversprechen für 2026. So soll die Ausschüttung mindestens 4,00 Franken pro Aktie betragen. Eine stabile, ordentliche Dividende geniesse bei der Kapitalallokation höchste Priorität, so Benkendorff. Daneben werde Kapital zur Optimierung der bestehenden Geschäfte, für anorganische Investitionen in Geschäftsfelder mit Wachstumspotenzial sowie für den Rückkauf eigener Aktien eingesetzt. Eine geringere Bedeutung hätten Zukäufe zum Ausbau bestehender Geschäfte oder die Ausschüttung von ausserordentlichen Dividenden.</p>
+<p/><p>Die TX Group ist eine diversifizierte Mediengruppe. Sie ist einerseits Ankeraktionärin der auf Kleinanzeigenportale spezialisierten SMG Swiss Marketplace Group sowie der Jobportal-Betreiberin JobCloud. Anderseits gehören Medienmarken wie "Tages-Anzeiger" und "20 Minuten" sowie die Werbevermarkterin Goldbach zum Konzern.</p>
+<p/><p>gab/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
