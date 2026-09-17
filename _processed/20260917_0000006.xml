@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T105034+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>6</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>1413</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:1413:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T105031+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T105031+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Infracore sieht viel Potenzial für Sale-and-Leaseback</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04004003"/><Subject FormalName="04016005"/><Subject FormalName="04016048"/><Subject FormalName="04006005"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1700" />
+
+<Property FormalName="City" Value="8620" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2025769782">
+<Property FormalName="FullName" Value="Infracore SA" />
+
+<Property FormalName="ShortName" Value="Infracore" />
+
+<Property FormalName="Telekurs" Value="257407" />
+
+<Property FormalName="CHNr" Value="CH-660.1.064.997-4" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0019867685" />
+
+<Property FormalName="Ticker" Value="INFRAC" />
+
+</Property>
+
+</Property>
+
+<Property FormalName="Company" Value="-1999098719">
+<Property FormalName="FullName" Value="GZO AG" />
+
+<Property FormalName="ShortName" Value="GZO" />
+
+<Property FormalName="CHNr" Value="CH-020-8000006-0" />
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PRO"/><Property FormalName="Industry" Value="HTH"/><Property FormalName="Subject" Value="MNA"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Infracore will das Geschäft mit Sale-and-Leaseback-Transaktionen im Schweizer Gesundheitswesen weiter ausbauen. Die im Juli kommunizierte Transaktion mit dem See-Spital in Horgen soll nur der Startschuss gewesen sein.</p>
+<p/><p>Im Fokus stehen mittelgrosse Regionalspitäler und insbesondere Akutspitäler in attraktiven Einzugsgebieten mit begrenztem Wettbewerb, erklärte Firmenchef Eric Frey am Donnerstag an der Anlegerkonferenz Investora. "Wir haben die Finanzkraft für weitere Transaktionen", ergänzte Finanzchef Nicolas Schmid.</p>
+<p/><p>Zum Hintergrund: Viele Krankenhäuser haben nach Darstellung von Infracore einen hohen Investitions- und damit auch einen Refinanzierungsbedarf. Hier könne Infracore Hand zu einer Lösung bieten. "Wir sehen viele Opportunitäten", betonte Frey.</p>
+<p/><p>In der Schweiz gibt es derzeit 275 Krankenhäuser, davon gehören 259 nicht zu Infracore. Im Fokus des Immobilienkonzerns stehen 139 Krankenhäuser - und hier vor allem die Akutspitäler. Opportunistisch kämen auch ambulante Zentren und andere Gesundheitsimmobilien infrage. Bevorzugt würden bestehende Anlageobjekte sowie Liegenschaften im Bau, die von etablierten Gesundheitsdienstleistern betrieben werden.</p>
+<p/><p>Auf Granit beisst Infracore bisher allerdings beim Spital Wetzikon. Die GZO hat das von Infracore vorgelegte Szenario nicht als bevorzugte Sanierungslösung ausgewählt - diese wird mit einem anderen strategischen Partner angestrebt.</p>
+<p/><p>Just an diesem Morgen hatte Infracore in der Sache nachgelegt und hat ihr Immobilienangebot verlängert und zusätzlich eine Auffangfinanzierung für die GZO zugesichert. "Die Verlängerung um einen Monat geschah auf Wunsch des Sachwalters", sagte Frey lediglich dazu.</p>
+<p/><p>ra/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
