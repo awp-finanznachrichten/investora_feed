@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T145953+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>15</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>2626</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:2626:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T145953+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T145953+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: APG profitiert von guten Momentum der Aussenwerbung</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04010000"/><Subject FormalName="04016048"/><Subject FormalName="04016015"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="1207" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147191849">
+<Property FormalName="FullName" Value="APG SGA SA" />
+
+<Property FormalName="ShortName" Value="APG SGA" />
+
+<Property FormalName="Telekurs" Value="044612" />
+
+<Property FormalName="CHNr" Value="CH-660.0.738.999-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0019107025" />
+
+<Property FormalName="Ticker" Value="APGN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="PUB"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="DIV"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Die Aussenwerbung ist in der Schweiz über die vergangenen Jahre stetig gewachsen und hat Marktanteile gewonnen. Und dies soll auch künftig so bleiben, zeigte sich Markus Ehrle, CEO der Schweizer Marktführerin APG, am Donnerstag an der Anlegerkonferenz Investora überzeugt.</p>
+<p/><p>Zu den Vorteilen der Aussenwerbung gehören für Ehrle die hohen Reichweiten in aktiven, mobilen Zielgruppen, die maximale Flexibilität oder aber das unschlagbare Preis-/Leistungsverhältnis. Zudem biete Out-of-Home (OOH) den geringsten ökologischen Fussabdruck aller Werbemedien und schaffe lokal Wert.</p>
+<p/><h3>Weiter verbesserte Profitabilität erwartet</h3>
+<p/><p>APG-CFO Nico Benz-Müller zeigte sich vor den Investoren zuversichtlich, dass APG für 2026 eine wiederum höhere Profitabilität als im Vorjahr ausweisen könne. "Das Momentum ist auf unserer Seite", ergänzte CEO Ehrle mit Verweis auf das starke Ergebnis des ersten Halbjahres 2026.</p>
+<p/><p>Weiter gültig bleibt die aktionärsfreundliche Dividendenpolitik der Gruppe. Der Finanzchef bekräftigte denn auch das Dividendenversprechen für 2026. So sollen wiederum 100 Prozent des Konzerngewinns, jedoch mindestens 12 Franken pro Aktie ausbezahlt werden.</p>
+<p/><p>Die APG SGA ist das führende Out-of-Home Medienunternehmen der Schweiz. Mit über 140'000 buchbaren Werbeflächen deckt die Gruppe alle Bereiche der Aussenwerbung ab. Neben dem Schweizer Kerngeschäft ist die Gruppe auch in Serbien tätig. Seit April 2026 hält die NZZ als gewichtigste Aktionärin einen Anteil von 45 Prozent.</p>
+<p/><p>gab/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
