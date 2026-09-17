@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T121818+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>10</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>1815</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:1815:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T121818+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T121818+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Skan spielt Reshoring-Druck in den USA in die Hände</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4123" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147195814">
+<Property FormalName="FullName" Value="SKAN Group AG" />
+
+<Property FormalName="ShortName" Value="Skan" />
+
+<Property FormalName="Telekurs" Value="135503" />
+
+<Property FormalName="CHNr" Value="CH-035.3.030.001-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0013396012" />
+
+<Property FormalName="Ticker" Value="SKAN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="MDS"/><Property FormalName="Subject" Value="ERN"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Skan-Chef Jonas Greutert hat an der Investora nicht nur die Guidance und die Mittelfristziele des Biotech-Zulieferers bestätigt, sondern auch die derzeit positive Marktsituation in den USA erläutert. Zudem zeigte er die Chancen auf, die er für das neue Geschäftsfeld Pre-Approved Services sieht.</p>
+<p/><p>"Wir sind eine der Firmen, die von Präsident Trump profitiert", sagte Greutert am Donnerstag. Die Politik des US-Präsidenten führe tatsächlich zu einem Reshoring in den USA. Entsprechend investierten die Pharmaunternehmen und hätten Bedarf an Anlagen von Skan.</p>
+<p/><p>"Wir freuen uns, dass wir in der ersten Jahreshälfte die meisten der Projekte für grössere Abfüll- und Verpackungslinien auf dem US-Markt für uns gewinnen konnten", so Greutert. Dies hat sich auch in den unlängst publizierten Halbjahreszahlen niedergeschlagen: Der Auftragseingang</p>
+<p>fiel 16 Prozent höher als im Vorjahr aus, und der Auftragsbestand lag Ende Juni fast 30 Prozent über dem Stand von Ende 2025.</p>
+<p/><h3>Verkürzung der Zeit bis zur Markteinführung</h3>
+<p/><p>Im Geschäftsfeld Pre-Approved Services, das derzeit aufgebaut wird, will Skan Pharmaunternehmen behördlich genehmigte Abfülllinien für Medikamente zur Verfügung stellen. Das Angebot soll bei den Kunden die Zeitspanne bis zur Markteinführung eines Medikaments um bis zu zwölf Monate verkürzen, wie Greutert den an der Investora anwesenden Anlegern erklärte.</p>
+<p/><p>Derzeit laufen die Genehmigungsverfahren bei Swissmedic. Bei den Kunden gebe es grosses Interesse an dem Angebot. "Konkrete Aufträge bekommt man aber erst mit dem Stempel von Swissmedic", meinte Greutert. Seinen Angaben zufolge dürften die Genehmigungen noch dieses Jahr erfolgen und das neue Geschäftsfeld entsprechend 2027 erste Umsätze erzielen.</p>
+<p/><p>Wie hoch diese im kommenden Jahr ausfallen dürften, gab Greutert nicht bekannt. Im Endausbau in drei bis vier Jahren soll Pre-Approved Services aber einen Jahresumsatz von 50 Millionen Franken erreichen.</p>
+<p/><p>Skan ist ein Zulieferer für die Biotech- und Pharmaindustrie. Das Unternehmen stellt Geräte und Anlagen für Reinräume her, darunter Isolatoren, Sicherheitswerkbänke, Filterabzüge, Dekontaminationstechnik und Partikelzähler. Skan beschäftigt an neun Standorten knapp 1800 Mitarbeitende.</p>
+<p/><p>jr/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
