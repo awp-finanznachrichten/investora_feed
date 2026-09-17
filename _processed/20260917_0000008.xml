@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T112027+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>8</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>1564</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:1564:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T112027+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T112027+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Dätwyler sieht sich auf gutem Weg bei Mittelfristzielen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6460" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197595">
+<Property FormalName="FullName" Value="Dätwyler Holding AG" />
+
+<Property FormalName="ShortName" Value="Dätwyler" />
+
+<Property FormalName="Telekurs" Value="39180" />
+
+<Property FormalName="CHNr" Value="CH-120.3.000.408-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0030486770" />
+
+<Property FormalName="Ticker" Value="DAE" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1189217867" />
+
+<Property FormalName="Ticker" Value="DAE22" />
+
+</Property>
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH1325037021" />
+
+<Property FormalName="Ticker" Value="DAE24" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Beim Komponentenzulieferer Dätwyler ist man guten Mutes, die 2025 formulierten mittelfristigen Finanzziele auch zu erreichen. Dies sagte Konzernchef Volker Cwielong am Donnerstag an der Anlegerkonferenz Investora.</p>
+<p/><p>"Ich sehe keinen Grund, dass wir das nicht erreichen sollten", so Cwielong konkret. Operativ funktionierten die Massnahmen zur Ergebnisverbesserung, so Cwielong. Und die schrittweise graduelle Verbesserung der Zahlen zeige, dass die Mittelfristziele machbar seien.</p>
+<p/><p>Dätwyler strebt an, die EBIT-Marge über 17 Prozent zu heben. Diese Schwelle soll laut früheren Aussagen des Unternehmens spätestens im Jahr 2030 überschritten werden. Momentan liegt die Marge gemäss Halbjahresabschluss 2026 bei 13,0 Prozent.</p>
+<p/><p>Erreicht werden soll die höhere Profitabilität unter anderem durch eine Transformation im Produktemix, den Dätwyler verkauft. Namentlich will Dätwyler künftig hauptsächlich hochwertige und zusammen mit dem Kunden entwickelte Komponenten herstellen und vertreiben. Dieses sogenannte High Value Offering macht gemäss Aussage von Cwielong derzeit 38 Prozent der Umsätze aus. Und in der Projektpipeline von Dätwyler betrage ihr Anteil sogar bereits 70 Prozent.</p>
+<p/><p>Dätwyler ist ein Industriezulieferer für Dichtungen. Einerseits liefert das Unternehmen der Pharma- und Medizinalbranche systemkritische Komponenten für Spritzen und Behälter, anderseits entwickelt und produziert es aber auch Dichtungen für die Fahrzeug- und Lebensmittelindustrie. Weltweit beschäftigt Dätwyler rund 7800 Mitarbeitende an über zwei Dutzend Standorten auf vier Kontinenten.</p>
+<p/><p>jr/to</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
