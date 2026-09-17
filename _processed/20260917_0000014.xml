@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T142256+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>14</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>2442</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:2442:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T142256+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T142256+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Exposition von Feintool gegenüber VW nicht besonders gross</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04011009"/><Subject FormalName="04016030"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="3250" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147197488">
+<Property FormalName="FullName" Value="Feintool International Holding AG" />
+
+<Property FormalName="ShortName" Value="Feintool" />
+
+<Property FormalName="Telekurs" Value="89777" />
+
+<Property FormalName="CHNr" Value="CH-073.3.000.732-3" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0009320091" />
+
+<Property FormalName="Ticker" Value="FTON" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="PRD"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Durch den tiefgreifenden Umbau beim VW-Konzern entstehen beim Autoindustriezulieferer Feintool keine gravierenden Probleme. "Die Aussage, in der Zulieferindustrie sei Feintool besonders exponiert bei VW, ist nicht richtig", stellte Feintool-Finanzchef Marc Hundsdorf an der Anlegerkonferenz Investora klar.</p>
+<p/><p>Volkswagen sei nicht der wichtigste Kunde von Feintool. ZF, BMW und Daimler seien für Feintool viel bedeutender, erklärte Hundsdorf am Donnerstag weiter. Feintool beliefert aber auch Volkswagen und sei an Komponenten beteiligt, die in VW-Fahrzeugen verbaut würden.</p>
+<p/><p>Der so mit VW erzielte Umsatz hänge aber nicht von einzelnen Standorten des VW-Konzerns ab, da viele VW-Fahrzeuge technisch gesehen ja auf derselben Plattform aufbauten. Abhängig sei Feintool so gesehen einzig von der Stückzahl der von VW produzierten Fahrzeuge.</p>
+<p/><h3>Trend zu E-Autos erhöht Bedeutung anderer Branchen</h3>
+<p/><p>Wie hoch mittlerweile der Umsatzanteil sei, der mit Teilen für E-Fahrzeuge erzielt werde, konnte Hundsdorf nicht beziffern. Mit der Entwicklung weg vom Verbrennermotor hin zu E-Antrieben steige aber die Bedeutung anderer Branchen für Feintool, da in E-Autos weniger von Feintool produzierten Bauteile benötigt würden als bei Verbrennern.</p>
+<p/><p>Nichtsdestotrotz verwies Hundsdorf in seiner Präsentation auf ein neues 8-Gang-Automatikgetriebe von ZF, in dem wesentliche Teile von Feintool stammten und für dessen Lieferung ZF mit BMW eine langfristige Vereinbarung abgeschlossen habe. Die Vereinbarung reiche weit über 2030 hinaus. Für Feintool sehe er solche Aufträge als "Rückgrat der weiteren Entwicklung", so Hundsdorf.</p>
+<p/><p>Feintool ist spezialisiert auf die Verarbeitung von Stahlblechen und beliefert einerseits die Automobilindustrie, aber auch andere Branchen. Das Unternehmen mit rund 2800 Mitarbeiterinnen und Mitarbeiter verfügt über Standorte in Europa, Japan, China, Indien und den USA.</p>
+<p/><p>jr/jb</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
