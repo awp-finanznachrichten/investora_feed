@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T105353+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>7</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>1421</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:1421:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T105353+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T105353+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Investora 26: Bioversys sieht bis zu 800 Millionen Dollar Jahresumsatz mit BV100</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText></NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText></NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04002001"/><Subject FormalName="04016037"/><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="4057" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2076734224">
+<Property FormalName="FullName" Value="BioVersys AG" />
+
+<Property FormalName="ShortName" Value="Bioversys" />
+
+<Property FormalName="Telekurs" Value="000000" />
+
+<Property FormalName="CHNr" Value="CH-400.4.030.951-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0210362643" />
+
+<Property FormalName="Ticker" Value="BIOV" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="BTC"/><Property FormalName="Subject" Value="RAD"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Bioversys sieht für das Antibiotikum BV100 einen potenziellen Jahresumsatz von bis zu 800 Millionen US-Dollar jährlich. Dies sagte CEO Marc Gitzinger am Donnerstag an seiner Präsentation an der Anlegerkonferenz Investora in Zürich.</p>
+<p/><p>BV100 ist jener Wirkstoffkandidat des Biotech-Forschungsunternehmens, das sich in der Phase 3 befindet und derzeit an Patienten getestet wird. Das Antibiotikum soll bei lebensbedrohlichen Lungenentzündungen in Spitälern eingesetzt werden, die durch besonders widerstandsfähige, kaum noch behandelbare Bakterien verursacht werden.</p>
+<p/><p>Wie Gitzinger ausführte, rechne man gestützt auf die möglichen Preise und Volumen, die in den unterschiedlichen Märkten erzielt werden könnten, mit einem Peak Sale von 800 Millionen Dollar in Jahr. Der Peak Sale ist der Spitzenumsatz, den ein Medikament während seines gesamten Lebenszyklus voraussichtlich erzielen wird, bevor der Umsatz durch Patentablauf, Generika-Konkurrenz oder Wettbewerbsprodukte wieder zurückgeht.</p>
+<p/><p>Bis mit BV100 aber Umsatz erzielt wird, müssen positive Studienergebnisse eine Markteinführung ermöglichen. Gitzinger schätzt die Erfolgswahrscheinlichkeit, dass Bioversys mit BV100 Erfolg haben wird, auf deutlich über 75 Prozent.</p>
+<p/><p>Bioversys ist ein Biotech-Forschungsunternehmen, das einst aus einem Spin-off von der ETH Zürich entstanden ist. Das Unternehmen ist seit Anfang letztem Jahr an der Börse und arbeitet an Wirkstoffen zur Behandlung lebensbedrohlicher Infektionskrankheiten, namentlich Antibiotika.</p>
+<p/><p>jr/cg</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
