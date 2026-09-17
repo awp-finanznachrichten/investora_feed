@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T055512+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>1</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>249</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:249:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T055511+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T055511+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Wdh Investora 26: Mikron sieht erste Lichtblicke beim Auftragseingang</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Wiederholung vom Vorabend</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>R</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/><Subject FormalName="04011009"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="2502" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2147196792">
+<Property FormalName="FullName" Value="Mikron Holding AG" />
+
+<Property FormalName="ShortName" Value="Mikron" />
+
+<Property FormalName="Telekurs" Value="209971" />
+
+<Property FormalName="CHNr" Value="CH-073.3.001.631-6" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0003390066" />
+
+<Property FormalName="Ticker" Value="MIKN" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="ENG"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Zürich (awp) - Beim Werkzeugmaschinenhersteller Mikron blickt man trotz einer schwächeren ersten Halbjahrs 2026 zuversichtlich nach vorne. Das Unternehmen hatte für das erste Semester einen deutlichen Rückgang des Bestellungseingangs um fast 40 Prozent gemeldet.</p>
+<p/><p>Finanzchef Philippe Wirth ist überzeugt, dass die Abschwächung beim Auftragseingang im Automation-Geschäft temporär ist, wie er am Mittwoch an der Anlegerkonferenz Investora sagte. Die Entwicklung ändere nichts an der strategischen Ausrichtung des Unternehmens.</p>
+<p/><p>"Wir sehen Anzeichen, dass sich der Auftragseingang bereits im zweiten Semester wieder etwas erholt", sagte er. Bis Mikron aber wieder auf das angepeilte organische Umsatzwachstum von 5 Prozent komme, werde es aber bestimmt ein bis zwei Jahre dauern.</p>
+<p/><p>Mikron baut Maschinen und Produktionslösungen für die hochpräzise Serienfertigung. Mikron hilft also Industrieunternehmen dabei, komplexe Kleinteile schnell, präzise und automatisiert herzustellen.</p>
+<p/><p>ra/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
