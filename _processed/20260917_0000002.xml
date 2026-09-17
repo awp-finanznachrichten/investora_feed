@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<NewsML>
+<NewsEnvelope>
+	<DateAndTime>20260917T055512+0200</DateAndTime>
+    <NewsService FormalName="Investora"/>
+    <TransmissionID>2</TransmissionID>
+</NewsEnvelope>
+
+<NewsItem>
+	<Identification>
+		<NewsIdentifier>
+			<ProviderId>awp.ch</ProviderId>
+			<DateId>20260917</DateId>
+			<NewsItemId>250</NewsItemId>
+			<RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+			<PublicIdentifier>urn:newsml:awp.ch:20260917:250:1</PublicIdentifier>
+		</NewsIdentifier>
+	</Identification>
+
+	<NewsManagement>
+		<NewsItemType FormalName="News"/>
+		<FirstCreated>20260917T055511+0200</FirstCreated>
+		<ThisRevisionCreated>20260917T055511+0200</ThisRevisionCreated>
+		<Status FormalName="Usable"/>
+		<Urgency FormalName="4"/>
+	</NewsManagement>
+
+	<NewsComponent>
+
+		<NewsLines>
+			<HeadLine>Wdh Investora 26: Matador will auch durch "verborgene Reserven" wachsen</HeadLine>
+<NewsLine><NewsLineType FormalName="ByLine"/><NewsLineText>Wiederholung vom Vorabend</NewsLineText></NewsLine>
+
+<NewsLine><NewsLineType FormalName="StoryType"/><NewsLineText>R</NewsLineText></NewsLine>
+
+		</NewsLines>
+
+		<AdministrativeMetadata>
+			<Provider>
+				<Party FormalName="AWP"/>
+			</Provider>
+			<Source>
+				<Party FormalName="AWP"/>
+			</Source>
+		</AdministrativeMetadata>
+
+		<DescriptiveMetadata>
+			<Language FormalName="de"/>
+			<Genre FormalName="Current"/>
+			<SubjectCode><Subject FormalName="04016048"/></SubjectCode>
+			<Location>
+<!-- Country Structured -->
+<Property FormalName="Country" Value="CH">
+<Property FormalName="City" Value="6060" />
+
+</Property>
+
+
+      </Location>
+
+<!-- Company Relations -->
+<Property FormalName="Company" Value="-2036215828">
+<Property FormalName="FullName" Value="Matador Secondary Private Equity AG" />
+
+<Property FormalName="ShortName" Value="Matador" />
+
+<Property FormalName="Telekurs" Value="432528" />
+
+<Property FormalName="CHNr" Value="CH-140.4.002.770-8" />
+
+<Property FormalName="Instrument">
+<Property FormalName="ISIN" Value="CH0042797206" />
+
+<Property FormalName="Ticker" Value="SQL" />
+
+</Property>
+
+</Property>
+
+
+
+<!-- relations -->
+			<Property FormalName="Wire" Value="P"/><Property FormalName="Industry" Value="TST"/><Property FormalName="Subject" Value="ERN"/>
+
+		</DescriptiveMetadata>
+
+		<ContentItem>
+			<Format Scheme="IptcFormat" FormalName="NITF"/>
+			<Characteristics>
+				<Property FormalName="FormatVersion" Value="3.1"/>
+			</Characteristics>
+			<DataContent>
+				<nitf>
+					<body>
+                    <body.content><p>Sarnen (awp) - Die Beteiligungsgesellschaft Matador Secondary Private Equity hat hohe Ambitionen im Sekundär-Private-Equity-Geschäft. Neben dem "exponentiellen" Ausbau des Portfolios und einer erhöhten Aktienliquidität sollen der Gesellschaft auch "verborgene Reserven" in der Bilanz helfen, den Wachstumskurs zu halten.</p>
+<p/><p>So will das Management laut CFO Alexander Lachmann bis 2030 den NAV auf bis zu 110 Millionen Franken steigern. Zum Vergleich: für das Geschäftsjahr 2025 hatte Matador einen NAV von 66,5 Millionen Franken ausgewiesen.</p>
+<p/><p>Dieses Wachstumsprognose stütze sich auf die historischen Renditen des Private-Equity-Portfolios von Matador, welche zwischen 10 und 16 Prozent lägen, wie Lachmann am Mittwoch an der Anlegerkonferenz Investora in Zürich erklärte.</p>
+<p/><p>Die Aktien von Matador werden per 21. September in den SPI und den SPI Extra aufgenommen. Die Aktien der Gesellschaft werden seit Mitte Juni an der SIX Swiss Exchange gehandelt.</p>
+<p/><p>Die Matador Secondary Private Equity AG ermöglicht Anlegern laut eigenen Angaben den Zugang zu qualitativ hochwertigen Private Equity Investments.</p>
+<p/><p>sta/tp</p>
+</body.content>
+					</body>
+				</nitf>
+			</DataContent>
+		</ContentItem>
+
+	</NewsComponent>
+
+</NewsItem>
+
+
+</NewsML>
